@@ -40,12 +40,12 @@ Mattias Karlsson,SD,C,party,8,3,1.5382
 Mattias Karlsson,SD,M,party,8,5,1.5382
 Oscar Sjöstedt,SD,S,party,8,3,3.4904
 Jimmie Åkesson,SD,Märta Stenevi,person,7,5,0.0386
-Björn Söder,SD,L,party,6,2,1.3078
+Oscar Sjöstedt,SD,C,party,6,3,2.6178
 Jimmie Åkesson,SD,Ebba Busch,person,6,6,0.0331
 Jimmie Åkesson,SD,Maria Wetterstrand,person,6,2,0.0331
 Martin Kinnunen,SD,Magdalena Andersson,person,6,2,2.2413
 Mattias Karlsson,SD,Annie Lööf,person,6,3,1.1536
-Oscar Sjöstedt,SD,C,party,6,3,2.6178
+Björn Söder,SD,L,party,6,2,1.3078
 Björn Söder,SD,V,party,5,2,1.0898
 Henrik Vinge,SD,S,party,5,3,2.28
 Jimmie Åkesson,SD,Maud Olofsson,person,5,4,0.0276
@@ -61,12 +61,12 @@ Jimmie Åkesson,SD,Peter Eriksson,person,3,2,0.0165
 Martin Kinnunen,SD,Jimmie Åkesson,person,3,1,1.1207
 Mattias Karlsson,SD,Jonas Sjöstedt,person,3,1,0.5768
 Oscar Sjöstedt,SD,Muharrem Demirok,person,3,2,1.3089
-Björn Söder,SD,C,party,2,1,0.4359
-Björn Söder,SD,Fredrik Reinfeldt,person,2,2,0.4359
+Henrik Vinge,SD,C,party,2,2,0.912
+Oscar Sjöstedt,SD,V,party,2,1,0.8726
 Björn Söder,SD,Jimmie Åkesson,person,2,1,0.4359
 Björn Söder,SD,Jonas Sjöstedt,person,2,2,0.4359
 Björn Söder,SD,Åsa Romson,person,2,1,0.4359
-Henrik Vinge,SD,C,party,2,2,0.912
+Björn Söder,SD,C,party,2,1,0.4359
 Henrik Vinge,SD,Rickard Nordin,person,2,2,0.912
 Henrik Vinge,SD,V,party,2,1,0.912
 Jimmie Åkesson,SD,Elisabeth Thand Ringqvist,person,2,2,0.011
@@ -82,7 +82,7 @@ Mattias Karlsson,SD,L,party,2,1,0.3845
 Mattias Karlsson,SD,S,party,2,1,0.3845
 Mattias Karlsson,SD,V,party,2,2,0.3845
 Oscar Sjöstedt,SD,Nooshi Dadgostar,person,2,2,0.8726
-Oscar Sjöstedt,SD,V,party,2,1,0.8726
+Björn Söder,SD,Fredrik Reinfeldt,person,2,2,0.4359
 Henrik Vinge,SD,Daniel Helldén,person,1,1,0.456
 Henrik Vinge,SD,MP,party,1,1,0.456
 Jimmie Åkesson,SD,Ebba Busch Thor,person,1,1,0.0055

@@ -35,6 +35,8 @@ Enskilda steg:
 
 ## Tabeller
 
+Budgetdata hämtas separat med `python budget_ingest.py`. `stg_budget_frames` normaliserar belopp från FiU1 och `gold_budget_frames` ger belopp, avvikelse mot regeringen och budgetandel per aktör och utgiftsområde. Nyckeln är `session + actor + expenditure_area`, vilket gör att budgeten kan kopplas till debattens parti, riksmöte och ämnestaxonomi.
+
 | Lager | Modell | Innehåll |
 |---|---|---|
 | raw | speeches, chunks, topics, words, mentions, similarities | Källmetadata och beräknade NLP-egenskaper |

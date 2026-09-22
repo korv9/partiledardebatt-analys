@@ -1,0 +1,1105 @@
+﻿session,budget_year,expenditure_area,expenditure_area_name,actor,proposal_type,amount_msek,deviation_msek,budget_share_pct,document_id,source_url
+2016/17,2017,1,Rikets styrelse,C,party_motion,12923,-345,1.3756,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,2,Samhällsekonomi och finansförvaltning,C,party_motion,14757,-502,1.5708,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,3,"Skatt, tull och exekution",C,party_motion,10880,-106,1.1581,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,4,Rättsväsendet,C,party_motion,42982,515,4.5751,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,5,Internationell samverkan,C,party_motion,1901,-12,0.2023,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,6,Försvar och samhällets krisberedskap,C,party_motion,50249,-5,5.3486,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,7,Internationellt bistånd,C,party_motion,35490,500,3.7777,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,8,Migration,C,party_motion,32556,-24,3.4654,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,9,"Hälsovård, sjukvård och social omsorg",C,party_motion,63532,-4964,6.7625,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,C,party_motion,103097,-3955,10.9739,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,11,Ekonomisk trygghet vid ålderdom,C,party_motion,34355,-419,3.6568,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,12,Ekonomisk trygghet för familjer och barn,C,party_motion,87227,-2264,9.2847,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,13,Jämställdhet och nyanlända invandrares etablering,C,party_motion,32781,146,3.4893,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,14,Arbetsmarknad och arbetsliv,C,party_motion,68395,-7262,7.2802,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,15,Studiestöd,C,party_motion,21391,-1043,2.2769,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,16,Utbildning och universitetsforskning,C,party_motion,69657,-2724,7.4145,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,17,"Kultur, medier, trossamfund och fritid",C,party_motion,13919,-602,1.4816,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",C,party_motion,1231,-5534,0.131,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,19,Regional tillväxt,C,party_motion,3575,-20,0.3805,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,20,Allmän miljö- och naturvård,C,party_motion,6266,-2138,0.667,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,21,Energi,C,party_motion,3021,144,0.3216,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,22,Kommunikationer,C,party_motion,54232,-883,5.7726,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,23,"Areella näringar, landsbygd och livsmedel",C,party_motion,17259,70,1.8371,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,24,Näringsliv,C,party_motion,6045,-411,0.6434,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,25,Allmänna bidrag till kommuner,C,party_motion,105697,142,11.2507,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,26,Statsskuldsräntor m.m.,C,party_motion,16468,0,1.7529,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,27,Avgiften till Europeiska unionen,C,party_motion,29586,0,3.1492,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,1,Rikets styrelse,GOV,government,13268,0,1.3662,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,2,Samhällsekonomi och finansförvaltning,GOV,government,15259,0,1.5712,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,3,"Skatt, tull och exekution",GOV,government,10986,0,1.1312,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,4,Rättsväsendet,GOV,government,42467,0,4.3728,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,5,Internationell samverkan,GOV,government,1913,0,0.197,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,6,Försvar och samhällets krisberedskap,GOV,government,50254,0,5.1746,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,7,Internationellt bistånd,GOV,government,34990,0,3.6029,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,8,Migration,GOV,government,32580,0,3.3547,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,9,"Hälsovård, sjukvård och social omsorg",GOV,government,68496,0,7.053,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,GOV,government,107052,0,11.023,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,11,Ekonomisk trygghet vid ålderdom,GOV,government,34774,0,3.5806,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,12,Ekonomisk trygghet för familjer och barn,GOV,government,89491,0,9.2148,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,13,Jämställdhet och nyanlända invandrares etablering,GOV,government,32635,0,3.3604,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,14,Arbetsmarknad och arbetsliv,GOV,government,75657,0,7.7903,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,15,Studiestöd,GOV,government,22434,0,2.31,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,16,Utbildning och universitetsforskning,GOV,government,72381,0,7.453,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,17,"Kultur, medier, trossamfund och fritid",GOV,government,14521,0,1.4952,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",GOV,government,6765,0,0.6966,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,19,Regional tillväxt,GOV,government,3595,0,0.3702,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,20,Allmän miljö- och naturvård,GOV,government,8404,0,0.8653,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,21,Energi,GOV,government,2877,0,0.2962,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,22,Kommunikationer,GOV,government,55115,0,5.6751,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,23,"Areella näringar, landsbygd och livsmedel",GOV,government,17189,0,1.7699,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,24,Näringsliv,GOV,government,6456,0,0.6648,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,25,Allmänna bidrag till kommuner,GOV,government,105555,0,10.8689,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,26,Statsskuldsräntor m.m.,GOV,government,16468,0,1.6957,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,27,Avgiften till Europeiska unionen,GOV,government,29586,0,3.0464,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,1,Rikets styrelse,KD,party_motion,12864,-404,1.357,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,2,Samhällsekonomi och finansförvaltning,KD,party_motion,15089,-170,1.5917,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,3,"Skatt, tull och exekution",KD,party_motion,10939,-47,1.1539,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,4,Rättsväsendet,KD,party_motion,43076,609,4.544,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,5,Internationell samverkan,KD,party_motion,1913,0,0.2018,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,6,Försvar och samhällets krisberedskap,KD,party_motion,50294,40,5.3054,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,7,Internationellt bistånd,KD,party_motion,34990,0,3.691,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,8,Migration,KD,party_motion,34586,2006,3.6484,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,9,"Hälsovård, sjukvård och social omsorg",KD,party_motion,73075,4579,7.7085,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,KD,party_motion,104404,-2648,11.0133,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,11,Ekonomisk trygghet vid ålderdom,KD,party_motion,36072,1298,3.8052,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,12,Ekonomisk trygghet för familjer och barn,KD,party_motion,92459,2968,9.7533,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,13,Jämställdhet och nyanlända invandrares etablering,KD,party_motion,31333,-1302,3.3052,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,14,Arbetsmarknad och arbetsliv,KD,party_motion,69198,-6459,7.2995,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,15,Studiestöd,KD,party_motion,18954,-3480,1.9994,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,16,Utbildning och universitetsforskning,KD,party_motion,73025,644,7.7032,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,17,"Kultur, medier, trossamfund och fritid",KD,party_motion,13966,-555,1.4732,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",KD,party_motion,1161,-5604,0.1225,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,19,Regional tillväxt,KD,party_motion,3599,4,0.3797,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,20,Allmän miljö- och naturvård,KD,party_motion,5449,-2955,0.5748,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,21,Energi,KD,party_motion,2764,-113,0.2916,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,22,Kommunikationer,KD,party_motion,55467,352,5.8511,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,23,"Areella näringar, landsbygd och livsmedel",KD,party_motion,17241,52,1.8187,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,24,Näringsliv,KD,party_motion,5280,-1176,0.557,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,25,Allmänna bidrag till kommuner,KD,party_motion,94725,-10830,9.9923,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,26,Statsskuldsräntor m.m.,KD,party_motion,16468,0,1.7372,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,27,Avgiften till Europeiska unionen,KD,party_motion,29586,0,3.121,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,1,Rikets styrelse,L,party_motion,13242,-26,1.4026,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,2,Samhällsekonomi och finansförvaltning,L,party_motion,15096,-163,1.599,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,3,"Skatt, tull och exekution",L,party_motion,11005,19,1.1657,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,4,Rättsväsendet,L,party_motion,43279,812,4.5842,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,5,Internationell samverkan,L,party_motion,1913,0,0.2026,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,6,Försvar och samhällets krisberedskap,L,party_motion,52221,1967,5.5313,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,7,Internationellt bistånd,L,party_motion,35454,464,3.7553,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,8,Migration,L,party_motion,32111,-469,3.4012,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,9,"Hälsovård, sjukvård och social omsorg",L,party_motion,67974,-522,7.1999,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,L,party_motion,102095,-4957,10.814,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,11,Ekonomisk trygghet vid ålderdom,L,party_motion,35073,299,3.715,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,12,Ekonomisk trygghet för familjer och barn,L,party_motion,89496,5,9.4795,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,13,Jämställdhet och nyanlända invandrares etablering,L,party_motion,33229,594,3.5197,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,14,Arbetsmarknad och arbetsliv,L,party_motion,69105,-6552,7.3197,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,15,Studiestöd,L,party_motion,21153,-1281,2.2406,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,16,Utbildning och universitetsforskning,L,party_motion,71744,-637,7.5992,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,17,"Kultur, medier, trossamfund och fritid",L,party_motion,13923,-598,1.4747,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",L,party_motion,1172,-5593,0.1241,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,19,Regional tillväxt,L,party_motion,3507,-88,0.3715,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,20,Allmän miljö- och naturvård,L,party_motion,6103,-2301,0.6464,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,21,Energi,L,party_motion,2571,-306,0.2723,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,22,Kommunikationer,L,party_motion,54463,-652,5.7688,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,23,"Areella näringar, landsbygd och livsmedel",L,party_motion,16978,-211,1.7983,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,24,Näringsliv,L,party_motion,5514,-942,0.5841,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,25,Allmänna bidrag till kommuner,L,party_motion,99621,-5934,10.552,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,26,Statsskuldsräntor m.m.,L,party_motion,16468,0,1.7443,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,27,Avgiften till Europeiska unionen,L,party_motion,29586,0,3.1338,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,1,Rikets styrelse,M,party_motion,13070,-198,1.3736,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,2,Samhällsekonomi och finansförvaltning,M,party_motion,15089,-170,1.5858,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,3,"Skatt, tull och exekution",M,party_motion,10974,-12,1.1534,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,4,Rättsväsendet,M,party_motion,43523,1056,4.5742,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,5,Internationell samverkan,M,party_motion,1913,0,0.2011,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,6,Försvar och samhällets krisberedskap,M,party_motion,50254,0,5.2817,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,7,Internationellt bistånd,M,party_motion,33592,-1398,3.5305,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,8,Migration,M,party_motion,32072,-508,3.3707,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,9,"Hälsovård, sjukvård och social omsorg",M,party_motion,68060,-436,7.1531,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,M,party_motion,102369,-4683,10.7589,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,11,Ekonomisk trygghet vid ålderdom,M,party_motion,34972,198,3.6755,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,12,Ekonomisk trygghet för familjer och barn,M,party_motion,88784,-707,9.3311,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,13,Jämställdhet och nyanlända invandrares etablering,M,party_motion,32546,-89,3.4206,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,14,Arbetsmarknad och arbetsliv,M,party_motion,72028,-3629,7.5701,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,15,Studiestöd,M,party_motion,22583,149,2.3735,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,16,Utbildning och universitetsforskning,M,party_motion,72392,11,7.6083,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,17,"Kultur, medier, trossamfund och fritid",M,party_motion,14042,-479,1.4758,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",M,party_motion,1229,-5536,0.1292,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,19,Regional tillväxt,M,party_motion,3595,0,0.3778,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,20,Allmän miljö- och naturvård,M,party_motion,6288,-2116,0.6609,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,21,Energi,M,party_motion,2456,-421,0.2581,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,22,Kommunikationer,M,party_motion,54695,-420,5.7484,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,23,"Areella näringar, landsbygd och livsmedel",M,party_motion,16887,-302,1.7748,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,24,Näringsliv,M,party_motion,6055,-401,0.6364,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,25,Allmänna bidrag till kommuner,M,party_motion,105959,404,11.1362,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,26,Statsskuldsräntor m.m.,M,party_motion,16468,0,1.7308,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,27,Avgiften till Europeiska unionen,M,party_motion,29586,0,3.1095,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,1,Rikets styrelse,SD,party_motion,12658,-610,1.3571,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,2,Samhällsekonomi och finansförvaltning,SD,party_motion,15451,192,1.6566,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,3,"Skatt, tull och exekution",SD,party_motion,11361,375,1.2181,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,4,Rättsväsendet,SD,party_motion,45134,2667,4.8391,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,5,Internationell samverkan,SD,party_motion,2754,841,0.2953,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,6,Försvar och samhällets krisberedskap,SD,party_motion,52346,2092,5.6123,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,7,Internationellt bistånd,SD,party_motion,36040,1050,3.864,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,8,Migration,SD,party_motion,20060,-12520,2.1507,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,9,"Hälsovård, sjukvård och social omsorg",SD,party_motion,71240,2744,7.638,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,SD,party_motion,111462,4410,11.9505,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,11,Ekonomisk trygghet vid ålderdom,SD,party_motion,39941,5167,4.2823,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,12,Ekonomisk trygghet för familjer och barn,SD,party_motion,88984,-507,9.5405,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,13,Jämställdhet och nyanlända invandrares etablering,SD,party_motion,15887,-16748,1.7033,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,14,Arbetsmarknad och arbetsliv,SD,party_motion,78129,2472,8.3766,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,15,Studiestöd,SD,party_motion,22834,400,2.4482,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,16,Utbildning och universitetsforskning,SD,party_motion,71034,-1347,7.6159,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,17,"Kultur, medier, trossamfund och fritid",SD,party_motion,14625,104,1.568,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",SD,party_motion,2390,-4375,0.2562,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,19,Regional tillväxt,SD,party_motion,3595,0,0.3854,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,20,Allmän miljö- och naturvård,SD,party_motion,6122,-2282,0.6564,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,21,Energi,SD,party_motion,2522,-355,0.2704,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,22,Kommunikationer,SD,party_motion,57273,2158,6.1406,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,23,"Areella näringar, landsbygd och livsmedel",SD,party_motion,19197,2008,2.0582,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,24,Näringsliv,SD,party_motion,6015,-441,0.6449,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,25,Allmänna bidrag till kommuner,SD,party_motion,79593,-25962,8.5336,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,26,Statsskuldsräntor m.m.,SD,party_motion,16468,0,1.7656,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2016/17,2017,27,Avgiften till Europeiska unionen,SD,party_motion,29586,0,3.1721,H401FiU1,https://data.riksdagen.se/dokument/H401FiU1.html
+2017/18,2018,1,Rikets styrelse,C,party_motion,14108,-423,1.932,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,2,Samhällsekonomi och finansförvaltning,C,party_motion,16274,-12,2.2286,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,3,"Skatt, tull och exekution",C,party_motion,11257,-142,1.5416,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,4,Rättsväsendet,C,party_motion,46427,650,6.3578,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,5,Internationell samverkan,C,party_motion,2020,11,0.2766,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,6,Försvar och samhällets krisberedskap,C,party_motion,53836,0,7.3724,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,7,Internationellt bistånd,C,party_motion,42985,0,5.8865,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,8,Migration,C,party_motion,15703,-45,2.1504,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,9,"Hälsovård, sjukvård och social omsorg",C,party_motion,78244,548,10.7149,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,10,Ekonomisk trygghet vid sjukdom och,C,party_motion,103389,774,14.1584,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,11,Ekonomisk trygghet vid ålderdom,C,party_motion,34781,145,4.763,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,12,Ekonomisk trygghet för familjer och barn,C,party_motion,93283,-1303,12.7744,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,13,Jämställdhet och nyanlända invandrares etablering,C,party_motion,25195,-405,3.4503,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,14,Arbetsmarknad och arbetsliv,C,party_motion,62089,-11995,8.5026,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,15,Studiestöd,C,party_motion,22831,-1522,3.1265,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,16,Utbildning och universitetsforskning,C,party_motion,74235,-3731,10.1659,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,17,"Kultur, medier, trossamfund och fritid",C,party_motion,14978,-902,2.0511,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,18,"Samhällsplanering, bostadsförsörjning och byggande samt",C,party_motion,2895,-4057,0.3964,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,19,Regional tillväxt,C,party_motion,3922,0,0.5371,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,20,Allmän miljö- och naturvård,C,party_motion,8343,-2430,1.1425,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,21,Energi,C,party_motion,3438,-150,0.4708,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,1,Rikets styrelse,GOV,government,14531,0,1.9241,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,2,Samhällsekonomi och finansförvaltning,GOV,government,16286,0,2.1565,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,3,"Skatt, tull och exekution",GOV,government,11399,0,1.5094,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,4,Rättsväsendet,GOV,government,45777,0,6.0614,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,5,Internationell samverkan,GOV,government,2009,0,0.266,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,6,Försvar och samhällets krisberedskap,GOV,government,53836,0,7.1285,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,7,Internationellt bistånd,GOV,government,42985,0,5.6917,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,8,Migration,GOV,government,15748,0,2.0852,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,9,"Hälsovård, sjukvård och social omsorg",GOV,government,77696,0,10.2878,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,10,Ekonomisk trygghet vid sjukdom och,GOV,government,102615,0,13.5874,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,11,Ekonomisk trygghet vid ålderdom,GOV,government,34636,0,4.5862,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,12,Ekonomisk trygghet för familjer och barn,GOV,government,94586,0,12.5243,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,13,Jämställdhet och nyanlända invandrares etablering,GOV,government,25600,0,3.3897,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,14,Arbetsmarknad och arbetsliv,GOV,government,74084,0,9.8096,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,15,Studiestöd,GOV,government,24353,0,3.2246,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,16,Utbildning och universitetsforskning,GOV,government,77966,0,10.3236,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,17,"Kultur, medier, trossamfund och fritid",GOV,government,15880,0,2.1027,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,18,"Samhällsplanering, bostadsförsörjning och byggande samt",GOV,government,6952,0,0.9205,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,19,Regional tillväxt,GOV,government,3922,0,0.5193,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,20,Allmän miljö- och naturvård,GOV,government,10773,0,1.4265,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,21,Energi,GOV,government,3588,0,0.4751,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,1,Rikets styrelse,KD,party_motion,14280,-251,1.9396,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,2,Samhällsekonomi och finansförvaltning,KD,party_motion,16129,-157,2.1907,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,3,"Skatt, tull och exekution",KD,party_motion,11348,-51,1.5413,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,4,Rättsväsendet,KD,party_motion,48601,2824,6.6012,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,5,Internationell samverkan,KD,party_motion,1997,-12,0.2712,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,6,Försvar och samhällets krisberedskap,KD,party_motion,55023,1187,7.4735,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,7,Internationellt bistånd,KD,party_motion,42994,9,5.8396,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,8,Migration,KD,party_motion,17261,1513,2.3445,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,9,"Hälsovård, sjukvård och social omsorg",KD,party_motion,78811,1115,10.7045,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,10,Ekonomisk trygghet vid sjukdom och,KD,party_motion,96401,-6214,13.0936,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,11,Ekonomisk trygghet vid ålderdom,KD,party_motion,34279,-357,4.6559,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,12,Ekonomisk trygghet för familjer och barn,KD,party_motion,97343,2757,13.2215,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,13,Jämställdhet och nyanlända invandrares etablering,KD,party_motion,24668,-932,3.3505,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,14,Arbetsmarknad och arbetsliv,KD,party_motion,65942,-8142,8.9565,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,15,Studiestöd,KD,party_motion,20541,-3812,2.79,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,16,Utbildning och universitetsforskning,KD,party_motion,79338,1372,10.776,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,17,"Kultur, medier, trossamfund och fritid",KD,party_motion,15057,-823,2.0451,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,18,"Samhällsplanering, bostadsförsörjning och byggande samt",KD,party_motion,2815,-4137,0.3823,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,19,Regional tillväxt,KD,party_motion,3309,-613,0.4494,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,20,Allmän miljö- och naturvård,KD,party_motion,7203,-3570,0.9783,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,21,Energi,KD,party_motion,2905,-683,0.3946,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,1,Rikets styrelse,L,party_motion,14431,-100,2.0215,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,2,Samhällsekonomi och finansförvaltning,L,party_motion,15957,-329,2.2352,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,3,"Skatt, tull och exekution",L,party_motion,11408,9,1.598,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,4,Rättsväsendet,L,party_motion,46715,938,6.5437,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,5,Internationell samverkan,L,party_motion,1945,-64,0.2725,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,6,Försvar och samhällets krisberedskap,L,party_motion,53833,-3,7.5408,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,7,Internationellt bistånd,L,party_motion,42985,0,6.0212,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,8,Migration,L,party_motion,15399,-349,2.1571,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,9,"Hälsovård, sjukvård och social omsorg",L,party_motion,69871,-7825,9.7873,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,10,Ekonomisk trygghet vid sjukdom och,L,party_motion,93820,-8795,13.1421,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,11,Ekonomisk trygghet vid ålderdom,L,party_motion,33851,-785,4.7418,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,12,Ekonomisk trygghet för familjer och barn,L,party_motion,95059,473,13.3156,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,13,Jämställdhet och nyanlända invandrares etablering,L,party_motion,26899,1299,3.7679,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,14,Arbetsmarknad och arbetsliv,L,party_motion,62107,-11977,8.6998,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,15,Studiestöd,L,party_motion,20434,-3919,2.8623,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,16,Utbildning och universitetsforskning,L,party_motion,77323,-643,10.8312,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,17,"Kultur, medier, trossamfund och fritid",L,party_motion,15213,-667,2.131,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,18,"Samhällsplanering, bostadsförsörjning och byggande samt",L,party_motion,2873,-4079,0.4024,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,19,Regional tillväxt,L,party_motion,3415,-507,0.4784,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,20,Allmän miljö- och naturvård,L,party_motion,7665,-3108,1.0737,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,21,Energi,L,party_motion,2688,-900,0.3765,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,1,Rikets styrelse,M,party_motion,14360,-171,2.0026,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,2,Samhällsekonomi och finansförvaltning,M,party_motion,16185,-101,2.2571,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,3,"Skatt, tull och exekution",M,party_motion,11444,45,1.5959,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,4,Rättsväsendet,M,party_motion,46138,361,6.4342,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,5,Internationell samverkan,M,party_motion,2009,0,0.2802,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,6,Försvar och samhällets krisberedskap,M,party_motion,53836,0,7.5077,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,7,Internationellt bistånd,M,party_motion,39562,-3423,5.5171,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,8,Migration,M,party_motion,15172,-576,2.1158,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,9,"Hälsovård, sjukvård och social omsorg",M,party_motion,76239,-1457,10.6319,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,10,Ekonomisk trygghet vid sjukdom och,M,party_motion,93213,-9402,12.9991,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,11,Ekonomisk trygghet vid ålderdom,M,party_motion,34236,-400,4.7744,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,12,Ekonomisk trygghet för familjer och barn,M,party_motion,94302,-284,13.1509,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,13,Jämställdhet och nyanlända invandrares etablering,M,party_motion,25245,-355,3.5206,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,14,Arbetsmarknad och arbetsliv,M,party_motion,65571,-8513,9.1442,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,15,Studiestöd,M,party_motion,22916,-1437,3.1958,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,16,Utbildning och universitetsforskning,M,party_motion,75373,-2593,10.5112,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,17,"Kultur, medier, trossamfund och fritid",M,party_motion,14658,-1222,2.0441,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,18,"Samhällsplanering, bostadsförsörjning och byggande samt",M,party_motion,2897,-4055,0.404,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,19,Regional tillväxt,M,party_motion,3880,-42,0.5411,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,20,Allmän miljö- och naturvård,M,party_motion,7486,-3287,1.044,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,21,Energi,M,party_motion,2353,-1235,0.3281,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,1,Rikets styrelse,SD,party_motion,13895,-636,2.0118,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,3,"Skatt, tull och exekution",SD,party_motion,11753,354,1.7016,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,4,Rättsväsendet,SD,party_motion,45779,2,6.628,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,5,Internationell samverkan,SD,party_motion,2010,1,0.291,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,6,Försvar och samhällets krisberedskap,SD,party_motion,53840,4,7.7951,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,7,Internationellt bistånd,SD,party_motion,43235,250,6.2597,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,8,Migration,SD,party_motion,9951,-5797,1.4407,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,9,"Hälsovård, sjukvård och social omsorg",SD,party_motion,77699,3,11.2495,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,10,Ekonomisk trygghet vid sjukdom och,SD,party_motion,102617,2,14.8572,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,11,Ekonomisk trygghet vid ålderdom,SD,party_motion,34640,4,5.0153,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,12,Ekonomisk trygghet för familjer och barn,SD,party_motion,91365,-3221,13.2281,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,13,Jämställdhet och nyanlända invandrares etablering,SD,party_motion,10151,-15449,1.4697,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,14,Arbetsmarknad och arbetsliv,SD,party_motion,63575,-10509,9.2046,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,15,Studiestöd,SD,party_motion,23778,-575,3.4426,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,16,Utbildning och universitetsforskning,SD,party_motion,78434,468,11.3559,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,17,"Kultur, medier, trossamfund och fritid",SD,party_motion,15350,-530,2.2224,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,18,"Samhällsplanering, bostadsförsörjning och byggande samt",SD,party_motion,2602,-4350,0.3767,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,20,Allmän miljö- och naturvård,SD,party_motion,7333,-3440,1.0617,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2017/18,2018,21,Energi,SD,party_motion,2683,-905,0.3885,H501FiU1,https://data.riksdagen.se/dokument/H501FiU1.html
+2018/19,2019,1,Rikets styrelse,C,party_motion,14912,10,1.7749,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,2,Samhällsekonomi och finansförvaltning,C,party_motion,17191,-124,2.0461,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,3,"Skatt, tull och exekution",C,party_motion,11413,10,1.3584,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,4,Rättsväsendet,C,party_motion,47112,769,5.6074,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,5,Internationell samverkan,C,party_motion,2382,20,0.2835,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,6,Försvar och samhällets krisberedskap,C,party_motion,56692,501,6.7477,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,7,Internationellt bistånd,C,party_motion,44945,0,5.3495,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,8,Migration,C,party_motion,12303,-1270,1.4643,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,9,"Hälsovård, sjukvård och social omsorg",C,party_motion,78422,300,9.3341,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,C,party_motion,97073,-584,11.554,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,11,Ekonomisk trygghet vid ålderdom,C,party_motion,34050,-400,4.0528,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,12,Ekonomisk trygghet för familjer och barn,C,party_motion,97339,7,11.5857,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,13,Jämställdhet och nyanlända invandrares etablering,C,party_motion,18486,0,2.2003,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,14,Arbetsmarknad och arbetsliv,C,party_motion,74802,-2013,8.9032,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,15,Studiestöd,C,party_motion,24603,-420,2.9283,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,16,Utbildning och universitetsforskning,C,party_motion,80667,-680,9.6013,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,17,"Kultur, medier, trossamfund och fritid",C,party_motion,15995,0,1.9038,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",C,party_motion,3597,-3375,0.4281,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,19,Regional tillväxt,C,party_motion,3497,0,0.4162,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,20,Allmän miljö- och naturvård,C,party_motion,12536,700,1.4921,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,21,Energi,C,party_motion,3595,0,0.4279,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,22,Kommunikationer,C,party_motion,59457,0,7.0768,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,23,"Areella näringar, landsbygd och livsmedel",C,party_motion,21832,2045,2.5985,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,24,Näringsliv,C,party_motion,7267,0,0.8649,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,1,Rikets styrelse,GOV,government,14902,0,1.7642,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,2,Samhällsekonomi och finansförvaltning,GOV,government,17315,0,2.0499,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,3,"Skatt, tull och exekution",GOV,government,11403,0,1.35,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,4,Rättsväsendet,GOV,government,46343,0,5.4865,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,5,Internationell samverkan,GOV,government,2362,0,0.2796,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,6,Försvar och samhällets krisberedskap,GOV,government,56191,0,6.6524,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,7,Internationellt bistånd,GOV,government,44945,0,5.321,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,8,Migration,GOV,government,13573,0,1.6069,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,9,"Hälsovård, sjukvård och social omsorg",GOV,government,78122,0,9.2488,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,GOV,government,97657,0,11.5615,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,11,Ekonomisk trygghet vid ålderdom,GOV,government,34450,0,4.0785,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,12,Ekonomisk trygghet för familjer och barn,GOV,government,97332,0,11.5231,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,13,Jämställdhet och nyanlända invandrares etablering,GOV,government,18486,0,2.1885,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,14,Arbetsmarknad och arbetsliv,GOV,government,76815,0,9.0941,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,15,Studiestöd,GOV,government,25023,0,2.9625,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,16,Utbildning och universitetsforskning,GOV,government,81347,0,9.6306,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,17,"Kultur, medier, trossamfund och fritid",GOV,government,15995,0,1.8936,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",GOV,government,6972,0,0.8254,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,19,Regional tillväxt,GOV,government,3497,0,0.414,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,20,Allmän miljö- och naturvård,GOV,government,11836,0,1.4013,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,21,Energi,GOV,government,3595,0,0.4256,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,22,Kommunikationer,GOV,government,59457,0,7.0391,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,23,"Areella näringar, landsbygd och livsmedel",GOV,government,19787,0,2.3426,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,24,Näringsliv,GOV,government,7267,0,0.8603,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,1,Rikets styrelse,KD,party_motion,14831,-71,1.7531,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,2,Samhällsekonomi och finansförvaltning,KD,party_motion,17182,-133,2.0309,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,3,"Skatt, tull och exekution",KD,party_motion,11563,160,1.3668,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,4,Rättsväsendet,KD,party_motion,48443,2100,5.726,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,5,Internationell samverkan,KD,party_motion,2362,0,0.2792,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,6,Försvar och samhällets krisberedskap,KD,party_motion,59675,3484,7.0537,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,7,Internationellt bistånd,KD,party_motion,44954,9,5.3136,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,8,Migration,KD,party_motion,12643,-930,1.4944,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,9,"Hälsovård, sjukvård och social omsorg",KD,party_motion,87998,9876,10.4015,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,KD,party_motion,96863,-794,11.4494,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,11,Ekonomisk trygghet vid ålderdom,KD,party_motion,36591,2141,4.3251,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,12,Ekonomisk trygghet för familjer och barn,KD,party_motion,100210,2878,11.845,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,13,Jämställdhet och nyanlända invandrares etablering,KD,party_motion,17309,-1177,2.046,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,14,Arbetsmarknad och arbetsliv,KD,party_motion,69184,-7631,8.1777,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,15,Studiestöd,KD,party_motion,21606,-3417,2.5539,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,16,Utbildning och universitetsforskning,KD,party_motion,83090,1743,9.8214,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,17,"Kultur, medier, trossamfund och fritid",KD,party_motion,15123,-872,1.7876,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",KD,party_motion,4584,-2388,0.5418,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,19,Regional tillväxt,KD,party_motion,3497,0,0.4134,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,20,Allmän miljö- och naturvård,KD,party_motion,8906,-2930,1.0527,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,21,Energi,KD,party_motion,3405,-190,0.4025,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,22,Kommunikationer,KD,party_motion,59298,-159,7.0091,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,23,"Areella näringar, landsbygd och livsmedel",KD,party_motion,20220,433,2.39,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,24,Näringsliv,KD,party_motion,6474,-793,0.7652,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,1,Rikets styrelse,L,party_motion,14780,-122,1.7799,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,2,Samhällsekonomi och finansförvaltning,L,party_motion,17141,-174,2.0642,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,3,"Skatt, tull och exekution",L,party_motion,11525,122,1.3879,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,4,Rättsväsendet,L,party_motion,48243,1900,5.8097,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,5,Internationell samverkan,L,party_motion,2317,-45,0.279,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,6,Försvar och samhällets krisberedskap,L,party_motion,57296,1105,6.8999,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,7,Internationellt bistånd,L,party_motion,44945,0,5.4125,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,8,Migration,L,party_motion,13460,-113,1.6209,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,9,"Hälsovård, sjukvård och social omsorg",L,party_motion,82111,3989,9.8883,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,L,party_motion,91738,-5919,11.0476,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,11,Ekonomisk trygghet vid ålderdom,L,party_motion,34349,-101,4.1365,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,12,Ekonomisk trygghet för familjer och barn,L,party_motion,97363,31,11.725,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,13,Jämställdhet och nyanlända invandrares etablering,L,party_motion,18229,-257,2.1952,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,14,Arbetsmarknad och arbetsliv,L,party_motion,67613,-9202,8.1423,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,15,Studiestöd,L,party_motion,24247,-776,2.92,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,16,Utbildning och universitetsforskning,L,party_motion,84195,2848,10.1392,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,17,"Kultur, medier, trossamfund och fritid",L,party_motion,16382,387,1.9728,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",L,party_motion,3626,-3346,0.4367,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,19,Regional tillväxt,L,party_motion,3422,-75,0.4121,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,20,Allmän miljö- och naturvård,L,party_motion,9803,-2033,1.1805,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,21,Energi,L,party_motion,2616,-979,0.315,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,22,Kommunikationer,L,party_motion,58698,-759,7.0688,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,23,"Areella näringar, landsbygd och livsmedel",L,party_motion,19364,-423,2.3319,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,24,Näringsliv,L,party_motion,6924,-343,0.8338,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,1,Rikets styrelse,M,party_motion,14745,-157,1.7527,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,2,Samhällsekonomi och finansförvaltning,M,party_motion,17319,4,2.0586,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,3,"Skatt, tull och exekution",M,party_motion,11553,150,1.3732,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,4,Rättsväsendet,M,party_motion,48587,2244,5.7752,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,5,Internationell samverkan,M,party_motion,2362,0,0.2808,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,6,Försvar och samhällets krisberedskap,M,party_motion,60090,3899,7.1425,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,7,Internationellt bistånd,M,party_motion,43745,-1200,5.1997,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,8,Migration,M,party_motion,11767,-1806,1.3987,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,9,"Hälsovård, sjukvård och social omsorg",M,party_motion,79072,950,9.3988,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,M,party_motion,97657,0,11.6079,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,11,Ekonomisk trygghet vid ålderdom,M,party_motion,34450,0,4.0949,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,12,Ekonomisk trygghet för familjer och barn,M,party_motion,97332,0,11.5693,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,13,Jämställdhet och nyanlända invandrares etablering,M,party_motion,17967,-519,2.1356,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,14,Arbetsmarknad och arbetsliv,M,party_motion,73915,-2900,8.7858,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,15,Studiestöd,M,party_motion,24669,-354,2.9323,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,16,Utbildning och universitetsforskning,M,party_motion,81059,-288,9.635,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,17,"Kultur, medier, trossamfund och fritid",M,party_motion,15767,-228,1.8741,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",M,party_motion,4727,-2245,0.5619,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,19,Regional tillväxt,M,party_motion,3497,0,0.4157,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,20,Allmän miljö- och naturvård,M,party_motion,10072,-1764,1.1972,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,21,Energi,M,party_motion,3199,-396,0.3802,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,22,Kommunikationer,M,party_motion,59359,-98,7.0557,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,23,"Areella näringar, landsbygd och livsmedel",M,party_motion,21000,1213,2.4961,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,24,Näringsliv,M,party_motion,7387,120,0.878,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,1,Rikets styrelse,SD,party_motion,14372,-530,1.7153,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,2,Samhällsekonomi och finansförvaltning,SD,party_motion,17792,477,2.1235,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,3,"Skatt, tull och exekution",SD,party_motion,11953,550,1.4266,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,4,Rättsväsendet,SD,party_motion,46347,4,5.5315,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,6,Försvar och samhällets krisberedskap,SD,party_motion,56198,7,6.7073,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,7,Internationellt bistånd,SD,party_motion,33672,-11273,4.0188,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,8,Migration,SD,party_motion,13010,-563,1.5528,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,9,"Hälsovård, sjukvård och social omsorg",SD,party_motion,84067,5945,10.0335,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,SD,party_motion,102132,4475,12.1895,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,11,Ekonomisk trygghet vid ålderdom,SD,party_motion,41150,6700,4.9113,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,12,Ekonomisk trygghet för familjer och barn,SD,party_motion,100075,2743,11.944,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,13,Jämställdhet och nyanlända invandrares etablering,SD,party_motion,10671,-7815,1.2736,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,14,Arbetsmarknad och arbetsliv,SD,party_motion,74798,-2017,8.9272,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,15,Studiestöd,SD,party_motion,24143,-880,2.8815,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,16,Utbildning och universitetsforskning,SD,party_motion,82017,670,9.7888,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,17,"Kultur, medier, trossamfund och fritid",SD,party_motion,15576,-419,1.859,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",SD,party_motion,5943,-1029,0.7093,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,19,Regional tillväxt,SD,party_motion,4017,520,0.4794,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,20,Allmän miljö- och naturvård,SD,party_motion,7844,-3992,0.9362,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,21,Energi,SD,party_motion,2840,-755,0.339,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,22,Kommunikationer,SD,party_motion,61992,2535,7.3988,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,23,"Areella näringar, landsbygd och livsmedel",SD,party_motion,20284,497,2.4209,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2018/19,2019,24,Näringsliv,SD,party_motion,6974,-293,0.8324,H601FiU1,https://data.riksdagen.se/dokument/H601FiU1.html
+2019/20,2020,1,Rikets styrelse,GOV,government,15131,0,1.4242,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,2,Samhällsekonomi och finansförvaltning,GOV,government,17390,0,1.6369,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,3,"Skatt, tull och exekution",GOV,government,12057,0,1.1349,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,4,Rättsväsendet,GOV,government,51731,0,4.8693,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,5,Internationell samverkan,GOV,government,2028,0,0.1909,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,6,Försvar och samhällets krisberedskap,GOV,government,64800,0,6.0995,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,7,Internationellt bistånd,GOV,government,45989,0,4.3288,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,8,Migration,GOV,government,11446,0,1.0774,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,9,"Hälsovård, sjukvård och social omsorg",GOV,government,84167,0,7.9225,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,GOV,government,95706,0,9.0086,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,11,Ekonomisk trygghet vid ålderdom,GOV,government,36542,0,3.4396,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,12,Ekonomisk trygghet för familjer och barn,GOV,government,101430,0,9.5474,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,13,Jämställdhet och nyanlända invandrares etablering,GOV,government,10066,0,0.9475,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,14,Arbetsmarknad och arbetsliv,GOV,government,77164,0,7.2633,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,15,Studiestöd,GOV,government,25508,0,2.401,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,16,Utbildning och universitetsforskning,GOV,government,83316,0,7.8424,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,17,"Kultur, medier, trossamfund och fritid",GOV,government,16061,0,1.5118,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",GOV,government,3727,0,0.3508,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,19,Regional tillväxt,GOV,government,3673,0,0.3457,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,20,Allmän miljö- och naturvård,GOV,government,12571,0,1.1833,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,21,Energi,GOV,government,3469,0,0.3265,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,22,Kommunikationer,GOV,government,61296,0,5.7697,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,23,"Areella näringar, landsbygd och livsmedel",GOV,government,19790,0,1.8628,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,24,Näringsliv,GOV,government,7264,0,0.6837,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,25,Allmänna bidrag till kommuner,GOV,government,128418,0,12.0877,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,26,Statsskuldsräntor m.m.,GOV,government,29655,0,2.7914,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,27,Avgiften till Europeiska unionen,GOV,government,41990,0,3.9524,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,1,Rikets styrelse,KD,party_motion,15306,175,1.4358,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,2,Samhällsekonomi och finansförvaltning,KD,party_motion,17348,-42,1.6274,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,3,"Skatt, tull och exekution",KD,party_motion,11946,-111,1.1206,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,4,Rättsväsendet,KD,party_motion,52621,890,4.9362,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,5,Internationell samverkan,KD,party_motion,1998,-30,0.1874,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,6,Försvar och samhällets krisberedskap,KD,party_motion,64800,0,6.0787,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,7,Internationellt bistånd,KD,party_motion,45989,0,4.3141,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,8,Migration,KD,party_motion,11544,98,1.0829,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,9,"Hälsovård, sjukvård och social omsorg",KD,party_motion,91304,7137,8.565,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,KD,party_motion,95287,-419,8.9386,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,11,Ekonomisk trygghet vid ålderdom,KD,party_motion,36343,-199,3.4092,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,12,Ekonomisk trygghet för familjer och barn,KD,party_motion,104852,3422,9.8359,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,13,Jämställdhet och nyanlända invandrares etablering,KD,party_motion,10023,-43,0.9402,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,14,Arbetsmarknad och arbetsliv,KD,party_motion,74142,-3022,6.955,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,15,Studiestöd,KD,party_motion,22600,-2908,2.12,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,16,Utbildning och universitetsforskning,KD,party_motion,84241,925,7.9024,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,17,"Kultur, medier, trossamfund och fritid",KD,party_motion,15613,-448,1.4646,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",KD,party_motion,3227,-500,0.3027,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,19,Regional tillväxt,KD,party_motion,3693,20,0.3464,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,20,Allmän miljö- och naturvård,KD,party_motion,10634,-1937,0.9975,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,21,Energi,KD,party_motion,3174,-295,0.2977,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,22,Kommunikationer,KD,party_motion,61626,330,5.781,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,23,"Areella näringar, landsbygd och livsmedel",KD,party_motion,19865,75,1.8635,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,24,Näringsliv,KD,party_motion,6361,-903,0.5967,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,25,Allmänna bidrag till kommuner,KD,party_motion,129835,1417,12.1794,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,26,Statsskuldsräntor m.m.,KD,party_motion,29655,0,2.7819,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,27,Avgiften till Europeiska unionen,KD,party_motion,41990,0,3.939,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,1,Rikets styrelse,M,party_motion,14985,-146,1.43,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,2,Samhällsekonomi och finansförvaltning,M,party_motion,17362,-28,1.6568,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,3,"Skatt, tull och exekution",M,party_motion,11795,-262,1.1256,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,4,Rättsväsendet,M,party_motion,54225,2494,5.1746,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,5,Internationell samverkan,M,party_motion,2028,0,0.1935,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,6,Försvar och samhällets krisberedskap,M,party_motion,65364,564,6.2376,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,7,Internationellt bistånd,M,party_motion,38854,-7135,3.7078,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,8,Migration,M,party_motion,10847,-599,1.0351,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,9,"Hälsovård, sjukvård och social omsorg",M,party_motion,78097,-6070,7.4527,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,M,party_motion,85500,-10206,8.1591,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,11,Ekonomisk trygghet vid ålderdom,M,party_motion,36137,-405,3.4485,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,12,Ekonomisk trygghet för familjer och barn,M,party_motion,100980,-450,9.6364,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,13,Jämställdhet och nyanlända invandrares etablering,M,party_motion,9062,-1004,0.8648,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,14,Arbetsmarknad och arbetsliv,M,party_motion,74137,-3027,7.0748,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,15,Studiestöd,M,party_motion,25141,-367,2.3992,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,16,Utbildning och universitetsforskning,M,party_motion,81417,-1899,7.7695,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,17,"Kultur, medier, trossamfund och fritid",M,party_motion,16061,0,1.5327,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",M,party_motion,1452,-2275,0.1386,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,19,Regional tillväxt,M,party_motion,3673,0,0.3505,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,20,Allmän miljö- och naturvård,M,party_motion,12574,3,1.1999,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,21,Energi,M,party_motion,3215,-254,0.3068,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,22,Kommunikationer,M,party_motion,61641,345,5.8823,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,23,"Areella näringar, landsbygd och livsmedel",M,party_motion,19858,68,1.895,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,24,Näringsliv,M,party_motion,7236,-28,0.6905,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,25,Allmänna bidrag till kommuner,M,party_motion,144620,16202,13.8009,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,26,Statsskuldsräntor m.m.,M,party_motion,29655,0,2.8299,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,27,Avgiften till Europeiska unionen,M,party_motion,41990,0,4.007,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,1,Rikets styrelse,SD,party_motion,14575,-556,1.3691,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,2,Samhällsekonomi och finansförvaltning,SD,party_motion,17162,-228,1.6121,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,3,"Skatt, tull och exekution",SD,party_motion,12391,334,1.164,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,4,Rättsväsendet,SD,party_motion,57410,5679,5.3929,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,5,Internationell samverkan,SD,party_motion,2048,20,0.1924,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,6,Försvar och samhällets krisberedskap,SD,party_motion,64800,0,6.0871,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,7,Internationellt bistånd,SD,party_motion,29546,-16443,2.7755,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,8,Migration,SD,party_motion,10782,-664,1.0128,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,9,"Hälsovård, sjukvård och social omsorg",SD,party_motion,88627,4460,8.3254,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,SD,party_motion,100744,5038,9.4636,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,11,Ekonomisk trygghet vid ålderdom,SD,party_motion,40639,4097,3.8175,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,12,Ekonomisk trygghet för familjer och barn,SD,party_motion,106721,5291,10.0251,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,13,Jämställdhet och nyanlända invandrares etablering,SD,party_motion,5156,-4910,0.4843,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,14,Arbetsmarknad och arbetsliv,SD,party_motion,71995,-5169,6.763,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,15,Studiestöd,SD,party_motion,25960,452,2.4386,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,16,Utbildning och universitetsforskning,SD,party_motion,83829,513,7.8747,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,17,"Kultur, medier, trossamfund och fritid",SD,party_motion,15948,-113,1.4981,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",SD,party_motion,4079,352,0.3832,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,19,Regional tillväxt,SD,party_motion,3673,0,0.345,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,20,Allmän miljö- och naturvård,SD,party_motion,8462,-4109,0.7949,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,21,Energi,SD,party_motion,2945,-524,0.2766,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,22,Kommunikationer,SD,party_motion,63941,2645,6.0064,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,23,"Areella näringar, landsbygd och livsmedel",SD,party_motion,20682,892,1.9428,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,24,Näringsliv,SD,party_motion,7364,100,0.6918,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,25,Allmänna bidrag till kommuner,SD,party_motion,133418,5000,12.5329,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,26,Statsskuldsräntor m.m.,SD,party_motion,29655,0,2.7857,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,27,Avgiften till Europeiska unionen,SD,party_motion,41990,0,3.9444,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,1,Rikets styrelse,V,party_motion,15078,-53,1.3634,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,2,Samhällsekonomi och finansförvaltning,V,party_motion,17400,10,1.5733,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,3,"Skatt, tull och exekution",V,party_motion,12057,0,1.0902,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,4,Rättsväsendet,V,party_motion,51738,7,4.6783,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,5,Internationell samverkan,V,party_motion,2028,0,0.1834,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,6,Försvar och samhällets krisberedskap,V,party_motion,64800,0,5.8593,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,7,Internationellt bistånd,V,party_motion,46489,500,4.2036,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,8,Migration,V,party_motion,10753,-693,0.9723,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,9,"Hälsovård, sjukvård och social omsorg",V,party_motion,87492,3325,7.9112,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,V,party_motion,100784,5078,9.1131,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,11,Ekonomisk trygghet vid ålderdom,V,party_motion,40142,3600,3.6297,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,12,Ekonomisk trygghet för familjer och barn,V,party_motion,101430,0,9.1715,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,13,Jämställdhet och nyanlända invandrares etablering,V,party_motion,11976,1910,1.0829,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,14,Arbetsmarknad och arbetsliv,V,party_motion,82398,5234,7.4506,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,15,Studiestöd,V,party_motion,26418,910,2.3888,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,16,Utbildning och universitetsforskning,V,party_motion,86375,3059,7.8102,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,17,"Kultur, medier, trossamfund och fritid",V,party_motion,16719,658,1.5118,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",V,party_motion,7331,3604,0.6629,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,19,Regional tillväxt,V,party_motion,3703,30,0.3348,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,20,Allmän miljö- och naturvård,V,party_motion,13721,1150,1.2407,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,21,Energi,V,party_motion,4319,850,0.3905,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,22,Kommunikationer,V,party_motion,67096,5800,6.067,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,23,"Areella näringar, landsbygd och livsmedel",V,party_motion,20700,910,1.8717,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,24,Näringsliv,V,party_motion,7316,52,0.6615,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,25,Allmänna bidrag till kommuner,V,party_motion,136018,7600,12.299,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,26,Statsskuldsräntor m.m.,V,party_motion,29655,0,2.6815,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2019/20,2020,27,Avgiften till Europeiska unionen,V,party_motion,41990,0,3.7968,H701FiU1,https://data.riksdagen.se/dokument/H701FiU1.html
+2022/23,2023,1,Rikets styrelse,C,party_motion,17688,-526,1.3584,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,2,Samhällsekonomi och finansförvaltning,C,party_motion,21003,-83,1.6129,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,3,"Skatt, tull och exekution",C,party_motion,13095,-329,1.0056,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,4,Rättsväsendet,C,party_motion,76671,-194,5.888,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,5,Internationell samverkan,C,party_motion,2128,-4,0.1634,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,6,Försvar och samhällets krisberedskap,C,party_motion,123204,-25,9.4615,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,7,Internationellt bistånd,C,party_motion,57047,7151,4.381,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,8,Migration,C,party_motion,9482,-67,0.7282,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,9,"Hälsovård, sjukvård och social omsorg",C,party_motion,96215,-4531,7.3889,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,C,party_motion,113666,-592,8.729,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,11,Ekonomisk trygghet vid ålderdom,C,party_motion,61681,-10,4.7368,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,12,Ekonomisk trygghet för familjer och barn,C,party_motion,109507,-1534,8.4096,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,13,Jämställdhet och nyanlända invandrares etablering,C,party_motion,5480,925,0.4208,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,14,Arbetsmarknad och arbetsliv,C,party_motion,84847,-5812,6.5159,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,15,Studiestöd,C,party_motion,35104,16,2.6958,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,16,Utbildning och universitetsforskning,C,party_motion,94705,-2052,7.2729,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,17,"Kultur, medier, trossamfund och fritid",C,party_motion,16694,-136,1.282,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",C,party_motion,2864,-18,0.2199,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,19,Regional utveckling,C,party_motion,4088,0,0.3139,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,20,Allmän miljö- och naturvård,C,party_motion,13647,3682,1.048,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,21,Energi,C,party_motion,4146,-483,0.3184,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,22,Kommunikationer,C,party_motion,96318,6620,7.3968,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,23,"Areella näringar, landsbygd och livsmedel",C,party_motion,21316,534,1.637,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,24,Näringsliv,C,party_motion,7400,-26,0.5683,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,25,Allmänna bidrag till kommuner,C,party_motion,157651,-141,12.1069,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,26,Statsskuldsräntor m.m.,C,party_motion,9155,0,0.7031,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,27,Avgiften till Europeiska unionen,C,party_motion,47357,0,3.6368,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,1,Rikets styrelse,GOV,government,18214,0,1.4013,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,2,Samhällsekonomi och finansförvaltning,GOV,government,21086,0,1.6223,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,3,"Skatt, tull och exekution",GOV,government,13424,0,1.0328,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,4,Rättsväsendet,GOV,government,76865,0,5.9136,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,5,Internationell samverkan,GOV,government,2132,0,0.164,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,6,Försvar och samhällets krisberedskap,GOV,government,123229,0,9.4807,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,7,Internationellt bistånd,GOV,government,49896,0,3.8388,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,8,Migration,GOV,government,9549,0,0.7347,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,9,"Hälsovård, sjukvård och social omsorg",GOV,government,100746,0,7.7509,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,GOV,government,114258,0,8.7905,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,11,Ekonomisk trygghet vid ålderdom,GOV,government,61691,0,4.7462,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,12,Ekonomisk trygghet för familjer och barn,GOV,government,111041,0,8.543,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,13,Jämställdhet och nyanlända invandrares etablering,GOV,government,4555,0,0.3504,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,14,Arbetsmarknad och arbetsliv,GOV,government,90659,0,6.9749,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,15,Studiestöd,GOV,government,35088,0,2.6995,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,16,Utbildning och universitetsforskning,GOV,government,96757,0,7.444,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,17,"Kultur, medier, trossamfund och fritid",GOV,government,16830,0,1.2948,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",GOV,government,2882,0,0.2217,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,19,Regional utveckling,GOV,government,4088,0,0.3145,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,20,Allmän miljö- och naturvård,GOV,government,9965,0,0.7667,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,21,Energi,GOV,government,4629,0,0.3561,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,22,Kommunikationer,GOV,government,89698,0,6.9009,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,23,"Areella näringar, landsbygd och livsmedel",GOV,government,20782,0,1.5989,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,24,Näringsliv,GOV,government,7426,0,0.5713,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,25,Allmänna bidrag till kommuner,GOV,government,157792,0,12.1398,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,26,Statsskuldsräntor m.m.,GOV,government,9155,0,0.7043,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,27,Avgiften till Europeiska unionen,GOV,government,47357,0,3.6434,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,1,Rikets styrelse,MP,party_motion,18536,322,1.2541,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,2,Samhällsekonomi och finansförvaltning,MP,party_motion,21096,10,1.4273,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,3,"Skatt, tull och exekution",MP,party_motion,13254,-170,0.8968,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,4,Rättsväsendet,MP,party_motion,77065,200,5.2142,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,5,Internationell samverkan,MP,party_motion,2462,330,0.1666,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,6,Försvar och samhällets krisberedskap,MP,party_motion,124694,1465,8.4368,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,7,Internationellt bistånd,MP,party_motion,69996,20100,4.7359,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,8,Migration,MP,party_motion,9937,388,0.6723,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,9,"Hälsovård, sjukvård och social omsorg",MP,party_motion,134799,34053,9.1205,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,MP,party_motion,121256,6998,8.2041,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,11,Ekonomisk trygghet vid ålderdom,MP,party_motion,64481,2790,4.3628,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,12,Ekonomisk trygghet för familjer och barn,MP,party_motion,123002,11961,8.3223,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,13,Jämställdhet och nyanlända invandrares etablering,MP,party_motion,5589,1034,0.3782,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,14,Arbetsmarknad och arbetsliv,MP,party_motion,93163,2504,6.3034,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,15,Studiestöd,MP,party_motion,36555,1467,2.4733,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,16,Utbildning och universitetsforskning,MP,party_motion,102015,5258,6.9023,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,17,"Kultur, medier, trossamfund och fritid",MP,party_motion,19671,2841,1.3309,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",MP,party_motion,9587,6705,0.6487,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,19,Regional utveckling,MP,party_motion,4655,567,0.315,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,20,Allmän miljö- och naturvård,MP,party_motion,35787,25822,2.4213,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,21,Energi,MP,party_motion,20335,15706,1.3759,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,22,Kommunikationer,MP,party_motion,109827,20129,7.4309,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,23,"Areella näringar, landsbygd och livsmedel",MP,party_motion,24492,3710,1.6571,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,24,Näringsliv,MP,party_motion,7426,0,0.5024,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,25,Allmänna bidrag till kommuner,MP,party_motion,171792,14000,11.6234,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,26,Statsskuldsräntor m.m.,MP,party_motion,9155,0,0.6194,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,27,Avgiften till Europeiska unionen,MP,party_motion,47357,0,3.2042,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,1,Rikets styrelse,S,party_motion,17474,-740,1.325,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,2,Samhällsekonomi och finansförvaltning,S,party_motion,21136,50,1.6027,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,3,"Skatt, tull och exekution",S,party_motion,13424,0,1.0179,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,4,Rättsväsendet,S,party_motion,76865,0,5.8284,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,5,Internationell samverkan,S,party_motion,2132,0,0.1617,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,6,Försvar och samhällets krisberedskap,S,party_motion,123229,0,9.3441,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,7,Internationellt bistånd,S,party_motion,53050,3154,4.0226,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,8,Migration,S,party_motion,9549,0,0.7241,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,9,"Hälsovård, sjukvård och social omsorg",S,party_motion,102929,2183,7.8048,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,S,party_motion,115158,900,8.7321,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,11,Ekonomisk trygghet vid ålderdom,S,party_motion,61691,0,4.6778,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,12,Ekonomisk trygghet för familjer och barn,S,party_motion,111041,0,8.4199,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,13,Jämställdhet och nyanlända invandrares etablering,S,party_motion,5474,919,0.4151,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,14,Arbetsmarknad och arbetsliv,S,party_motion,91255,596,6.9196,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,15,Studiestöd,S,party_motion,35088,0,2.6606,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,16,Utbildning och universitetsforskning,S,party_motion,99013,2256,7.5078,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,17,"Kultur, medier, trossamfund och fritid",S,party_motion,17330,500,1.3141,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",S,party_motion,3982,1100,0.3019,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,19,Regional utveckling,S,party_motion,4088,0,0.31,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,20,Allmän miljö- och naturvård,S,party_motion,11795,1830,0.8944,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,21,Energi,S,party_motion,4271,-358,0.3239,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,22,Kommunikationer,S,party_motion,90198,500,6.8394,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,23,"Areella näringar, landsbygd och livsmedel",S,party_motion,20892,110,1.5842,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,24,Näringsliv,S,party_motion,7426,0,0.5631,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,25,Allmänna bidrag till kommuner,S,party_motion,163792,6000,12.4198,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,26,Statsskuldsräntor m.m.,S,party_motion,9155,0,0.6942,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,27,Avgiften till Europeiska unionen,S,party_motion,47357,0,3.5909,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,1,Rikets styrelse,V,party_motion,17495,-719,1.1741,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,2,Samhällsekonomi och finansförvaltning,V,party_motion,26185,5099,1.7573,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,3,"Skatt, tull och exekution",V,party_motion,13251,-173,0.8893,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,4,Rättsväsendet,V,party_motion,75020,-1845,5.0346,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,5,Internationell samverkan,V,party_motion,2152,20,0.1444,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,6,Försvar och samhällets krisberedskap,V,party_motion,123229,0,8.2699,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,7,Internationellt bistånd,V,party_motion,63476,13580,4.2599,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,8,Migration,V,party_motion,9609,60,0.6449,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,9,"Hälsovård, sjukvård och social omsorg",V,party_motion,106337,5591,7.1363,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,V,party_motion,125271,11013,8.4069,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,11,Ekonomisk trygghet vid ålderdom,V,party_motion,72141,10450,4.8414,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,12,Ekonomisk trygghet för familjer och barn,V,party_motion,115834,4793,7.7736,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,13,Jämställdhet och nyanlända invandrares etablering,V,party_motion,6174,1619,0.4143,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,14,Arbetsmarknad och arbetsliv,V,party_motion,113425,22766,7.6119,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,15,Studiestöd,V,party_motion,36945,1857,2.4794,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,16,Utbildning och universitetsforskning,V,party_motion,106378,9621,7.139,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,17,"Kultur, medier, trossamfund och fritid",V,party_motion,18567,1737,1.246,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",V,party_motion,17032,14150,1.143,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,19,Regional utveckling,V,party_motion,4118,30,0.2764,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,20,Allmän miljö- och naturvård,V,party_motion,25339,15374,1.7005,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,21,Energi,V,party_motion,11529,6900,0.7737,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,22,Kommunikationer,V,party_motion,112114,22416,7.5239,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,23,"Areella näringar, landsbygd och livsmedel",V,party_motion,23843,3061,1.6001,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,24,Näringsliv,V,party_motion,7956,530,0.5339,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,25,Allmänna bidrag till kommuner,V,party_motion,200153,42361,13.4322,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,26,Statsskuldsräntor m.m.,V,party_motion,9165,10,0.6151,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2022/23,2023,27,Avgiften till Europeiska unionen,V,party_motion,47357,0,3.1781,HA01FiU1,https://data.riksdagen.se/dokument/HA01FiU1.html
+2023/24,2024,1,Rikets styrelse,C,party_motion,18644,-557,1.3222,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,2,Samhällsekonomi och finansförvaltning,C,party_motion,22296,-14,1.5812,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,3,"Skatt, tull och exekution",C,party_motion,14432,-47,1.0235,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,4,Rättsväsendet,C,party_motion,90822,555,6.441,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,5,Internationell samverkan,C,party_motion,2250,-1,0.1596,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,6,Försvar och samhällets krisberedskap,C,party_motion,139757,175,9.9115,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,7,Internationellt bistånd,C,party_motion,56027,8345,3.9734,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,8,Migration,C,party_motion,12928,29,0.9168,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,9,"Hälsovård, sjukvård och social omsorg",C,party_motion,104172,-1275,7.3878,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,C,party_motion,116706,-998,8.2767,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,11,Ekonomisk trygghet vid ålderdom,C,party_motion,59712,-3,4.2347,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,12,Ekonomisk trygghet för familjer och barn,C,party_motion,111510,-1167,7.9082,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,13,Integration och jämställdhet,C,party_motion,4780,1491,0.339,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,14,Arbetsmarknad och arbetsliv,C,party_motion,78835,-11954,5.5909,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,15,Studiestöd,C,party_motion,39238,1842,2.7827,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,16,Utbildning och universitetsforskning,C,party_motion,105670,6662,7.4941,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,17,"Kultur, medier, trossamfund och fritid",C,party_motion,17470,1057,1.239,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",C,party_motion,1564,-64,0.1109,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,19,Regional utveckling,C,party_motion,10223,5900,0.725,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,20,"Klimat, miljö och natur",C,party_motion,21804,5629,1.5463,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,21,Energi,C,party_motion,4791,22,0.3398,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,22,Kommunikationer,C,party_motion,99708,502,7.0712,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,23,"Areella näringar, landsbygd och livsmedel",C,party_motion,20019,270,1.4197,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,24,Näringsliv,C,party_motion,7406,8,0.5252,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,25,Allmänna bidrag till kommuner,C,party_motion,169535,-233,12.0233,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,26,Statsskuldsräntor m.m.,C,party_motion,26855,0,1.9045,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,27,Avgiften till Europeiska unionen,C,party_motion,52897,0,3.7514,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,1,Rikets styrelse,GOV,government,19201,0,1.3775,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,2,Samhällsekonomi och finansförvaltning,GOV,government,22310,0,1.6006,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,3,"Skatt, tull och exekution",GOV,government,14479,0,1.0388,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,4,Rättsväsendet,GOV,government,90267,0,6.476,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,5,Internationell samverkan,GOV,government,2251,0,0.1615,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,6,Försvar och samhällets krisberedskap,GOV,government,139582,0,10.0139,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,7,Internationellt bistånd,GOV,government,47682,0,3.4208,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,8,Migration,GOV,government,12899,0,0.9254,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,9,"Hälsovård, sjukvård och social omsorg",GOV,government,105447,0,7.565,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,GOV,government,117704,0,8.4444,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,11,Ekonomisk trygghet vid ålderdom,GOV,government,59715,0,4.2841,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,12,Ekonomisk trygghet för familjer och barn,GOV,government,112677,0,8.0837,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,13,Integration och jämställdhet,GOV,government,3289,0,0.236,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,14,Arbetsmarknad och arbetsliv,GOV,government,90789,0,6.5134,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,15,Studiestöd,GOV,government,37396,0,2.6829,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,16,Utbildning och universitetsforskning,GOV,government,99008,0,7.1031,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,17,"Kultur, medier, trossamfund och fritid",GOV,government,16413,0,1.1775,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",GOV,government,1628,0,0.1168,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,19,Regional utveckling,GOV,government,4323,0,0.3101,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,20,"Klimat, miljö och natur",GOV,government,16175,0,1.1604,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,21,Energi,GOV,government,4769,0,0.3421,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,22,Kommunikationer,GOV,government,99206,0,7.1173,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,23,"Areella näringar, landsbygd och livsmedel",GOV,government,19749,0,1.4168,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,24,Näringsliv,GOV,government,7398,0,0.5307,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,25,Allmänna bidrag till kommuner,GOV,government,169768,0,12.1796,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,26,Statsskuldsräntor m.m.,GOV,government,26855,0,1.9266,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,27,Avgiften till Europeiska unionen,GOV,government,52897,0,3.795,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,1,Rikets styrelse,MP,party_motion,19611,410,1.248,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,2,Samhällsekonomi och finansförvaltning,MP,party_motion,22361,51,1.423,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,3,"Skatt, tull och exekution",MP,party_motion,14519,40,0.924,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,4,Rättsväsendet,MP,party_motion,91535,1268,5.8253,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,5,Internationell samverkan,MP,party_motion,2531,280,0.1611,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,6,Försvar och samhällets krisberedskap,MP,party_motion,141387,1805,8.9978,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,7,Internationellt bistånd,MP,party_motion,77701,30019,4.9449,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,8,Migration,MP,party_motion,12730,-169,0.8101,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,9,"Hälsovård, sjukvård och social omsorg",MP,party_motion,106281,834,6.7637,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,MP,party_motion,122044,4340,7.7668,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,11,Ekonomisk trygghet vid ålderdom,MP,party_motion,59722,7,3.8007,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,12,Ekonomisk trygghet för familjer och barn,MP,party_motion,117777,5100,7.4953,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,13,Integration och jämställdhet,MP,party_motion,4894,1605,0.3115,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,14,Arbetsmarknad och arbetsliv,MP,party_motion,93086,2297,5.924,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,15,Studiestöd,MP,party_motion,39212,1816,2.4954,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,16,Utbildning och universitetsforskning,MP,party_motion,103396,4388,6.5801,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,17,"Kultur, medier, trossamfund och fritid",MP,party_motion,19171,2758,1.22,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",MP,party_motion,9463,7835,0.6022,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,19,Regional utveckling,MP,party_motion,4323,0,0.2751,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,20,"Klimat, miljö och natur",MP,party_motion,44820,28645,2.8523,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,21,Energi,MP,party_motion,21217,16448,1.3502,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,22,Kommunikationer,MP,party_motion,134630,35424,8.5678,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,23,"Areella näringar, landsbygd och livsmedel",MP,party_motion,24923,5174,1.5861,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,24,Näringsliv,MP,party_motion,8016,618,0.5101,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,25,Allmänna bidrag till kommuner,MP,party_motion,196244,26476,12.4889,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,26,Statsskuldsräntor m.m.,MP,party_motion,26855,0,1.709,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,27,Avgiften till Europeiska unionen,MP,party_motion,52897,0,3.3663,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,1,Rikets styrelse,S,party_motion,18806,-395,1.3345,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,2,Samhällsekonomi och finansförvaltning,S,party_motion,22320,10,1.5838,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,3,"Skatt, tull och exekution",S,party_motion,14579,100,1.0345,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,4,Rättsväsendet,S,party_motion,90367,100,6.4124,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,5,Internationell samverkan,S,party_motion,2251,0,0.1597,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,6,Försvar och samhällets krisberedskap,S,party_motion,139582,0,9.9047,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,7,Internationellt bistånd,S,party_motion,48682,1000,3.4545,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,8,Migration,S,party_motion,12899,0,0.9153,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,9,"Hälsovård, sjukvård och social omsorg",S,party_motion,106487,1040,7.5563,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,S,party_motion,117934,230,8.3686,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,11,Ekonomisk trygghet vid ålderdom,S,party_motion,59715,0,4.2374,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,12,Ekonomisk trygghet för familjer och barn,S,party_motion,112677,0,7.9956,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,13,Integration och jämställdhet,S,party_motion,3859,570,0.2738,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,14,Arbetsmarknad och arbetsliv,S,party_motion,91359,570,6.4828,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,15,Studiestöd,S,party_motion,37416,20,2.655,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,16,Utbildning och universitetsforskning,S,party_motion,99963,955,7.0934,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,17,"Kultur, medier, trossamfund och fritid",S,party_motion,16963,550,1.2037,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",S,party_motion,3138,1510,0.2227,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,19,Regional utveckling,S,party_motion,4343,20,0.3082,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,20,"Klimat, miljö och natur",S,party_motion,16805,630,1.1925,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,21,Energi,S,party_motion,4829,60,0.3427,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,22,Kommunikationer,S,party_motion,99606,400,7.068,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,23,"Areella näringar, landsbygd och livsmedel",S,party_motion,19987,238,1.4183,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,24,Näringsliv,S,party_motion,7583,185,0.5381,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,25,Allmänna bidrag till kommuner,S,party_motion,177344,7576,12.5843,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,26,Statsskuldsräntor m.m.,S,party_motion,26855,0,1.9056,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,27,Avgiften till Europeiska unionen,S,party_motion,52897,0,3.7536,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,1,Rikets styrelse,V,party_motion,19386,185,1.2519,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,2,Samhällsekonomi och finansförvaltning,V,party_motion,23478,1168,1.5162,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,3,"Skatt, tull och exekution",V,party_motion,14489,10,0.9357,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,4,Rättsväsendet,V,party_motion,89877,-390,5.8042,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,5,Internationell samverkan,V,party_motion,2265,14,0.1463,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,6,Försvar och samhällets krisberedskap,V,party_motion,139582,0,9.0141,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,7,Internationellt bistånd,V,party_motion,64977,17295,4.1962,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,8,Migration,V,party_motion,12362,-537,0.7983,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,9,"Hälsovård, sjukvård och social omsorg",V,party_motion,111687,6240,7.2126,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,V,party_motion,135478,17774,8.749,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,11,Ekonomisk trygghet vid ålderdom,V,party_motion,58615,-1100,3.7853,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,12,Ekonomisk trygghet för familjer och barn,V,party_motion,133177,20500,8.6004,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,13,Integration och jämställdhet,V,party_motion,5134,1845,0.3315,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,14,Arbetsmarknad och arbetsliv,V,party_motion,114595,23806,7.4004,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,15,Studiestöd,V,party_motion,37923,527,2.449,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,16,Utbildning och universitetsforskning,V,party_motion,102449,3441,6.6161,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,17,"Kultur, medier, trossamfund och fritid",V,party_motion,18904,2491,1.2208,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",V,party_motion,13780,12152,0.8899,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,19,Regional utveckling,V,party_motion,4393,70,0.2837,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,20,"Klimat, miljö och natur",V,party_motion,32112,15937,2.0738,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,21,Energi,V,party_motion,9799,5030,0.6328,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,22,Kommunikationer,V,party_motion,120720,21514,7.796,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,23,"Areella näringar, landsbygd och livsmedel",V,party_motion,22151,2402,1.4305,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,24,Näringsliv,V,party_motion,8455,1057,0.546,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,25,Allmänna bidrag till kommuner,V,party_motion,172939,3171,11.1682,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,26,Statsskuldsräntor m.m.,V,party_motion,26865,10,1.7349,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2023/24,2024,27,Avgiften till Europeiska unionen,V,party_motion,52897,0,3.416,HB01FiU1,https://data.riksdagen.se/dokument/HB01FiU1.html
+2024/25,2025,1,Rikets styrelse,C,party_motion,20203,-580,1.3654,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,2,Samhällsekonomi och finansförvaltning,C,party_motion,22267,-4,1.5049,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,3,"Skatt, tull och exekution",C,party_motion,15493,0,1.0471,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,4,Rättsväsendet,C,party_motion,100940,455,6.8218,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,5,Internationell samverkan,C,party_motion,2292,0,0.1549,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,6,Försvar och samhällets krisberedskap,C,party_motion,167150,350,11.2965,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,7,Internationellt bistånd,C,party_motion,58573,14754,3.9585,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,8,Migration,C,party_motion,11456,-920,0.7742,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,9,"Hälsovård, sjukvård och social omsorg",C,party_motion,112838,-239,7.626,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,C,party_motion,129523,1938,8.7536,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,11,Ekonomisk trygghet vid ålderdom,C,party_motion,57710,0,3.9002,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,12,Ekonomisk trygghet för familjer och barn,C,party_motion,105206,-1500,7.1102,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,13,Integration och jämställdhet,C,party_motion,4887,2140,0.3303,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,14,Arbetsmarknad och arbetsliv,C,party_motion,80954,-10094,5.4711,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,15,Studiestöd,C,party_motion,37538,145,2.5369,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,16,Utbildning och universitetsforskning,C,party_motion,108320,5253,7.3206,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,17,"Kultur, medier, trossamfund och fritid",C,party_motion,17280,870,1.1678,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",C,party_motion,2223,10,0.1502,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,19,Regional utveckling,C,party_motion,3893,120,0.2631,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,20,"Klimat, miljö och natur",C,party_motion,18951,4470,1.2808,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,21,Energi,C,party_motion,9346,1860,0.6316,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,22,Kommunikationer,C,party_motion,110866,1000,7.4927,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,23,"Areella näringar, landsbygd och livsmedel",C,party_motion,21668,415,1.4644,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,24,Näringsliv,C,party_motion,8299,50,0.5609,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,25,Allmänna bidrag till kommuner,C,party_motion,174654,3820,11.8037,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,26,Statsskuldsräntor m.m.,C,party_motion,18955,0,1.281,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,27,Avgiften till Europeiska unionen,C,party_motion,58173,0,3.9315,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,1,Rikets styrelse,GOV,government,20783,0,1.428,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,2,Samhällsekonomi och finansförvaltning,GOV,government,22271,0,1.5303,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,3,"Skatt, tull och exekution",GOV,government,15493,0,1.0646,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,4,Rättsväsendet,GOV,government,100485,0,6.9045,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,5,Internationell samverkan,GOV,government,2292,0,0.1575,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,6,Försvar och samhällets krisberedskap,GOV,government,166800,0,11.4612,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,7,Internationellt bistånd,GOV,government,43819,0,3.0109,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,8,Migration,GOV,government,12376,0,0.8504,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,9,"Hälsovård, sjukvård och social omsorg",GOV,government,113077,0,7.7698,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,GOV,government,127585,0,8.7666,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,11,Ekonomisk trygghet vid ålderdom,GOV,government,57710,0,3.9654,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,12,Ekonomisk trygghet för familjer och barn,GOV,government,106706,0,7.332,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,13,Integration och jämställdhet,GOV,government,2747,0,0.1888,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,14,Arbetsmarknad och arbetsliv,GOV,government,91048,0,6.2561,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,15,Studiestöd,GOV,government,37393,0,2.5694,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,16,Utbildning och universitetsforskning,GOV,government,103067,0,7.082,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,17,"Kultur, medier, trossamfund och fritid",GOV,government,16410,0,1.1276,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",GOV,government,2213,0,0.1521,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,19,Regional utveckling,GOV,government,3773,0,0.2593,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,20,"Klimat, miljö och natur",GOV,government,14481,0,0.995,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,21,Energi,GOV,government,7486,0,0.5144,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,22,Kommunikationer,GOV,government,109866,0,7.5491,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,23,"Areella näringar, landsbygd och livsmedel",GOV,government,21253,0,1.4603,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,24,Näringsliv,GOV,government,8249,0,0.5668,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,25,Allmänna bidrag till kommuner,GOV,government,170834,0,11.7384,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,26,Statsskuldsräntor m.m.,GOV,government,18955,0,1.3024,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,27,Avgiften till Europeiska unionen,GOV,government,58173,0,3.9972,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,1,Rikets styrelse,MP,party_motion,20883,100,1.2974,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,2,Samhällsekonomi och finansförvaltning,MP,party_motion,22421,150,1.393,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,3,"Skatt, tull och exekution",MP,party_motion,15493,0,0.9626,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,4,Rättsväsendet,MP,party_motion,101621,1136,6.3136,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,5,Internationell samverkan,MP,party_motion,2370,78,0.1472,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,6,Försvar och samhällets krisberedskap,MP,party_motion,166814,14,10.364,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,7,Internationellt bistånd,MP,party_motion,66186,22367,4.1121,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,8,Migration,MP,party_motion,11651,-725,0.7239,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,9,"Hälsovård, sjukvård och social omsorg",MP,party_motion,117771,4694,7.317,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,MP,party_motion,132502,4917,8.2322,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,11,Ekonomisk trygghet vid ålderdom,MP,party_motion,57710,0,3.5855,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,12,Ekonomisk trygghet för familjer och barn,MP,party_motion,116305,9599,7.2259,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,13,Integration och jämställdhet,MP,party_motion,6319,3572,0.3926,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,14,Arbetsmarknad och arbetsliv,MP,party_motion,91817,769,5.7045,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,15,Studiestöd,MP,party_motion,39798,2405,2.4726,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,16,Utbildning och universitetsforskning,MP,party_motion,105714,2647,6.5679,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,17,"Kultur, medier, trossamfund och fritid",MP,party_motion,18873,2463,1.1726,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",MP,party_motion,12389,10176,0.7697,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,19,Regional utveckling,MP,party_motion,3938,165,0.2447,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,20,"Klimat, miljö och natur",MP,party_motion,40318,25837,2.5049,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,21,Energi,MP,party_motion,20781,13295,1.2911,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,22,Kommunikationer,MP,party_motion,149663,39797,9.2984,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,23,"Areella näringar, landsbygd och livsmedel",MP,party_motion,25301,4048,1.5719,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,24,Näringsliv,MP,party_motion,8583,334,0.5333,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,25,Allmänna bidrag till kommuner,MP,party_motion,177200,6366,11.0093,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,26,Statsskuldsräntor m.m.,MP,party_motion,18955,0,1.1777,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,27,Avgiften till Europeiska unionen,MP,party_motion,58173,0,3.6142,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,1,Rikets styrelse,S,party_motion,20503,-280,1.376,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,2,Samhällsekonomi och finansförvaltning,S,party_motion,22321,50,1.498,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,3,"Skatt, tull och exekution",S,party_motion,15493,0,1.0398,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,4,Rättsväsendet,S,party_motion,100525,40,6.7465,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,5,Internationell samverkan,S,party_motion,2292,0,0.1538,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,6,Försvar och samhällets krisberedskap,S,party_motion,166800,0,11.1944,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,7,Internationellt bistånd,S,party_motion,47819,4000,3.2093,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,8,Migration,S,party_motion,12376,0,0.8306,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,9,"Hälsovård, sjukvård och social omsorg",S,party_motion,113440,363,7.6133,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,S,party_motion,127819,234,8.5783,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,11,Ekonomisk trygghet vid ålderdom,S,party_motion,58760,1050,3.9436,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,12,Ekonomisk trygghet för familjer och barn,S,party_motion,112075,5369,7.5217,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,13,Integration och jämställdhet,S,party_motion,2839,92,0.1905,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,14,Arbetsmarknad och arbetsliv,S,party_motion,92065,1017,6.1788,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,15,Studiestöd,S,party_motion,38167,774,2.5615,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,16,Utbildning och universitetsforskning,S,party_motion,107777,4710,7.2332,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,17,"Kultur, medier, trossamfund och fritid",S,party_motion,18106,1696,1.2151,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",S,party_motion,3623,1410,0.2432,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,19,Regional utveckling,S,party_motion,6393,2620,0.4291,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,20,"Klimat, miljö och natur",S,party_motion,15781,1300,1.0591,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,21,Energi,S,party_motion,7586,100,0.5091,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,22,Kommunikationer,S,party_motion,111541,1675,7.4858,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,23,"Areella näringar, landsbygd och livsmedel",S,party_motion,21408,155,1.4368,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,24,Näringsliv,S,party_motion,8429,180,0.5657,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,25,Allmänna bidrag till kommuner,S,party_motion,178960,8126,12.0105,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,26,Statsskuldsräntor m.m.,S,party_motion,18955,0,1.2721,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,27,Avgiften till Europeiska unionen,S,party_motion,58173,0,3.9042,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,1,Rikets styrelse,V,party_motion,21163,380,1.3006,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,2,Samhällsekonomi och finansförvaltning,V,party_motion,22508,237,1.3833,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,3,"Skatt, tull och exekution",V,party_motion,15593,100,0.9583,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,4,Rättsväsendet,V,party_motion,100564,79,6.1803,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,5,Internationell samverkan,V,party_motion,2344,52,0.1441,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,6,Försvar och samhällets krisberedskap,V,party_motion,166800,0,10.2509,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,7,Internationellt bistånd,V,party_motion,54418,10599,3.3443,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,8,Migration,V,party_motion,11056,-1320,0.6795,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,9,"Hälsovård, sjukvård och social omsorg",V,party_motion,118649,5572,7.2917,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,V,party_motion,145305,17720,8.9299,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,11,Ekonomisk trygghet vid ålderdom,V,party_motion,59910,2200,3.6819,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,12,Ekonomisk trygghet för familjer och barn,V,party_motion,127506,20800,7.8361,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,13,Integration och jämställdhet,V,party_motion,4336,1589,0.2665,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,14,Arbetsmarknad och arbetsliv,V,party_motion,115429,24381,7.0939,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,15,Studiestöd,V,party_motion,38513,1120,2.3669,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,16,Utbildning och universitetsforskning,V,party_motion,112967,9900,6.9426,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,17,"Kultur, medier, trossamfund och fritid",V,party_motion,19044,2634,1.1704,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",V,party_motion,12923,10710,0.7942,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,19,Regional utveckling,V,party_motion,3943,170,0.2423,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,20,"Klimat, miljö och natur",V,party_motion,33992,19511,2.089,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,21,Energi,V,party_motion,12516,5030,0.7692,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,22,Kommunikationer,V,party_motion,124289,14423,7.6384,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,23,"Areella näringar, landsbygd och livsmedel",V,party_motion,24325,3072,1.4949,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,24,Näringsliv,V,party_motion,8826,577,0.5424,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,25,Allmänna bidrag till kommuner,V,party_motion,193121,22287,11.8685,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,26,Statsskuldsräntor m.m.,V,party_motion,18955,0,1.1649,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2024/25,2025,27,Avgiften till Europeiska unionen,V,party_motion,58173,0,3.5751,HC01FiU1,https://data.riksdagen.se/dokument/HC01FiU1.html
+2025/26,2026,1,Rikets styrelse,C,party_motion,19633,-1698,1.2575,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,2,Samhällsekonomi och finansförvaltning,C,party_motion,22596,-15,1.4473,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,3,"Skatt, tull och exekution",C,party_motion,15600,-540,0.9992,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,4,Rättsväsendet,C,party_motion,107923,-78,6.9127,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,5,Internationell samverkan,C,party_motion,2321,-5,0.1487,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,6,Försvar och samhällets krisberedskap,C,party_motion,207201,0,13.2717,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,7,Internationellt bistånd,C,party_motion,47545,3473,3.0454,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,8,Migration,C,party_motion,11858,-1235,0.7595,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,9,"Hälsovård, sjukvård och social omsorg",C,party_motion,118416,185,7.5848,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,C,party_motion,125073,807,8.0112,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,11,Ekonomisk trygghet vid ålderdom,C,party_motion,56930,-11,3.6465,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,12,Ekonomisk trygghet för familjer och barn,C,party_motion,105067,-2600,6.7298,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,13,Integration och jämställdhet,C,party_motion,3369,871,0.2158,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,14,Arbetsmarknad och arbetsliv,C,party_motion,72260,-15263,4.6284,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,15,Studiestöd,C,party_motion,37019,-4,2.3711,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,16,Utbildning och universitetsforskning,C,party_motion,108235,1430,6.9327,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,17,"Kultur, medier, trossamfund och fritid",C,party_motion,17661,896,1.1312,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",C,party_motion,2104,-32,0.1348,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,19,Regional utveckling,C,party_motion,4191,2,0.2684,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,20,"Klimat, miljö och natur",C,party_motion,22015,4623,1.4101,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,21,Energi,C,party_motion,10698,2203,0.6852,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,22,Kommunikationer,C,party_motion,121272,376,7.7677,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,23,"Areella näringar, landsbygd och livsmedel",C,party_motion,20316,293,1.3013,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,24,Näringsliv,C,party_motion,10266,1037,0.6576,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,25,Allmänna bidrag till kommuner,C,party_motion,186906,3368,11.9717,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,26,Statsskuldsräntor m.m.,C,party_motion,42655,0,2.7321,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,27,Avgiften till Europeiska unionen,C,party_motion,62097,0,3.9774,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,1,Rikets styrelse,GOV,government,21331,0,1.3646,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,2,Samhällsekonomi och finansförvaltning,GOV,government,22611,0,1.4465,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,3,"Skatt, tull och exekution",GOV,government,16140,0,1.0325,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,4,Rättsväsendet,GOV,government,108001,0,6.9092,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,5,Internationell samverkan,GOV,government,2326,0,0.1488,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,6,Försvar och samhällets krisberedskap,GOV,government,207201,0,13.2554,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,7,Internationellt bistånd,GOV,government,44072,0,2.8194,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,8,Migration,GOV,government,13093,0,0.8376,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,9,"Hälsovård, sjukvård och social omsorg",GOV,government,118231,0,7.5637,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,GOV,government,124266,0,7.9497,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,11,Ekonomisk trygghet vid ålderdom,GOV,government,56941,0,3.6427,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,12,Ekonomisk trygghet för familjer och barn,GOV,government,107667,0,6.8878,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,13,Integration och jämställdhet,GOV,government,2498,0,0.1598,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,14,Arbetsmarknad och arbetsliv,GOV,government,87523,0,5.5992,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,15,Studiestöd,GOV,government,37023,0,2.3685,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,16,Utbildning och universitetsforskning,GOV,government,106805,0,6.8327,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,17,"Kultur, medier, trossamfund och fritid",GOV,government,16765,0,1.0725,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",GOV,government,2136,0,0.1366,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,19,Regional utveckling,GOV,government,4189,0,0.268,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,20,"Klimat, miljö och natur",GOV,government,17392,0,1.1126,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,21,Energi,GOV,government,8495,0,0.5435,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,22,Kommunikationer,GOV,government,120896,0,7.7342,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,23,"Areella näringar, landsbygd och livsmedel",GOV,government,20023,0,1.2809,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,24,Näringsliv,GOV,government,9229,0,0.5904,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,25,Allmänna bidrag till kommuner,GOV,government,183538,0,11.7416,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,26,Statsskuldsräntor m.m.,GOV,government,42655,0,2.7288,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,27,Avgiften till Europeiska unionen,GOV,government,62097,0,3.9726,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,1,Rikets styrelse,MP,party_motion,21502,171,1.3007,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,2,Samhällsekonomi och finansförvaltning,MP,party_motion,22645,34,1.3699,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,3,"Skatt, tull och exekution",MP,party_motion,16140,0,0.9764,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,4,Rättsväsendet,MP,party_motion,109452,1451,6.6211,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,5,Internationell samverkan,MP,party_motion,2333,7,0.1411,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,6,Försvar och samhällets krisberedskap,MP,party_motion,206986,-215,12.5212,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,7,Internationellt bistånd,MP,party_motion,69262,25190,4.1899,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,8,Migration,MP,party_motion,11873,-1220,0.7182,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,9,"Hälsovård, sjukvård och social omsorg",MP,party_motion,124300,6069,7.5193,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,MP,party_motion,126685,2419,7.6636,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,11,Ekonomisk trygghet vid ålderdom,MP,party_motion,56941,0,3.4445,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,12,Ekonomisk trygghet för familjer och barn,MP,party_motion,118350,10683,7.1594,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,13,Integration och jämställdhet,MP,party_motion,3733,1235,0.2258,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,14,Arbetsmarknad och arbetsliv,MP,party_motion,90988,3465,5.5041,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,15,Studiestöd,MP,party_motion,39471,2448,2.3877,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,16,Utbildning och universitetsforskning,MP,party_motion,110160,3355,6.6639,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,17,"Kultur, medier, trossamfund och fritid",MP,party_motion,19260,2495,1.1651,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",MP,party_motion,2613,477,0.1581,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,19,Regional utveckling,MP,party_motion,4489,300,0.2716,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,20,"Klimat, miljö och natur",MP,party_motion,36646,19254,2.2168,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,21,Energi,MP,party_motion,8224,-271,0.4975,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,22,Kommunikationer,MP,party_motion,132256,11360,8.0006,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,23,"Areella näringar, landsbygd och livsmedel",MP,party_motion,23991,3968,1.4513,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,24,Näringsliv,MP,party_motion,9229,0,0.5583,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,25,Allmänna bidrag till kommuner,MP,party_motion,180800,-2738,10.9372,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,26,Statsskuldsräntor m.m.,MP,party_motion,42655,0,2.5803,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,27,Avgiften till Europeiska unionen,MP,party_motion,62097,0,3.7564,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,1,Rikets styrelse,S,party_motion,20882,-449,1.3094,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,2,Samhällsekonomi och finansförvaltning,S,party_motion,22661,50,1.421,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,3,"Skatt, tull och exekution",S,party_motion,16215,75,1.0168,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,4,Rättsväsendet,S,party_motion,108246,245,6.7877,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,5,Internationell samverkan,S,party_motion,2336,10,0.1465,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,6,Försvar och samhällets krisberedskap,S,party_motion,207201,0,12.9928,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,7,Internationellt bistånd,S,party_motion,48072,4000,3.0144,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,8,Migration,S,party_motion,13093,0,0.821,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,9,"Hälsovård, sjukvård och social omsorg",S,party_motion,123917,5686,7.7704,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,S,party_motion,124546,280,7.8098,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,11,Ekonomisk trygghet vid ålderdom,S,party_motion,56941,0,3.5705,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,12,Ekonomisk trygghet för familjer och barn,S,party_motion,112794,5127,7.0729,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,13,Integration och jämställdhet,S,party_motion,2548,50,0.1598,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,14,Arbetsmarknad och arbetsliv,S,party_motion,90328,2805,5.6641,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,15,Studiestöd,S,party_motion,37827,804,2.372,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,16,Utbildning och universitetsforskning,S,party_motion,111875,5070,7.0152,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,17,"Kultur, medier, trossamfund och fritid",S,party_motion,17564,799,1.1014,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",S,party_motion,2821,685,0.1769,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,19,Regional utveckling,S,party_motion,4309,120,0.2702,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,20,"Klimat, miljö och natur",S,party_motion,18527,1135,1.1618,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,21,Energi,S,party_motion,8595,100,0.539,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,22,Kommunikationer,S,party_motion,122621,1725,7.6891,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,23,"Areella näringar, landsbygd och livsmedel",S,party_motion,20123,100,1.2618,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,24,Näringsliv,S,party_motion,9679,450,0.6069,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,25,Allmänna bidrag till kommuner,S,party_motion,186268,2730,11.6801,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,26,Statsskuldsräntor m.m.,S,party_motion,42655,0,2.6747,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,27,Avgiften till Europeiska unionen,S,party_motion,62097,0,3.8939,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,1,Rikets styrelse,V,party_motion,21430,99,1.3107,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,2,Samhällsekonomi och finansförvaltning,V,party_motion,22611,0,1.3829,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,3,"Skatt, tull och exekution",V,party_motion,16170,30,0.989,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,4,Rättsväsendet,V,party_motion,108376,375,6.6285,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,5,Internationell samverkan,V,party_motion,2376,50,0.1453,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,6,Försvar och samhällets krisberedskap,V,party_motion,207201,0,12.6728,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,7,Internationellt bistånd,V,party_motion,52072,8000,3.1848,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,8,Migration,V,party_motion,11577,-1516,0.7081,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,9,"Hälsovård, sjukvård och social omsorg",V,party_motion,122781,4550,7.5095,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,V,party_motion,129677,5411,7.9313,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,11,Ekonomisk trygghet vid ålderdom,V,party_motion,56941,0,3.4826,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,12,Ekonomisk trygghet för familjer och barn,V,party_motion,119267,11600,7.2946,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,13,Integration och jämställdhet,V,party_motion,3124,626,0.1911,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,14,Arbetsmarknad och arbetsliv,V,party_motion,94114,6591,5.7562,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,15,Studiestöd,V,party_motion,37363,340,2.2852,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,16,Utbildning och universitetsforskning,V,party_motion,111250,4445,6.8042,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,17,"Kultur, medier, trossamfund och fritid",V,party_motion,19205,2440,1.1746,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",V,party_motion,7351,5215,0.4496,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,19,Regional utveckling,V,party_motion,4259,70,0.2605,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,20,"Klimat, miljö och natur",V,party_motion,27504,10112,1.6822,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,21,Energi,V,party_motion,8354,-141,0.5109,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,22,Kommunikationer,V,party_motion,124365,3469,7.6064,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,23,"Areella näringar, landsbygd och livsmedel",V,party_motion,22771,2748,1.3927,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,24,Näringsliv,V,party_motion,9849,620,0.6024,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,25,Allmänna bidrag till kommuner,V,party_motion,190268,6730,11.6371,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,26,Statsskuldsräntor m.m.,V,party_motion,42655,0,2.6089,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html
+2025/26,2026,27,Avgiften till Europeiska unionen,V,party_motion,62097,0,3.798,HD01FiU1,https://data.riksdagen.se/dokument/HD01FiU1.html

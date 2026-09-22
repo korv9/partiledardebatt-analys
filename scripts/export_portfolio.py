@@ -27,6 +27,8 @@ console.log(topics.data);
 ```
 
 Alla JSON-filer innehåller `schema_version`, `generated_at` och `data`. UMAP är uppdelad per riksmöte under `sessions/<riksmöte>/umap.json`, med högst 400 deterministiskt valda punkter per fil.
+
+Budgetramar finns i `budgets/summary.json` och per riksmöte i `sessions/<riksmöte>/budgets.json`. `GOV` är regeringens samlade förslag; övriga aktörer är partiernas budgetmotioner.
 """
 
 
@@ -113,6 +115,7 @@ def main() -> None:
             "last_date": json_value(db.execute("select max(speech_date) from stg_speeches where eligible").fetchone()[0]),
             "topic_method": "HDBSCAN on UMAP 10D; 2D UMAP for display",
             "umap_note": "Deterministic sample of at most 400 segments per session",
+            "budget_frame_rows": db.execute("select count(*) from gold_budget_frames").fetchone()[0],
         }
         overview_path = OUTPUT / "overview.json"
         write_json(overview_path, overview, generated_at)
@@ -133,6 +136,16 @@ def main() -> None:
             "select * from gold_similar_speeches",
             generated_at, "Liknande tal över partigränser",
         )
+        export_pair(
+            db, manifest, "budgets/summary",
+            "select * from gold_budget_frames order by session, actor, expenditure_area",
+            generated_at, "Föreslagna budgetramar per aktör och utgiftsområde",
+        )
+        export_pair(
+            db, manifest, "budgets/speech-alignment",
+            "select * from gold_budget_speech_alignment order by session, party, expenditure_area",
+            generated_at, "Jämförelse mellan budgetandel och debattens språkliga uppmärksamhet",
+        )
 
         sessions = [row[0] for row in db.execute(
             "select distinct session from gold_topic_by_session_party order by session"
@@ -152,6 +165,25 @@ def main() -> None:
             path = OUTPUT / f"sessions/{part}/umap.json"
             write_json(path, points, generated_at)
             add_file(manifest, path, len(points), f"UMAP-punkter för riksmöte {session}")
+            budget_rows = records(
+                db,
+                "select * from gold_budget_frames where session=? order by actor, expenditure_area",
+                [session],
+            )
+            if budget_rows:
+                budget_path = OUTPUT / f"sessions/{part}/budgets.json"
+                write_json(budget_path, budget_rows, generated_at)
+                add_file(manifest, budget_path, len(budget_rows), f"Budgetramar för riksmöte {session}")
+            alignment_rows = records(
+                db,
+                "select * from gold_budget_speech_alignment where session=? order by party, expenditure_area",
+                [session],
+            )
+            if alignment_rows:
+                alignment_path = OUTPUT / f"sessions/{part}/budget-speech-alignment.json"
+                write_json(alignment_path, alignment_rows, generated_at)
+                add_file(manifest, alignment_path, len(alignment_rows),
+                         f"Budget–debatt-jämförelse för riksmöte {session}")
 
         parties = [row[0] for row in db.execute(
             "select distinct party from gold_speakers order by party"

@@ -8,6 +8,7 @@ Webboptimerade filer för en portfolio genereras till `portfolio-data/`. Börja 
 
 ```powershell
 python ingest.py
+python budget_ingest.py --from-session 2014/15 --to-session 2025/26
 python analyze.py
 python analyze.py --search klimat
 python -m unittest -v
@@ -20,6 +21,8 @@ python -m unittest -v
 - `data/debates.sqlite`: tabellen `speeches`, en rad per anförande/replik.
 - `data/speeches.csv`: samma data i UTF-8 med BOM, lämplig för analysverktyg.
 - `data/coverage.json`: körningens källor, kontrollsummor, radantal, tomma texter och fel.
+- `data/budgets.sqlite` och `data/budget_frames.csv`: regeringens och partiernas utgiftsramar.
+- `data/budget_coverage.json`: vilka FiU1-betänkanden som kunde läsas maskinellt.
 - `data/raw/`: Riksdagens originalarkiv samt hämtad katalog.
 
 Data är lokala och ignoreras av Git. Databasen kan innehålla tidigare importerade riksmöten; rapportens `datasets` gäller endast aktuell körning och `database_totals` hela databasen. Vid fel avslutas programmet med felkod och behåller tidigare data för den berörda källan. Övriga källor importeras färdigt.
@@ -27,6 +30,8 @@ Data är lokala och ignoreras av Git. Databasen kan innehålla tidigare importer
 ## Datakällor och avgränsning
 
 Primär källa: [Riksdagens anföranden och nedladdningsbara dataset](https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/anforanden/). Officiell täckning börjar 1993/94. Importen upptäcker alla publicerade JSON-arkiv i katalogen, inklusive den avvikande beteckningen 1999/2000. Dessa innehåller fulltext. List-API:et ger metadata och kan lämna textfältet tomt.
+
+Budgetimporten använder finansutskottets årliga FiU1-betänkande via Riksdagens dokument-API. Den läser jämförelsetabellen med regeringens ram och partiernas avvikelse för vart och ett av de 27 utgiftsområdena. `amount_msek` är regeringens belopp plus partiets redovisade avvikelse och anges i miljoner kronor. `GOV` betyder regeringens samlade budgetförslag, inte ett enskilt regeringsparti. Vissa år finns betänkandet endast som PDF eller utan en maskinläsbar jämförelsetabell; de redovisas som luckor i `budget_coverage.json` och fylls inte med uppskattningar.
 
 Verifierade adresser:
 

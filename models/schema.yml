@@ -44,3 +44,21 @@ models:
     columns:
       - name: chunk_id
         data_tests: [unique, not_null]
+  - name: stg_budget_frames
+    description: "Regeringens och partiernas föreslagna utgiftsramar från FiU1. Belopp anges i miljoner kronor."
+    columns:
+      - name: session
+        data_tests: [not_null]
+      - name: expenditure_area
+        data_tests: [not_null]
+      - name: actor
+        data_tests: [not_null]
+  - name: gold_budget_frames
+    description: "Publiceringsklara budgetramar och budgetandelar per riksmöte, aktör och utgiftsområde."
+    columns:
+      - name: source_url
+        data_tests: [not_null]
+  - name: mart_budget_speech_alignment
+    description: "Lexikal uppmärksamhet i partiledardebatter jämförd med föreslagen budgetandel. Nyckelorden är en transparent proxy, inte ett mått på politiskt stöd."
+  - name: gold_budget_speech_alignment
+    description: "Webbklart jämförelseunderlag mellan partiernas budgetmotioner och vad de talar om."

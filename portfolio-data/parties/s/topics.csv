@@ -99,8 +99,8 @@
 1998/99,1998,S,13,äldre / äldreomsorgen / pensionärer,2,160,0.8722
 1998/99,1998,S,8,skolan / lärare / skola,1,94,0.5124
 1998/99,1998,S,11,euron / valuta / europa,1,91,0.496
-1998/99,1998,S,4,bostäder / hyresrätter / marknadshyror,1,84,0.4579
 1998/99,1998,S,10,perssons / går / lite,1,84,0.4579
+1998/99,1998,S,4,bostäder / hyresrätter / marknadshyror,1,84,0.4579
 1998/99,1998,S,24,se / sveriges / världen,2,37,0.2017
 1999/2000,1999,S,-1,Ej grupperade,131,10591,63.6785
 1999/2000,1999,S,8,skolan / lärare / skola,18,1518,9.127
@@ -169,8 +169,8 @@
 2002/03,2002,S,17,fn / afghanistan / fn s,12,993,5.9852
 2002/03,2002,S,14,skatt / skatten / skatter,12,939,5.6597
 2002/03,2002,S,18,partier / ta / politiska,11,721,4.3457
-2002/03,2002,S,12,vården / vård / sjukvården,7,595,3.5863
 2002/03,2002,S,8,skolan / lärare / skola,7,595,3.5863
+2002/03,2002,S,12,vården / vård / sjukvården,7,595,3.5863
 2002/03,2002,S,19,skatten / miljarder / skatt,7,532,3.2066
 2002/03,2002,S,1,emu / folkomröstning / eu,5,388,2.3386
 2002/03,2002,S,13,äldre / äldreomsorgen / pensionärer,4,354,2.1337
@@ -258,8 +258,8 @@
 2007/08,2007,S,19,skatten / miljarder / skatt,10,656,4.385
 2007/08,2007,S,2,kvinnor / män / kvinnors,8,586,3.9171
 2007/08,2007,S,18,partier / ta / politiska,6,484,3.2353
-2007/08,2007,S,22,jobb / arbetslösheten / arbetsmarknaden,4,307,2.0521
 2007/08,2007,S,8,skolan / lärare / skola,4,307,2.0521
+2007/08,2007,S,22,jobb / arbetslösheten / arbetsmarknaden,4,307,2.0521
 2007/08,2007,S,24,se / sveriges / världen,3,244,1.631
 2007/08,2007,S,4,bostäder / hyresrätter / marknadshyror,3,227,1.5174
 2007/08,2007,S,13,äldre / äldreomsorgen / pensionärer,3,195,1.3035
@@ -310,8 +310,8 @@
 2010/11,2010,S,5,utsläppen / eu / kärnkraft,5,359,2.7166
 2010/11,2010,S,19,skatten / miljarder / skatt,4,345,2.6107
 2010/11,2010,S,3,polisen / brott / poliser,3,274,2.0734
-2010/11,2010,S,12,vården / vård / sjukvården,3,250,1.8918
 2010/11,2010,S,9,barn / barnen / föräldrar,4,250,1.8918
+2010/11,2010,S,12,vården / vård / sjukvården,3,250,1.8918
 2010/11,2010,S,15,jobb / arbetslösheten / arbetsmarknaden,3,249,1.8842
 2010/11,2010,S,24,se / sveriges / världen,2,190,1.4378
 2010/11,2010,S,17,fn / afghanistan / fn s,2,168,1.2713
@@ -410,9 +410,9 @@
 2015/16,2015,S,16,eu / europa / europeiska,3,254,1.7091
 2015/16,2015,S,24,se / sveriges / världen,2,139,0.9353
 2015/16,2015,S,18,partier / ta / politiska,1,78,0.5248
+2015/16,2015,S,20,ryssland / ukraina / ryska,1,77,0.5181
 2015/16,2015,S,14,skatt / skatten / skatter,1,77,0.5181
 2015/16,2015,S,3,polisen / brott / poliser,1,77,0.5181
-2015/16,2015,S,20,ryssland / ukraina / ryska,1,77,0.5181
 2015/16,2015,S,0,sjöstedts / företag / min,1,58,0.3903
 2015/16,2015,S,7,sd / nej / ta,3,23,0.1548
 2016/17,2016,S,-1,Ej grupperade,96,7054,49.954
