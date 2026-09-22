@@ -1,0 +1,141 @@
+﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
+2011/12,2011,C,-1,Ej grupperade,77,5997,56.2676
+2011/12,2011,C,5,utsläppen / eu / kärnkraft,34,2354,22.0867
+2011/12,2011,C,15,jobb / arbetslösheten / arbetsmarknaden,6,531,4.9822
+2011/12,2011,C,22,jobb / arbetslösheten / arbetsmarknaden,4,339,3.1807
+2011/12,2011,C,24,se / sveriges / världen,3,259,2.4301
+2011/12,2011,C,6,migrationspolitik / flyktingar / invandring,3,256,2.402
+2011/12,2011,C,8,skolan / lärare / skola,3,251,2.355
+2011/12,2011,C,0,sjöstedts / företag / min,3,249,2.3363
+2011/12,2011,C,14,skatt / skatten / skatter,3,147,1.3792
+2011/12,2011,C,23,partier / ta / ansvar,1,91,0.8538
+2011/12,2011,C,13,äldre / äldreomsorgen / pensionärer,1,87,0.8163
+2011/12,2011,C,3,polisen / brott / poliser,1,81,0.76
+2011/12,2011,C,18,partier / ta / politiska,1,14,0.1314
+2011/12,2011,C,7,sd / nej / ta,1,2,0.0188
+2011/12,2011,KD,-1,Ej grupperade,67,5279,56.0166
+2011/12,2011,KD,9,barn / barnen / föräldrar,12,989,10.4945
+2011/12,2011,KD,12,vården / vård / sjukvården,11,962,10.208
+2011/12,2011,KD,5,utsläppen / eu / kärnkraft,6,505,5.3587
+2011/12,2011,KD,13,äldre / äldreomsorgen / pensionärer,6,472,5.0085
+2011/12,2011,KD,24,se / sveriges / världen,4,245,2.5997
+2011/12,2011,KD,6,migrationspolitik / flyktingar / invandring,2,187,1.9843
+2011/12,2011,KD,8,skolan / lärare / skola,2,178,1.8888
+2011/12,2011,KD,23,partier / ta / ansvar,2,136,1.4431
+2011/12,2011,KD,17,fn / afghanistan / fn s,1,94,0.9975
+2011/12,2011,KD,0,sjöstedts / företag / min,1,89,0.9444
+2011/12,2011,KD,18,partier / ta / politiska,1,88,0.9338
+2011/12,2011,KD,2,kvinnor / män / kvinnors,1,86,0.9126
+2011/12,2011,KD,3,polisen / brott / poliser,1,83,0.8807
+2011/12,2011,KD,4,bostäder / hyresrätter / marknadshyror,1,28,0.2971
+2011/12,2011,KD,7,sd / nej / ta,1,3,0.0318
+2011/12,2011,L,-1,Ej grupperade,52,4089,34.6966
+2011/12,2011,L,8,skolan / lärare / skola,41,3213,27.2635
+2011/12,2011,L,16,eu / europa / europeiska,11,947,8.0356
+2011/12,2011,L,2,kvinnor / män / kvinnors,11,706,5.9907
+2011/12,2011,L,5,utsläppen / eu / kärnkraft,9,700,5.9398
+2011/12,2011,L,22,jobb / arbetslösheten / arbetsmarknaden,9,631,5.3543
+2011/12,2011,L,11,euron / valuta / europa,6,504,4.2766
+2011/12,2011,L,6,migrationspolitik / flyktingar / invandring,4,309,2.622
+2011/12,2011,L,18,partier / ta / politiska,3,191,1.6207
+2011/12,2011,L,0,sjöstedts / företag / min,2,156,1.3237
+2011/12,2011,L,19,skatten / miljarder / skatt,2,90,0.7637
+2011/12,2011,L,23,partier / ta / ansvar,2,89,0.7552
+2011/12,2011,L,17,fn / afghanistan / fn s,1,80,0.6788
+2011/12,2011,L,15,jobb / arbetslösheten / arbetsmarknaden,2,43,0.3649
+2011/12,2011,L,7,sd / nej / ta,4,37,0.314
+2011/12,2011,M,-1,Ej grupperade,100,7793,51.4457
+2011/12,2011,M,5,utsläppen / eu / kärnkraft,20,1487,9.8165
+2011/12,2011,M,22,jobb / arbetslösheten / arbetsmarknaden,15,1310,8.648
+2011/12,2011,M,11,euron / valuta / europa,14,1181,7.7964
+2011/12,2011,M,15,jobb / arbetslösheten / arbetsmarknaden,10,531,3.5054
+2011/12,2011,M,8,skolan / lärare / skola,6,530,3.4988
+2011/12,2011,M,23,partier / ta / ansvar,5,444,2.9311
+2011/12,2011,M,13,äldre / äldreomsorgen / pensionärer,5,393,2.5944
+2011/12,2011,M,0,sjöstedts / företag / min,5,307,2.0267
+2011/12,2011,M,14,skatt / skatten / skatter,3,252,1.6636
+2011/12,2011,M,18,partier / ta / politiska,4,219,1.4457
+2011/12,2011,M,16,eu / europa / europeiska,2,190,1.2543
+2011/12,2011,M,19,skatten / miljarder / skatt,2,172,1.1355
+2011/12,2011,M,7,sd / nej / ta,8,129,0.8516
+2011/12,2011,M,9,barn / barnen / föräldrar,1,86,0.5677
+2011/12,2011,M,6,migrationspolitik / flyktingar / invandring,1,86,0.5677
+2011/12,2011,M,24,se / sveriges / världen,1,38,0.2509
+2011/12,2011,MP,-1,Ej grupperade,92,6956,42.2652
+2011/12,2011,MP,5,utsläppen / eu / kärnkraft,63,4800,29.1651
+2011/12,2011,MP,8,skolan / lärare / skola,17,1258,7.6437
+2011/12,2011,MP,9,barn / barnen / föräldrar,8,641,3.8948
+2011/12,2011,MP,15,jobb / arbetslösheten / arbetsmarknaden,8,595,3.6153
+2011/12,2011,MP,13,äldre / äldreomsorgen / pensionärer,6,487,2.959
+2011/12,2011,MP,19,skatten / miljarder / skatt,3,265,1.6102
+2011/12,2011,MP,3,polisen / brott / poliser,2,186,1.1301
+2011/12,2011,MP,23,partier / ta / ansvar,3,175,1.0633
+2011/12,2011,MP,2,kvinnor / män / kvinnors,2,175,1.0633
+2011/12,2011,MP,22,jobb / arbetslösheten / arbetsmarknaden,2,163,0.9904
+2011/12,2011,MP,1,emu / folkomröstning / eu,2,142,0.8628
+2011/12,2011,MP,11,euron / valuta / europa,1,96,0.5833
+2011/12,2011,MP,16,eu / europa / europeiska,1,94,0.5712
+2011/12,2011,MP,6,migrationspolitik / flyktingar / invandring,1,87,0.5286
+2011/12,2011,MP,24,se / sveriges / världen,1,87,0.5286
+2011/12,2011,MP,0,sjöstedts / företag / min,1,86,0.5225
+2011/12,2011,MP,18,partier / ta / politiska,2,80,0.4861
+2011/12,2011,MP,17,fn / afghanistan / fn s,1,78,0.4739
+2011/12,2011,MP,7,sd / nej / ta,2,7,0.0425
+2011/12,2011,S,-1,Ej grupperade,141,10691,65.3005
+2011/12,2011,S,8,skolan / lärare / skola,20,1553,9.4857
+2011/12,2011,S,15,jobb / arbetslösheten / arbetsmarknaden,10,845,5.1613
+2011/12,2011,S,22,jobb / arbetslösheten / arbetsmarknaden,7,568,3.4693
+2011/12,2011,S,2,kvinnor / män / kvinnors,7,523,3.1945
+2011/12,2011,S,23,partier / ta / ansvar,5,324,1.979
+2011/12,2011,S,16,eu / europa / europeiska,3,190,1.1605
+2011/12,2011,S,18,partier / ta / politiska,2,182,1.1117
+2011/12,2011,S,4,bostäder / hyresrätter / marknadshyror,2,178,1.0872
+2011/12,2011,S,21,nato / försvaret / militära,2,176,1.075
+2011/12,2011,S,12,vården / vård / sjukvården,2,172,1.0506
+2011/12,2011,S,5,utsläppen / eu / kärnkraft,2,165,1.0078
+2011/12,2011,S,24,se / sveriges / världen,3,108,0.6597
+2011/12,2011,S,10,perssons / går / lite,1,101,0.6169
+2011/12,2011,S,11,euron / valuta / europa,2,99,0.6047
+2011/12,2011,S,19,skatten / miljarder / skatt,2,98,0.5986
+2011/12,2011,S,6,migrationspolitik / flyktingar / invandring,1,92,0.5619
+2011/12,2011,S,14,skatt / skatten / skatter,1,84,0.5131
+2011/12,2011,S,1,emu / folkomröstning / eu,1,82,0.5009
+2011/12,2011,S,17,fn / afghanistan / fn s,1,75,0.4581
+2011/12,2011,S,9,barn / barnen / föräldrar,1,38,0.2321
+2011/12,2011,S,7,sd / nej / ta,2,28,0.171
+2011/12,2011,SD,-1,Ej grupperade,95,7470,54.4104
+2011/12,2011,SD,6,migrationspolitik / flyktingar / invandring,25,2036,14.8299
+2011/12,2011,SD,3,polisen / brott / poliser,14,1140,8.3036
+2011/12,2011,SD,22,jobb / arbetslösheten / arbetsmarknaden,8,619,4.5087
+2011/12,2011,SD,8,skolan / lärare / skola,6,420,3.0592
+2011/12,2011,SD,2,kvinnor / män / kvinnors,3,281,2.0468
+2011/12,2011,SD,24,se / sveriges / världen,3,277,2.0176
+2011/12,2011,SD,19,skatten / miljarder / skatt,3,253,1.8428
+2011/12,2011,SD,15,jobb / arbetslösheten / arbetsmarknaden,3,239,1.7408
+2011/12,2011,SD,5,utsläppen / eu / kärnkraft,3,218,1.5879
+2011/12,2011,SD,16,eu / europa / europeiska,2,190,1.3839
+2011/12,2011,SD,23,partier / ta / ansvar,2,176,1.282
+2011/12,2011,SD,0,sjöstedts / företag / min,2,116,0.8449
+2011/12,2011,SD,12,vården / vård / sjukvården,1,100,0.7284
+2011/12,2011,SD,18,partier / ta / politiska,1,93,0.6774
+2011/12,2011,SD,11,euron / valuta / europa,1,92,0.6701
+2011/12,2011,SD,7,sd / nej / ta,6,9,0.0656
+2011/12,2011,V,-1,Ej grupperade,106,8232,50.4938
+2011/12,2011,V,5,utsläppen / eu / kärnkraft,33,2426,14.8807
+2011/12,2011,V,15,jobb / arbetslösheten / arbetsmarknaden,13,890,5.4591
+2011/12,2011,V,11,euron / valuta / europa,10,772,4.7353
+2011/12,2011,V,13,äldre / äldreomsorgen / pensionärer,9,751,4.6065
+2011/12,2011,V,22,jobb / arbetslösheten / arbetsmarknaden,8,678,4.1587
+2011/12,2011,V,2,kvinnor / män / kvinnors,9,651,3.9931
+2011/12,2011,V,6,migrationspolitik / flyktingar / invandring,6,524,3.2141
+2011/12,2011,V,19,skatten / miljarder / skatt,5,339,2.0794
+2011/12,2011,V,9,barn / barnen / föräldrar,4,204,1.2513
+2011/12,2011,V,16,eu / europa / europeiska,2,170,1.0428
+2011/12,2011,V,18,partier / ta / politiska,2,123,0.7545
+2011/12,2011,V,24,se / sveriges / världen,2,93,0.5704
+2011/12,2011,V,8,skolan / lärare / skola,1,90,0.552
+2011/12,2011,V,4,bostäder / hyresrätter / marknadshyror,1,85,0.5214
+2011/12,2011,V,12,vården / vård / sjukvården,1,82,0.503
+2011/12,2011,V,3,polisen / brott / poliser,1,81,0.4968
+2011/12,2011,V,23,partier / ta / ansvar,2,78,0.4784
+2011/12,2011,V,7,sd / nej / ta,6,34,0.2086

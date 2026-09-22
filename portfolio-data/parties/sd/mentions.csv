@@ -1,0 +1,94 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Jimmie Åkesson,SD,Stefan Löfven,person,366,125,2.0169
+Jimmie Åkesson,SD,S,party,260,130,1.4328
+Jimmie Åkesson,SD,Jan Björklund,person,171,63,0.9423
+Jimmie Åkesson,SD,MP,party,170,76,0.9368
+Jimmie Åkesson,SD,Annie Lööf,person,141,59,0.777
+Jimmie Åkesson,SD,Jonas Sjöstedt,person,141,52,0.777
+Jimmie Åkesson,SD,Magdalena Andersson,person,141,73,0.777
+Jimmie Åkesson,SD,V,party,119,65,0.6558
+Jimmie Åkesson,SD,L,party,87,50,0.4794
+Jimmie Åkesson,SD,Gustav Fridolin,person,76,31,0.4188
+Jimmie Åkesson,SD,M,party,74,38,0.4078
+Jimmie Åkesson,SD,Anna Kinberg Batra,person,70,25,0.3857
+Jimmie Åkesson,SD,C,party,70,48,0.3857
+Jimmie Åkesson,SD,Fredrik Reinfeldt,person,62,29,0.3417
+Jimmie Åkesson,SD,Nooshi Dadgostar,person,60,32,0.3306
+Jimmie Åkesson,SD,Göran Hägglund,person,58,22,0.3196
+Jimmie Åkesson,SD,Ulf Kristersson,person,50,27,0.2755
+Jimmie Åkesson,SD,Mikael Damberg,person,44,15,0.2425
+Jimmie Åkesson,SD,Johan Pehrson,person,43,23,0.237
+Jimmie Åkesson,SD,Åsa Romson,person,40,17,0.2204
+Jimmie Åkesson,SD,Andreas Carlson,person,31,17,0.1708
+Jimmie Åkesson,SD,Isabella Lövin,person,30,17,0.1653
+Jimmie Åkesson,SD,Lars Ohly,person,30,7,0.1653
+Jimmie Åkesson,SD,Håkan Juholt,person,27,7,0.1488
+Jimmie Åkesson,SD,Mona Sahlin,person,23,7,0.1267
+Jimmie Åkesson,SD,Anders W Jonsson,person,22,9,0.1212
+Mattias Karlsson,SD,Stefan Löfven,person,21,9,4.0377
+Jimmie Åkesson,SD,Per Bolund,person,19,10,0.1047
+Jimmie Åkesson,SD,KD,party,15,13,0.0827
+Jimmie Åkesson,SD,Muharrem Demirok,person,15,11,0.0827
+Martin Kinnunen,SD,S,party,14,4,5.2297
+Björn Söder,SD,Annie Lööf,person,11,4,2.3976
+Björn Söder,SD,S,party,10,3,2.1796
+Jimmie Åkesson,SD,Daniel Helldén,person,10,7,0.0551
+Mattias Karlsson,SD,Anna Kinberg Batra,person,10,4,1.9227
+Björn Söder,SD,Jan Björklund,person,9,2,1.9616
+Björn Söder,SD,MP,party,8,3,1.7437
+Mattias Karlsson,SD,C,party,8,3,1.5382
+Mattias Karlsson,SD,M,party,8,5,1.5382
+Oscar Sjöstedt,SD,S,party,8,3,3.4904
+Jimmie Åkesson,SD,Märta Stenevi,person,7,5,0.0386
+Björn Söder,SD,L,party,6,2,1.3078
+Jimmie Åkesson,SD,Ebba Busch,person,6,6,0.0331
+Jimmie Åkesson,SD,Maria Wetterstrand,person,6,2,0.0331
+Martin Kinnunen,SD,Magdalena Andersson,person,6,2,2.2413
+Mattias Karlsson,SD,Annie Lööf,person,6,3,1.1536
+Oscar Sjöstedt,SD,C,party,6,3,2.6178
+Björn Söder,SD,V,party,5,2,1.0898
+Henrik Vinge,SD,S,party,5,3,2.28
+Jimmie Åkesson,SD,Maud Olofsson,person,5,4,0.0276
+Jimmie Åkesson,SD,Oscar Sjöstedt,person,5,3,0.0276
+Jimmie Åkesson,SD,Rickard Nordin,person,5,5,0.0276
+Mattias Karlsson,SD,MP,party,5,2,0.9614
+Jimmie Åkesson,SD,Amanda Lind,person,4,3,0.022
+Mattias Karlsson,SD,Gustav Fridolin,person,4,1,0.7691
+Björn Söder,SD,Mikael Damberg,person,3,2,0.6539
+Henrik Vinge,SD,Magdalena Andersson,person,3,2,1.368
+Henrik Vinge,SD,Nooshi Dadgostar,person,3,2,1.368
+Jimmie Åkesson,SD,Peter Eriksson,person,3,2,0.0165
+Martin Kinnunen,SD,Jimmie Åkesson,person,3,1,1.1207
+Mattias Karlsson,SD,Jonas Sjöstedt,person,3,1,0.5768
+Oscar Sjöstedt,SD,Muharrem Demirok,person,3,2,1.3089
+Björn Söder,SD,C,party,2,1,0.4359
+Björn Söder,SD,Fredrik Reinfeldt,person,2,2,0.4359
+Björn Söder,SD,Jimmie Åkesson,person,2,1,0.4359
+Björn Söder,SD,Jonas Sjöstedt,person,2,2,0.4359
+Björn Söder,SD,Åsa Romson,person,2,1,0.4359
+Henrik Vinge,SD,C,party,2,2,0.912
+Henrik Vinge,SD,Rickard Nordin,person,2,2,0.912
+Henrik Vinge,SD,V,party,2,1,0.912
+Jimmie Åkesson,SD,Elisabeth Thand Ringqvist,person,2,2,0.011
+Jimmie Åkesson,SD,Göran Persson,person,2,2,0.011
+Jimmie Åkesson,SD,Mattias Karlsson,person,2,2,0.011
+Jimmie Åkesson,SD,Simona Mohamsson,person,2,2,0.011
+Martin Kinnunen,SD,MP,party,2,1,0.7471
+Martin Kinnunen,SD,Muharrem Demirok,person,2,2,0.7471
+Martin Kinnunen,SD,Per Bolund,person,2,2,0.7471
+Mattias Karlsson,SD,Jan Björklund,person,2,2,0.3845
+Mattias Karlsson,SD,Jimmie Åkesson,person,2,2,0.3845
+Mattias Karlsson,SD,L,party,2,1,0.3845
+Mattias Karlsson,SD,S,party,2,1,0.3845
+Mattias Karlsson,SD,V,party,2,2,0.3845
+Oscar Sjöstedt,SD,Nooshi Dadgostar,person,2,2,0.8726
+Oscar Sjöstedt,SD,V,party,2,1,0.8726
+Henrik Vinge,SD,Daniel Helldén,person,1,1,0.456
+Henrik Vinge,SD,MP,party,1,1,0.456
+Jimmie Åkesson,SD,Ebba Busch Thor,person,1,1,0.0055
+Jimmie Åkesson,SD,Jakob Forssmed,person,1,1,0.0055
+Jimmie Åkesson,SD,NYD,party,1,1,0.0055
+Martin Kinnunen,SD,Johan Pehrson,person,1,1,0.3736
+Martin Kinnunen,SD,Nooshi Dadgostar,person,1,1,0.3736
+Mattias Karlsson,SD,Göran Hägglund,person,1,1,0.1923
+Oscar Sjöstedt,SD,Per Bolund,person,1,1,0.4363

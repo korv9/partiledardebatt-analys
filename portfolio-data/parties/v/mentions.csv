@@ -1,0 +1,154 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Lars Ohly,V,Fredrik Reinfeldt,person,151,78,1.5677
+Jonas Sjöstedt,V,Jan Björklund,person,138,71,1.0358
+Gudrun Schyman,V,Göran Persson,person,134,59,1.3167
+Jonas Sjöstedt,V,Jimmie Åkesson,person,130,61,0.9757
+Nooshi Dadgostar,V,SD,party,120,54,2.27
+Jonas Sjöstedt,V,Annie Lööf,person,117,79,0.8782
+Gudrun Schyman,V,Bo Lundgren,person,108,37,1.0612
+Nooshi Dadgostar,V,Ulf Kristersson,person,104,56,1.9673
+Nooshi Dadgostar,V,Ebba Busch,person,101,48,1.9106
+Lars Ohly,V,Jan Björklund,person,99,48,1.0278
+Lars Ohly,V,Maud Olofsson,person,99,52,1.0278
+Lars Ohly,V,Göran Hägglund,person,93,51,0.9656
+Jonas Sjöstedt,V,SD,party,92,55,0.6905
+Jonas Sjöstedt,V,M,party,87,52,0.653
+Nooshi Dadgostar,V,M,party,77,40,1.4566
+Gudrun Schyman,V,S,party,76,45,0.7468
+Gudrun Schyman,V,M,party,73,45,0.7173
+Jonas Sjöstedt,V,MP,party,71,50,0.5329
+Gudrun Schyman,V,Lars Leijonborg,person,68,35,0.6682
+Jonas Sjöstedt,V,C,party,68,40,0.5104
+Nooshi Dadgostar,V,Jimmie Åkesson,person,68,39,1.2863
+Jonas Sjöstedt,V,S,party,66,50,0.4954
+Lars Ohly,V,M,party,65,41,0.6748
+Gudrun Schyman,V,Ingvar Carlsson,person,61,19,0.5994
+Lars Ohly,V,L,party,58,27,0.6022
+Nooshi Dadgostar,V,C,party,57,33,1.0783
+Lars Ohly,V,S,party,56,39,0.5814
+Gudrun Schyman,V,Olof Johansson,person,54,21,0.5306
+Gudrun Schyman,V,Lars Tobisson,person,53,24,0.5208
+Nooshi Dadgostar,V,Johan Pehrson,person,51,28,0.9648
+Nooshi Dadgostar,V,Annie Lööf,person,47,20,0.8891
+Jonas Sjöstedt,V,Ulf Kristersson,person,46,29,0.3453
+Jonas Sjöstedt,V,KD,party,45,34,0.3378
+Jonas Sjöstedt,V,Fredrik Reinfeldt,person,43,29,0.3227
+Gudrun Schyman,V,L,party,42,24,0.4127
+Jonas Sjöstedt,V,Stefan Löfven,person,39,37,0.2927
+Jonas Sjöstedt,V,L,party,37,31,0.2777
+Lars Ohly,V,C,party,37,21,0.3841
+Lars Ohly,V,Lars Leijonborg,person,37,19,0.3841
+Gudrun Schyman,V,Carl Bildt,person,36,18,0.3537
+Nooshi Dadgostar,V,S,party,34,20,0.6432
+Jonas Sjöstedt,V,Anna Kinberg Batra,person,33,19,0.2477
+Lars Ohly,V,MP,party,31,19,0.3219
+Nooshi Dadgostar,V,KD,party,29,16,0.5486
+Jonas Sjöstedt,V,Göran Hägglund,person,28,19,0.2102
+Jonas Sjöstedt,V,Gustav Fridolin,person,27,21,0.2027
+Gudrun Schyman,V,C,party,26,20,0.2555
+Johan Lönnroth,V,Carl Bildt,person,26,5,4.6737
+Jonas Sjöstedt,V,Ebba Busch,person,23,15,0.1726
+Nooshi Dadgostar,V,L,party,23,15,0.4351
+Gudrun Schyman,V,Alf Svensson,person,22,13,0.2162
+Jonas Sjöstedt,V,Anders W Jonsson,person,21,12,0.1576
+Lars Ohly,V,Göran Persson,person,20,13,0.2076
+Gudrun Schyman,V,MP,party,19,18,0.1867
+Jonas Sjöstedt,V,Ebba Busch Thor,person,19,13,0.1426
+Lars Ohly,V,Mona Sahlin,person,19,14,0.1973
+Nooshi Dadgostar,V,Muharrem Demirok,person,19,9,0.3594
+Jonas Sjöstedt,V,Mikael Damberg,person,18,12,0.1351
+Gudrun Schyman,V,Lennart Daléus,person,17,11,0.167
+Lars Ohly,V,KD,party,16,12,0.1661
+Gudrun Schyman,V,Bengt Westerberg,person,13,5,0.1277
+Ingrid Burman,V,Lars Leijonborg,person,12,5,1.9249
+Jonas Sjöstedt,V,Isabella Lövin,person,12,9,0.0901
+Lars Ohly,V,Peter Eriksson,person,12,4,0.1246
+Ingrid Burman,V,L,party,11,5,1.7645
+Johan Lönnroth,V,Alf Svensson,person,11,3,1.9774
+Johan Lönnroth,V,Olof Johansson,person,11,4,1.9774
+Jonas Sjöstedt,V,Åsa Romson,person,11,9,0.0826
+Lars Ohly,V,SD,party,11,4,0.1142
+Ulla Hoffmann,V,Göran Persson,person,11,4,2.9475
+Lars Ohly,V,Jimmie Åkesson,person,10,6,0.1038
+Gudrun Schyman,V,Lena Ek,person,9,6,0.0884
+Ingrid Burman,V,Fredrik Reinfeldt,person,8,4,1.2833
+Jonas Sjöstedt,V,Andreas Carlson,person,8,5,0.06
+Jonas Sjöstedt,V,Johan Pehrson,person,8,4,0.06
+Nooshi Dadgostar,V,Magdalena Andersson,person,8,7,0.1513
+Nooshi Dadgostar,V,Simona Mohamsson,person,8,7,0.1513
+Alice Åström,V,Maud Olofsson,person,7,3,1.4147
+Ingrid Burman,V,Alf Svensson,person,7,2,1.1229
+Ingrid Burman,V,Bo Lundgren,person,7,3,1.1229
+Ingrid Burman,V,Göran Persson,person,7,3,1.1229
+Johan Lönnroth,V,S,party,7,4,1.2583
+Jonas Sjöstedt,V,Mattias Karlsson,person,7,2,0.0525
+Lars Ohly,V,Maria Wetterstrand,person,7,5,0.0727
+Lars Ohly,V,Mats Odell,person,7,4,0.0727
+Nooshi Dadgostar,V,Elisabeth Thand Ringqvist,person,7,4,0.1324
+Gudrun Schyman,V,Eva Eriksson,person,6,1,0.059
+Ingrid Burman,V,MP,party,6,4,0.9625
+Lars Ohly,V,Håkan Juholt,person,6,3,0.0623
+Alice Åström,V,Göran Hägglund,person,5,4,1.0105
+Ingrid Burman,V,S,party,5,3,0.8021
+Jonas Sjöstedt,V,Per Bolund,person,5,3,0.0375
+Lars Ohly,V,Carl Bildt,person,5,2,0.0519
+Nooshi Dadgostar,V,MP,party,5,4,0.0946
+Nooshi Dadgostar,V,Per Bolund,person,5,3,0.0946
+Nooshi Dadgostar,V,Rickard Nordin,person,5,4,0.0946
+Ingrid Burman,V,M,party,4,3,0.6416
+Johan Lönnroth,V,M,party,4,2,0.719
+Jonas Sjöstedt,V,Carl Bildt,person,4,3,0.03
+Ulla Hoffmann,V,Alf Svensson,person,4,2,1.0718
+Alice Åström,V,KD,party,3,2,0.6063
+Alice Åström,V,L,party,3,2,0.6063
+Gudrun Schyman,V,Anna Lindh,person,3,3,0.0295
+Gudrun Schyman,V,Birger Schlaug,person,3,3,0.0295
+Gudrun Schyman,V,KD,party,3,3,0.0295
+Gudrun Schyman,V,Ulla Hoffmann,person,3,1,0.0295
+Johan Lönnroth,V,Bengt Westerberg,person,3,3,0.5393
+Johan Lönnroth,V,Gudrun Schyman,person,3,2,0.5393
+Jonas Sjöstedt,V,Håkan Juholt,person,3,2,0.0225
+Lars Ohly,V,Annie Lööf,person,3,3,0.0311
+Lars Ohly,V,Gustav Fridolin,person,3,2,0.0311
+Lars Ohly,V,Roger Tiefensee,person,3,2,0.0311
+Nooshi Dadgostar,V,Isabella Lövin,person,3,1,0.0568
+Nooshi Dadgostar,V,Oscar Sjöstedt,person,3,3,0.0568
+Nooshi Dadgostar,V,Stefan Löfven,person,3,3,0.0568
+Ulla Hoffmann,V,Bo Lundgren,person,3,2,0.8039
+Alice Åström,V,Lars Leijonborg,person,2,2,0.4042
+Alice Åström,V,M,party,2,2,0.4042
+Alice Åström,V,MP,party,2,2,0.4042
+Ingrid Burman,V,KD,party,2,2,0.3208
+Ingrid Burman,V,Maud Olofsson,person,2,1,0.3208
+Johan Lönnroth,V,Göran Persson,person,2,2,0.3595
+Johan Lönnroth,V,L,party,2,2,0.3595
+Jonas Sjöstedt,V,Jakob Forssmed,person,2,2,0.015
+Jonas Sjöstedt,V,Lars Ohly,person,2,2,0.015
+Jonas Sjöstedt,V,Lena Ek,person,2,2,0.015
+Lars Ohly,V,Bengt Westerberg,person,2,2,0.0208
+Lars Ohly,V,Åsa Romson,person,2,2,0.0208
+Nooshi Dadgostar,V,Björn Söder,person,2,2,0.0378
+Nooshi Dadgostar,V,Fredrik Reinfeldt,person,2,2,0.0378
+Nooshi Dadgostar,V,Henrik Vinge,person,2,1,0.0378
+Ulla Hoffmann,V,Lars Leijonborg,person,2,2,0.5359
+Alice Åström,V,Lars Ohly,person,1,1,0.2021
+Gudrun Schyman,V,Maria Wetterstrand,person,1,1,0.0098
+Gudrun Schyman,V,Mona Sahlin,person,1,1,0.0098
+Gudrun Schyman,V,SD,party,1,1,0.0098
+Ingrid Burman,V,Lars Ohly,person,1,1,0.1604
+Ingrid Burman,V,Maria Wetterstrand,person,1,1,0.1604
+Johan Lönnroth,V,Anna Lindh,person,1,1,0.1798
+Johan Lönnroth,V,Birger Schlaug,person,1,1,0.1798
+Johan Lönnroth,V,Ingvar Carlsson,person,1,1,0.1798
+Johan Lönnroth,V,KD,party,1,1,0.1798
+Johan Lönnroth,V,Lars Leijonborg,person,1,1,0.1798
+Jonas Sjöstedt,V,Björn Söder,person,1,1,0.0075
+Jonas Sjöstedt,V,Maud Olofsson,person,1,1,0.0075
+Jonas Sjöstedt,V,NYD,party,1,1,0.0075
+Lars Ohly,V,Bo Lundgren,person,1,1,0.0104
+Lars Ohly,V,Jonas Sjöstedt,person,1,1,0.0104
+Lars Ohly,V,Lars Tobisson,person,1,1,0.0104
+Nooshi Dadgostar,V,Göran Hägglund,person,1,1,0.0189
+Ulla Hoffmann,V,L,party,1,1,0.268
+Ulla Hoffmann,V,MP,party,1,1,0.268
+Willy Söderdahl,V,L,party,1,1,0.8319

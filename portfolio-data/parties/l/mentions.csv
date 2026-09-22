@@ -1,0 +1,145 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Lars Leijonborg,L,Göran Persson,person,289,102,2.4846
+Lars Leijonborg,L,S,party,275,97,2.3642
+Jan Björklund,L,S,party,225,129,1.5765
+Jan Björklund,L,Jonas Sjöstedt,person,180,74,1.2612
+Jan Björklund,L,Lars Ohly,person,172,55,1.2052
+Jan Björklund,L,Mona Sahlin,person,167,67,1.1701
+Jan Björklund,L,Stefan Löfven,person,129,63,0.9039
+Jan Björklund,L,Jimmie Åkesson,person,125,59,0.8758
+Jan Björklund,L,V,party,122,61,0.8548
+Jan Björklund,L,MP,party,119,75,0.8338
+Lars Leijonborg,L,Gudrun Schyman,person,117,46,1.0059
+Lars Leijonborg,L,V,party,102,51,0.8769
+Bengt Westerberg,L,S,party,97,13,7.2502
+Johan Pehrson,L,V,party,76,41,1.297
+Lars Leijonborg,L,MP,party,73,42,0.6276
+Jan Björklund,L,Gustav Fridolin,person,70,40,0.4905
+Johan Pehrson,L,Jimmie Åkesson,person,66,37,1.1264
+Johan Pehrson,L,SD,party,57,35,0.9728
+Jan Björklund,L,SD,party,53,31,0.3714
+Jan Björklund,L,Åsa Romson,person,52,26,0.3644
+Jan Björklund,L,Mikael Damberg,person,51,28,0.3573
+Johan Pehrson,L,S,party,48,33,0.8192
+Lars Leijonborg,L,Lars Ohly,person,46,21,0.3955
+Bengt Westerberg,L,Ingvar Carlsson,person,45,13,3.3635
+Jan Björklund,L,Håkan Juholt,person,45,15,0.3153
+Johan Pehrson,L,Magdalena Andersson,person,45,26,0.768
+Lars Leijonborg,L,Olof Johansson,person,43,20,0.3697
+Johan Pehrson,L,MP,party,35,23,0.5973
+Lars Leijonborg,L,M,party,35,21,0.3009
+Jan Björklund,L,Maria Wetterstrand,person,33,19,0.2312
+Johan Pehrson,L,Nooshi Dadgostar,person,33,21,0.5632
+Jan Björklund,L,Peter Eriksson,person,32,19,0.2242
+Simona Mohamsson,L,S,party,28,14,4.1512
+Lars Leijonborg,L,Mona Sahlin,person,24,16,0.2063
+Johan Pehrson,L,C,party,23,16,0.3925
+Lars Leijonborg,L,Ingvar Carlsson,person,23,11,0.1977
+Lars Leijonborg,L,Peter Eriksson,person,22,14,0.1891
+Bengt Westerberg,L,Gudrun Schyman,person,21,5,1.5696
+Simona Mohamsson,L,V,party,21,10,3.1134
+Jan Björklund,L,Isabella Lövin,person,19,10,0.1331
+Lars Leijonborg,L,Birger Schlaug,person,19,12,0.1633
+Johan Pehrson,L,M,party,17,12,0.2901
+Simona Mohamsson,L,MP,party,17,8,2.5204
+Eva Eriksson,L,Göran Persson,person,16,6,5.1999
+Simona Mohamsson,L,Magdalena Andersson,person,16,12,2.3721
+Jan Björklund,L,M,party,15,7,0.1051
+Johan Pehrson,L,KD,party,15,12,0.256
+Simona Mohamsson,L,C,party,14,9,2.0756
+Jan Björklund,L,Göran Persson,person,13,10,0.0911
+Johan Pehrson,L,Muharrem Demirok,person,13,10,0.2219
+Simona Mohamsson,L,Nooshi Dadgostar,person,13,8,1.9274
+Johan Pehrson,L,Ebba Busch,person,12,10,0.2048
+Johan Pehrson,L,Jonas Sjöstedt,person,12,7,0.2048
+Lars Leijonborg,L,Bo Lundgren,person,12,8,0.1032
+Lars Leijonborg,L,Fredrik Reinfeldt,person,12,10,0.1032
+Johan Pehrson,L,Per Bolund,person,11,9,0.1877
+Lars Leijonborg,L,Alf Svensson,person,11,7,0.0946
+Lars Leijonborg,L,Carl Bildt,person,11,8,0.0946
+Lars Leijonborg,L,Matz Hammarström,person,11,8,0.0946
+Jan Björklund,L,Ulf Kristersson,person,10,7,0.0701
+Bengt Westerberg,L,V,party,9,5,0.6727
+Jan Björklund,L,Annie Lööf,person,9,7,0.0631
+Jan Björklund,L,Ingvar Carlsson,person,9,8,0.0631
+Lars Leijonborg,L,Maria Wetterstrand,person,9,7,0.0774
+Jan Björklund,L,KD,party,8,6,0.0561
+Jan Björklund,L,Magdalena Andersson,person,8,5,0.0561
+Johan Pehrson,L,Annie Lööf,person,8,7,0.1365
+Johan Pehrson,L,Ulf Kristersson,person,8,4,0.1365
+Karl-Göran Biörsmark,L,Lars Ohly,person,8,4,3.9331
+Lars Leijonborg,L,Maud Olofsson,person,8,7,0.0688
+Jan Björklund,L,Ebba Busch,person,7,6,0.049
+Johan Pehrson,L,Amanda Lind,person,7,4,0.1195
+Karl-Göran Biörsmark,L,V,party,7,3,3.4415
+Simona Mohamsson,L,Amanda Lind,person,7,6,1.0378
+Eva Eriksson,L,S,party,6,3,1.95
+Jan Björklund,L,Mattias Karlsson,person,6,3,0.042
+Johan Pehrson,L,Stefan Löfven,person,6,5,0.1024
+Lars Leijonborg,L,Jan Björklund,person,6,4,0.0516
+Bengt Westerberg,L,Göran Persson,person,5,5,0.3737
+Bo Könberg,L,S,party,5,2,2.784
+Eva Eriksson,L,Gudrun Schyman,person,5,2,1.625
+Jan Björklund,L,Ebba Busch Thor,person,5,5,0.035
+Jan Björklund,L,Fredrik Reinfeldt,person,5,4,0.035
+Lars Leijonborg,L,Alice Åström,person,5,2,0.043
+Lars Leijonborg,L,Ingrid Burman,person,5,3,0.043
+Simona Mohamsson,L,Jimmie Åkesson,person,5,3,0.7413
+Alf Svensson,L,Göran Persson,person,4,1,24.0964
+Bengt Westerberg,L,NYD,party,4,2,0.299
+Eva Eriksson,L,Birger Schlaug,person,4,2,1.3
+Johan Pehrson,L,Isabella Lövin,person,4,3,0.0683
+Lars Leijonborg,L,Lennart Daléus,person,4,4,0.0344
+Lars Leijonborg,L,Marianne Samuelsson,person,4,4,0.0344
+Lars Leijonborg,L,Ulla Hoffmann,person,4,3,0.0344
+Simona Mohamsson,L,Daniel Helldén,person,4,2,0.593
+Bengt Westerberg,L,Birger Schlaug,person,3,2,0.2242
+Bengt Westerberg,L,Mona Sahlin,person,3,3,0.2242
+Jan Björklund,L,Maud Olofsson,person,3,2,0.021
+Jan Björklund,L,Oscar Sjöstedt,person,3,3,0.021
+Johan Pehrson,L,Berndt Ekholm,person,3,1,0.0512
+Johan Pehrson,L,Daniel Helldén,person,3,3,0.0512
+Johan Pehrson,L,Ebba Busch Thor,person,3,2,0.0512
+Johan Pehrson,L,Rickard Nordin,person,3,2,0.0512
+Lars Leijonborg,L,Göran Hägglund,person,3,3,0.0258
+Simona Mohamsson,L,SD,party,3,3,0.4448
+Bengt Westerberg,L,Carl Bildt,person,2,1,0.1495
+Bengt Westerberg,L,Harriet Colliander,person,2,1,0.1495
+Bo Könberg,L,MP,party,2,1,1.1136
+Bo Könberg,L,Marianne Samuelsson,person,2,2,1.1136
+Eva Eriksson,L,NYD,party,2,1,0.65
+Eva Eriksson,L,Olof Johansson,person,2,1,0.65
+Jan Björklund,L,C,party,2,2,0.014
+Jan Björklund,L,Carl Bildt,person,2,2,0.014
+Jan Björklund,L,Gudrun Schyman,person,2,2,0.014
+Jan Björklund,L,Göran Hägglund,person,2,1,0.014
+Jan Björklund,L,Per Bolund,person,2,1,0.014
+Johan Pehrson,L,Märta Stenevi,person,2,2,0.0341
+Johan Pehrson,L,Peter Eriksson,person,2,2,0.0341
+Karl-Göran Biörsmark,L,MP,party,2,2,0.9833
+Lars Leijonborg,L,Bengt Westerberg,person,2,2,0.0172
+Lars Leijonborg,L,C,party,2,2,0.0172
+Lars Leijonborg,L,KD,party,2,2,0.0172
+Lars Leijonborg,L,Lars Tobisson,person,2,2,0.0172
+Simona Mohamsson,L,Elisabeth Thand Ringqvist,person,2,2,0.2965
+Simona Mohamsson,L,Henrik Vinge,person,2,2,0.2965
+Alf Svensson,L,S,party,1,1,6.0241
+Bengt Westerberg,L,M,party,1,1,0.0747
+Eva Eriksson,L,C,party,1,1,0.325
+Eva Eriksson,L,V,party,1,1,0.325
+Harald Nordlund,L,Göran Persson,person,1,1,0.8078
+Jan Björklund,L,Anna Lindh,person,1,1,0.007
+Jan Björklund,L,Bengt Westerberg,person,1,1,0.007
+Jan Björklund,L,Björn Söder,person,1,1,0.007
+Jan Björklund,L,Roger Tiefensee,person,1,1,0.007
+Johan Pehrson,L,Göran Persson,person,1,1,0.0171
+Johan Pehrson,L,Martin Kinnunen,person,1,1,0.0171
+Karl-Göran Biörsmark,L,Gudrun Schyman,person,1,1,0.4916
+Karl-Göran Biörsmark,L,S,party,1,1,0.4916
+Lars Leijonborg,L,Bo Könberg,person,1,1,0.0086
+Lars Leijonborg,L,Lena Ek,person,1,1,0.0086
+Lars Leijonborg,L,NYD,party,1,1,0.0086
+Olof Johansson,L,Birger Schlaug,person,1,1,3.5714
+Olof Johansson,L,Gudrun Schyman,person,1,1,3.5714
+Simona Mohamsson,L,Peter Eriksson,person,1,1,0.1483
+Simona Mohamsson,L,Rickard Nordin,person,1,1,0.1483

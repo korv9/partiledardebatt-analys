@@ -1,0 +1,107 @@
+﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
+2004/05,2004,C,-1,Ej grupperade,105,8619,59.0545
+2004/05,2004,C,16,eu / europa / europeiska,26,2201,15.0805
+2004/05,2004,C,5,utsläppen / eu / kärnkraft,18,1446,9.9075
+2004/05,2004,C,8,skolan / lärare / skola,6,523,3.5834
+2004/05,2004,C,15,jobb / arbetslösheten / arbetsmarknaden,3,278,1.9048
+2004/05,2004,C,22,jobb / arbetslösheten / arbetsmarknaden,3,221,1.5142
+2004/05,2004,C,19,skatten / miljarder / skatt,3,188,1.2881
+2004/05,2004,C,12,vården / vård / sjukvården,2,183,1.2539
+2004/05,2004,C,2,kvinnor / män / kvinnors,2,183,1.2539
+2004/05,2004,C,3,polisen / brott / poliser,2,181,1.2402
+2004/05,2004,C,24,se / sveriges / världen,2,141,0.9661
+2004/05,2004,C,23,partier / ta / ansvar,1,94,0.6441
+2004/05,2004,C,11,euron / valuta / europa,1,93,0.6372
+2004/05,2004,C,21,nato / försvaret / militära,1,82,0.5618
+2004/05,2004,C,10,perssons / går / lite,1,81,0.555
+2004/05,2004,C,13,äldre / äldreomsorgen / pensionärer,1,81,0.555
+2004/05,2004,KD,-1,Ej grupperade,67,5339,46.9404
+2004/05,2004,KD,16,eu / europa / europeiska,20,1627,14.3046
+2004/05,2004,KD,5,utsläppen / eu / kärnkraft,12,911,8.0095
+2004/05,2004,KD,3,polisen / brott / poliser,8,666,5.8555
+2004/05,2004,KD,9,barn / barnen / föräldrar,8,660,5.8027
+2004/05,2004,KD,18,partier / ta / politiska,6,394,3.464
+2004/05,2004,KD,23,partier / ta / ansvar,4,365,3.2091
+2004/05,2004,KD,12,vården / vård / sjukvården,4,325,2.8574
+2004/05,2004,KD,13,äldre / äldreomsorgen / pensionärer,3,255,2.242
+2004/05,2004,KD,24,se / sveriges / världen,3,190,1.6705
+2004/05,2004,KD,19,skatten / miljarder / skatt,2,174,1.5298
+2004/05,2004,KD,21,nato / försvaret / militära,2,169,1.4858
+2004/05,2004,KD,22,jobb / arbetslösheten / arbetsmarknaden,2,164,1.4419
+2004/05,2004,KD,15,jobb / arbetslösheten / arbetsmarknaden,1,69,0.6066
+2004/05,2004,KD,6,migrationspolitik / flyktingar / invandring,1,59,0.5187
+2004/05,2004,KD,7,sd / nej / ta,2,7,0.0615
+2004/05,2004,L,-1,Ej grupperade,81,6514,59.1214
+2004/05,2004,L,16,eu / europa / europeiska,10,877,7.9597
+2004/05,2004,L,8,skolan / lärare / skola,9,756,6.8615
+2004/05,2004,L,5,utsläppen / eu / kärnkraft,9,714,6.4803
+2004/05,2004,L,10,perssons / går / lite,6,440,3.9935
+2004/05,2004,L,22,jobb / arbetslösheten / arbetsmarknaden,5,420,3.8119
+2004/05,2004,L,13,äldre / äldreomsorgen / pensionärer,5,399,3.6213
+2004/05,2004,L,12,vården / vård / sjukvården,4,340,3.0859
+2004/05,2004,L,15,jobb / arbetslösheten / arbetsmarknaden,3,251,2.2781
+2004/05,2004,L,18,partier / ta / politiska,3,183,1.6609
+2004/05,2004,L,23,partier / ta / ansvar,1,93,0.8441
+2004/05,2004,L,7,sd / nej / ta,3,28,0.2541
+2004/05,2004,L,24,se / sveriges / världen,1,3,0.0272
+2004/05,2004,M,-1,Ej grupperade,96,7808,54.7968
+2004/05,2004,M,16,eu / europa / europeiska,14,1262,8.8568
+2004/05,2004,M,8,skolan / lärare / skola,12,1115,7.8251
+2004/05,2004,M,10,perssons / går / lite,13,904,6.3443
+2004/05,2004,M,5,utsläppen / eu / kärnkraft,8,632,4.4354
+2004/05,2004,M,23,partier / ta / ansvar,8,621,4.3582
+2004/05,2004,M,15,jobb / arbetslösheten / arbetsmarknaden,5,452,3.1722
+2004/05,2004,M,22,jobb / arbetslösheten / arbetsmarknaden,4,370,2.5967
+2004/05,2004,M,13,äldre / äldreomsorgen / pensionärer,4,350,2.4563
+2004/05,2004,M,18,partier / ta / politiska,3,271,1.9019
+2004/05,2004,M,19,skatten / miljarder / skatt,2,172,1.2071
+2004/05,2004,M,14,skatt / skatten / skatter,1,102,0.7158
+2004/05,2004,M,12,vården / vård / sjukvården,1,88,0.6176
+2004/05,2004,M,21,nato / försvaret / militära,1,84,0.5895
+2004/05,2004,M,7,sd / nej / ta,2,18,0.1263
+2004/05,2004,MP,-1,Ej grupperade,65,5099,43.2082
+2004/05,2004,MP,5,utsläppen / eu / kärnkraft,43,3458,29.3026
+2004/05,2004,MP,16,eu / europa / europeiska,15,1274,10.7957
+2004/05,2004,MP,6,migrationspolitik / flyktingar / invandring,4,334,2.8303
+2004/05,2004,MP,21,nato / försvaret / militära,4,304,2.5761
+2004/05,2004,MP,15,jobb / arbetslösheten / arbetsmarknaden,4,290,2.4574
+2004/05,2004,MP,10,perssons / går / lite,2,180,1.5253
+2004/05,2004,MP,19,skatten / miljarder / skatt,2,169,1.4321
+2004/05,2004,MP,11,euron / valuta / europa,2,169,1.4321
+2004/05,2004,MP,8,skolan / lärare / skola,1,96,0.8135
+2004/05,2004,MP,22,jobb / arbetslösheten / arbetsmarknaden,1,91,0.7711
+2004/05,2004,MP,12,vården / vård / sjukvården,1,86,0.7288
+2004/05,2004,MP,17,fn / afghanistan / fn s,1,85,0.7203
+2004/05,2004,MP,18,partier / ta / politiska,1,83,0.7033
+2004/05,2004,MP,4,bostäder / hyresrätter / marknadshyror,1,83,0.7033
+2004/05,2004,S,-1,Ej grupperade,152,11818,64.8628
+2004/05,2004,S,5,utsläppen / eu / kärnkraft,22,1705,9.3578
+2004/05,2004,S,16,eu / europa / europeiska,20,1661,9.1164
+2004/05,2004,S,18,partier / ta / politiska,10,565,3.101
+2004/05,2004,S,8,skolan / lärare / skola,6,526,2.8869
+2004/05,2004,S,24,se / sveriges / världen,5,341,1.8716
+2004/05,2004,S,15,jobb / arbetslösheten / arbetsmarknaden,4,339,1.8606
+2004/05,2004,S,13,äldre / äldreomsorgen / pensionärer,5,292,1.6026
+2004/05,2004,S,23,partier / ta / ansvar,3,218,1.1965
+2004/05,2004,S,2,kvinnor / män / kvinnors,2,176,0.966
+2004/05,2004,S,22,jobb / arbetslösheten / arbetsmarknaden,2,168,0.9221
+2004/05,2004,S,3,polisen / brott / poliser,2,138,0.7574
+2004/05,2004,S,21,nato / försvaret / militära,1,92,0.5049
+2004/05,2004,S,19,skatten / miljarder / skatt,1,85,0.4665
+2004/05,2004,S,14,skatt / skatten / skatter,1,60,0.3293
+2004/05,2004,S,7,sd / nej / ta,4,36,0.1976
+2004/05,2004,V,-1,Ej grupperade,89,6569,52.9929
+2004/05,2004,V,16,eu / europa / europeiska,19,1534,12.375
+2004/05,2004,V,5,utsläppen / eu / kärnkraft,21,1463,11.8022
+2004/05,2004,V,18,partier / ta / politiska,11,808,6.5182
+2004/05,2004,V,2,kvinnor / män / kvinnors,6,409,3.2995
+2004/05,2004,V,15,jobb / arbetslösheten / arbetsmarknaden,5,386,3.1139
+2004/05,2004,V,1,emu / folkomröstning / eu,4,312,2.5169
+2004/05,2004,V,22,jobb / arbetslösheten / arbetsmarknaden,3,238,1.92
+2004/05,2004,V,19,skatten / miljarder / skatt,3,188,1.5166
+2004/05,2004,V,17,fn / afghanistan / fn s,3,183,1.4763
+2004/05,2004,V,3,polisen / brott / poliser,1,83,0.6696
+2004/05,2004,V,4,bostäder / hyresrätter / marknadshyror,1,81,0.6534
+2004/05,2004,V,11,euron / valuta / europa,1,73,0.5889
+2004/05,2004,V,21,nato / försvaret / militära,1,60,0.484
+2004/05,2004,V,7,sd / nej / ta,2,9,0.0726

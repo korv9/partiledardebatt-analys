@@ -1,0 +1,201 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Birger Schlaug,MP,Göran Persson,person,100,26,2.065
+Peter Eriksson,MP,M,party,98,43,1.6722
+Birger Schlaug,MP,S,party,96,34,1.9824
+Birger Schlaug,MP,M,party,88,34,1.8172
+Gustav Fridolin,MP,Jan Björklund,person,63,34,1.0463
+Per Bolund,MP,SD,party,63,32,2.9047
+Birger Schlaug,MP,Ingvar Carlsson,person,56,13,1.1564
+Gustav Fridolin,MP,SD,party,54,26,0.8968
+Åsa Romson,MP,Annie Lööf,person,53,28,1.1058
+Gustav Fridolin,MP,M,party,52,31,0.8636
+Isabella Lövin,MP,SD,party,52,30,1.5714
+Gustav Fridolin,MP,Jimmie Åkesson,person,50,27,0.8304
+Peter Eriksson,MP,Maud Olofsson,person,50,33,0.8532
+Isabella Lövin,MP,Ebba Busch,person,48,20,1.4505
+Peter Eriksson,MP,S,party,48,30,0.819
+Maria Wetterstrand,MP,M,party,47,20,1.0176
+Birger Schlaug,MP,L,party,46,21,0.9499
+Åsa Romson,MP,M,party,46,20,0.9598
+Isabella Lövin,MP,M,party,45,33,1.3598
+Peter Eriksson,MP,Fredrik Reinfeldt,person,45,33,0.7679
+Isabella Lövin,MP,Annie Lööf,person,42,20,1.2692
+Isabella Lövin,MP,Jimmie Åkesson,person,42,28,1.2692
+Åsa Romson,MP,Jan Björklund,person,40,19,0.8346
+Gustav Fridolin,MP,Annie Lööf,person,39,24,0.6477
+Gustav Fridolin,MP,KD,party,39,23,0.6477
+Matz Hammarström,MP,Bo Lundgren,person,39,13,2.3279
+Åsa Romson,MP,C,party,39,22,0.8137
+Per Bolund,MP,M,party,35,19,1.6137
+Åsa Romson,MP,Fredrik Reinfeldt,person,34,18,0.7094
+Birger Schlaug,MP,Lars Leijonborg,person,33,16,0.6815
+Isabella Lövin,MP,Ulf Kristersson,person,33,22,0.9972
+Per Bolund,MP,Ulf Kristersson,person,32,16,1.4754
+Gustav Fridolin,MP,Jonas Sjöstedt,person,31,18,0.5148
+Gustav Fridolin,MP,V,party,31,18,0.5148
+Maria Wetterstrand,MP,S,party,31,17,0.6712
+Isabella Lövin,MP,Jan Björklund,person,30,19,0.9066
+Birger Schlaug,MP,Alf Svensson,person,29,11,0.5989
+Maria Wetterstrand,MP,Maud Olofsson,person,29,18,0.6279
+Matz Hammarström,MP,Alf Svensson,person,29,16,1.731
+Märta Stenevi,MP,SD,party,29,17,2.9412
+Peter Eriksson,MP,Göran Hägglund,person,29,19,0.4948
+Per Bolund,MP,Jimmie Åkesson,person,27,11,1.2449
+Daniel Helldén,MP,SD,party,26,14,2.0973
+Isabella Lövin,MP,Ebba Busch Thor,person,26,11,0.7857
+Per Bolund,MP,KD,party,26,14,1.1988
+Åsa Romson,MP,S,party,26,14,0.5425
+Åsa Romson,MP,SD,party,26,15,0.5425
+Gustav Fridolin,MP,C,party,25,16,0.4152
+Gustav Fridolin,MP,L,party,25,13,0.4152
+Per Bolund,MP,L,party,25,11,1.1527
+Peter Eriksson,MP,L,party,25,17,0.4266
+Maria Wetterstrand,MP,C,party,24,14,0.5196
+Birger Schlaug,MP,KD,party,23,11,0.475
+Birger Schlaug,MP,Lars Tobisson,person,23,12,0.475
+Birger Schlaug,MP,Olof Johansson,person,23,14,0.475
+Maria Wetterstrand,MP,Fredrik Reinfeldt,person,23,17,0.498
+Per Bolund,MP,Ebba Busch,person,23,13,1.0604
+Peter Eriksson,MP,KD,party,23,13,0.3925
+Birger Schlaug,MP,C,party,22,12,0.4543
+Isabella Lövin,MP,KD,party,22,16,0.6648
+Amanda Lind,MP,SD,party,20,10,1.8843
+Birger Schlaug,MP,Carl Bildt,person,20,8,0.413
+Marianne Samuelsson,MP,M,party,20,9,1.1614
+Per Bolund,MP,Johan Pehrson,person,20,9,0.9221
+Gustav Fridolin,MP,Göran Hägglund,person,19,14,0.3156
+Maria Wetterstrand,MP,Lars Leijonborg,person,19,10,0.4114
+Marianne Samuelsson,MP,Olof Johansson,person,19,7,1.1034
+Peter Eriksson,MP,Lars Leijonborg,person,19,14,0.3242
+Åsa Romson,MP,Jimmie Åkesson,person,19,13,0.3964
+Åsa Romson,MP,V,party,19,11,0.3964
+Amanda Lind,MP,L,party,18,9,1.6959
+Maria Wetterstrand,MP,L,party,18,10,0.3897
+Åsa Romson,MP,Jonas Sjöstedt,person,18,12,0.3756
+Birger Schlaug,MP,Lennart Daléus,person,17,8,0.3511
+Daniel Helldén,MP,Jimmie Åkesson,person,17,9,1.3713
+Peter Eriksson,MP,Alf Svensson,person,17,8,0.2901
+Amanda Lind,MP,Ebba Busch,person,16,9,1.5074
+Maria Wetterstrand,MP,V,party,16,9,0.3464
+Per Bolund,MP,C,party,16,8,0.7377
+Birger Schlaug,MP,V,party,15,9,0.3098
+Gustav Fridolin,MP,Fredrik Reinfeldt,person,15,11,0.2491
+Marianne Samuelsson,MP,Carl Bildt,person,15,7,0.8711
+Matz Hammarström,MP,Lars Leijonborg,person,15,9,0.8954
+Gustav Fridolin,MP,Anna Kinberg Batra,person,14,11,0.2325
+Isabella Lövin,MP,Jonas Sjöstedt,person,14,11,0.4231
+Matz Hammarström,MP,M,party,14,10,0.8357
+Amanda Lind,MP,Jimmie Åkesson,person,13,8,1.2248
+Amanda Lind,MP,Ulf Kristersson,person,13,9,1.2248
+Daniel Helldén,MP,Ebba Busch,person,13,11,1.0486
+Daniel Helldén,MP,L,party,13,8,1.0486
+Maria Wetterstrand,MP,KD,party,13,10,0.2815
+Peter Eriksson,MP,V,party,13,10,0.2218
+Åsa Romson,MP,L,party,13,8,0.2712
+Birger Schlaug,MP,Bo Lundgren,person,12,5,0.2478
+Gustav Fridolin,MP,S,party,12,10,0.1993
+Maria Wetterstrand,MP,Jan Björklund,person,12,9,0.2598
+Märta Stenevi,MP,L,party,12,9,1.217
+Peter Eriksson,MP,Göran Persson,person,12,10,0.2048
+Peter Eriksson,MP,Lars Ohly,person,12,6,0.2048
+Åsa Romson,MP,Mikael Damberg,person,12,7,0.2504
+Gustav Fridolin,MP,Anders W Jonsson,person,11,4,0.1827
+Isabella Lövin,MP,C,party,11,8,0.3324
+Isabella Lövin,MP,L,party,11,7,0.3324
+Maria Wetterstrand,MP,Göran Hägglund,person,11,8,0.2382
+Marianne Samuelsson,MP,Göran Persson,person,11,6,0.6388
+Märta Stenevi,MP,Jimmie Åkesson,person,11,7,1.1156
+Märta Stenevi,MP,M,party,11,4,1.1156
+Per Bolund,MP,Jan Björklund,person,11,3,0.5072
+Åsa Romson,MP,Göran Hägglund,person,11,10,0.2295
+Isabella Lövin,MP,Anna Kinberg Batra,person,10,8,0.3022
+Marianne Samuelsson,MP,L,party,10,5,0.5807
+Marianne Samuelsson,MP,S,party,10,7,0.5807
+Märta Stenevi,MP,Ebba Busch,person,10,7,1.0142
+Märta Stenevi,MP,Johan Pehrson,person,10,5,1.0142
+Per Bolund,MP,V,party,10,4,0.4611
+Peter Eriksson,MP,Jan Björklund,person,10,9,0.1706
+Daniel Helldén,MP,Ulf Kristersson,person,9,7,0.726
+Gustav Fridolin,MP,Andreas Carlson,person,9,7,0.1495
+Isabella Lövin,MP,V,party,9,5,0.272
+Per Bolund,MP,Annie Lööf,person,9,7,0.415
+Amanda Lind,MP,KD,party,8,6,0.7537
+Amanda Lind,MP,Simona Mohamsson,person,8,6,0.7537
+Maria Wetterstrand,MP,Göran Persson,person,8,4,0.1732
+Peter Eriksson,MP,Bo Lundgren,person,8,6,0.1365
+Daniel Helldén,MP,KD,party,7,7,0.5647
+Daniel Helldén,MP,M,party,7,7,0.5647
+Gustav Fridolin,MP,Maud Olofsson,person,7,5,0.1163
+Gustav Fridolin,MP,Ulf Kristersson,person,7,6,0.1163
+Marianne Samuelsson,MP,Ingvar Carlsson,person,7,1,0.4065
+Marianne Samuelsson,MP,Lars Tobisson,person,7,2,0.4065
+Matz Hammarström,MP,Göran Persson,person,7,4,0.4178
+Matz Hammarström,MP,KD,party,7,5,0.4178
+Matz Hammarström,MP,L,party,7,5,0.4178
+Märta Stenevi,MP,KD,party,7,4,0.7099
+Märta Stenevi,MP,Ulf Kristersson,person,7,6,0.7099
+Åsa Romson,MP,Anna Kinberg Batra,person,7,3,0.146
+Åsa Romson,MP,KD,party,7,3,0.146
+Amanda Lind,MP,Johan Pehrson,person,6,3,0.5653
+Birger Schlaug,MP,Mats Odell,person,6,3,0.1239
+Maria Wetterstrand,MP,Alf Svensson,person,6,4,0.1299
+Maria Wetterstrand,MP,Mona Sahlin,person,6,4,0.1299
+Marianne Samuelsson,MP,Lars Leijonborg,person,6,4,0.3484
+Matz Hammarström,MP,Lennart Daléus,person,6,5,0.3581
+Märta Stenevi,MP,Annie Lööf,person,6,3,0.6085
+Per Bolund,MP,Martin Kinnunen,person,6,4,0.2766
+Birger Schlaug,MP,Gudrun Schyman,person,5,4,0.1033
+Lotta N Hedström,MP,M,party,5,3,1.6244
+Maria Wetterstrand,MP,Gudrun Schyman,person,5,3,0.1083
+Marianne Samuelsson,MP,Alf Svensson,person,5,1,0.2904
+Marianne Samuelsson,MP,Mats Odell,person,5,3,0.2904
+Matz Hammarström,MP,Lena Ek,person,5,3,0.2985
+Matz Hammarström,MP,S,party,5,5,0.2985
+Per Bolund,MP,Nooshi Dadgostar,person,5,4,0.2305
+Per Bolund,MP,Oscar Sjöstedt,person,5,2,0.2305
+Per Bolund,MP,S,party,5,4,0.2305
+Peter Eriksson,MP,C,party,5,3,0.0853
+Amanda Lind,MP,M,party,4,4,0.3769
+Birger Schlaug,MP,Bengt Westerberg,person,4,3,0.0826
+Birger Schlaug,MP,Eva Eriksson,person,4,3,0.0826
+Birger Schlaug,MP,Marianne Samuelsson,person,4,4,0.0826
+Daniel Helldén,MP,V,party,4,2,0.3227
+Gustav Fridolin,MP,Isabella Lövin,person,4,4,0.0664
+Gustav Fridolin,MP,Mattias Karlsson,person,4,3,0.0664
+Lotta N Hedström,MP,S,party,4,3,1.2995
+Maria Wetterstrand,MP,Roger Tiefensee,person,4,3,0.0866
+Peter Eriksson,MP,SD,party,4,3,0.0683
+Amanda Lind,MP,C,party,3,2,0.2826
+Amanda Lind,MP,Daniel Helldén,person,3,3,0.2826
+Amanda Lind,MP,Elisabeth Thand Ringqvist,person,3,2,0.2826
+Birger Schlaug,MP,Anna Lindh,person,3,2,0.062
+Birger Schlaug,MP,Mona Sahlin,person,3,2,0.062
+Daniel Helldén,MP,Amanda Lind,person,3,3,0.242
+Daniel Helldén,MP,Johan Pehrson,person,3,3,0.242
+Gustav Fridolin,MP,Björn Söder,person,3,3,0.0498
+Gustav Fridolin,MP,Lars Ohly,person,3,3,0.0498
+Isabella Lövin,MP,Andreas Carlson,person,3,3,0.0907
+Isabella Lövin,MP,Johan Pehrson,person,3,3,0.0907
+Maria Wetterstrand,MP,Bo Lundgren,person,3,2,0.065
+Marianne Samuelsson,MP,C,party,3,3,0.1742
+Per Bolund,MP,Ebba Busch Thor,person,3,3,0.1383
+Peter Eriksson,MP,Alice Åström,person,3,2,0.0512
+Peter Eriksson,MP,Mona Sahlin,person,3,3,0.0512
+Åsa Romson,MP,Anders W Jonsson,person,3,3,0.0626
+Birger Schlaug,MP,Peter Eriksson,person,2,2,0.0413
+Daniel Helldén,MP,C,party,2,2,0.1613
+Daniel Helldén,MP,Henrik Vinge,person,2,2,0.1613
+Lotta N Hedström,MP,L,party,2,2,0.6498
+Lotta N Hedström,MP,Lars Leijonborg,person,2,2,0.6498
+Maria Wetterstrand,MP,Ingrid Burman,person,2,1,0.0433
+Marianne Samuelsson,MP,KD,party,2,2,0.1161
+Marianne Samuelsson,MP,V,party,2,2,0.1161
+Matz Hammarström,MP,C,party,2,2,0.1194
+Matz Hammarström,MP,Gudrun Schyman,person,2,2,0.1194
+Matz Hammarström,MP,V,party,2,2,0.1194
+Märta Stenevi,MP,Stefan Löfven,person,2,1,0.2028
+Per Bolund,MP,Jonas Sjöstedt,person,2,1,0.0922
+Per Bolund,MP,Magdalena Andersson,person,2,2,0.0922
+Peter Eriksson,MP,Jimmie Åkesson,person,2,2,0.0341
+Åsa Romson,MP,Björn Söder,person,2,1,0.0417
+Birger Schlaug,MP,Johan Lönnroth,person,1,1,0.0207

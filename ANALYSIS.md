@@ -30,6 +30,7 @@ Enskilda steg:
 .\.venv\Scripts\dbt build --profiles-dir .
 .\.venv\Scripts\dbt docs generate --profiles-dir .
 .\.venv\Scripts\python scripts/export_report.py
+.\.venv\Scripts\python scripts/export_portfolio.py
 ```
 
 ## Tabeller
@@ -73,5 +74,18 @@ select * from mart_mentions where kind='person' and not self_mention order by me
 `dbt build` kontrollerar nycklar, relationer, täckning av analyserade tal, segmentlängd, ändliga koordinater, ämnesandelarnas summa och att likhetspar inte består av samma person. Originalimportens tester körs med `python -m unittest -v`.
 
 Rapporten är fristående och innehåller diagramkoden lokalt. Originaltexter öppnas via länkar till Riksdagen. Den är inte publicerad på internet. Genererade data, modeller och rapportfiler ignoreras av Git.
+
+## Guldlager för portfolio
+
+`scripts/export_portfolio.py` exporterar de färdiga dbt-modellerna till `portfolio-data/`. Katalogen kan kopieras direkt till exempelvis `public/data/partiledardebatter/` i en portfolio.
+
+- `manifest.json` listar varje fil, radantal, storlek och beskrivning.
+- `overview.json` innehåller totalsiffror och metodmetadata.
+- `topics/summary.json` är den lilla ämnesöversikten.
+- `sessions/<riksmöte>/topics.json` och `umap.json` gör att sidan kan ladda en period i taget.
+- `parties/<parti>/words.json`, `mentions.json` och `topics.json` gör att sidan kan ladda ett parti i taget.
+- `speakers/summary.json` och `similarity/top.json` innehåller talare respektive semantiskt liknande tal.
+
+JSON är avsett för webbgränssnittet. Motsvarande CSV finns för de tabeller där nedladdning och manuell kontroll är användbart. Fulltext, embeddings, råarkiv och databasfiler publiceras inte i guldlagret.
 
 Metodreferenser: [UMAP för klustring](https://umap-learn.readthedocs.io/en/latest/clustering.html), [språkmodell](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2), [dbt-duckdb](https://github.com/duckdb/dbt-duckdb).

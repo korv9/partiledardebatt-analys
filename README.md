@@ -4,6 +4,8 @@ Import av Riksdagens publicerade partiledardebatter till SQLite och CSV. Python 
 
 För ämnesmodell, UMAP-karta, ordstatistik, omnämnanden och liknande tal finns nu ett separat **dbt + DuckDB-projekt**. Se [ANALYSIS.md](ANALYSIS.md) för installation, modeller och körning. Den genererade interaktiva rapporten ligger i `reports/analys.html`.
 
+Webboptimerade filer för en portfolio genereras till `portfolio-data/`. Börja med `portfolio-data/manifest.json`.
+
 ```powershell
 python ingest.py
 python analyze.py

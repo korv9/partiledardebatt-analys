@@ -1,0 +1,27 @@
+﻿topic_id,topic_label,segments,speeches,words,word_share_pct,is_unclustered
+-1,Ej grupperade,19313,7516,1458079,49.7199,True
+5,utsläppen / eu / kärnkraft,5158,2403,388886,13.2609,False
+8,skolan / lärare / skola,1847,959,144266,4.9194,False
+16,eu / europa / europeiska,1173,665,89855,3.064,False
+15,jobb / arbetslösheten / arbetsmarknaden,1030,755,77798,2.6529,False
+6,migrationspolitik / flyktingar / invandring,905,598,71880,2.4511,False
+12,vården / vård / sjukvården,871,577,67432,2.2994,False
+2,kvinnor / män / kvinnors,868,523,67166,2.2903,False
+18,partier / ta / politiska,907,730,64467,2.1983,False
+22,jobb / arbetslösheten / arbetsmarknaden,725,571,58193,1.9844,False
+3,polisen / brott / poliser,730,464,54941,1.8735,False
+19,skatten / miljarder / skatt,687,571,49855,1.7,False
+9,barn / barnen / föräldrar,626,401,49256,1.6796,False
+23,partier / ta / ansvar,661,567,48809,1.6644,False
+13,äldre / äldreomsorgen / pensionärer,542,376,41863,1.4275,False
+10,perssons / går / lite,313,246,24280,0.8279,False
+21,nato / försvaret / militära,316,241,24239,0.8265,False
+20,ryssland / ukraina / ryska,288,204,22029,0.7512,False
+14,skatt / skatten / skatter,259,232,19586,0.6679,False
+11,euron / valuta / europa,245,170,19527,0.6659,False
+4,bostäder / hyresrätter / marknadshyror,252,165,18516,0.6314,False
+17,fn / afghanistan / fn s,246,148,18456,0.6293,False
+1,emu / folkomröstning / eu,230,169,18387,0.627,False
+24,se / sveriges / världen,250,228,15007,0.5117,False
+0,sjöstedts / företag / min,194,161,13817,0.4712,False
+7,sd / nej / ta,633,624,5996,0.2045,False

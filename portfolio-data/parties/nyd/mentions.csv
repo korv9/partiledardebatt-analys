@@ -1,0 +1,14 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Harriet Colliander,NYD,Ingvar Carlsson,person,11,4,2.4455
+Harriet Colliander,NYD,S,party,11,4,2.4455
+Ian Wachtmeister,NYD,Ingvar Carlsson,person,7,3,1.6671
+Ian Wachtmeister,NYD,Bengt Westerberg,person,5,1,1.1908
+Ian Wachtmeister,NYD,Carl Bildt,person,4,3,0.9526
+Harriet Colliander,NYD,Alf Svensson,person,3,3,0.667
+Harriet Colliander,NYD,Bengt Westerberg,person,3,2,0.667
+Ian Wachtmeister,NYD,Alf Svensson,person,3,1,0.7145
+Ian Wachtmeister,NYD,S,party,3,2,0.7145
+Harriet Colliander,NYD,Carl Bildt,person,2,2,0.4446
+Harriet Colliander,NYD,Olof Johansson,person,2,1,0.4446
+Ian Wachtmeister,NYD,L,party,1,1,0.2382
+Ian Wachtmeister,NYD,Mona Sahlin,person,1,1,0.2382

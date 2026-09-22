@@ -1,0 +1,157 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Alf Svensson,KD,Göran Persson,person,254,65,2.5673
+Göran Hägglund,KD,S,party,231,102,2.1519
+Alf Svensson,KD,S,party,172,62,1.7385
+Göran Hägglund,KD,Lars Ohly,person,136,70,1.2669
+Göran Hägglund,KD,V,party,111,61,1.034
+Göran Hägglund,KD,Mona Sahlin,person,95,51,0.885
+Alf Svensson,KD,Ingvar Carlsson,person,93,22,0.94
+Ebba Busch,KD,V,party,88,43,1.5419
+Göran Hägglund,KD,MP,party,87,58,0.8105
+Göran Hägglund,KD,Peter Eriksson,person,84,40,0.7825
+Göran Hägglund,KD,Göran Persson,person,79,30,0.7359
+Ebba Busch,KD,S,party,72,48,1.2615
+Ebba Busch,KD,MP,party,64,41,1.1214
+Ebba Busch,KD,C,party,61,33,1.0688
+Ebba Busch,KD,Magdalena Andersson,person,59,39,1.0338
+Göran Hägglund,KD,Jonas Sjöstedt,person,56,27,0.5217
+Andreas Carlson,KD,Stefan Löfven,person,50,21,2.3834
+Ebba Busch,KD,Nooshi Dadgostar,person,47,25,0.8235
+Göran Hägglund,KD,Jimmie Åkesson,person,47,20,0.4378
+Alf Svensson,KD,Olof Johansson,person,37,11,0.374
+Andreas Carlson,KD,Jimmie Åkesson,person,37,19,1.7638
+Göran Hägglund,KD,Mikael Damberg,person,36,19,0.3354
+Alf Svensson,KD,Gudrun Schyman,person,35,16,0.3538
+Alf Svensson,KD,V,party,35,20,0.3538
+Andreas Carlson,KD,Jonas Sjöstedt,person,34,17,1.6207
+Ebba Busch Thor,KD,Stefan Löfven,person,34,21,2.0365
+Göran Hägglund,KD,SD,party,34,14,0.3167
+Alf Svensson,KD,MP,party,33,25,0.3335
+Ebba Busch Thor,KD,S,party,31,17,1.8568
+Andreas Carlson,KD,SD,party,30,14,1.4301
+Andreas Carlson,KD,MP,party,28,14,1.3347
+Andreas Carlson,KD,Gustav Fridolin,person,25,13,1.1917
+Göran Hägglund,KD,Stefan Löfven,person,24,13,0.2236
+Ebba Busch Thor,KD,L,party,21,10,1.2579
+Alf Svensson,KD,M,party,20,10,0.2021
+Göran Hägglund,KD,Håkan Juholt,person,20,10,0.1863
+Ebba Busch,KD,Stefan Löfven,person,19,10,0.3329
+Alf Svensson,KD,Birger Schlaug,person,18,10,0.1819
+Alf Svensson,KD,C,party,18,10,0.1819
+Andreas Carlson,KD,V,party,18,14,0.858
+Ebba Busch Thor,KD,C,party,18,8,1.0782
+Andreas Carlson,KD,S,party,17,10,0.8104
+Alf Svensson,KD,Maria Wetterstrand,person,16,8,0.1617
+Andreas Carlson,KD,Isabella Lövin,person,15,8,0.715
+Ebba Busch,KD,SD,party,15,9,0.2628
+Göran Hägglund,KD,Gustav Fridolin,person,15,12,0.1397
+Göran Hägglund,KD,Maria Wetterstrand,person,14,10,0.1304
+Ebba Busch Thor,KD,Jonas Sjöstedt,person,13,11,0.7787
+Göran Hägglund,KD,Jan Björklund,person,13,10,0.1211
+Ebba Busch Thor,KD,MP,party,12,9,0.7188
+Göran Hägglund,KD,Åsa Romson,person,11,7,0.1025
+Ebba Busch,KD,L,party,10,7,0.1752
+Ebba Busch Thor,KD,Annie Lööf,person,10,9,0.599
+Ebba Busch Thor,KD,Jan Björklund,person,10,6,0.599
+Mats Odell,KD,Göran Persson,person,10,5,2.0978
+Alf Svensson,KD,Lars Leijonborg,person,9,9,0.091
+Ebba Busch,KD,Amanda Lind,person,9,7,0.1577
+Ebba Busch Thor,KD,V,party,9,7,0.5391
+Alf Svensson,KD,L,party,8,5,0.0809
+Alf Svensson,KD,Ulla Hoffmann,person,8,2,0.0809
+Göran Hägglund,KD,L,party,8,5,0.0745
+Jakob Forssmed,KD,Stefan Löfven,person,8,3,2.4977
+Mats Odell,KD,Birger Schlaug,person,8,3,1.6782
+Alf Svensson,KD,Peter Eriksson,person,7,3,0.0708
+Ebba Busch,KD,M,party,7,7,0.1226
+Jakob Forssmed,KD,Åsa Romson,person,7,2,2.1855
+Mats Odell,KD,Lars Ohly,person,7,4,1.4684
+Mats Odell,KD,Marianne Samuelsson,person,7,3,1.4684
+Alf Svensson,KD,Bo Lundgren,person,6,4,0.0606
+Camilla Brodin,KD,S,party,6,4,3.0753
+Ebba Busch,KD,Muharrem Demirok,person,6,5,0.1051
+Ebba Busch Thor,KD,M,party,6,5,0.3594
+Ebba Busch Thor,KD,SD,party,6,6,0.3594
+Göran Hägglund,KD,Alice Åström,person,6,3,0.0559
+Jakob Forssmed,KD,MP,party,6,2,1.8732
+Jakob Forssmed,KD,SD,party,6,2,1.8732
+Mats Odell,KD,MP,party,6,3,1.2587
+Mats Odell,KD,V,party,6,2,1.2587
+Alf Svensson,KD,Lars Tobisson,person,5,3,0.0505
+Ebba Busch,KD,Camilla Brodin,person,5,5,0.0876
+Ebba Busch,KD,Johan Pehrson,person,5,3,0.0876
+Ebba Busch,KD,Ulf Kristersson,person,5,5,0.0876
+Göran Hägglund,KD,Lars Leijonborg,person,5,2,0.0466
+Jakob Forssmed,KD,Jimmie Åkesson,person,5,2,1.561
+Alf Svensson,KD,Marianne Samuelsson,person,4,2,0.0404
+Alf Svensson,KD,Mona Sahlin,person,4,3,0.0404
+Alf Svensson,KD,NYD,party,4,3,0.0404
+Andreas Carlson,KD,Åsa Romson,person,4,2,0.1907
+Camilla Brodin,KD,Magdalena Andersson,person,4,2,2.0502
+Ebba Busch,KD,Annie Lööf,person,4,4,0.0701
+Ebba Busch,KD,Daniel Helldén,person,4,4,0.0701
+Ebba Busch Thor,KD,Isabella Lövin,person,4,4,0.2396
+Jakob Forssmed,KD,Jonas Sjöstedt,person,4,2,1.2488
+Jakob Forssmed,KD,S,party,4,3,1.2488
+Alf Svensson,KD,Carl Bildt,person,3,2,0.0303
+Camilla Brodin,KD,C,party,3,2,1.5377
+Ebba Busch,KD,Isabella Lövin,person,3,1,0.0526
+Ebba Busch,KD,Jonas Sjöstedt,person,3,2,0.0526
+Ebba Busch,KD,Per Bolund,person,3,2,0.0526
+Ebba Busch,KD,Rickard Nordin,person,3,2,0.0526
+Ebba Busch Thor,KD,Johan Pehrson,person,3,3,0.1797
+Göran Hägglund,KD,Annie Lööf,person,3,3,0.0279
+Göran Hägglund,KD,Fredrik Reinfeldt,person,3,3,0.0279
+Göran Hägglund,KD,M,party,3,2,0.0279
+Göran Hägglund,KD,Maud Olofsson,person,3,3,0.0279
+Ulf Björklund,KD,Harald Nordlund,person,3,2,2.3024
+Alf Svensson,KD,Harriet Colliander,person,2,1,0.0202
+Alf Svensson,KD,Ingrid Burman,person,2,1,0.0202
+Alf Svensson,KD,Lars Ohly,person,2,2,0.0202
+Alf Svensson,KD,Mats Odell,person,2,2,0.0202
+Alf Svensson,KD,Maud Olofsson,person,2,2,0.0202
+Andreas Carlson,KD,M,party,2,2,0.0953
+Camilla Brodin,KD,Muharrem Demirok,person,2,2,1.0251
+Ebba Busch,KD,Göran Persson,person,2,2,0.035
+Ebba Busch,KD,Jan Björklund,person,2,2,0.035
+Ebba Busch,KD,Jimmie Åkesson,person,2,2,0.035
+Ebba Busch Thor,KD,Anders W Jonsson,person,2,2,0.1198
+Ebba Busch Thor,KD,Jimmie Åkesson,person,2,2,0.1198
+Ebba Busch Thor,KD,Magdalena Andersson,person,2,2,0.1198
+Göran Hägglund,KD,Mattias Karlsson,person,2,1,0.0186
+Margareta Viklund,KD,Göran Persson,person,2,1,1.8018
+Mats Odell,KD,Gudrun Schyman,person,2,1,0.4196
+Mats Odell,KD,S,party,2,2,0.4196
+Alf Svensson,KD,Bengt Westerberg,person,1,1,0.0101
+Alf Svensson,KD,Göran Hägglund,person,1,1,0.0101
+Alf Svensson,KD,Johan Lönnroth,person,1,1,0.0101
+Alf Svensson,KD,Matz Hammarström,person,1,1,0.0101
+Andreas Carlson,KD,Göran Hägglund,person,1,1,0.0477
+Andreas Carlson,KD,Jan Björklund,person,1,1,0.0477
+Andreas Carlson,KD,L,party,1,1,0.0477
+Camilla Brodin,KD,Daniel Helldén,person,1,1,0.5126
+Camilla Brodin,KD,MP,party,1,1,0.5126
+Camilla Brodin,KD,Olof Johansson,person,1,1,0.5126
+Ebba Busch,KD,Anders W Jonsson,person,1,1,0.0175
+Ebba Busch,KD,Anna Kinberg Batra,person,1,1,0.0175
+Ebba Busch,KD,Elisabeth Thand Ringqvist,person,1,1,0.0175
+Ebba Busch,KD,Jakob Forssmed,person,1,1,0.0175
+Ebba Busch,KD,Märta Stenevi,person,1,1,0.0175
+Ebba Busch Thor,KD,Gustav Fridolin,person,1,1,0.0599
+Ebba Busch Thor,KD,Göran Hägglund,person,1,1,0.0599
+Ebba Busch Thor,KD,Göran Persson,person,1,1,0.0599
+Ebba Busch Thor,KD,Mikael Damberg,person,1,1,0.0599
+Ebba Busch Thor,KD,Per Bolund,person,1,1,0.0599
+Göran Hägglund,KD,Alf Svensson,person,1,1,0.0093
+Göran Hägglund,KD,Andreas Carlson,person,1,1,0.0093
+Göran Hägglund,KD,Björn Söder,person,1,1,0.0093
+Göran Hägglund,KD,Lars Tobisson,person,1,1,0.0093
+Göran Hägglund,KD,Magdalena Andersson,person,1,1,0.0093
+Margareta Viklund,KD,Anna Lindh,person,1,1,0.9009
+Mats Odell,KD,Anna Lindh,person,1,1,0.2098
+Mats Odell,KD,Bo Könberg,person,1,1,0.2098
+Mats Odell,KD,L,party,1,1,0.2098
+Mats Odell,KD,Lars Leijonborg,person,1,1,0.2098
+Mats Odell,KD,Lars Tobisson,person,1,1,0.2098
+Mats Odell,KD,M,party,1,1,0.2098
+Ulf Björklund,KD,L,party,1,1,0.7675

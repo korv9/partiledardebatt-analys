@@ -24,3 +24,23 @@ models:
     description: "Ordfrekvens per 1000 ord samt logaritmisk frekvenskvot mot övriga partier. Ordformer, inte lemmor."
   - name: mart_mentions
     description: "Konservativa namn- och partiomnämnanden; inte automatiskt kritik eller replikrelationer."
+  - name: gold_topic_summary
+    description: "Liten, publiceringsklar ämnesöversikt för portfolio."
+    columns:
+      - name: topic_id
+        data_tests: [unique, not_null]
+  - name: gold_topic_by_session_party
+    description: "Publiceringsklara ämnesandelar per riksmöte och parti."
+  - name: gold_party_words
+    description: "De 50 vanligaste och 50 mest särskiljande orden per parti."
+  - name: gold_mentions
+    description: "De 200 största omnämnandekopplingarna per talarparti."
+  - name: gold_speakers
+    description: "Talare med textmängd och datumintervall."
+  - name: gold_similar_speeches
+    description: "De 500 mest lika talen över partigränser med korta utdrag."
+  - name: gold_umap_points
+    description: "Deterministiskt urval, högst 400 UMAP-punkter per riksmöte."
+    columns:
+      - name: chunk_id
+        data_tests: [unique, not_null]

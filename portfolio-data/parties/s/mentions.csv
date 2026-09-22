@@ -1,0 +1,201 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Göran Persson,S,M,party,353,153,2.0229
+Stefan Löfven,S,SD,party,208,101,1.9737
+Göran Persson,S,L,party,194,82,1.1118
+Magdalena Andersson,S,Ulf Kristersson,person,176,84,3.188
+Stefan Löfven,S,M,party,166,95,1.5751
+Mona Sahlin,S,Maud Olofsson,person,143,47,2.4358
+Göran Persson,S,Lars Leijonborg,person,138,70,0.7908
+Mona Sahlin,S,Fredrik Reinfeldt,person,129,56,2.1973
+Magdalena Andersson,S,Jimmie Åkesson,person,121,62,2.1918
+Göran Persson,S,Alf Svensson,person,115,50,0.659
+Stefan Löfven,S,Jimmie Åkesson,person,107,62,1.0153
+Göran Persson,S,Lars Tobisson,person,106,28,0.6075
+Mona Sahlin,S,Göran Hägglund,person,100,43,1.7033
+Mona Sahlin,S,Jan Björklund,person,99,39,1.6863
+Göran Persson,S,Bo Lundgren,person,98,49,0.5616
+Magdalena Andersson,S,SD,party,95,62,1.7208
+Ingvar Carlsson,S,Carl Bildt,person,87,15,2.3128
+Ingvar Carlsson,S,M,party,83,27,2.2065
+Stefan Löfven,S,KD,party,79,49,0.7496
+Stefan Löfven,S,Jan Björklund,person,76,36,0.7212
+Göran Persson,S,V,party,68,39,0.3897
+Stefan Löfven,S,Annie Lööf,person,68,38,0.6452
+Göran Persson,S,Fredrik Reinfeldt,person,65,34,0.3725
+Göran Persson,S,C,party,64,44,0.3668
+Magdalena Andersson,S,Ebba Busch,person,64,34,1.1593
+Göran Persson,S,Maud Olofsson,person,61,29,0.3496
+Göran Persson,S,Carl Bildt,person,59,21,0.3381
+Göran Persson,S,Gudrun Schyman,person,58,32,0.3324
+Stefan Löfven,S,Anna Kinberg Batra,person,54,34,0.5124
+Ingvar Carlsson,S,Gudrun Schyman,person,53,16,1.409
+Magdalena Andersson,S,Johan Pehrson,person,53,26,0.96
+Ingvar Carlsson,S,Alf Svensson,person,50,15,1.3292
+Göran Persson,S,KD,party,49,37,0.2808
+Mona Sahlin,S,M,party,49,28,0.8346
+Ingvar Carlsson,S,V,party,44,13,1.1697
+Stefan Löfven,S,Jonas Sjöstedt,person,43,23,0.408
+Stefan Löfven,S,Ulf Kristersson,person,43,36,0.408
+Göran Persson,S,MP,party,41,33,0.235
+Ingvar Carlsson,S,Olof Johansson,person,41,18,1.09
+Magdalena Andersson,S,M,party,40,35,0.7245
+Mikael Damberg,S,M,party,38,20,0.854
+Stefan Löfven,S,Ebba Busch,person,37,24,0.3511
+Stefan Löfven,S,L,party,37,24,0.3511
+Mikael Damberg,S,Jan Björklund,person,34,20,0.7641
+Ingvar Carlsson,S,L,party,33,16,0.8773
+Mona Sahlin,S,MP,party,33,30,0.5621
+Mona Sahlin,S,L,party,30,15,0.511
+Mikael Damberg,S,Fredrik Reinfeldt,person,29,18,0.6517
+Mikael Damberg,S,L,party,29,18,0.6517
+Stefan Löfven,S,C,party,29,22,0.2752
+Ingvar Carlsson,S,Bengt Westerberg,person,28,12,0.7444
+Mikael Damberg,S,Annie Lööf,person,28,17,0.6293
+Göran Persson,S,Göran Hägglund,person,27,13,0.1547
+Mikael Damberg,S,Jimmie Åkesson,person,27,9,0.6068
+Göran Persson,S,Lennart Daléus,person,25,10,0.1433
+Magdalena Andersson,S,L,party,25,18,0.4528
+Göran Persson I Stjärnhov,S,Maud Olofsson,person,24,6,2.5759
+Mona Sahlin,S,V,party,24,20,0.4088
+Mikael Damberg,S,C,party,23,14,0.5169
+Mona Sahlin,S,C,party,23,15,0.3918
+Göran Persson,S,Peter Eriksson,person,22,13,0.1261
+Ingvar Carlsson,S,Lars Tobisson,person,22,9,0.5849
+Göran Persson,S,Olof Johansson,person,21,13,0.1203
+Ingvar Carlsson,S,Lars Leijonborg,person,21,8,0.5583
+Mikael Damberg,S,KD,party,21,14,0.4719
+Stefan Löfven,S,Ebba Busch Thor,person,21,14,0.1993
+Håkan Juholt,S,M,party,20,14,1.2244
+Magdalena Andersson,S,KD,party,20,20,0.3623
+Ingvar Carlsson,S,NYD,party,19,8,0.5051
+Mikael Damberg,S,SD,party,19,12,0.427
+Stefan Löfven,S,V,party,19,14,0.1803
+Göran Persson,S,Lars Ohly,person,18,10,0.1032
+Göran Persson,S,Maria Wetterstrand,person,18,11,0.1032
+Håkan Juholt,S,Fredrik Reinfeldt,person,18,15,1.1019
+Mona Sahlin,S,SD,party,17,10,0.2896
+Göran Persson,S,Lena Ek,person,16,8,0.0917
+Göran Persson I Stjärnhov,S,Lars Leijonborg,person,16,6,1.7173
+Ingvar Carlsson,S,MP,party,16,8,0.4254
+Mona Sahlin,S,KD,party,16,11,0.2725
+Ingvar Carlsson,S,C,party,15,12,0.3988
+Magdalena Andersson,S,C,party,15,10,0.2717
+Magdalena Andersson,S,MP,party,15,8,0.2717
+Ingvar Carlsson,S,Birger Schlaug,person,14,6,0.3722
+Göran Persson,S,Birger Schlaug,person,13,10,0.0745
+Stefan Löfven,S,Andreas Carlson,person,13,10,0.1234
+Göran Persson I Stjärnhov,S,M,party,12,8,1.288
+Mikael Damberg,S,Göran Hägglund,person,12,8,0.2697
+Håkan Juholt,S,Jan Björklund,person,11,7,0.6734
+Mona Sahlin,S,Jimmie Åkesson,person,11,6,0.1874
+Mona Sahlin,S,Lars Leijonborg,person,11,4,0.1874
+Mona Sahlin,S,Lars Ohly,person,11,11,0.1874
+Anna Lindh,S,Mats Odell,person,10,3,3.2051
+Göran Persson I Stjärnhov,S,Fredrik Reinfeldt,person,10,5,1.0733
+Magdalena Andersson,S,Björn Söder,person,10,6,0.1811
+Mikael Damberg,S,V,party,10,7,0.2247
+Stefan Löfven,S,Nooshi Dadgostar,person,10,4,0.0949
+Håkan Juholt,S,Göran Hägglund,person,9,6,0.551
+Magdalena Andersson,S,Annie Lööf,person,9,4,0.163
+Mikael Damberg,S,Stefan Löfven,person,9,8,0.2023
+Stefan Löfven,S,Anders W Jonsson,person,9,6,0.0854
+Göran Persson,S,Matz Hammarström,person,8,4,0.0458
+Göran Persson I Stjärnhov,S,Göran Hägglund,person,8,3,0.8586
+Göran Persson I Stjärnhov,S,L,party,8,4,0.8586
+Magdalena Andersson,S,Muharrem Demirok,person,8,6,0.1449
+Stefan Löfven,S,Johan Pehrson,person,8,3,0.0759
+Stefan Löfven,S,MP,party,8,7,0.0759
+Håkan Juholt,S,KD,party,7,5,0.4285
+Håkan Juholt,S,L,party,7,7,0.4285
+Mikael Damberg,S,MP,party,7,4,0.1573
+Göran Persson I Stjärnhov,S,C,party,6,2,0.644
+Magdalena Andersson,S,V,party,6,5,0.1087
+Mikael Damberg,S,Jonas Sjöstedt,person,6,5,0.1348
+Mona Sahlin,S,Göran Persson,person,6,5,0.1022
+Göran Persson,S,Mona Sahlin,person,5,4,0.0287
+Håkan Juholt,S,C,party,5,4,0.3061
+Håkan Juholt,S,Göran Persson,person,5,4,0.3061
+Håkan Juholt,S,Jimmie Åkesson,person,5,4,0.3061
+Leif Jakobsson,S,M,party,5,2,3.5261
+Lena Sandlin-Hedman,S,M,party,5,1,3.5137
+Mikael Damberg,S,Göran Persson,person,5,4,0.1124
+Stefan Löfven,S,Fredrik Reinfeldt,person,5,1,0.0474
+Stefan Löfven,S,Göran Hägglund,person,5,4,0.0474
+Göran Persson,S,Anna Lindh,person,4,3,0.0229
+Göran Persson,S,Ingrid Burman,person,4,3,0.0229
+Göran Persson I Stjärnhov,S,KD,party,4,3,0.4293
+Håkan Juholt,S,SD,party,4,3,0.2449
+Magdalena Andersson,S,Simona Mohamsson,person,4,4,0.0725
+Mikael Damberg,S,Åsa Romson,person,4,4,0.0899
+Mona Sahlin,S,Roger Tiefensee,person,4,2,0.0681
+Stefan Löfven,S,Isabella Lövin,person,4,1,0.038
+Anna Lindh,S,Lars Ohly,person,3,2,0.9615
+Arne Kjörnsberg,S,Carl Fredrik Graf,person,3,3,1.4104
+Göran Persson,S,Ingvar Carlsson,person,3,3,0.0172
+Göran Persson,S,Mats Odell,person,3,3,0.0172
+Göran Persson,S,NYD,party,3,3,0.0172
+Göran Persson,S,Ulla Hoffmann,person,3,1,0.0172
+Göran Persson I Stjärnhov,S,Lars Ohly,person,3,2,0.322
+Göran Persson I Stjärnhov,S,MP,party,3,2,0.322
+Håkan Juholt,S,V,party,3,3,0.1837
+Ingvar Carlsson,S,Harriet Colliander,person,3,2,0.0798
+Lena Sandlin-Hedman,S,Carl Fredrik Graf,person,3,1,2.1082
+Lisbeth Staaf-Igelström,S,M,party,3,2,7.4442
+Lisbeth Staaf-Igelström,S,Rolf Kenneryd,person,3,1,7.4442
+Magdalena Andersson,S,Oscar Sjöstedt,person,3,2,0.0543
+Magdalena Andersson,S,Stefan Löfven,person,3,3,0.0543
+Mona Sahlin,S,Maria Wetterstrand,person,3,2,0.0511
+Stefan Löfven,S,Märta Stenevi,person,3,1,0.0285
+Anna Lindh,S,Bo Könberg,person,2,1,0.641
+Anna Lindh,S,Lars Tobisson,person,2,1,0.641
+Arne Kjörnsberg,S,Carl Erik Hedlund,person,2,1,0.9403
+Arne Kjörnsberg,S,Catharina Hagen,person,2,2,0.9403
+Berndt Ekholm,S,Johan Pehrson,person,2,2,1.087
+Carina Ohlsson,S,M,party,2,1,1.5049
+Göran Persson,S,Eva Eriksson,person,2,2,0.0115
+Göran Persson,S,Marianne Samuelsson,person,2,1,0.0115
+Göran Persson I Stjärnhov,S,Lars Tobisson,person,2,2,0.2147
+Göran Persson I Stjärnhov,S,Olof Johansson,person,2,1,0.2147
+Göran Persson I Stjärnhov,S,V,party,2,2,0.2147
+Håkan Juholt,S,Annie Lööf,person,2,2,0.1224
+Håkan Juholt,S,Ingvar Carlsson,person,2,2,0.1224
+Håkan Juholt,S,MP,party,2,2,0.1224
+Ingvar Carlsson,S,Göran Persson,person,2,2,0.0532
+Ingvar Carlsson,S,Marianne Samuelsson,person,2,1,0.0532
+Lennart Axelsson,S,M,party,2,2,1.6878
+Lisbeth Staaf-Igelström,S,C,party,2,2,4.9628
+Magdalena Andersson,S,Elisabeth Thand Ringqvist,person,2,2,0.0362
+Magdalena Andersson,S,Henrik Vinge,person,2,2,0.0362
+Magdalena Andersson,S,Nooshi Dadgostar,person,2,2,0.0362
+Magdalena Andersson,S,Per Bolund,person,2,2,0.0362
+Magdalena Andersson,S,Rickard Nordin,person,2,2,0.0362
+Mona Sahlin,S,Carl Bildt,person,2,2,0.0341
+Per Erik Granström,S,M,party,2,1,1.1086
+Ronny Olander,S,Carl-Erik Skårman,person,2,2,1.2626
+Stefan Löfven,S,Gustav Fridolin,person,2,2,0.019
+Stefan Löfven,S,NYD,party,2,2,0.019
+Anna Lindh,S,Marianne Samuelsson,person,1,1,0.3205
+Arne Kjörnsberg,S,Lena Sandlin-Hedman,person,1,1,0.4701
+Arne Kjörnsberg,S,Lennart Axelsson,person,1,1,0.4701
+Arne Kjörnsberg,S,Rolf Kenneryd,person,1,1,0.4701
+Arne Kjörnsberg,S,Ulla Wester,person,1,1,0.4701
+Bengt-Ola Ryttar,S,Karl-Göran Biörsmark,person,1,1,0.8993
+Bengt-Ola Ryttar,S,L,party,1,1,0.8993
+Bengt-Ola Ryttar,S,Lars Tobisson,person,1,1,0.8993
+Berndt Ekholm,S,Anna Lindh,person,1,1,0.5435
+Carina Ohlsson,S,Harald Nordlund,person,1,1,0.7524
+Carina Ohlsson,S,MP,party,1,1,0.7524
+Göran Persson I Stjärnhov,S,Bo Könberg,person,1,1,0.1073
+Göran Persson I Stjärnhov,S,Göran Persson,person,1,1,0.1073
+Göran Persson I Stjärnhov,S,Peter Eriksson,person,1,1,0.1073
+Göran Persson I Stjärnhov,S,Ronny Olander,person,1,1,0.1073
+Göran Persson I Stjärnhov,S,Siw Wittgren-Ahl,person,1,1,0.1073
+Håkan Juholt,S,Jonas Sjöstedt,person,1,1,0.0612
+Håkan Juholt,S,Lars Ohly,person,1,1,0.0612
+Håkan Juholt,S,Maud Olofsson,person,1,1,0.0612
+Ingvar Carlsson,S,Bo Könberg,person,1,1,0.0266
+Ingvar Carlsson,S,Bo Lundgren,person,1,1,0.0266
+Ingvar Carlsson,S,KD,party,1,1,0.0266
+Ingvar Carlsson,S,Lars Ohly,person,1,1,0.0266
+Leif Jakobsson,S,Ewa Thalén Finné,person,1,1,0.7052
+Lennart Axelsson,S,Catharina Hagen,person,1,1,0.8439

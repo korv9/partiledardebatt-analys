@@ -1,0 +1,173 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Annie Lööf,C,SD,party,217,95,1.9066
+Annie Lööf,C,S,party,196,97,1.7221
+Annie Lööf,C,MP,party,192,80,1.687
+Maud Olofsson,C,S,party,186,89,1.7091
+Annie Lööf,C,V,party,147,83,1.2916
+Annie Lööf,C,Jimmie Åkesson,person,146,67,1.2828
+Annie Lööf,C,Jonas Sjöstedt,person,143,75,1.2564
+Annie Lööf,C,Stefan Löfven,person,141,70,1.2389
+Maud Olofsson,C,Mona Sahlin,person,138,57,1.268
+Maud Olofsson,C,Lars Ohly,person,126,54,1.1578
+Olof Johansson,C,S,party,89,28,1.9321
+Maud Olofsson,C,MP,party,82,50,0.7535
+Maud Olofsson,C,Peter Eriksson,person,73,32,0.6708
+Maud Olofsson,C,V,party,69,44,0.634
+Maud Olofsson,C,Göran Persson,person,66,31,0.6064
+Lennart Daléus,C,Gudrun Schyman,person,59,16,2.2416
+Muharrem Demirok,C,SD,party,56,29,2.4565
+Annie Lööf,C,Gustav Fridolin,person,50,31,0.4393
+Olof Johansson,C,Ingvar Carlsson,person,48,20,1.0421
+Muharrem Demirok,C,Jimmie Åkesson,person,44,22,1.9301
+Annie Lööf,C,Nooshi Dadgostar,person,38,20,0.3339
+Lennart Daléus,C,MP,party,38,15,1.4438
+Maud Olofsson,C,Maria Wetterstrand,person,38,19,0.3492
+Annie Lööf,C,Åsa Romson,person,37,20,0.3251
+Anders W Jonsson,C,SD,party,36,11,2.5976
+Annie Lööf,C,KD,party,36,21,0.3163
+Annie Lööf,C,Mikael Damberg,person,36,19,0.3163
+Muharrem Demirok,C,Johan Pehrson,person,31,17,1.3598
+Annie Lööf,C,M,party,30,21,0.2636
+Muharrem Demirok,C,Ebba Busch,person,30,19,1.316
+Annie Lööf,C,Isabella Lövin,person,27,18,0.2372
+Lennart Daléus,C,M,party,27,12,1.0258
+Lennart Daléus,C,Birger Schlaug,person,26,7,0.9878
+Olof Johansson,C,Gudrun Schyman,person,24,12,0.521
+Anders W Jonsson,C,Jimmie Åkesson,person,23,10,1.6596
+Olof Johansson,C,L,party,23,15,0.4993
+Annie Lööf,C,Ebba Busch,person,22,14,0.1933
+Olof Johansson,C,M,party,22,12,0.4776
+Annie Lööf,C,Ulf Kristersson,person,20,13,0.1757
+Lennart Daléus,C,Bo Lundgren,person,20,9,0.7599
+Lennart Daléus,C,Göran Persson,person,20,9,0.7599
+Olof Johansson,C,Göran Persson,person,20,12,0.4342
+Rickard Nordin,C,SD,party,20,9,2.5323
+Annie Lööf,C,L,party,19,13,0.1669
+Lennart Daléus,C,V,party,19,8,0.7219
+Anders W Jonsson,C,MP,party,18,9,1.2988
+Anders W Jonsson,C,V,party,18,11,1.2988
+Lena Ek,C,V,party,18,6,1.2952
+Olof Johansson,C,Carl Bildt,person,18,11,0.3908
+Olof Johansson,C,V,party,18,14,0.3908
+Annie Lööf,C,Håkan Juholt,person,17,5,0.1494
+Maud Olofsson,C,Bo Lundgren,person,16,8,0.147
+Muharrem Demirok,C,KD,party,16,10,0.7018
+Anders W Jonsson,C,Jonas Sjöstedt,person,15,9,1.0823
+Olof Johansson,C,Alf Svensson,person,15,11,0.3256
+Olof Johansson,C,Lars Leijonborg,person,15,6,0.3256
+Olof Johansson,C,MP,party,14,10,0.3039
+Lena Ek,C,Gudrun Schyman,person,13,8,0.9354
+Lennart Daléus,C,Matz Hammarström,person,13,7,0.4939
+Lennart Daléus,C,S,party,13,8,0.4939
+Rickard Nordin,C,V,party,13,5,1.646
+Elisabeth Thand Ringqvist,C,V,party,12,5,1.8697
+Muharrem Demirok,C,M,party,12,11,0.5264
+Muharrem Demirok,C,Magdalena Andersson,person,12,8,0.5264
+Muharrem Demirok,C,V,party,12,8,0.5264
+Olof Johansson,C,Birger Schlaug,person,12,8,0.2605
+Roger Tiefensee,C,MP,party,12,4,4.6458
+Maud Olofsson,C,Håkan Juholt,person,11,3,0.1011
+Maud Olofsson,C,Lars Leijonborg,person,11,8,0.1011
+Rickard Nordin,C,S,party,11,7,1.3928
+Rickard Nordin,C,Ulf Kristersson,person,11,7,1.3928
+Annie Lööf,C,Johan Pehrson,person,10,8,0.0879
+Elisabeth Thand Ringqvist,C,Nooshi Dadgostar,person,10,4,1.5581
+Maud Olofsson,C,Gustav Fridolin,person,10,5,0.0919
+Muharrem Demirok,C,L,party,10,7,0.4387
+Muharrem Demirok,C,Nooshi Dadgostar,person,10,5,0.4387
+Muharrem Demirok,C,S,party,10,8,0.4387
+Anders W Jonsson,C,Stefan Löfven,person,9,5,0.6494
+Annie Lööf,C,Magdalena Andersson,person,9,7,0.0791
+Lena Ek,C,S,party,9,5,0.6476
+Maud Olofsson,C,M,party,9,7,0.0827
+Rickard Nordin,C,Magdalena Andersson,person,9,7,1.1395
+Annie Lööf,C,Ebba Busch Thor,person,8,5,0.0703
+Maud Olofsson,C,Jimmie Åkesson,person,8,2,0.0735
+Roger Tiefensee,C,Maria Wetterstrand,person,8,4,3.0972
+Roger Tiefensee,C,S,party,8,3,3.0972
+Annie Lööf,C,Lars Ohly,person,7,4,0.0615
+Elisabeth Thand Ringqvist,C,S,party,7,4,1.0907
+Lennart Daléus,C,Alf Svensson,person,7,4,0.266
+Maud Olofsson,C,Fredrik Reinfeldt,person,7,5,0.0643
+Rickard Nordin,C,Jimmie Åkesson,person,7,4,0.8863
+Anders W Jonsson,C,S,party,6,5,0.4329
+Annie Lööf,C,Mattias Karlsson,person,6,5,0.0527
+Elisabeth Thand Ringqvist,C,Jimmie Åkesson,person,6,4,0.9349
+Elisabeth Thand Ringqvist,C,MP,party,6,3,0.9349
+Lena Ek,C,M,party,6,3,0.4317
+Lena Ek,C,MP,party,6,5,0.4317
+Lennart Daléus,C,Carl Bildt,person,6,3,0.228
+Maud Olofsson,C,Alf Svensson,person,6,5,0.0551
+Maud Olofsson,C,Alice Åström,person,6,3,0.0551
+Rickard Nordin,C,Ebba Busch,person,6,3,0.7597
+Rickard Nordin,C,Nooshi Dadgostar,person,6,5,0.7597
+Roger Tiefensee,C,Lars Ohly,person,6,4,2.3229
+Anders W Jonsson,C,Gustav Fridolin,person,5,4,0.3608
+Annie Lööf,C,Per Bolund,person,5,4,0.0439
+Elisabeth Thand Ringqvist,C,SD,party,5,4,0.7791
+Olof Johansson,C,Anna Lindh,person,5,2,0.1085
+Olof Johansson,C,Harriet Colliander,person,5,2,0.1085
+Olof Johansson,C,Lars Tobisson,person,5,3,0.1085
+Roger Tiefensee,C,Mona Sahlin,person,5,4,1.9357
+Anders W Jonsson,C,M,party,4,2,0.2886
+Annie Lööf,C,Anna Kinberg Batra,person,4,4,0.0351
+Annie Lööf,C,Fredrik Reinfeldt,person,4,3,0.0351
+Annie Lööf,C,Jan Björklund,person,4,4,0.0351
+Annie Lööf,C,Lena Ek,person,4,3,0.0351
+Elisabeth Thand Ringqvist,C,Amanda Lind,person,4,2,0.6232
+Elisabeth Thand Ringqvist,C,Ebba Busch,person,4,3,0.6232
+Elisabeth Thand Ringqvist,C,Magdalena Andersson,person,4,2,0.6232
+Lena Ek,C,Bo Lundgren,person,4,4,0.2878
+Maud Olofsson,C,Göran Hägglund,person,4,4,0.0368
+Maud Olofsson,C,L,party,4,3,0.0368
+Maud Olofsson,C,SD,party,4,3,0.0368
+Rickard Nordin,C,M,party,4,4,0.5065
+Roger Tiefensee,C,V,party,4,2,1.5486
+Annie Lööf,C,Björn Söder,person,3,2,0.0264
+Annie Lööf,C,Mona Sahlin,person,3,2,0.0264
+Annie Lööf,C,Märta Stenevi,person,3,3,0.0264
+Elisabeth Thand Ringqvist,C,KD,party,3,3,0.4674
+Elisabeth Thand Ringqvist,C,Simona Mohamsson,person,3,3,0.4674
+Maud Olofsson,C,Ingrid Burman,person,3,3,0.0276
+Olof Johansson,C,Bengt Westerberg,person,3,3,0.0651
+Olof Johansson,C,KD,party,3,2,0.0651
+Olof Johansson,C,NYD,party,3,2,0.0651
+Anders W Jonsson,C,Ebba Busch,person,2,2,0.1443
+Anders W Jonsson,C,L,party,2,2,0.1443
+Anders W Jonsson,C,Ulf Kristersson,person,2,1,0.1443
+Anders W Jonsson,C,Åsa Romson,person,2,2,0.1443
+Elisabeth Thand Ringqvist,C,Daniel Helldén,person,2,2,0.3116
+Lennart Daléus,C,Lars Leijonborg,person,2,2,0.076
+Muharrem Demirok,C,Oscar Sjöstedt,person,2,2,0.0877
+Muharrem Demirok,C,Ulf Kristersson,person,2,2,0.0877
+Olof Johansson,C,Johan Lönnroth,person,2,2,0.0434
+Olof Johansson,C,Marianne Samuelsson,person,2,2,0.0434
+Rickard Nordin,C,Henrik Vinge,person,2,2,0.2532
+Rickard Nordin,C,Simona Mohamsson,person,2,2,0.2532
+Anders W Jonsson,C,Annie Lööf,person,1,1,0.0722
+Anders W Jonsson,C,Björn Söder,person,1,1,0.0722
+Anders W Jonsson,C,Carl Bildt,person,1,1,0.0722
+Anders W Jonsson,C,Martin Kinnunen,person,1,1,0.0722
+Annie Lööf,C,Göran Hägglund,person,1,1,0.0088
+Annie Lööf,C,Göran Persson,person,1,1,0.0088
+Annie Lööf,C,Maria Wetterstrand,person,1,1,0.0088
+Annie Lööf,C,Maud Olofsson,person,1,1,0.0088
+Elisabeth Thand Ringqvist,C,L,party,1,1,0.1558
+Elisabeth Thand Ringqvist,C,Rickard Nordin,person,1,1,0.1558
+Lena Ek,C,Göran Persson,person,1,1,0.072
+Lennart Daléus,C,L,party,1,1,0.038
+Maud Olofsson,C,Jan Björklund,person,1,1,0.0092
+Maud Olofsson,C,KD,party,1,1,0.0092
+Maud Olofsson,C,Roger Tiefensee,person,1,1,0.0092
+Muharrem Demirok,C,Bengt Westerberg,person,1,1,0.0439
+Muharrem Demirok,C,Jan Björklund,person,1,1,0.0439
+Muharrem Demirok,C,Martin Kinnunen,person,1,1,0.0439
+Olof Johansson,C,Bo Lundgren,person,1,1,0.0217
+Olof Johansson,C,Lennart Daléus,person,1,1,0.0217
+Olof Johansson,C,Mona Sahlin,person,1,1,0.0217
+Rickard Nordin,C,KD,party,1,1,0.1266
+Rickard Nordin,C,L,party,1,1,0.1266
+Roger Tiefensee,C,Jan Björklund,person,1,1,0.3871
+Rolf Kenneryd,C,Arne Kjörnsberg,person,1,1,2.2936
+Rolf Kenneryd,C,Per Erik Granström,person,1,1,2.2936
+Rolf Kenneryd,C,S,party,1,1,2.2936

@@ -1,0 +1,161 @@
+﻿speaker,speaker_party,target,target_type,mentions,speeches,per_1000_words
+Fredrik Reinfeldt,M,S,party,340,159,2.167
+Bo Lundgren,M,Göran Persson,person,226,67,4.5581
+Ulf Kristersson,M,S,party,203,113,2.2268
+Fredrik Reinfeldt,M,Göran Persson,person,190,68,1.211
+Fredrik Reinfeldt,M,MP,party,184,99,1.1727
+Fredrik Reinfeldt,M,V,party,182,95,1.16
+Fredrik Reinfeldt,M,Mona Sahlin,person,181,66,1.1536
+Fredrik Reinfeldt,M,Lars Ohly,person,173,68,1.1026
+Carl Bildt,M,S,party,127,31,4.2518
+Lars Tobisson,M,Göran Persson,person,112,29,3.1728
+Ulf Kristersson,M,V,party,97,69,1.0641
+Bo Lundgren,M,S,party,96,42,1.9362
+Ulf Kristersson,M,MP,party,91,63,0.9982
+Lars Tobisson,M,S,party,85,33,2.4079
+Fredrik Reinfeldt,M,Peter Eriksson,person,80,36,0.5099
+Anna Kinberg Batra,M,Stefan Löfven,person,78,40,2.712
+Bo Lundgren,M,Gudrun Schyman,person,67,29,1.3513
+Fredrik Reinfeldt,M,Jonas Sjöstedt,person,60,23,0.3824
+Ulf Kristersson,M,Stefan Löfven,person,55,34,0.6033
+Fredrik Reinfeldt,M,Maria Wetterstrand,person,54,24,0.3442
+Fredrik Reinfeldt,M,Mikael Damberg,person,54,27,0.3442
+Anna Kinberg Batra,M,MP,party,52,22,1.808
+Fredrik Reinfeldt,M,Gustav Fridolin,person,52,22,0.3314
+Ulf Kristersson,M,SD,party,52,33,0.5704
+Anna Kinberg Batra,M,Jonas Sjöstedt,person,49,19,1.7037
+Carl Bildt,M,Ingvar Carlsson,person,48,16,1.607
+Fredrik Reinfeldt,M,Jimmie Åkesson,person,45,25,0.2868
+Fredrik Reinfeldt,M,Håkan Juholt,person,43,16,0.2741
+Ulf Kristersson,M,Magdalena Andersson,person,42,36,0.4607
+Anna Kinberg Batra,M,SD,party,35,20,1.2169
+Ulf Kristersson,M,C,party,35,21,0.3839
+Anna Kinberg Batra,M,Jimmie Åkesson,person,34,21,1.1822
+Lars Tobisson,M,Ingvar Carlsson,person,34,16,0.9632
+Bo Lundgren,M,V,party,31,23,0.6252
+Anna Kinberg Batra,M,Gustav Fridolin,person,28,16,0.9735
+Fredrik Reinfeldt,M,SD,party,28,20,0.1785
+Fredrik Reinfeldt,M,Åsa Romson,person,22,12,0.1402
+Lars Tobisson,M,Gudrun Schyman,person,21,12,0.5949
+Ulf Kristersson,M,Jonas Sjöstedt,person,20,15,0.2194
+Anna Kinberg Batra,M,V,party,19,13,0.6606
+Bo Lundgren,M,MP,party,18,13,0.363
+Lars Tobisson,M,V,party,18,12,0.5099
+Lars Tobisson,M,MP,party,16,12,0.4533
+Anna Kinberg Batra,M,Isabella Lövin,person,15,6,0.5215
+Anna Kinberg Batra,M,Åsa Romson,person,15,8,0.5215
+Carl Bildt,M,Göran Persson,person,14,11,0.4687
+Lars Tobisson,M,Birger Schlaug,person,14,9,0.3966
+Ulf Kristersson,M,Nooshi Dadgostar,person,14,13,0.1536
+Anna Kinberg Batra,M,S,party,11,9,0.3825
+Carl Bildt,M,Gudrun Schyman,person,11,8,0.3683
+Bo Lundgren,M,Maud Olofsson,person,10,5,0.2017
+Ulf Kristersson,M,KD,party,10,8,0.1097
+Anna Kinberg Batra,M,Mattias Karlsson,person,9,4,0.3129
+Carl Bildt,M,V,party,9,6,0.3013
+Fredrik Reinfeldt,M,Alice Åström,person,9,4,0.0574
+Bo Lundgren,M,Matz Hammarström,person,8,5,0.1613
+Carl Fredrik Graf,M,S,party,8,8,2.8429
+Fredrik Reinfeldt,M,Jan Björklund,person,8,8,0.051
+Ulf Kristersson,M,Isabella Lövin,person,8,5,0.0878
+Ulf Kristersson,M,Jimmie Åkesson,person,8,7,0.0878
+Ulf Kristersson,M,Per Bolund,person,8,8,0.0878
+Carl Bildt,M,Johan Lönnroth,person,7,3,0.2343
+Fredrik Reinfeldt,M,Maud Olofsson,person,7,7,0.0446
+Lars Tobisson,M,Carl Bildt,person,7,7,0.1983
+Ulf Kristersson,M,L,party,7,6,0.0768
+Bo Lundgren,M,Lena Ek,person,6,3,0.121
+Bo Lundgren,M,Lennart Daléus,person,6,4,0.121
+Carl Bildt,M,Bengt Westerberg,person,6,2,0.2009
+Bo Lundgren,M,Birger Schlaug,person,5,2,0.1008
+Bo Lundgren,M,Ulla Hoffmann,person,5,3,0.1008
+Carl Bildt,M,Marianne Samuelsson,person,5,3,0.1674
+Carl Bildt,M,Olof Johansson,person,5,4,0.1674
+Carl Fredrik Graf,M,Arne Kjörnsberg,person,5,3,1.7768
+Carl Fredrik Graf,M,Lena Sandlin-Hedman,person,5,2,1.7768
+Fredrik Reinfeldt,M,Alf Svensson,person,5,2,0.0319
+Fredrik Reinfeldt,M,Gudrun Schyman,person,5,4,0.0319
+Fredrik Reinfeldt,M,Stefan Löfven,person,5,4,0.0319
+Ulf Kristersson,M,Annie Lööf,person,5,3,0.0548
+Ulf Kristersson,M,Daniel Helldén,person,5,5,0.0548
+Ulf Kristersson,M,Ebba Busch,person,5,4,0.0548
+Birger Schlaug,M,Göran Persson,person,4,1,6.4
+Birger Schlaug,M,Lars Tobisson,person,4,1,6.4
+Bo Lundgren,M,Ingrid Burman,person,4,2,0.0807
+Bo Lundgren,M,KD,party,4,3,0.0807
+Bo Lundgren,M,L,party,4,3,0.0807
+Carl Fredrik Graf,M,Ulla Wester,person,4,2,1.4215
+Catharina Hagen,M,Arne Kjörnsberg,person,4,2,2.3697
+Catharina Hagen,M,Lena Sandlin-Hedman,person,4,2,2.3697
+Fredrik Reinfeldt,M,Ingrid Burman,person,4,3,0.0255
+Lars Tobisson,M,Marianne Samuelsson,person,4,3,0.1133
+Ulf Kristersson,M,Göran Persson,person,4,4,0.0439
+Ulf Kristersson,M,Jan Björklund,person,4,3,0.0439
+Bo Lundgren,M,Mona Sahlin,person,3,3,0.0605
+Carl Bildt,M,Alf Svensson,person,3,3,0.1004
+Carl Bildt,M,Birger Schlaug,person,3,3,0.1004
+Carl Bildt,M,NYD,party,3,1,0.1004
+Carl Erik Hedlund,M,Per Erik Granström,person,3,1,1.5275
+Carl Fredrik Graf,M,Lennart Axelsson,person,3,2,1.0661
+Catharina Hagen,M,Per Erik Granström,person,3,2,1.7773
+Ewa Thalén Finné,M,Ronny Olander,person,3,2,3.4443
+Ewa Thalén Finné,M,S,party,3,2,3.4443
+Fredrik Reinfeldt,M,Björn Söder,person,3,2,0.0191
+Fredrik Reinfeldt,M,C,party,3,3,0.0191
+Fredrik Reinfeldt,M,Göran Hägglund,person,3,3,0.0191
+Lars Tobisson,M,Olof Johansson,person,3,2,0.085
+Ulf Kristersson,M,Amanda Lind,person,3,3,0.0329
+Ulf Kristersson,M,Mattias Karlsson,person,3,3,0.0329
+Ulf Kristersson,M,Muharrem Demirok,person,3,3,0.0329
+Bo Lundgren,M,C,party,2,2,0.0403
+Bo Lundgren,M,Lars Leijonborg,person,2,2,0.0403
+Carl Bildt,M,C,party,2,1,0.067
+Carl Bildt,M,Harriet Colliander,person,2,1,0.067
+Carl Bildt,M,MP,party,2,1,0.067
+Carl Bildt,M,Mona Sahlin,person,2,2,0.067
+Carl Erik Hedlund,M,Arne Kjörnsberg,person,2,1,1.0183
+Carl Erik Hedlund,M,Ulla Wester,person,2,1,1.0183
+Catharina Hagen,M,S,party,2,2,1.1848
+Ewa Thalén Finné,M,Leif Jakobsson,person,2,2,2.2962
+Fredrik Reinfeldt,M,Carl Bildt,person,2,2,0.0127
+Margit Gennser,M,Bengt-Ola Ryttar,person,2,1,1.994
+Ulf Kristersson,M,Anders W Jonsson,person,2,2,0.0219
+Ulf Kristersson,M,Elisabeth Thand Ringqvist,person,2,2,0.0219
+Ulf Kristersson,M,Gustav Fridolin,person,2,1,0.0219
+Ulf Kristersson,M,Johan Pehrson,person,2,2,0.0219
+Ulf Kristersson,M,Märta Stenevi,person,2,2,0.0219
+Ulf Kristersson,M,Rickard Nordin,person,2,2,0.0219
+Anna Kinberg Batra,M,Göran Persson,person,1,1,0.0348
+Anna Kinberg Batra,M,Magdalena Andersson,person,1,1,0.0348
+Birger Schlaug,M,MP,party,1,1,1.6
+Birger Schlaug,M,S,party,1,1,1.6
+Bo Lundgren,M,Alf Svensson,person,1,1,0.0202
+Bo Lundgren,M,Anna Lindh,person,1,1,0.0202
+Bo Lundgren,M,Maria Wetterstrand,person,1,1,0.0202
+Carl Bildt,M,Bo Könberg,person,1,1,0.0335
+Carl Bildt,M,KD,party,1,1,0.0335
+Carl Bildt,M,Lars Leijonborg,person,1,1,0.0335
+Carl Bildt,M,Lennart Daléus,person,1,1,0.0335
+Carl Fredrik Graf,M,Per Erik Granström,person,1,1,0.3554
+Carl-Erik Skårman,M,Ronny Olander,person,1,1,1.626
+Carl-Erik Skårman,M,S,party,1,1,1.626
+Carl-Erik Skårman,M,Siw Wittgren-Ahl,person,1,1,1.626
+Catharina Hagen,M,Lennart Axelsson,person,1,1,0.5924
+Ewa Thalén Finné,M,Siw Wittgren-Ahl,person,1,1,1.1481
+Fredrik Reinfeldt,M,Annie Lööf,person,1,1,0.0064
+Fredrik Reinfeldt,M,Ingvar Carlsson,person,1,1,0.0064
+Fredrik Reinfeldt,M,KD,party,1,1,0.0064
+Fredrik Reinfeldt,M,L,party,1,1,0.0064
+Fredrik Reinfeldt,M,Lars Leijonborg,person,1,1,0.0064
+Fredrik Reinfeldt,M,Per Bolund,person,1,1,0.0064
+Lars Tobisson,M,Anna Lindh,person,1,1,0.0283
+Lars Tobisson,M,Lars Ohly,person,1,1,0.0283
+Lars Tobisson,M,Mona Sahlin,person,1,1,0.0283
+Lars Tobisson,M,NYD,party,1,1,0.0283
+Liselotte Wågö,M,Berndt Ekholm,person,1,1,0.8403
+Margareta Cederfelt,M,Per Erik Granström,person,1,1,1.8762
+Margit Gennser,M,Mats Odell,person,1,1,0.997
+Ulf Kristersson,M,Anna Lindh,person,1,1,0.011
+Ulf Kristersson,M,Carl Bildt,person,1,1,0.011
+Ulf Kristersson,M,Fredrik Reinfeldt,person,1,1,0.011
+Ulf Kristersson,M,Mikael Damberg,person,1,1,0.011

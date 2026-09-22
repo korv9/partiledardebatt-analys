@@ -12,3 +12,4 @@ result = dbtRunner().invoke(['build', '--profiles-dir', '.', '--project-dir', '.
 if not result.success:
     raise SystemExit('dbt build failed; report was not updated')
 subprocess.run([sys.executable, 'scripts/export_report.py'], check=True)
+subprocess.run([sys.executable, 'scripts/export_portfolio.py'], check=True)
