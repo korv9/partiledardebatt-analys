@@ -29,6 +29,8 @@ console.log(topics.data);
 Alla JSON-filer innehåller `schema_version`, `generated_at` och `data`. UMAP är uppdelad per riksmöte under `sessions/<riksmöte>/umap.json`, med högst 400 deterministiskt valda punkter per fil.
 
 Budgetramar finns i `budgets/summary.json` och per riksmöte i `sessions/<riksmöte>/budgets.json`. `GOV` är regeringens samlade förslag; övriga aktörer är partiernas budgetmotioner.
+
+Budgeten kan visas intill UMAP-kartan med samma filter för parti och riksmöte. Beloppen är inte koordinater i den semantiska kartan.
 """
 
 
@@ -103,6 +105,7 @@ def main() -> None:
     OUTPUT.mkdir()
     (OUTPUT / "README.md").write_text(README, encoding="utf-8")
     generated_at = datetime.now(timezone.utc).isoformat()
+    cluster_metrics = json.loads((ROOT / "data" / "features" / "metrics.json").read_text(encoding="utf-8"))
     manifest: list[dict] = []
 
     with duckdb.connect(str(DATABASE), read_only=True) as db:
@@ -113,7 +116,9 @@ def main() -> None:
             "sessions": db.execute("select count(distinct session) from stg_speeches where eligible").fetchone()[0],
             "first_date": json_value(db.execute("select min(speech_date) from stg_speeches where eligible").fetchone()[0]),
             "last_date": json_value(db.execute("select max(speech_date) from stg_speeches where eligible").fetchone()[0]),
-            "topic_method": "HDBSCAN on UMAP 10D; 2D UMAP for display",
+            "topic_method": cluster_metrics["clustering"] + "; 2D UMAP for display",
+            "cluster_silhouette_cosine_sample": cluster_metrics.get("silhouette_cosine_original_sample"),
+            "cluster_unclustered_share": cluster_metrics["unclustered_share"],
             "umap_note": "Deterministic sample of at most 400 segments per session",
             "budget_frame_rows": db.execute("select count(*) from gold_budget_frames").fetchone()[0],
         }

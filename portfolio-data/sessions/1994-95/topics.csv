@@ -1,91 +1,88 @@
 ﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
-1994/95,1994,C,-1,Ej grupperade,54,4117,48.3443
-1994/95,1994,C,5,utsläppen / eu / kärnkraft,18,1348,15.829
-1994/95,1994,C,18,partier / ta / politiska,12,849,9.9695
-1994/95,1994,C,19,skatten / miljarder / skatt,7,563,6.6111
-1994/95,1994,C,3,polisen / brott / poliser,5,408,4.791
-1994/95,1994,C,15,jobb / arbetslösheten / arbetsmarknaden,5,367,4.3095
-1994/95,1994,C,16,eu / europa / europeiska,4,307,3.605
-1994/95,1994,C,2,kvinnor / män / kvinnors,2,165,1.9375
-1994/95,1994,C,23,partier / ta / ansvar,2,147,1.7262
-1994/95,1994,C,1,emu / folkomröstning / eu,1,86,1.0099
-1994/95,1994,C,14,skatt / skatten / skatter,1,82,0.9629
-1994/95,1994,C,9,barn / barnen / föräldrar,1,77,0.9042
-1994/95,1994,KD,-1,Ej grupperade,68,5384,64.1411
-1994/95,1994,KD,9,barn / barnen / föräldrar,20,1632,19.4425
-1994/95,1994,KD,18,partier / ta / politiska,5,365,4.3483
-1994/95,1994,KD,16,eu / europa / europeiska,4,337,4.0148
-1994/95,1994,KD,3,polisen / brott / poliser,3,244,2.9068
-1994/95,1994,KD,15,jobb / arbetslösheten / arbetsmarknaden,3,208,2.478
-1994/95,1994,KD,5,utsläppen / eu / kärnkraft,2,120,1.4296
-1994/95,1994,KD,6,migrationspolitik / flyktingar / invandring,1,75,0.8935
-1994/95,1994,KD,7,sd / nej / ta,2,29,0.3455
-1994/95,1994,L,-1,Ej grupperade,58,4705,52.4409
-1994/95,1994,L,18,partier / ta / politiska,16,1217,13.5644
-1994/95,1994,L,15,jobb / arbetslösheten / arbetsmarknaden,8,653,7.2782
-1994/95,1994,L,8,skolan / lärare / skola,6,486,5.4169
-1994/95,1994,L,19,skatten / miljarder / skatt,5,373,4.1574
-1994/95,1994,L,5,utsläppen / eu / kärnkraft,5,319,3.5555
-1994/95,1994,L,6,migrationspolitik / flyktingar / invandring,3,215,2.3963
-1994/95,1994,L,7,sd / nej / ta,3,165,1.8391
-1994/95,1994,L,21,nato / försvaret / militära,2,160,1.7833
-1994/95,1994,L,22,jobb / arbetslösheten / arbetsmarknaden,2,151,1.683
-1994/95,1994,L,12,vården / vård / sjukvården,2,126,1.4044
-1994/95,1994,L,10,perssons / går / lite,1,88,0.9808
-1994/95,1994,L,14,skatt / skatten / skatter,1,88,0.9808
-1994/95,1994,L,16,eu / europa / europeiska,1,81,0.9028
-1994/95,1994,L,2,kvinnor / män / kvinnors,1,79,0.8805
-1994/95,1994,L,23,partier / ta / ansvar,1,66,0.7356
-1994/95,1994,M,-1,Ej grupperade,81,6278,68.0837
-1994/95,1994,M,16,eu / europa / europeiska,10,771,8.3613
-1994/95,1994,M,19,skatten / miljarder / skatt,8,676,7.3311
-1994/95,1994,M,14,skatt / skatten / skatter,6,488,5.2923
-1994/95,1994,M,18,partier / ta / politiska,6,386,4.1861
-1994/95,1994,M,15,jobb / arbetslösheten / arbetsmarknaden,3,236,2.5594
-1994/95,1994,M,5,utsläppen / eu / kärnkraft,3,130,1.4098
-1994/95,1994,M,1,emu / folkomröstning / eu,1,84,0.911
-1994/95,1994,M,3,polisen / brott / poliser,1,80,0.8676
-1994/95,1994,M,12,vården / vård / sjukvården,1,73,0.7917
-1994/95,1994,M,21,nato / försvaret / militära,1,19,0.2061
-1994/95,1994,MP,-1,Ej grupperade,70,5665,55.8734
-1994/95,1994,MP,5,utsläppen / eu / kärnkraft,26,1952,19.2524
-1994/95,1994,MP,15,jobb / arbetslösheten / arbetsmarknaden,10,734,7.2394
-1994/95,1994,MP,16,eu / europa / europeiska,8,605,5.9671
-1994/95,1994,MP,18,partier / ta / politiska,4,347,3.4224
-1994/95,1994,MP,9,barn / barnen / föräldrar,2,172,1.6964
-1994/95,1994,MP,21,nato / försvaret / militära,2,169,1.6668
-1994/95,1994,MP,22,jobb / arbetslösheten / arbetsmarknaden,2,168,1.657
-1994/95,1994,MP,2,kvinnor / män / kvinnors,2,166,1.6372
-1994/95,1994,MP,17,fn / afghanistan / fn s,1,87,0.8581
-1994/95,1994,MP,6,migrationspolitik / flyktingar / invandring,1,72,0.7101
-1994/95,1994,MP,7,sd / nej / ta,1,2,0.0197
-1994/95,1994,S,-1,Ej grupperade,139,11002,73.8043
-1994/95,1994,S,19,skatten / miljarder / skatt,8,622,4.1725
-1994/95,1994,S,18,partier / ta / politiska,8,565,3.7902
-1994/95,1994,S,23,partier / ta / ansvar,7,519,3.4816
-1994/95,1994,S,16,eu / europa / europeiska,6,496,3.3273
-1994/95,1994,S,15,jobb / arbetslösheten / arbetsmarknaden,5,324,2.1735
-1994/95,1994,S,3,polisen / brott / poliser,3,239,1.6033
-1994/95,1994,S,13,äldre / äldreomsorgen / pensionärer,2,180,1.2075
-1994/95,1994,S,5,utsläppen / eu / kärnkraft,2,170,1.1404
-1994/95,1994,S,14,skatt / skatten / skatter,2,163,1.0934
-1994/95,1994,S,2,kvinnor / män / kvinnors,2,140,0.9392
-1994/95,1994,S,12,vården / vård / sjukvården,2,118,0.7916
-1994/95,1994,S,1,emu / folkomröstning / eu,1,90,0.6037
-1994/95,1994,S,8,skolan / lärare / skola,1,86,0.5769
-1994/95,1994,S,22,jobb / arbetslösheten / arbetsmarknaden,1,74,0.4964
-1994/95,1994,S,9,barn / barnen / föräldrar,1,71,0.4763
-1994/95,1994,S,17,fn / afghanistan / fn s,1,39,0.2616
-1994/95,1994,S,7,sd / nej / ta,2,9,0.0604
-1994/95,1994,V,-1,Ej grupperade,78,6095,65.5095
-1994/95,1994,V,18,partier / ta / politiska,8,711,7.6419
-1994/95,1994,V,5,utsläppen / eu / kärnkraft,8,636,6.8358
-1994/95,1994,V,15,jobb / arbetslösheten / arbetsmarknaden,6,505,5.4278
-1994/95,1994,V,19,skatten / miljarder / skatt,5,401,4.31
-1994/95,1994,V,9,barn / barnen / föräldrar,4,358,3.8478
-1994/95,1994,V,1,emu / folkomröstning / eu,2,173,1.8594
-1994/95,1994,V,2,kvinnor / män / kvinnors,1,92,0.9888
-1994/95,1994,V,14,skatt / skatten / skatter,1,90,0.9673
-1994/95,1994,V,23,partier / ta / ansvar,1,84,0.9028
-1994/95,1994,V,21,nato / försvaret / militära,1,84,0.9028
-1994/95,1994,V,22,jobb / arbetslösheten / arbetsmarknaden,1,75,0.8061
+1994/95,1994,C,-1,Ej grupperade,68,5177,60.7915
+1994/95,1994,C,16,partier / politiska / valet,13,941,11.0498
+1994/95,1994,C,9,kärnkraft / kärnkraften / el,7,521,6.1179
+1994/95,1994,C,20,skatter / skatten / skatt,5,410,4.8145
+1994/95,1994,C,1,polisen / poliser / brott,5,408,4.791
+1994/95,1994,C,18,eu / europa / europeiska,4,306,3.5932
+1994/95,1994,C,21,jobb / arbetslösheten / arbetsmarknaden,3,215,2.5247
+1994/95,1994,C,0,kvinnor / män / kvinnors,2,165,1.9375
+1994/95,1994,C,24,partier / ansvar / folket,2,147,1.7262
+1994/95,1994,C,17,skatt / skatten / skatter,1,82,0.9629
+1994/95,1994,C,10,barn / föräldrar / barnen,1,77,0.9042
+1994/95,1994,C,8,skatteväxling / gröna / grön skatteväxling,1,67,0.7868
+1994/95,1994,KD,-1,Ej grupperade,71,5492,65.4277
+1994/95,1994,KD,10,barn / föräldrar / barnen,20,1632,19.4425
+1994/95,1994,KD,16,partier / politiska / valet,5,365,4.3483
+1994/95,1994,KD,18,eu / europa / europeiska,4,337,4.0148
+1994/95,1994,KD,1,polisen / poliser / brott,3,244,2.9068
+1994/95,1994,KD,21,jobb / arbetslösheten / arbetsmarknaden,3,208,2.478
+1994/95,1994,KD,3,flyktingar / migrationspolitik / invandring,1,75,0.8935
+1994/95,1994,KD,8,skatteväxling / gröna / grön skatteväxling,1,41,0.4884
+1994/95,1994,L,-1,Ej grupperade,65,5187,57.8132
+1994/95,1994,L,16,partier / politiska / valet,17,1281,14.2778
+1994/95,1994,L,21,jobb / arbetslösheten / arbetsmarknaden,8,653,7.2782
+1994/95,1994,L,9,kärnkraft / kärnkraften / el,5,319,3.5555
+1994/95,1994,L,20,skatter / skatten / skatt,4,307,3.4218
+1994/95,1994,L,18,eu / europa / europeiska,3,246,2.7419
+1994/95,1994,L,3,flyktingar / migrationspolitik / invandring,3,215,2.3963
+1994/95,1994,L,23,nato / försvaret / militära,2,160,1.7833
+1994/95,1994,L,25,jobb / arbetslösheten / arbetsmarknaden,2,151,1.683
+1994/95,1994,L,14,vården / vård / sjukvården,2,126,1.4044
+1994/95,1994,L,17,skatt / skatten / skatter,1,88,0.9808
+1994/95,1994,L,6,perssons / åt / talar,1,88,0.9808
+1994/95,1994,L,12,skolan / lärare / eleverna,1,85,0.9474
+1994/95,1994,L,24,partier / ansvar / folket,1,66,0.7356
+1994/95,1994,M,-1,Ej grupperade,79,6215,67.4005
+1994/95,1994,M,18,eu / europa / europeiska,11,855,9.2723
+1994/95,1994,M,20,skatter / skatten / skatt,7,526,5.7044
+1994/95,1994,M,17,skatt / skatten / skatter,6,488,5.2923
+1994/95,1994,M,16,partier / politiska / valet,7,458,4.9669
+1994/95,1994,M,21,jobb / arbetslösheten / arbetsmarknaden,2,158,1.7135
+1994/95,1994,M,14,vården / vård / sjukvården,2,136,1.4749
+1994/95,1994,M,9,kärnkraft / kärnkraften / el,2,89,0.9652
+1994/95,1994,M,1,polisen / poliser / brott,1,80,0.8676
+1994/95,1994,M,11,euron / valuta / europa,1,78,0.8459
+1994/95,1994,M,24,partier / ansvar / folket,1,78,0.8459
+1994/95,1994,M,8,skatteväxling / gröna / grön skatteväxling,1,41,0.4446
+1994/95,1994,M,23,nato / försvaret / militära,1,19,0.2061
+1994/95,1994,MP,-1,Ej grupperade,83,6533,64.4344
+1994/95,1994,MP,9,kärnkraft / kärnkraften / el,12,947,9.3402
+1994/95,1994,MP,21,jobb / arbetslösheten / arbetsmarknaden,10,734,7.2394
+1994/95,1994,MP,18,eu / europa / europeiska,8,598,5.898
+1994/95,1994,MP,16,partier / politiska / valet,3,257,2.5348
+1994/95,1994,MP,10,barn / föräldrar / barnen,2,172,1.6964
+1994/95,1994,MP,23,nato / försvaret / militära,2,169,1.6668
+1994/95,1994,MP,25,jobb / arbetslösheten / arbetsmarknaden,2,168,1.657
+1994/95,1994,MP,0,kvinnor / män / kvinnors,2,166,1.6372
+1994/95,1994,MP,7,eu / utsläppen / utsläpp,1,90,0.8877
+1994/95,1994,MP,19,fn / afghanistan / usa,1,87,0.8581
+1994/95,1994,MP,8,skatteväxling / gröna / grön skatteväxling,1,74,0.7299
+1994/95,1994,MP,14,vården / vård / sjukvården,1,72,0.7101
+1994/95,1994,MP,3,flyktingar / migrationspolitik / invandring,1,72,0.7101
+1994/95,1994,S,-1,Ej grupperade,139,10933,73.3414
+1994/95,1994,S,16,partier / politiska / valet,11,754,5.058
+1994/95,1994,S,20,skatter / skatten / skatt,9,697,4.6757
+1994/95,1994,S,24,partier / ansvar / folket,8,592,3.9713
+1994/95,1994,S,18,eu / europa / europeiska,7,583,3.9109
+1994/95,1994,S,21,jobb / arbetslösheten / arbetsmarknaden,5,324,2.1735
+1994/95,1994,S,1,polisen / poliser / brott,3,239,1.6033
+1994/95,1994,S,15,äldre / äldreomsorgen / pensionärer,2,180,1.2075
+1994/95,1994,S,17,skatt / skatten / skatter,2,163,1.0934
+1994/95,1994,S,0,kvinnor / män / kvinnors,2,140,0.9392
+1994/95,1994,S,14,vården / vård / sjukvården,2,118,0.7916
+1994/95,1994,S,25,jobb / arbetslösheten / arbetsmarknaden,1,74,0.4964
+1994/95,1994,S,10,barn / föräldrar / barnen,1,71,0.4763
+1994/95,1994,S,19,fn / afghanistan / usa,1,39,0.2616
+1994/95,1994,V,-1,Ej grupperade,81,6491,69.7657
+1994/95,1994,V,16,partier / politiska / valet,11,890,9.5658
+1994/95,1994,V,20,skatter / skatten / skatt,6,479,5.1483
+1994/95,1994,V,21,jobb / arbetslösheten / arbetsmarknaden,4,341,3.6651
+1994/95,1994,V,25,jobb / arbetslösheten / arbetsmarknaden,4,274,2.945
+1994/95,1994,V,8,skatteväxling / gröna / grön skatteväxling,3,238,2.558
+1994/95,1994,V,9,kärnkraft / kärnkraften / el,2,150,1.6122
+1994/95,1994,V,0,kvinnor / män / kvinnors,1,92,0.9888
+1994/95,1994,V,10,barn / föräldrar / barnen,1,91,0.9781
+1994/95,1994,V,17,skatt / skatten / skatter,1,90,0.9673
+1994/95,1994,V,24,partier / ansvar / folket,1,84,0.9028
+1994/95,1994,V,23,nato / försvaret / militära,1,84,0.9028

@@ -1,118 +1,113 @@
 ﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
-2002/03,2002,C,-1,Ej grupperade,74,6136,59.4516
-2002/03,2002,C,1,emu / folkomröstning / eu,13,950,9.2045
-2002/03,2002,C,5,utsläppen / eu / kärnkraft,11,878,8.5069
-2002/03,2002,C,2,kvinnor / män / kvinnors,5,423,4.0984
-2002/03,2002,C,12,vården / vård / sjukvården,4,333,3.2264
-2002/03,2002,C,17,fn / afghanistan / fn s,4,290,2.8098
-2002/03,2002,C,9,barn / barnen / föräldrar,3,253,2.4513
-2002/03,2002,C,19,skatten / miljarder / skatt,2,175,1.6956
-2002/03,2002,C,18,partier / ta / politiska,2,162,1.5696
-2002/03,2002,C,22,jobb / arbetslösheten / arbetsmarknaden,2,155,1.5018
-2002/03,2002,C,10,perssons / går / lite,2,150,1.4533
-2002/03,2002,C,11,euron / valuta / europa,2,146,1.4146
-2002/03,2002,C,13,äldre / äldreomsorgen / pensionärer,1,97,0.9398
-2002/03,2002,C,23,partier / ta / ansvar,1,81,0.7848
-2002/03,2002,C,3,polisen / brott / poliser,1,72,0.6976
-2002/03,2002,C,15,jobb / arbetslösheten / arbetsmarknaden,1,19,0.1841
-2002/03,2002,C,7,sd / nej / ta,1,1,0.0097
-2002/03,2002,KD,-1,Ej grupperade,51,3961,42.3319
-2002/03,2002,KD,5,utsläppen / eu / kärnkraft,12,866,9.2551
-2002/03,2002,KD,8,skolan / lärare / skola,9,703,7.5131
-2002/03,2002,KD,1,emu / folkomröstning / eu,8,629,6.7222
-2002/03,2002,KD,9,barn / barnen / föräldrar,6,540,5.7711
-2002/03,2002,KD,3,polisen / brott / poliser,6,456,4.8734
-2002/03,2002,KD,2,kvinnor / män / kvinnors,5,395,4.2214
-2002/03,2002,KD,7,sd / nej / ta,7,386,4.1253
-2002/03,2002,KD,16,eu / europa / europeiska,4,275,2.939
-2002/03,2002,KD,19,skatten / miljarder / skatt,3,235,2.5115
-2002/03,2002,KD,12,vården / vård / sjukvården,3,227,2.426
-2002/03,2002,KD,18,partier / ta / politiska,2,174,1.8596
+2002/03,2002,C,-1,Ej grupperade,91,7344,71.1559
+2002/03,2002,C,0,kvinnor / män / kvinnors,5,423,4.0984
+2002/03,2002,C,19,fn / afghanistan / usa,5,379,3.6721
+2002/03,2002,C,10,barn / föräldrar / barnen,4,346,3.3524
+2002/03,2002,C,14,vården / vård / sjukvården,4,333,3.2264
+2002/03,2002,C,25,jobb / arbetslösheten / arbetsmarknaden,3,248,2.4029
+2002/03,2002,C,9,kärnkraft / kärnkraften / el,3,228,2.2091
+2002/03,2002,C,11,euron / valuta / europa,3,221,2.1413
+2002/03,2002,C,16,partier / politiska / valet,2,162,1.5696
+2002/03,2002,C,6,perssons / åt / talar,2,150,1.4533
+2002/03,2002,C,24,partier / ansvar / folket,2,136,1.3177
+2002/03,2002,C,15,äldre / äldreomsorgen / pensionärer,1,97,0.9398
+2002/03,2002,C,20,skatter / skatten / skatt,1,85,0.8236
+2002/03,2002,C,4,järnväg / järnvägen / stockholm,1,78,0.7557
+2002/03,2002,C,1,polisen / poliser / brott,1,72,0.6976
+2002/03,2002,C,21,jobb / arbetslösheten / arbetsmarknaden,1,19,0.1841
+2002/03,2002,KD,-1,Ej grupperade,74,5598,59.8269
+2002/03,2002,KD,10,barn / föräldrar / barnen,6,540,5.7711
+2002/03,2002,KD,1,polisen / poliser / brott,6,456,4.8734
+2002/03,2002,KD,0,kvinnor / män / kvinnors,5,395,4.2214
+2002/03,2002,KD,4,järnväg / järnvägen / stockholm,5,369,3.9436
+2002/03,2002,KD,14,vården / vård / sjukvården,4,314,3.3558
+2002/03,2002,KD,9,kärnkraft / kärnkraften / el,4,283,3.0245
+2002/03,2002,KD,18,eu / europa / europeiska,4,268,2.8642
+2002/03,2002,KD,16,partier / politiska / valet,2,174,1.8596
+2002/03,2002,KD,20,skatter / skatten / skatt,2,163,1.742
+2002/03,2002,KD,12,skolan / lärare / eleverna,2,163,1.742
 2002/03,2002,KD,11,euron / valuta / europa,2,159,1.6993
-2002/03,2002,KD,10,perssons / går / lite,2,109,1.1649
-2002/03,2002,KD,13,äldre / äldreomsorgen / pensionärer,1,88,0.9405
-2002/03,2002,KD,14,skatt / skatten / skatter,1,79,0.8443
-2002/03,2002,KD,24,se / sveriges / världen,1,75,0.8015
-2002/03,2002,L,-1,Ej grupperade,48,3669,40.0458
-2002/03,2002,L,8,skolan / lärare / skola,20,1561,17.0378
+2002/03,2002,KD,25,jobb / arbetslösheten / arbetsmarknaden,2,149,1.5924
+2002/03,2002,KD,6,perssons / åt / talar,2,109,1.1649
+2002/03,2002,KD,15,äldre / äldreomsorgen / pensionärer,1,88,0.9405
+2002/03,2002,KD,17,skatt / skatten / skatter,1,79,0.8443
+2002/03,2002,KD,8,skatteväxling / gröna / grön skatteväxling,1,50,0.5344
+2002/03,2002,L,-1,Ej grupperade,64,4703,51.3316
 2002/03,2002,L,11,euron / valuta / europa,12,968,10.5654
-2002/03,2002,L,6,migrationspolitik / flyktingar / invandring,12,918,10.0196
-2002/03,2002,L,12,vården / vård / sjukvården,7,452,4.9334
-2002/03,2002,L,18,partier / ta / politiska,5,397,4.3331
-2002/03,2002,L,10,perssons / går / lite,4,328,3.58
-2002/03,2002,L,16,eu / europa / europeiska,4,325,3.5473
-2002/03,2002,L,22,jobb / arbetslösheten / arbetsmarknaden,2,169,1.8446
-2002/03,2002,L,5,utsläppen / eu / kärnkraft,1,91,0.9932
-2002/03,2002,L,15,jobb / arbetslösheten / arbetsmarknaden,1,86,0.9387
-2002/03,2002,L,23,partier / ta / ansvar,1,84,0.9168
-2002/03,2002,L,24,se / sveriges / världen,1,83,0.9059
-2002/03,2002,L,2,kvinnor / män / kvinnors,1,20,0.2183
-2002/03,2002,L,7,sd / nej / ta,3,11,0.1201
-2002/03,2002,M,-1,Ej grupperade,87,6893,58.2425
-2002/03,2002,M,11,euron / valuta / europa,23,1833,15.488
-2002/03,2002,M,19,skatten / miljarder / skatt,5,391,3.3038
-2002/03,2002,M,10,perssons / går / lite,4,341,2.8813
-2002/03,2002,M,15,jobb / arbetslösheten / arbetsmarknaden,5,331,2.7968
-2002/03,2002,M,5,utsläppen / eu / kärnkraft,4,305,2.5771
-2002/03,2002,M,14,skatt / skatten / skatter,3,260,2.1969
-2002/03,2002,M,16,eu / europa / europeiska,3,208,1.7575
-2002/03,2002,M,12,vården / vård / sjukvården,3,180,1.5209
-2002/03,2002,M,8,skolan / lärare / skola,2,178,1.504
-2002/03,2002,M,17,fn / afghanistan / fn s,2,165,1.3942
-2002/03,2002,M,2,kvinnor / män / kvinnors,2,151,1.2759
-2002/03,2002,M,9,barn / barnen / föräldrar,2,150,1.2674
-2002/03,2002,M,24,se / sveriges / världen,1,96,0.8112
-2002/03,2002,M,22,jobb / arbetslösheten / arbetsmarknaden,1,91,0.7689
-2002/03,2002,M,13,äldre / äldreomsorgen / pensionärer,1,89,0.752
-2002/03,2002,M,1,emu / folkomröstning / eu,1,85,0.7182
-2002/03,2002,M,3,polisen / brott / poliser,1,83,0.7013
-2002/03,2002,M,7,sd / nej / ta,4,5,0.0422
-2002/03,2002,MP,-1,Ej grupperade,54,4070,41.1153
-2002/03,2002,MP,5,utsläppen / eu / kärnkraft,37,2885,29.1444
-2002/03,2002,MP,1,emu / folkomröstning / eu,11,974,9.8394
-2002/03,2002,MP,16,eu / europa / europeiska,10,819,8.2736
-2002/03,2002,MP,11,euron / valuta / europa,7,521,5.2632
-2002/03,2002,MP,9,barn / barnen / föräldrar,2,181,1.8285
-2002/03,2002,MP,17,fn / afghanistan / fn s,2,179,1.8083
-2002/03,2002,MP,8,skolan / lärare / skola,1,89,0.8991
-2002/03,2002,MP,15,jobb / arbetslösheten / arbetsmarknaden,1,85,0.8587
-2002/03,2002,MP,21,nato / försvaret / militära,1,77,0.7779
-2002/03,2002,MP,7,sd / nej / ta,1,11,0.1111
-2002/03,2002,MP,24,se / sveriges / världen,1,8,0.0808
-2002/03,2002,S,-1,Ej grupperade,105,8016,48.3154
-2002/03,2002,S,16,eu / europa / europeiska,14,1192,7.1846
+2002/03,2002,L,3,flyktingar / migrationspolitik / invandring,13,949,10.358
+2002/03,2002,L,16,partier / politiska / valet,6,481,5.2499
+2002/03,2002,L,14,vården / vård / sjukvården,7,452,4.9334
+2002/03,2002,L,6,perssons / åt / talar,4,328,3.58
+2002/03,2002,L,18,eu / europa / europeiska,4,325,3.5473
+2002/03,2002,L,12,skolan / lärare / eleverna,2,174,1.8991
+2002/03,2002,L,13,skolan / skola / elever,2,171,1.8664
+2002/03,2002,L,25,jobb / arbetslösheten / arbetsmarknaden,2,169,1.8446
+2002/03,2002,L,24,partier / ansvar / folket,2,167,1.8227
+2002/03,2002,L,21,jobb / arbetslösheten / arbetsmarknaden,2,164,1.79
+2002/03,2002,L,7,eu / utsläppen / utsläpp,1,91,0.9932
+2002/03,2002,L,0,kvinnor / män / kvinnors,1,20,0.2183
+2002/03,2002,M,-1,Ej grupperade,90,6993,59.0875
+2002/03,2002,M,11,euron / valuta / europa,25,1997,16.8737
+2002/03,2002,M,6,perssons / åt / talar,4,341,2.8813
+2002/03,2002,M,17,skatt / skatten / skatter,4,340,2.8728
+2002/03,2002,M,20,skatter / skatten / skatt,4,301,2.5433
+2002/03,2002,M,21,jobb / arbetslösheten / arbetsmarknaden,5,265,2.2391
+2002/03,2002,M,14,vården / vård / sjukvården,4,260,2.1969
+2002/03,2002,M,18,eu / europa / europeiska,3,208,1.7575
+2002/03,2002,M,25,jobb / arbetslösheten / arbetsmarknaden,3,199,1.6815
+2002/03,2002,M,19,fn / afghanistan / usa,2,165,1.3942
+2002/03,2002,M,0,kvinnor / män / kvinnors,2,151,1.2759
+2002/03,2002,M,10,barn / föräldrar / barnen,2,150,1.2674
+2002/03,2002,M,9,kärnkraft / kärnkraften / el,2,130,1.0984
+2002/03,2002,M,15,äldre / äldreomsorgen / pensionärer,1,89,0.752
+2002/03,2002,M,12,skolan / lärare / eleverna,1,85,0.7182
+2002/03,2002,M,1,polisen / poliser / brott,1,83,0.7013
+2002/03,2002,M,24,partier / ansvar / folket,1,78,0.6591
+2002/03,2002,MP,-1,Ej grupperade,70,5346,54.0055
+2002/03,2002,MP,9,kärnkraft / kärnkraften / el,15,1185,11.9709
+2002/03,2002,MP,18,eu / europa / europeiska,13,1083,10.9405
+2002/03,2002,MP,4,järnväg / järnvägen / stockholm,7,540,5.4551
+2002/03,2002,MP,11,euron / valuta / europa,7,517,5.2227
+2002/03,2002,MP,8,skatteväxling / gröna / grön skatteväxling,5,414,4.1822
+2002/03,2002,MP,10,barn / föräldrar / barnen,2,181,1.8285
+2002/03,2002,MP,19,fn / afghanistan / usa,2,179,1.8083
+2002/03,2002,MP,3,flyktingar / migrationspolitik / invandring,1,86,0.8688
+2002/03,2002,MP,16,partier / politiska / valet,1,86,0.8688
+2002/03,2002,MP,21,jobb / arbetslösheten / arbetsmarknaden,1,85,0.8587
+2002/03,2002,MP,7,eu / utsläppen / utsläpp,1,79,0.7981
+2002/03,2002,MP,23,nato / försvaret / militära,1,77,0.7779
+2002/03,2002,MP,25,jobb / arbetslösheten / arbetsmarknaden,1,33,0.3334
+2002/03,2002,MP,24,partier / ansvar / folket,1,8,0.0808
+2002/03,2002,S,-1,Ej grupperade,116,8554,51.5581
 2002/03,2002,S,11,euron / valuta / europa,13,1133,6.829
-2002/03,2002,S,17,fn / afghanistan / fn s,12,993,5.9852
-2002/03,2002,S,14,skatt / skatten / skatter,12,939,5.6597
-2002/03,2002,S,18,partier / ta / politiska,11,721,4.3457
-2002/03,2002,S,8,skolan / lärare / skola,7,595,3.5863
-2002/03,2002,S,12,vården / vård / sjukvården,7,595,3.5863
-2002/03,2002,S,19,skatten / miljarder / skatt,7,532,3.2066
-2002/03,2002,S,1,emu / folkomröstning / eu,5,388,2.3386
-2002/03,2002,S,13,äldre / äldreomsorgen / pensionärer,4,354,2.1337
-2002/03,2002,S,23,partier / ta / ansvar,3,227,1.3682
-2002/03,2002,S,5,utsläppen / eu / kärnkraft,3,217,1.3079
-2002/03,2002,S,3,polisen / brott / poliser,2,167,1.0066
-2002/03,2002,S,6,migrationspolitik / flyktingar / invandring,2,150,0.9041
-2002/03,2002,S,15,jobb / arbetslösheten / arbetsmarknaden,2,141,0.8499
-2002/03,2002,S,22,jobb / arbetslösheten / arbetsmarknaden,1,77,0.4641
-2002/03,2002,S,4,bostäder / hyresrätter / marknadshyror,1,67,0.4038
-2002/03,2002,S,24,se / sveriges / världen,2,60,0.3616
-2002/03,2002,S,7,sd / nej / ta,4,27,0.1627
-2002/03,2002,V,-1,Ej grupperade,55,4457,39.8124
-2002/03,2002,V,1,emu / folkomröstning / eu,21,1797,16.0518
-2002/03,2002,V,2,kvinnor / män / kvinnors,20,1595,14.2474
-2002/03,2002,V,17,fn / afghanistan / fn s,12,1004,8.9683
-2002/03,2002,V,18,partier / ta / politiska,6,420,3.7517
-2002/03,2002,V,16,eu / europa / europeiska,4,276,2.4654
-2002/03,2002,V,5,utsläppen / eu / kärnkraft,3,273,2.4386
-2002/03,2002,V,11,euron / valuta / europa,3,236,2.1081
-2002/03,2002,V,8,skolan / lärare / skola,2,184,1.6436
-2002/03,2002,V,22,jobb / arbetslösheten / arbetsmarknaden,2,181,1.6168
-2002/03,2002,V,19,skatten / miljarder / skatt,2,171,1.5275
-2002/03,2002,V,15,jobb / arbetslösheten / arbetsmarknaden,2,167,1.4917
-2002/03,2002,V,6,migrationspolitik / flyktingar / invandring,2,163,1.456
-2002/03,2002,V,10,perssons / går / lite,2,115,1.0272
-2002/03,2002,V,9,barn / barnen / föräldrar,1,82,0.7325
-2002/03,2002,V,23,partier / ta / ansvar,1,52,0.4645
-2002/03,2002,V,7,sd / nej / ta,1,22,0.1965
+2002/03,2002,S,18,eu / europa / europeiska,13,1122,6.7627
+2002/03,2002,S,17,skatt / skatten / skatter,13,1022,6.16
+2002/03,2002,S,19,fn / afghanistan / usa,12,993,5.9852
+2002/03,2002,S,16,partier / politiska / valet,12,810,4.8822
+2002/03,2002,S,14,vården / vård / sjukvården,7,595,3.5863
+2002/03,2002,S,12,skolan / lärare / eleverna,5,456,2.7485
+2002/03,2002,S,15,äldre / äldreomsorgen / pensionärer,5,438,2.64
+2002/03,2002,S,20,skatter / skatten / skatt,5,366,2.206
+2002/03,2002,S,9,kärnkraft / kärnkraften / el,3,217,1.3079
+2002/03,2002,S,24,partier / ansvar / folket,4,201,1.2115
+2002/03,2002,S,1,polisen / poliser / brott,2,167,1.0066
+2002/03,2002,S,25,jobb / arbetslösheten / arbetsmarknaden,2,159,0.9584
+2002/03,2002,S,3,flyktingar / migrationspolitik / invandring,2,150,0.9041
+2002/03,2002,S,21,jobb / arbetslösheten / arbetsmarknaden,2,141,0.8499
+2002/03,2002,S,2,bostäder / marknadshyror / hyresrätter,1,67,0.4038
+2002/03,2002,V,-1,Ej grupperade,75,6121,54.6762
+2002/03,2002,V,0,kvinnor / män / kvinnors,19,1513,13.515
+2002/03,2002,V,19,fn / afghanistan / usa,15,1236,11.0406
+2002/03,2002,V,16,partier / politiska / valet,6,420,3.7517
+2002/03,2002,V,11,euron / valuta / europa,5,416,3.7159
+2002/03,2002,V,18,eu / europa / europeiska,4,276,2.4654
+2002/03,2002,V,25,jobb / arbetslösheten / arbetsmarknaden,2,181,1.6168
+2002/03,2002,V,9,kärnkraft / kärnkraften / el,2,175,1.5632
+2002/03,2002,V,21,jobb / arbetslösheten / arbetsmarknaden,2,167,1.4917
+2002/03,2002,V,3,flyktingar / migrationspolitik / invandring,2,163,1.456
+2002/03,2002,V,6,perssons / åt / talar,2,115,1.0272
+2002/03,2002,V,7,eu / utsläppen / utsläpp,1,98,0.8754
+2002/03,2002,V,20,skatter / skatten / skatt,1,91,0.8129
+2002/03,2002,V,12,skolan / lärare / eleverna,1,89,0.795
+2002/03,2002,V,10,barn / föräldrar / barnen,1,82,0.7325
+2002/03,2002,V,24,partier / ansvar / folket,1,52,0.4645

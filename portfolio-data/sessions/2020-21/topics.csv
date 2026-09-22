@@ -1,116 +1,108 @@
 ﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
-2020/21,2020,C,-1,Ej grupperade,57,3943,47.615
-2020/21,2020,C,5,utsläppen / eu / kärnkraft,13,930,11.2305
-2020/21,2020,C,3,polisen / brott / poliser,8,605,7.3059
-2020/21,2020,C,4,bostäder / hyresrätter / marknadshyror,5,404,4.8786
-2020/21,2020,C,13,äldre / äldreomsorgen / pensionärer,5,364,4.3956
-2020/21,2020,C,6,migrationspolitik / flyktingar / invandring,6,360,4.3473
-2020/21,2020,C,12,vården / vård / sjukvården,4,314,3.7918
-2020/21,2020,C,8,skolan / lärare / skola,4,281,3.3933
-2020/21,2020,C,0,sjöstedts / företag / min,3,264,3.188
-2020/21,2020,C,23,partier / ta / ansvar,3,249,3.0069
-2020/21,2020,C,14,skatt / skatten / skatter,4,231,2.7895
-2020/21,2020,C,2,kvinnor / män / kvinnors,2,174,2.1012
-2020/21,2020,C,15,jobb / arbetslösheten / arbetsmarknaden,2,145,1.751
-2020/21,2020,C,9,barn / barnen / föräldrar,1,9,0.1087
-2020/21,2020,C,19,skatten / miljarder / skatt,1,8,0.0966
-2020/21,2020,KD,-1,Ej grupperade,58,4172,49.1749
-2020/21,2020,KD,5,utsläppen / eu / kärnkraft,11,754,8.8873
-2020/21,2020,KD,13,äldre / äldreomsorgen / pensionärer,7,555,6.5417
-2020/21,2020,KD,3,polisen / brott / poliser,6,469,5.5281
-2020/21,2020,KD,22,jobb / arbetslösheten / arbetsmarknaden,5,387,4.5615
-2020/21,2020,KD,12,vården / vård / sjukvården,6,383,4.5144
-2020/21,2020,KD,23,partier / ta / ansvar,4,313,3.6893
-2020/21,2020,KD,6,migrationspolitik / flyktingar / invandring,4,295,3.4771
-2020/21,2020,KD,16,eu / europa / europeiska,3,212,2.4988
-2020/21,2020,KD,0,sjöstedts / företag / min,2,185,2.1806
-2020/21,2020,KD,2,kvinnor / män / kvinnors,2,182,2.1452
-2020/21,2020,KD,14,skatt / skatten / skatter,2,158,1.8623
-2020/21,2020,KD,18,partier / ta / politiska,2,147,1.7327
-2020/21,2020,KD,4,bostäder / hyresrätter / marknadshyror,2,109,1.2848
-2020/21,2020,KD,9,barn / barnen / föräldrar,1,83,0.9783
-2020/21,2020,KD,8,skolan / lärare / skola,1,74,0.8722
-2020/21,2020,KD,7,sd / nej / ta,1,6,0.0707
-2020/21,2020,L,-1,Ej grupperade,44,3134,40.7066
-2020/21,2020,L,8,skolan / lärare / skola,13,946,12.2873
-2020/21,2020,L,3,polisen / brott / poliser,11,774,10.0533
-2020/21,2020,L,5,utsläppen / eu / kärnkraft,9,662,8.5985
-2020/21,2020,L,6,migrationspolitik / flyktingar / invandring,6,484,6.2865
-2020/21,2020,L,23,partier / ta / ansvar,4,339,4.4032
-2020/21,2020,L,16,eu / europa / europeiska,4,277,3.5979
-2020/21,2020,L,19,skatten / miljarder / skatt,4,273,3.5459
-2020/21,2020,L,13,äldre / äldreomsorgen / pensionärer,3,255,3.3121
-2020/21,2020,L,9,barn / barnen / föräldrar,2,186,2.4159
-2020/21,2020,L,4,bostäder / hyresrätter / marknadshyror,1,93,1.2079
-2020/21,2020,L,14,skatt / skatten / skatter,1,89,1.156
-2020/21,2020,L,18,partier / ta / politiska,1,85,1.104
-2020/21,2020,L,15,jobb / arbetslösheten / arbetsmarknaden,1,79,1.0261
-2020/21,2020,L,24,se / sveriges / världen,2,23,0.2987
-2020/21,2020,M,-1,Ej grupperade,51,3760,46.4312
-2020/21,2020,M,3,polisen / brott / poliser,15,1153,14.2381
-2020/21,2020,M,5,utsläppen / eu / kärnkraft,10,817,10.0889
-2020/21,2020,M,8,skolan / lärare / skola,10,769,9.4962
-2020/21,2020,M,12,vården / vård / sjukvården,5,302,3.7293
-2020/21,2020,M,23,partier / ta / ansvar,4,293,3.6182
-2020/21,2020,M,22,jobb / arbetslösheten / arbetsmarknaden,3,213,2.6303
-2020/21,2020,M,6,migrationspolitik / flyktingar / invandring,2,164,2.0252
-2020/21,2020,M,13,äldre / äldreomsorgen / pensionärer,2,120,1.4818
-2020/21,2020,M,19,skatten / miljarder / skatt,2,119,1.4695
-2020/21,2020,M,9,barn / barnen / föräldrar,2,104,1.2843
-2020/21,2020,M,2,kvinnor / män / kvinnors,1,86,1.062
-2020/21,2020,M,0,sjöstedts / företag / min,1,86,1.062
-2020/21,2020,M,18,partier / ta / politiska,2,41,0.5063
-2020/21,2020,M,7,sd / nej / ta,2,38,0.4693
-2020/21,2020,M,24,se / sveriges / världen,1,26,0.3211
-2020/21,2020,M,15,jobb / arbetslösheten / arbetsmarknaden,1,7,0.0864
-2020/21,2020,MP,5,utsläppen / eu / kärnkraft,43,3149,44.5908
-2020/21,2020,MP,-1,Ej grupperade,41,2942,41.6596
-2020/21,2020,MP,18,partier / ta / politiska,3,268,3.795
-2020/21,2020,MP,2,kvinnor / män / kvinnors,4,243,3.441
-2020/21,2020,MP,9,barn / barnen / föräldrar,2,174,2.4639
-2020/21,2020,MP,22,jobb / arbetslösheten / arbetsmarknaden,2,157,2.2232
-2020/21,2020,MP,0,sjöstedts / företag / min,1,89,1.2603
-2020/21,2020,MP,23,partier / ta / ansvar,1,25,0.354
-2020/21,2020,MP,24,se / sveriges / världen,1,14,0.1982
-2020/21,2020,MP,7,sd / nej / ta,1,1,0.0142
-2020/21,2020,S,-1,Ej grupperade,98,7342,59.5313
-2020/21,2020,S,3,polisen / brott / poliser,18,1437,11.6517
-2020/21,2020,S,13,äldre / äldreomsorgen / pensionärer,10,717,5.8137
-2020/21,2020,S,5,utsläppen / eu / kärnkraft,6,486,3.9406
-2020/21,2020,S,6,migrationspolitik / flyktingar / invandring,5,434,3.519
-2020/21,2020,S,8,skolan / lärare / skola,3,247,2.0028
-2020/21,2020,S,15,jobb / arbetslösheten / arbetsmarknaden,3,231,1.873
-2020/21,2020,S,12,vården / vård / sjukvården,3,230,1.8649
-2020/21,2020,S,22,jobb / arbetslösheten / arbetsmarknaden,3,204,1.6541
-2020/21,2020,S,0,sjöstedts / företag / min,4,193,1.5649
-2020/21,2020,S,9,barn / barnen / föräldrar,2,166,1.346
-2020/21,2020,S,4,bostäder / hyresrätter / marknadshyror,2,148,1.2
-2020/21,2020,S,19,skatten / miljarder / skatt,2,130,1.0541
-2020/21,2020,S,23,partier / ta / ansvar,2,110,0.8919
-2020/21,2020,S,18,partier / ta / politiska,1,84,0.6811
-2020/21,2020,S,24,se / sveriges / världen,1,81,0.6568
-2020/21,2020,S,2,kvinnor / män / kvinnors,1,75,0.6081
-2020/21,2020,S,7,sd / nej / ta,6,18,0.1459
-2020/21,2020,SD,-1,Ej grupperade,57,4186,49.5267
-2020/21,2020,SD,3,polisen / brott / poliser,16,1215,14.3753
-2020/21,2020,SD,6,migrationspolitik / flyktingar / invandring,11,795,9.4061
-2020/21,2020,SD,13,äldre / äldreomsorgen / pensionärer,9,735,8.6962
-2020/21,2020,SD,5,utsläppen / eu / kärnkraft,6,518,6.1287
-2020/21,2020,SD,16,eu / europa / europeiska,3,265,3.1354
-2020/21,2020,SD,23,partier / ta / ansvar,2,182,2.1533
-2020/21,2020,SD,18,partier / ta / politiska,2,171,2.0232
-2020/21,2020,SD,12,vården / vård / sjukvården,1,87,1.0293
-2020/21,2020,SD,9,barn / barnen / föräldrar,1,83,0.982
-2020/21,2020,SD,17,fn / afghanistan / fn s,1,79,0.9347
-2020/21,2020,SD,7,sd / nej / ta,7,68,0.8045
-2020/21,2020,SD,15,jobb / arbetslösheten / arbetsmarknaden,1,68,0.8045
-2020/21,2020,V,-1,Ej grupperade,69,4864,50.8467
-2020/21,2020,V,13,äldre / äldreomsorgen / pensionärer,21,1515,15.8373
-2020/21,2020,V,4,bostäder / hyresrätter / marknadshyror,15,1128,11.7918
-2020/21,2020,V,8,skolan / lärare / skola,11,829,8.6661
-2020/21,2020,V,5,utsläppen / eu / kärnkraft,7,522,5.4568
-2020/21,2020,V,12,vården / vård / sjukvården,5,319,3.3347
-2020/21,2020,V,23,partier / ta / ansvar,3,241,2.5193
-2020/21,2020,V,14,skatt / skatten / skatter,1,77,0.8049
-2020/21,2020,V,24,se / sveriges / världen,1,56,0.5854
-2020/21,2020,V,7,sd / nej / ta,2,15,0.1568
+2020/21,2020,C,-1,Ej grupperade,68,4811,58.0968
+2020/21,2020,C,1,polisen / poliser / brott,8,605,7.3059
+2020/21,2020,C,2,bostäder / marknadshyror / hyresrätter,5,404,4.8786
+2020/21,2020,C,15,äldre / äldreomsorgen / pensionärer,5,364,4.3956
+2020/21,2020,C,3,flyktingar / migrationspolitik / invandring,6,360,4.3473
+2020/21,2020,C,24,partier / ansvar / folket,5,353,4.2628
+2020/21,2020,C,14,vården / vård / sjukvården,4,314,3.7918
+2020/21,2020,C,17,skatt / skatten / skatter,5,313,3.7797
+2020/21,2020,C,9,kärnkraft / kärnkraften / el,3,196,2.3669
+2020/21,2020,C,16,partier / politiska / valet,3,194,2.3427
+2020/21,2020,C,12,skolan / lärare / eleverna,2,176,2.1253
+2020/21,2020,C,0,kvinnor / män / kvinnors,2,174,2.1012
+2020/21,2020,C,10,barn / föräldrar / barnen,1,9,0.1087
+2020/21,2020,C,20,skatter / skatten / skatt,1,8,0.0966
+2020/21,2020,KD,-1,Ej grupperade,67,4771,56.2353
+2020/21,2020,KD,15,äldre / äldreomsorgen / pensionärer,8,635,7.4847
+2020/21,2020,KD,1,polisen / poliser / brott,6,469,5.5281
+2020/21,2020,KD,14,vården / vård / sjukvården,7,458,5.3984
+2020/21,2020,KD,25,jobb / arbetslösheten / arbetsmarknaden,4,326,3.8425
+2020/21,2020,KD,24,partier / ansvar / folket,4,313,3.6893
+2020/21,2020,KD,3,flyktingar / migrationspolitik / invandring,4,295,3.4771
+2020/21,2020,KD,18,eu / europa / europeiska,3,212,2.4988
+2020/21,2020,KD,16,partier / politiska / valet,3,207,2.4399
+2020/21,2020,KD,9,kärnkraft / kärnkraften / el,3,195,2.2984
+2020/21,2020,KD,0,kvinnor / män / kvinnors,2,182,2.1452
+2020/21,2020,KD,17,skatt / skatten / skatter,2,158,1.8623
+2020/21,2020,KD,2,bostäder / marknadshyror / hyresrätter,2,109,1.2848
+2020/21,2020,KD,10,barn / föräldrar / barnen,1,83,0.9783
+2020/21,2020,KD,8,skatteväxling / gröna / grön skatteväxling,1,71,0.8369
+2020/21,2020,L,-1,Ej grupperade,46,3257,42.3042
+2020/21,2020,L,1,polisen / poliser / brott,11,774,10.0533
+2020/21,2020,L,12,skolan / lärare / eleverna,6,507,6.5853
+2020/21,2020,L,3,flyktingar / migrationspolitik / invandring,6,484,6.2865
+2020/21,2020,L,9,kärnkraft / kärnkraften / el,6,393,5.1046
+2020/21,2020,L,24,partier / ansvar / folket,6,362,4.7019
+2020/21,2020,L,13,skolan / skola / elever,5,335,4.3512
+2020/21,2020,L,18,eu / europa / europeiska,4,277,3.5979
+2020/21,2020,L,20,skatter / skatten / skatt,4,273,3.5459
+2020/21,2020,L,15,äldre / äldreomsorgen / pensionärer,3,255,3.3121
+2020/21,2020,L,10,barn / föräldrar / barnen,2,186,2.4159
+2020/21,2020,L,21,jobb / arbetslösheten / arbetsmarknaden,2,169,2.1951
+2020/21,2020,L,17,skatt / skatten / skatter,2,161,2.0912
+2020/21,2020,L,7,eu / utsläppen / utsläpp,1,94,1.2209
+2020/21,2020,L,2,bostäder / marknadshyror / hyresrätter,1,93,1.2079
+2020/21,2020,L,16,partier / politiska / valet,1,79,1.0261
+2020/21,2020,M,-1,Ej grupperade,60,4318,53.3218
+2020/21,2020,M,1,polisen / poliser / brott,15,1153,14.2381
+2020/21,2020,M,13,skolan / skola / elever,5,431,5.3223
+2020/21,2020,M,9,kärnkraft / kärnkraften / el,4,329,4.0627
+2020/21,2020,M,24,partier / ansvar / folket,5,319,3.9392
+2020/21,2020,M,25,jobb / arbetslösheten / arbetsmarknaden,4,302,3.7293
+2020/21,2020,M,14,vården / vård / sjukvården,5,302,3.7293
+2020/21,2020,M,7,eu / utsläppen / utsläpp,2,175,2.161
+2020/21,2020,M,3,flyktingar / migrationspolitik / invandring,2,164,2.0252
+2020/21,2020,M,8,skatteväxling / gröna / grön skatteväxling,2,159,1.9634
+2020/21,2020,M,15,äldre / äldreomsorgen / pensionärer,2,120,1.4818
+2020/21,2020,M,10,barn / föräldrar / barnen,2,104,1.2843
+2020/21,2020,M,16,partier / politiska / valet,3,91,1.1237
+2020/21,2020,M,0,kvinnor / män / kvinnors,1,86,1.062
+2020/21,2020,M,20,skatter / skatten / skatt,1,38,0.4693
+2020/21,2020,M,21,jobb / arbetslösheten / arbetsmarknaden,1,7,0.0864
+2020/21,2020,MP,-1,Ej grupperade,67,4796,67.9128
+2020/21,2020,MP,8,skatteväxling / gröna / grön skatteväxling,11,736,10.422
+2020/21,2020,MP,9,kärnkraft / kärnkraften / el,5,424,6.004
+2020/21,2020,MP,16,partier / politiska / valet,3,268,3.795
+2020/21,2020,MP,0,kvinnor / män / kvinnors,4,243,3.441
+2020/21,2020,MP,10,barn / föräldrar / barnen,2,174,2.4639
+2020/21,2020,MP,24,partier / ansvar / folket,4,173,2.4497
+2020/21,2020,MP,25,jobb / arbetslösheten / arbetsmarknaden,2,157,2.2232
+2020/21,2020,MP,7,eu / utsläppen / utsläpp,1,91,1.2886
+2020/21,2020,S,-1,Ej grupperade,109,7618,61.7692
+2020/21,2020,S,1,polisen / poliser / brott,18,1437,11.6517
+2020/21,2020,S,15,äldre / äldreomsorgen / pensionärer,10,717,5.8137
+2020/21,2020,S,25,jobb / arbetslösheten / arbetsmarknaden,8,607,4.9218
+2020/21,2020,S,3,flyktingar / migrationspolitik / invandring,5,434,3.519
+2020/21,2020,S,24,partier / ansvar / folket,4,277,2.246
+2020/21,2020,S,21,jobb / arbetslösheten / arbetsmarknaden,3,231,1.873
+2020/21,2020,S,14,vården / vård / sjukvården,3,230,1.8649
+2020/21,2020,S,10,barn / föräldrar / barnen,2,166,1.346
+2020/21,2020,S,2,bostäder / marknadshyror / hyresrätter,2,148,1.2
+2020/21,2020,S,20,skatter / skatten / skatt,2,130,1.0541
+2020/21,2020,S,12,skolan / lärare / eleverna,1,92,0.746
+2020/21,2020,S,16,partier / politiska / valet,1,91,0.7379
+2020/21,2020,S,8,skatteväxling / gröna / grön skatteväxling,1,80,0.6487
+2020/21,2020,S,0,kvinnor / män / kvinnors,1,75,0.6081
+2020/21,2020,SD,-1,Ej grupperade,65,4392,51.964
+2020/21,2020,SD,1,polisen / poliser / brott,15,1207,14.2806
+2020/21,2020,SD,3,flyktingar / migrationspolitik / invandring,11,795,9.4061
+2020/21,2020,SD,15,äldre / äldreomsorgen / pensionärer,9,735,8.6962
+2020/21,2020,SD,24,partier / ansvar / folket,4,303,3.585
+2020/21,2020,SD,18,eu / europa / europeiska,3,265,3.1354
+2020/21,2020,SD,16,partier / politiska / valet,3,235,2.7804
+2020/21,2020,SD,9,kärnkraft / kärnkraften / el,2,196,2.319
+2020/21,2020,SD,14,vården / vård / sjukvården,1,87,1.0293
+2020/21,2020,SD,10,barn / föräldrar / barnen,1,83,0.982
+2020/21,2020,SD,19,fn / afghanistan / usa,1,79,0.9347
+2020/21,2020,SD,21,jobb / arbetslösheten / arbetsmarknaden,2,75,0.8874
+2020/21,2020,V,-1,Ej grupperade,73,5079,53.0943
+2020/21,2020,V,15,äldre / äldreomsorgen / pensionärer,23,1673,17.489
+2020/21,2020,V,2,bostäder / marknadshyror / hyresrätter,15,1128,11.7918
+2020/21,2020,V,13,skolan / skola / elever,5,425,4.4428
+2020/21,2020,V,14,vården / vård / sjukvården,5,319,3.3347
+2020/21,2020,V,24,partier / ansvar / folket,4,297,3.1047
+2020/21,2020,V,9,kärnkraft / kärnkraften / el,4,276,2.8852
+2020/21,2020,V,12,skolan / lärare / eleverna,4,264,2.7598
+2020/21,2020,V,17,skatt / skatten / skatter,1,77,0.8049
+2020/21,2020,V,25,jobb / arbetslösheten / arbetsmarknaden,1,28,0.2927

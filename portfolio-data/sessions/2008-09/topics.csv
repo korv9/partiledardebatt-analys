@@ -1,116 +1,118 @@
 ﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
-2008/09,2008,C,-1,Ej grupperade,86,6708,40.9524
-2008/09,2008,C,5,utsläppen / eu / kärnkraft,61,4864,29.6947
-2008/09,2008,C,15,jobb / arbetslösheten / arbetsmarknaden,18,1513,9.2369
-2008/09,2008,C,12,vården / vård / sjukvården,17,1268,7.7411
-2008/09,2008,C,19,skatten / miljarder / skatt,8,562,3.431
-2008/09,2008,C,16,eu / europa / europeiska,6,473,2.8877
-2008/09,2008,C,13,äldre / äldreomsorgen / pensionärer,2,166,1.0134
-2008/09,2008,C,22,jobb / arbetslösheten / arbetsmarknaden,2,162,0.989
-2008/09,2008,C,9,barn / barnen / föräldrar,2,161,0.9829
-2008/09,2008,C,24,se / sveriges / världen,2,136,0.8303
-2008/09,2008,C,17,fn / afghanistan / fn s,1,96,0.5861
+2008/09,2008,C,-1,Ej grupperade,114,8753,53.4371
+2008/09,2008,C,21,jobb / arbetslösheten / arbetsmarknaden,19,1603,9.7863
+2008/09,2008,C,14,vården / vård / sjukvården,18,1359,8.2967
+2008/09,2008,C,7,eu / utsläppen / utsläpp,14,1169,7.1368
+2008/09,2008,C,9,kärnkraft / kärnkraften / el,10,748,4.5665
+2008/09,2008,C,8,skatteväxling / gröna / grön skatteväxling,9,653,3.9866
+2008/09,2008,C,20,skatter / skatten / skatt,7,494,3.0159
+2008/09,2008,C,18,eu / europa / europeiska,5,374,2.2833
+2008/09,2008,C,25,jobb / arbetslösheten / arbetsmarknaden,4,356,2.1734
+2008/09,2008,C,15,äldre / äldreomsorgen / pensionärer,3,243,1.4835
+2008/09,2008,C,10,barn / föräldrar / barnen,2,161,0.9829
+2008/09,2008,C,19,fn / afghanistan / usa,1,96,0.5861
 2008/09,2008,C,11,euron / valuta / europa,1,91,0.5556
-2008/09,2008,C,2,kvinnor / män / kvinnors,1,84,0.5128
-2008/09,2008,C,6,migrationspolitik / flyktingar / invandring,1,74,0.4518
-2008/09,2008,C,7,sd / nej / ta,3,22,0.1343
-2008/09,2008,KD,-1,Ej grupperade,90,7076,60.6601
-2008/09,2008,KD,12,vården / vård / sjukvården,16,1345,11.5302
-2008/09,2008,KD,18,partier / ta / politiska,9,668,5.7265
-2008/09,2008,KD,9,barn / barnen / föräldrar,9,597,5.1179
-2008/09,2008,KD,16,eu / europa / europeiska,6,510,4.3721
-2008/09,2008,KD,19,skatten / miljarder / skatt,3,272,2.3318
-2008/09,2008,KD,3,polisen / brott / poliser,3,264,2.2632
-2008/09,2008,KD,13,äldre / äldreomsorgen / pensionärer,3,249,2.1346
-2008/09,2008,KD,2,kvinnor / män / kvinnors,2,171,1.4659
-2008/09,2008,KD,11,euron / valuta / europa,2,165,1.4145
-2008/09,2008,KD,21,nato / försvaret / militära,2,154,1.3202
-2008/09,2008,KD,5,utsläppen / eu / kärnkraft,2,94,0.8058
-2008/09,2008,KD,6,migrationspolitik / flyktingar / invandring,1,82,0.703
-2008/09,2008,KD,7,sd / nej / ta,3,18,0.1543
-2008/09,2008,L,-1,Ej grupperade,96,6931,51.7935
-2008/09,2008,L,8,skolan / lärare / skola,25,2041,15.2518
-2008/09,2008,L,5,utsläppen / eu / kärnkraft,17,1272,9.5053
-2008/09,2008,L,11,euron / valuta / europa,11,995,7.4354
-2008/09,2008,L,16,eu / europa / europeiska,11,820,6.1276
-2008/09,2008,L,22,jobb / arbetslösheten / arbetsmarknaden,3,265,1.9803
-2008/09,2008,L,23,partier / ta / ansvar,3,245,1.8308
-2008/09,2008,L,2,kvinnor / män / kvinnors,2,175,1.3077
-2008/09,2008,L,18,partier / ta / politiska,4,168,1.2554
-2008/09,2008,L,19,skatten / miljarder / skatt,2,156,1.1657
-2008/09,2008,L,17,fn / afghanistan / fn s,2,143,1.0686
-2008/09,2008,L,3,polisen / brott / poliser,1,76,0.5679
-2008/09,2008,L,12,vården / vård / sjukvården,1,60,0.4484
-2008/09,2008,L,21,nato / försvaret / militära,1,21,0.1569
-2008/09,2008,L,15,jobb / arbetslösheten / arbetsmarknaden,1,8,0.0598
-2008/09,2008,L,7,sd / nej / ta,1,5,0.0374
-2008/09,2008,L,24,se / sveriges / världen,1,1,0.0075
-2008/09,2008,M,-1,Ej grupperade,126,9635,61.7945
-2008/09,2008,M,5,utsläppen / eu / kärnkraft,26,2151,13.7955
-2008/09,2008,M,16,eu / europa / europeiska,14,988,6.3366
-2008/09,2008,M,22,jobb / arbetslösheten / arbetsmarknaden,9,627,4.0213
+2008/09,2008,C,0,kvinnor / män / kvinnors,1,84,0.5128
+2008/09,2008,C,4,järnväg / järnvägen / stockholm,1,78,0.4762
+2008/09,2008,C,3,flyktingar / migrationspolitik / invandring,1,74,0.4518
+2008/09,2008,C,24,partier / ansvar / folket,1,44,0.2686
+2008/09,2008,KD,-1,Ej grupperade,93,7022,60.1972
+2008/09,2008,KD,14,vården / vård / sjukvården,17,1426,12.2246
+2008/09,2008,KD,16,partier / politiska / valet,8,606,5.195
+2008/09,2008,KD,10,barn / föräldrar / barnen,9,597,5.1179
+2008/09,2008,KD,18,eu / europa / europeiska,7,586,5.0236
+2008/09,2008,KD,1,polisen / poliser / brott,3,264,2.2632
+2008/09,2008,KD,11,euron / valuta / europa,3,251,2.1517
+2008/09,2008,KD,15,äldre / äldreomsorgen / pensionärer,3,249,2.1346
+2008/09,2008,KD,20,skatter / skatten / skatt,2,174,1.4916
+2008/09,2008,KD,0,kvinnor / män / kvinnors,2,171,1.4659
+2008/09,2008,KD,23,nato / försvaret / militära,2,154,1.3202
+2008/09,2008,KD,24,partier / ansvar / folket,1,83,0.7115
+2008/09,2008,KD,3,flyktingar / migrationspolitik / invandring,1,82,0.703
+2008/09,2008,L,-1,Ej grupperade,119,8716,65.1323
+2008/09,2008,L,11,euron / valuta / europa,12,1014,7.5773
+2008/09,2008,L,13,skolan / skola / elever,11,869,6.4938
+2008/09,2008,L,18,eu / europa / europeiska,11,820,6.1276
+2008/09,2008,L,25,jobb / arbetslösheten / arbetsmarknaden,3,265,1.9803
+2008/09,2008,L,16,partier / politiska / valet,5,250,1.8682
+2008/09,2008,L,24,partier / ansvar / folket,4,246,1.8383
+2008/09,2008,L,4,järnväg / järnvägen / stockholm,3,216,1.6141
+2008/09,2008,L,0,kvinnor / män / kvinnors,2,175,1.3077
+2008/09,2008,L,7,eu / utsläppen / utsläpp,2,164,1.2255
+2008/09,2008,L,14,vården / vård / sjukvården,2,144,1.0761
+2008/09,2008,L,19,fn / afghanistan / usa,2,143,1.0686
+2008/09,2008,L,21,jobb / arbetslösheten / arbetsmarknaden,2,105,0.7846
+2008/09,2008,L,9,kärnkraft / kärnkraften / el,1,86,0.6427
+2008/09,2008,L,1,polisen / poliser / brott,1,76,0.5679
+2008/09,2008,L,20,skatter / skatten / skatt,1,72,0.538
+2008/09,2008,L,23,nato / försvaret / militära,1,21,0.1569
+2008/09,2008,M,-1,Ej grupperade,143,10964,70.3181
+2008/09,2008,M,18,eu / europa / europeiska,15,1058,6.7855
+2008/09,2008,M,7,eu / utsläppen / utsläpp,9,780,5.0026
+2008/09,2008,M,25,jobb / arbetslösheten / arbetsmarknaden,9,627,4.0213
 2008/09,2008,M,11,euron / valuta / europa,5,457,2.931
-2008/09,2008,M,15,jobb / arbetslösheten / arbetsmarknaden,5,428,2.745
-2008/09,2008,M,19,skatten / miljarder / skatt,4,351,2.2512
-2008/09,2008,M,3,polisen / brott / poliser,3,260,1.6675
-2008/09,2008,M,12,vården / vård / sjukvården,2,172,1.1031
-2008/09,2008,M,23,partier / ta / ansvar,2,125,0.8017
-2008/09,2008,M,18,partier / ta / politiska,3,124,0.7953
-2008/09,2008,M,4,bostäder / hyresrätter / marknadshyror,1,87,0.558
-2008/09,2008,M,17,fn / afghanistan / fn s,1,84,0.5387
-2008/09,2008,M,14,skatt / skatten / skatter,1,79,0.5067
-2008/09,2008,M,6,migrationspolitik / flyktingar / invandring,1,23,0.1475
-2008/09,2008,M,7,sd / nej / ta,1,1,0.0064
-2008/09,2008,MP,5,utsläppen / eu / kärnkraft,82,6620,45.8639
-2008/09,2008,MP,-1,Ej grupperade,66,4881,33.816
-2008/09,2008,MP,8,skolan / lärare / skola,8,619,4.2885
-2008/09,2008,MP,12,vården / vård / sjukvården,6,454,3.1454
-2008/09,2008,MP,19,skatten / miljarder / skatt,4,310,2.1477
+2008/09,2008,M,21,jobb / arbetslösheten / arbetsmarknaden,5,428,2.745
+2008/09,2008,M,1,polisen / poliser / brott,3,260,1.6675
+2008/09,2008,M,19,fn / afghanistan / usa,2,174,1.116
+2008/09,2008,M,14,vården / vård / sjukvården,2,172,1.1031
+2008/09,2008,M,17,skatt / skatten / skatter,2,135,0.8658
+2008/09,2008,M,24,partier / ansvar / folket,2,125,0.8017
+2008/09,2008,M,16,partier / politiska / valet,3,124,0.7953
+2008/09,2008,M,9,kärnkraft / kärnkraften / el,1,91,0.5836
+2008/09,2008,M,8,skatteväxling / gröna / grön skatteväxling,1,87,0.558
+2008/09,2008,M,2,bostäder / marknadshyror / hyresrätter,1,87,0.558
+2008/09,2008,M,3,flyktingar / migrationspolitik / invandring,1,23,0.1475
+2008/09,2008,MP,-1,Ej grupperade,112,8303,57.5239
+2008/09,2008,MP,7,eu / utsläppen / utsläpp,20,1721,11.9232
+2008/09,2008,MP,4,järnväg / järnvägen / stockholm,11,903,6.2561
+2008/09,2008,MP,8,skatteväxling / gröna / grön skatteväxling,11,738,5.1129
+2008/09,2008,MP,9,kärnkraft / kärnkraften / el,7,535,3.7065
+2008/09,2008,MP,14,vården / vård / sjukvården,6,454,3.1454
+2008/09,2008,MP,24,partier / ansvar / folket,4,327,2.2655
 2008/09,2008,MP,11,euron / valuta / europa,3,277,1.9191
-2008/09,2008,MP,23,partier / ta / ansvar,2,198,1.3718
-2008/09,2008,MP,18,partier / ta / politiska,3,189,1.3094
-2008/09,2008,MP,24,se / sveriges / världen,3,176,1.2193
-2008/09,2008,MP,3,polisen / brott / poliser,3,166,1.1501
-2008/09,2008,MP,6,migrationspolitik / flyktingar / invandring,1,96,0.6651
-2008/09,2008,MP,16,eu / europa / europeiska,1,85,0.5889
-2008/09,2008,MP,4,bostäder / hyresrätter / marknadshyror,1,83,0.575
-2008/09,2008,MP,15,jobb / arbetslösheten / arbetsmarknaden,1,78,0.5404
-2008/09,2008,MP,21,nato / försvaret / militära,1,78,0.5404
-2008/09,2008,MP,2,kvinnor / män / kvinnors,1,66,0.4573
-2008/09,2008,MP,7,sd / nej / ta,5,58,0.4018
-2008/09,2008,S,-1,Ej grupperade,136,10344,59.8057
-2008/09,2008,S,12,vården / vård / sjukvården,17,1194,6.9033
-2008/09,2008,S,15,jobb / arbetslösheten / arbetsmarknaden,10,855,4.9433
-2008/09,2008,S,16,eu / europa / europeiska,12,801,4.6311
-2008/09,2008,S,9,barn / barnen / föräldrar,8,650,3.7581
-2008/09,2008,S,5,utsläppen / eu / kärnkraft,8,610,3.5268
-2008/09,2008,S,8,skolan / lärare / skola,8,583,3.3707
-2008/09,2008,S,22,jobb / arbetslösheten / arbetsmarknaden,7,510,2.9487
-2008/09,2008,S,18,partier / ta / politiska,7,350,2.0236
-2008/09,2008,S,23,partier / ta / ansvar,6,323,1.8675
-2008/09,2008,S,13,äldre / äldreomsorgen / pensionärer,3,262,1.5148
-2008/09,2008,S,19,skatten / miljarder / skatt,4,259,1.4975
-2008/09,2008,S,2,kvinnor / män / kvinnors,3,240,1.3876
-2008/09,2008,S,14,skatt / skatten / skatter,3,186,1.0754
-2008/09,2008,S,6,migrationspolitik / flyktingar / invandring,1,76,0.4394
-2008/09,2008,S,7,sd / nej / ta,5,53,0.3064
-2008/09,2008,V,-1,Ej grupperade,141,10785,66.8588
-2008/09,2008,V,12,vården / vård / sjukvården,11,848,5.257
-2008/09,2008,V,19,skatten / miljarder / skatt,10,792,4.9098
-2008/09,2008,V,2,kvinnor / män / kvinnors,9,655,4.0605
-2008/09,2008,V,5,utsläppen / eu / kärnkraft,7,585,3.6266
-2008/09,2008,V,4,bostäder / hyresrätter / marknadshyror,7,573,3.5522
-2008/09,2008,V,16,eu / europa / europeiska,5,397,2.4611
-2008/09,2008,V,8,skolan / lärare / skola,4,351,2.1759
-2008/09,2008,V,15,jobb / arbetslösheten / arbetsmarknaden,5,336,2.0829
-2008/09,2008,V,9,barn / barnen / föräldrar,2,180,1.1159
-2008/09,2008,V,1,emu / folkomröstning / eu,2,161,0.9981
-2008/09,2008,V,17,fn / afghanistan / fn s,2,90,0.5579
-2008/09,2008,V,22,jobb / arbetslösheten / arbetsmarknaden,1,88,0.5455
-2008/09,2008,V,6,migrationspolitik / flyktingar / invandring,1,86,0.5331
-2008/09,2008,V,13,äldre / äldreomsorgen / pensionärer,1,77,0.4773
-2008/09,2008,V,7,sd / nej / ta,4,44,0.2728
-2008/09,2008,V,23,partier / ta / ansvar,1,37,0.2294
-2008/09,2008,V,11,euron / valuta / europa,1,33,0.2046
-2008/09,2008,V,18,partier / ta / politiska,1,11,0.0682
-2008/09,2008,V,24,se / sveriges / världen,1,2,0.0124
+2008/09,2008,MP,13,skolan / skola / elever,3,277,1.9191
+2008/09,2008,MP,12,skolan / lärare / eleverna,3,177,1.2263
+2008/09,2008,MP,1,polisen / poliser / brott,3,166,1.1501
+2008/09,2008,MP,3,flyktingar / migrationspolitik / invandring,1,96,0.6651
+2008/09,2008,MP,16,partier / politiska / valet,2,94,0.6512
+2008/09,2008,MP,18,eu / europa / europeiska,1,85,0.5889
+2008/09,2008,MP,2,bostäder / marknadshyror / hyresrätter,1,83,0.575
+2008/09,2008,MP,23,nato / försvaret / militära,1,78,0.5404
+2008/09,2008,MP,0,kvinnor / män / kvinnors,1,66,0.4573
+2008/09,2008,MP,20,skatter / skatten / skatt,1,54,0.3741
+2008/09,2008,S,-1,Ej grupperade,153,11188,64.6855
+2008/09,2008,S,14,vården / vård / sjukvården,17,1194,6.9033
+2008/09,2008,S,18,eu / europa / europeiska,14,978,5.6545
+2008/09,2008,S,21,jobb / arbetslösheten / arbetsmarknaden,10,864,4.9954
+2008/09,2008,S,10,barn / föräldrar / barnen,8,650,3.7581
+2008/09,2008,S,25,jobb / arbetslösheten / arbetsmarknaden,8,606,3.5037
+2008/09,2008,S,24,partier / ansvar / folket,5,277,1.6015
+2008/09,2008,S,16,partier / politiska / valet,6,265,1.5321
+2008/09,2008,S,15,äldre / äldreomsorgen / pensionärer,3,262,1.5148
+2008/09,2008,S,0,kvinnor / män / kvinnors,3,240,1.3876
+2008/09,2008,S,20,skatter / skatten / skatt,3,185,1.0696
+2008/09,2008,S,3,flyktingar / migrationspolitik / invandring,2,161,0.9309
+2008/09,2008,S,17,skatt / skatten / skatter,2,120,0.6938
+2008/09,2008,S,4,järnväg / järnvägen / stockholm,1,84,0.4857
+2008/09,2008,S,12,skolan / lärare / eleverna,1,83,0.4799
+2008/09,2008,S,7,eu / utsläppen / utsläpp,1,74,0.4278
+2008/09,2008,S,13,skolan / skola / elever,1,65,0.3758
+2008/09,2008,V,-1,Ej grupperade,149,11155,69.1526
+2008/09,2008,V,14,vården / vård / sjukvården,12,923,5.7219
+2008/09,2008,V,0,kvinnor / män / kvinnors,9,655,4.0605
+2008/09,2008,V,20,skatter / skatten / skatt,8,640,3.9675
+2008/09,2008,V,2,bostäder / marknadshyror / hyresrätter,7,573,3.5522
+2008/09,2008,V,18,eu / europa / europeiska,5,397,2.4611
+2008/09,2008,V,11,euron / valuta / europa,4,281,1.742
+2008/09,2008,V,21,jobb / arbetslösheten / arbetsmarknaden,4,248,1.5374
+2008/09,2008,V,10,barn / föräldrar / barnen,2,180,1.1159
+2008/09,2008,V,12,skolan / lärare / eleverna,2,176,1.0911
+2008/09,2008,V,7,eu / utsläppen / utsläpp,2,173,1.0725
+2008/09,2008,V,15,äldre / äldreomsorgen / pensionärer,2,157,0.9733
+2008/09,2008,V,13,skolan / skola / elever,1,97,0.6013
+2008/09,2008,V,19,fn / afghanistan / usa,2,90,0.5579
+2008/09,2008,V,16,partier / politiska / valet,2,90,0.5579
+2008/09,2008,V,25,jobb / arbetslösheten / arbetsmarknaden,1,88,0.5455
+2008/09,2008,V,3,flyktingar / migrationspolitik / invandring,1,86,0.5331
+2008/09,2008,V,8,skatteväxling / gröna / grön skatteväxling,1,83,0.5145
+2008/09,2008,V,24,partier / ansvar / folket,2,39,0.2418

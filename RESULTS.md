@@ -1,27 +1,36 @@
-# Resultat från första ämnesanalysen
+# Resultat från ämnesanalysen
 
 Analysen omfattar 10 148 importerade anföranden från riksmötena 1993/94–2025/26. Efter att talmannens inlägg, mycket korta tal och poster utan ett känt parti filtrerats bort återstår 10 055 anföranden och 39 269 textsegment.
 
 ## Huvudresultat
 
-HDBSCAN identifierar 25 ämnesgrupper. 49,2 procent av orden ligger i segment som modellen lämnar oklassificerade. Det gör ämnesandelarna försiktiga: materialet tvingas inte in i kategorier som modellen är osäker på. En känslighetskontroll med andra klusterinställningar ger justerat Rand-index 0,92.
+Efter en jämförelse av 21 inställningar används HDBSCAN med `leaf`-urval på den 10-dimensionella UMAP-projektionen. Den ger 25 grupper. Ett kluster med mest korta slutfragment har flyttats till ”Ej grupperade”. Den nya modellen lämnar 60,0 % av segmenten och 59,4 % av orden ogrupperade. Det är ett avsiktligt byte mot tydligare kärnkluster.
+
+| Mått | Tidigare HDBSCAN | Nuvarande modell |
+|---|---:|---:|
+| Cosinus-silhuett i originalvektorer, urval 2 400 segment | 0,071 | 0,105 |
+| Andel segment i grupper | 50,8 % | 40,0 % |
+| Största gruppens andel av alla segment | 13,1 % | 3,2 % |
+| Justerat Rand-index vid närliggande inställning | 0,924 | 0,983 |
+
+Silhuetten beräknas bara för grupperade segment; förbättringen får alltså inte tolkas utan täckningen. En 20-gruppers KMeans-modell täckte 100 % men fick lägre silhuett (0,055) och mindre stabil indelning mellan två startvärden (ARI 0,50). Den valdes därför inte som huvudresultat.
 
 De största automatiska grupperna, mätt som andel av alla analyserade ord inklusive oklassificerat material, är:
 
 | Automatisk etikett | Andel ord |
 |---|---:|
-| utsläppen / EU / kärnkraft | 13,26 % |
-| skolan / lärare / skola | 4,92 % |
-| EU / Europa / europeiska | 3,06 % |
-| jobb / arbetslösheten / arbetsmarknaden | 2,65 % |
-| migrationspolitik / flyktingar / invandring | 2,45 % |
-| vården / vård / sjukvården | 2,30 % |
-| kvinnor / män / kvinnors | 2,29 % |
-| polisen / brott / poliser | 1,87 % |
+| EU / Europa / europeiska | 3,29 % |
+| Kärnkraft / kärnkraften / el | 2,85 % |
+| Vården / vård / sjukvården | 2,60 % |
+| Jobb / arbetslösheten / arbetsmarknaden | 2,52 % |
+| Flyktingar / migrationspolitik / invandring | 2,50 % |
+| Partier / politiska / valet | 2,42 % |
+| Polisen / poliser / brott | 1,86 % |
+| Bostäder / marknadshyror / hyresrätter | 0,64 % |
 
-Etiketterna är maskinellt skapade nyckelord. Den stora gruppen om utsläpp, EU och kärnkraft är bred och bör tolkas som ett sammanhängande semantiskt område, inte som ett färdigt manuellt kodat ämne.
+Etiketterna är maskinellt skapade nyckelord. De finare grupperna skiljer exempelvis klimatpolitik från kärnkraft och bostäder från järnväg. Några grupper fångar debatt om partier och personer snarare än ett budgetområde. Skola, jobb och skatt förekommer i flera närliggande undergrupper; de bör samlas under bredare teman vid summering.
 
-Över tid får flera grupper tydliga toppar: skola 2001/02, migration 2015/16, brott och polis 2020/21 och energi/klimat 2022/23. Detta beskriver textandel i de importerade debatterna, inte väljarnas prioriteringar eller partiernas ståndpunkter.
+Den interaktiva rapporten visar nu budgetramar intill UMAP-kartan med gemensamt filter för parti och riksmöte. Budgetbeloppen påverkar inte kartans koordinater. De representerar föreslagna pengar medan kartan representerar likhet mellan textsegment.
 
 De mest uttryckligen omnämnda talarna i hela materialet är Göran Persson (1 671 träffar), Jimmie Åkesson (1 278), Stefan Löfven (1 002), Jan Björklund (856) och Jonas Sjöstedt (851). Fullständiga namn används, självomnämnanden är borttagna och samma omnämnande kan förekomma flera gånger i ett tal. Resultatet gynnar personer som varit aktiva under många debatter.
 

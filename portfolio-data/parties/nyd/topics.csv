@@ -1,14 +1,15 @@
 ﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
-1993/94,1993,NYD,-1,Ej grupperade,64,5180,59.6843
-1993/94,1993,NYD,6,migrationspolitik / flyktingar / invandring,8,703,8.1
-1993/94,1993,NYD,5,utsläppen / eu / kärnkraft,7,566,6.5215
-1993/94,1993,NYD,15,jobb / arbetslösheten / arbetsmarknaden,6,507,5.8417
-1993/94,1993,NYD,18,partier / ta / politiska,5,431,4.966
-1993/94,1993,NYD,9,barn / barnen / föräldrar,5,372,4.2862
-1993/94,1993,NYD,23,partier / ta / ansvar,4,295,3.399
-1993/94,1993,NYD,3,polisen / brott / poliser,3,209,2.4081
-1993/94,1993,NYD,19,skatten / miljarder / skatt,2,171,1.9703
-1993/94,1993,NYD,22,jobb / arbetslösheten / arbetsmarknaden,1,85,0.9794
+1993/94,1993,NYD,-1,Ej grupperade,69,5503,63.4059
+1993/94,1993,NYD,3,flyktingar / migrationspolitik / invandring,9,791,9.114
+1993/94,1993,NYD,16,partier / politiska / valet,8,672,7.7428
+1993/94,1993,NYD,21,jobb / arbetslösheten / arbetsmarknaden,4,338,3.8945
+1993/94,1993,NYD,24,partier / ansvar / folket,4,295,3.399
+1993/94,1993,NYD,1,polisen / poliser / brott,3,209,2.4081
+1993/94,1993,NYD,10,barn / föräldrar / barnen,3,207,2.3851
+1993/94,1993,NYD,20,skatter / skatten / skatt,2,171,1.9703
+1993/94,1993,NYD,8,skatteväxling / gröna / grön skatteväxling,1,91,1.0485
+1993/94,1993,NYD,25,jobb / arbetslösheten / arbetsmarknaden,1,85,0.9794
 1993/94,1993,NYD,11,euron / valuta / europa,1,82,0.9448
-1993/94,1993,NYD,8,skolan / lärare / skola,1,76,0.8757
-1993/94,1993,NYD,7,sd / nej / ta,1,2,0.023
+1993/94,1993,NYD,7,eu / utsläppen / utsläpp,1,81,0.9333
+1993/94,1993,NYD,9,kärnkraft / kärnkraften / el,1,78,0.8987
+1993/94,1993,NYD,12,skolan / lärare / eleverna,1,76,0.8757

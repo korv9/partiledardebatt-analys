@@ -1,112 +1,111 @@
 ﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
-2023/24,2023,C,-1,Ej grupperade,67,4791,45.6199
-2023/24,2023,C,5,utsläppen / eu / kärnkraft,40,2909,27.6995
-2023/24,2023,C,16,eu / europa / europeiska,9,600,5.7132
-2023/24,2023,C,20,ryssland / ukraina / ryska,8,579,5.5132
-2023/24,2023,C,8,skolan / lärare / skola,4,318,3.028
-2023/24,2023,C,22,jobb / arbetslösheten / arbetsmarknaden,3,256,2.4376
-2023/24,2023,C,18,partier / ta / politiska,3,251,2.39
-2023/24,2023,C,23,partier / ta / ansvar,4,228,2.171
-2023/24,2023,C,19,skatten / miljarder / skatt,2,134,1.2759
-2023/24,2023,C,15,jobb / arbetslösheten / arbetsmarknaden,2,100,0.9522
+2023/24,2023,C,-1,Ej grupperade,106,7357,70.0533
+2023/24,2023,C,18,eu / europa / europeiska,9,600,5.7132
+2023/24,2023,C,22,ryssland / ukraina / ryska,8,579,5.5132
+2023/24,2023,C,24,partier / ansvar / folket,7,466,4.4373
+2023/24,2023,C,8,skatteväxling / gröna / grön skatteväxling,4,272,2.59
+2023/24,2023,C,25,jobb / arbetslösheten / arbetsmarknaden,3,256,2.4376
+2023/24,2023,C,16,partier / politiska / valet,3,251,2.39
+2023/24,2023,C,7,eu / utsläppen / utsläpp,2,162,1.5426
+2023/24,2023,C,20,skatter / skatten / skatt,2,134,1.2759
+2023/24,2023,C,21,jobb / arbetslösheten / arbetsmarknaden,2,100,0.9522
 2023/24,2023,C,11,euron / valuta / europa,1,91,0.8665
-2023/24,2023,C,9,barn / barnen / föräldrar,1,83,0.7903
-2023/24,2023,C,14,skatt / skatten / skatter,1,81,0.7713
-2023/24,2023,C,6,migrationspolitik / flyktingar / invandring,1,71,0.6761
-2023/24,2023,C,7,sd / nej / ta,4,10,0.0952
-2023/24,2023,KD,-1,Ej grupperade,75,5401,46.3128
-2023/24,2023,KD,5,utsläppen / eu / kärnkraft,55,4034,34.591
-2023/24,2023,KD,20,ryssland / ukraina / ryska,7,599,5.1363
-2023/24,2023,KD,16,eu / europa / europeiska,5,316,2.7097
-2023/24,2023,KD,6,migrationspolitik / flyktingar / invandring,3,262,2.2466
-2023/24,2023,KD,24,se / sveriges / världen,2,186,1.5949
-2023/24,2023,KD,21,nato / försvaret / militära,2,180,1.5435
-2023/24,2023,KD,3,polisen / brott / poliser,2,166,1.4234
-2023/24,2023,KD,18,partier / ta / politiska,3,165,1.4149
-2023/24,2023,KD,9,barn / barnen / föräldrar,1,90,0.7717
-2023/24,2023,KD,19,skatten / miljarder / skatt,1,81,0.6946
-2023/24,2023,KD,4,bostäder / hyresrätter / marknadshyror,1,81,0.6946
-2023/24,2023,KD,8,skolan / lärare / skola,1,52,0.4459
-2023/24,2023,KD,7,sd / nej / ta,3,49,0.4202
-2023/24,2023,L,-1,Ej grupperade,58,4354,43.6404
-2023/24,2023,L,5,utsläppen / eu / kärnkraft,26,1872,18.7632
-2023/24,2023,L,20,ryssland / ukraina / ryska,10,869,8.71
-2023/24,2023,L,8,skolan / lärare / skola,9,727,7.2868
-2023/24,2023,L,11,euron / valuta / europa,9,640,6.4148
-2023/24,2023,L,23,partier / ta / ansvar,5,406,4.0694
-2023/24,2023,L,16,eu / europa / europeiska,6,367,3.6785
-2023/24,2023,L,15,jobb / arbetslösheten / arbetsmarknaden,4,334,3.3477
-2023/24,2023,L,3,polisen / brott / poliser,4,252,2.5258
-2023/24,2023,L,14,skatt / skatten / skatter,1,71,0.7116
-2023/24,2023,L,6,migrationspolitik / flyktingar / invandring,1,54,0.5412
-2023/24,2023,L,24,se / sveriges / världen,1,21,0.2105
-2023/24,2023,L,7,sd / nej / ta,2,10,0.1002
-2023/24,2023,M,-1,Ej grupperade,76,5683,50.6732
-2023/24,2023,M,5,utsläppen / eu / kärnkraft,21,1712,15.2653
-2023/24,2023,M,3,polisen / brott / poliser,12,876,7.811
-2023/24,2023,M,16,eu / europa / europeiska,7,495,4.4137
-2023/24,2023,M,21,nato / försvaret / militära,6,459,4.0927
-2023/24,2023,M,23,partier / ta / ansvar,7,458,4.0838
-2023/24,2023,M,6,migrationspolitik / flyktingar / invandring,5,425,3.7896
-2023/24,2023,M,20,ryssland / ukraina / ryska,5,404,3.6023
-2023/24,2023,M,19,skatten / miljarder / skatt,4,327,2.9157
-2023/24,2023,M,18,partier / ta / politiska,2,178,1.5872
-2023/24,2023,M,24,se / sveriges / världen,2,91,0.8114
-2023/24,2023,M,9,barn / barnen / föräldrar,1,85,0.7579
-2023/24,2023,M,7,sd / nej / ta,1,18,0.1605
-2023/24,2023,M,0,sjöstedts / företag / min,1,4,0.0357
-2023/24,2023,MP,5,utsläppen / eu / kärnkraft,88,6602,64.4286
-2023/24,2023,MP,-1,Ej grupperade,45,3076,30.0185
-2023/24,2023,MP,23,partier / ta / ansvar,4,175,1.7078
-2023/24,2023,MP,20,ryssland / ukraina / ryska,2,172,1.6785
-2023/24,2023,MP,24,se / sveriges / världen,1,88,0.8588
-2023/24,2023,MP,3,polisen / brott / poliser,2,84,0.8198
-2023/24,2023,MP,7,sd / nej / ta,4,26,0.2537
-2023/24,2023,MP,21,nato / försvaret / militära,1,17,0.1659
-2023/24,2023,MP,16,eu / europa / europeiska,1,7,0.0683
-2023/24,2023,S,-1,Ej grupperade,96,6468,57.3506
-2023/24,2023,S,5,utsläppen / eu / kärnkraft,9,749,6.6412
-2023/24,2023,S,3,polisen / brott / poliser,10,747,6.6235
-2023/24,2023,S,20,ryssland / ukraina / ryska,10,718,6.3664
-2023/24,2023,S,6,migrationspolitik / flyktingar / invandring,5,416,3.6886
-2023/24,2023,S,23,partier / ta / ansvar,6,376,3.3339
+2023/24,2023,C,10,barn / föräldrar / barnen,1,83,0.7903
+2023/24,2023,C,17,skatt / skatten / skatter,1,81,0.7713
+2023/24,2023,C,13,skolan / skola / elever,1,70,0.6665
+2023/24,2023,KD,-1,Ej grupperade,104,7334,62.888
+2023/24,2023,KD,9,kärnkraft / kärnkraften / el,22,1560,13.3768
+2023/24,2023,KD,22,ryssland / ukraina / ryska,7,599,5.1363
+2023/24,2023,KD,7,eu / utsläppen / utsläpp,5,366,3.1384
+2023/24,2023,KD,18,eu / europa / europeiska,5,354,3.0355
+2023/24,2023,KD,3,flyktingar / migrationspolitik / invandring,3,262,2.2466
+2023/24,2023,KD,24,partier / ansvar / folket,3,238,2.0408
+2023/24,2023,KD,23,nato / försvaret / militära,2,180,1.5435
+2023/24,2023,KD,1,polisen / poliser / brott,2,166,1.4234
+2023/24,2023,KD,16,partier / politiska / valet,3,165,1.4149
+2023/24,2023,KD,25,jobb / arbetslösheten / arbetsmarknaden,1,99,0.8489
+2023/24,2023,KD,10,barn / föräldrar / barnen,1,90,0.7717
+2023/24,2023,KD,8,skatteväxling / gröna / grön skatteväxling,1,87,0.746
+2023/24,2023,KD,2,bostäder / marknadshyror / hyresrätter,1,81,0.6946
+2023/24,2023,KD,20,skatter / skatten / skatt,1,81,0.6946
+2023/24,2023,L,-1,Ej grupperade,69,4997,50.0852
+2023/24,2023,L,9,kärnkraft / kärnkraften / el,13,877,8.7902
+2023/24,2023,L,22,ryssland / ukraina / ryska,10,869,8.71
+2023/24,2023,L,11,euron / valuta / europa,11,812,8.1387
+2023/24,2023,L,18,eu / europa / europeiska,6,436,4.3701
+2023/24,2023,L,24,partier / ansvar / folket,6,427,4.2798
+2023/24,2023,L,13,skolan / skola / elever,5,411,4.1195
+2023/24,2023,L,21,jobb / arbetslösheten / arbetsmarknaden,4,334,3.3477
+2023/24,2023,L,1,polisen / poliser / brott,4,252,2.5258
+2023/24,2023,L,7,eu / utsläppen / utsläpp,2,180,1.8041
+2023/24,2023,L,8,skatteväxling / gröna / grön skatteväxling,3,170,1.7039
+2023/24,2023,L,12,skolan / lärare / eleverna,1,87,0.872
+2023/24,2023,L,17,skatt / skatten / skatter,1,71,0.7116
+2023/24,2023,L,3,flyktingar / migrationspolitik / invandring,1,54,0.5412
+2023/24,2023,M,-1,Ej grupperade,92,6813,60.749
+2023/24,2023,M,1,polisen / poliser / brott,12,876,7.811
+2023/24,2023,M,24,partier / ansvar / folket,9,549,4.8952
+2023/24,2023,M,3,flyktingar / migrationspolitik / invandring,6,498,4.4405
+2023/24,2023,M,23,nato / försvaret / militära,6,459,4.0927
+2023/24,2023,M,18,eu / europa / europeiska,6,413,3.6826
+2023/24,2023,M,22,ryssland / ukraina / ryska,5,404,3.6023
+2023/24,2023,M,9,kärnkraft / kärnkraften / el,4,347,3.0941
+2023/24,2023,M,20,skatter / skatten / skatt,4,327,2.9157
+2023/24,2023,M,7,eu / utsläppen / utsläpp,3,266,2.3718
+2023/24,2023,M,16,partier / politiska / valet,2,178,1.5872
+2023/24,2023,M,10,barn / föräldrar / barnen,1,85,0.7579
+2023/24,2023,MP,-1,Ej grupperade,95,6490,63.3356
+2023/24,2023,MP,7,eu / utsläppen / utsläpp,15,1190,11.6132
+2023/24,2023,MP,9,kärnkraft / kärnkraften / el,14,976,9.5247
+2023/24,2023,MP,8,skatteväxling / gröna / grön skatteväxling,10,793,7.7389
+2023/24,2023,MP,24,partier / ansvar / folket,5,263,2.5666
+2023/24,2023,MP,4,järnväg / järnvägen / stockholm,2,173,1.6883
+2023/24,2023,MP,22,ryssland / ukraina / ryska,2,172,1.6785
+2023/24,2023,MP,23,nato / försvaret / militära,2,99,0.9661
+2023/24,2023,MP,1,polisen / poliser / brott,2,84,0.8198
+2023/24,2023,MP,18,eu / europa / europeiska,1,7,0.0683
+2023/24,2023,S,-1,Ej grupperade,97,6481,57.4659
+2023/24,2023,S,1,polisen / poliser / brott,10,747,6.6235
+2023/24,2023,S,22,ryssland / ukraina / ryska,10,718,6.3664
+2023/24,2023,S,24,partier / ansvar / folket,10,690,6.1181
+2023/24,2023,S,3,flyktingar / migrationspolitik / invandring,5,416,3.6886
 2023/24,2023,S,11,euron / valuta / europa,5,362,3.2098
-2023/24,2023,S,21,nato / försvaret / militära,4,316,2.8019
-2023/24,2023,S,22,jobb / arbetslösheten / arbetsmarknaden,4,287,2.5448
-2023/24,2023,S,16,eu / europa / europeiska,3,222,1.9684
-2023/24,2023,S,12,vården / vård / sjukvården,2,146,1.2946
-2023/24,2023,S,7,sd / nej / ta,3,91,0.8069
-2023/24,2023,S,24,se / sveriges / världen,1,84,0.7448
-2023/24,2023,S,9,barn / barnen / föräldrar,1,80,0.7093
-2023/24,2023,S,13,äldre / äldreomsorgen / pensionärer,1,74,0.6561
-2023/24,2023,S,14,skatt / skatten / skatter,2,66,0.5852
-2023/24,2023,S,2,kvinnor / män / kvinnors,1,40,0.3547
-2023/24,2023,S,18,partier / ta / politiska,2,36,0.3192
-2023/24,2023,SD,-1,Ej grupperade,75,5648,54.022
-2023/24,2023,SD,5,utsläppen / eu / kärnkraft,22,1651,15.7915
-2023/24,2023,SD,16,eu / europa / europeiska,9,754,7.2119
-2023/24,2023,SD,6,migrationspolitik / flyktingar / invandring,7,525,5.0215
-2023/24,2023,SD,23,partier / ta / ansvar,6,367,3.5103
-2023/24,2023,SD,18,partier / ta / politiska,3,262,2.506
-2023/24,2023,SD,3,polisen / brott / poliser,3,259,2.4773
-2023/24,2023,SD,19,skatten / miljarder / skatt,3,236,2.2573
-2023/24,2023,SD,4,bostäder / hyresrätter / marknadshyror,3,221,2.1138
-2023/24,2023,SD,17,fn / afghanistan / fn s,3,172,1.6451
-2023/24,2023,SD,24,se / sveriges / världen,1,92,0.88
-2023/24,2023,SD,13,äldre / äldreomsorgen / pensionärer,1,86,0.8226
-2023/24,2023,SD,14,skatt / skatten / skatter,1,80,0.7652
-2023/24,2023,SD,11,euron / valuta / europa,1,52,0.4974
-2023/24,2023,SD,7,sd / nej / ta,9,50,0.4782
-2023/24,2023,V,-1,Ej grupperade,71,5131,61.8864
-2023/24,2023,V,5,utsläppen / eu / kärnkraft,18,1257,15.161
-2023/24,2023,V,12,vården / vård / sjukvården,10,644,7.7675
-2023/24,2023,V,20,ryssland / ukraina / ryska,4,286,3.4495
-2023/24,2023,V,4,bostäder / hyresrätter / marknadshyror,4,253,3.0515
-2023/24,2023,V,8,skolan / lärare / skola,4,248,2.9912
-2023/24,2023,V,6,migrationspolitik / flyktingar / invandring,2,152,1.8333
-2023/24,2023,V,16,eu / europa / europeiska,1,82,0.989
-2023/24,2023,V,14,skatt / skatten / skatter,1,80,0.9649
-2023/24,2023,V,21,nato / försvaret / militära,1,79,0.9528
-2023/24,2023,V,19,skatten / miljarder / skatt,1,47,0.5669
-2023/24,2023,V,3,polisen / brott / poliser,1,28,0.3377
-2023/24,2023,V,7,sd / nej / ta,1,4,0.0482
+2023/24,2023,S,9,kärnkraft / kärnkraften / el,4,340,3.0147
+2023/24,2023,S,23,nato / försvaret / militära,4,316,2.8019
+2023/24,2023,S,25,jobb / arbetslösheten / arbetsmarknaden,4,287,2.5448
+2023/24,2023,S,18,eu / europa / europeiska,3,222,1.9684
+2023/24,2023,S,14,vården / vård / sjukvården,3,219,1.9418
+2023/24,2023,S,8,skatteväxling / gröna / grön skatteväxling,2,160,1.4187
+2023/24,2023,S,17,skatt / skatten / skatter,3,138,1.2236
+2023/24,2023,S,15,äldre / äldreomsorgen / pensionärer,1,74,0.6561
+2023/24,2023,S,16,partier / politiska / valet,3,68,0.6029
+2023/24,2023,S,0,kvinnor / män / kvinnors,1,40,0.3547
+2023/24,2023,SD,-1,Ej grupperade,92,6203,59.3305
+2023/24,2023,SD,18,eu / europa / europeiska,12,983,9.4022
+2023/24,2023,SD,24,partier / ansvar / folket,9,633,6.0545
+2023/24,2023,SD,3,flyktingar / migrationspolitik / invandring,7,525,5.0215
+2023/24,2023,SD,7,eu / utsläppen / utsläpp,6,498,4.7633
+2023/24,2023,SD,16,partier / politiska / valet,3,262,2.506
+2023/24,2023,SD,1,polisen / poliser / brott,3,259,2.4773
+2023/24,2023,SD,19,fn / afghanistan / usa,4,245,2.3434
+2023/24,2023,SD,20,skatter / skatten / skatt,3,236,2.2573
+2023/24,2023,SD,2,bostäder / marknadshyror / hyresrätter,3,221,2.1138
+2023/24,2023,SD,11,euron / valuta / europa,2,145,1.3869
+2023/24,2023,SD,15,äldre / äldreomsorgen / pensionärer,1,86,0.8226
+2023/24,2023,SD,17,skatt / skatten / skatter,1,80,0.7652
+2023/24,2023,SD,4,järnväg / järnvägen / stockholm,1,79,0.7556
+2023/24,2023,V,-1,Ej grupperade,79,5604,67.5914
+2023/24,2023,V,14,vården / vård / sjukvården,10,644,7.7675
+2023/24,2023,V,9,kärnkraft / kärnkraften / el,7,468,5.6447
+2023/24,2023,V,22,ryssland / ukraina / ryska,5,367,4.4265
+2023/24,2023,V,2,bostäder / marknadshyror / hyresrätter,4,253,3.0515
+2023/24,2023,V,12,skolan / lärare / eleverna,3,191,2.3037
+2023/24,2023,V,3,flyktingar / migrationspolitik / invandring,2,152,1.8333
+2023/24,2023,V,4,järnväg / järnvägen / stockholm,2,138,1.6645
+2023/24,2023,V,18,eu / europa / europeiska,1,82,0.989
+2023/24,2023,V,8,skatteväxling / gröna / grön skatteväxling,1,81,0.977
+2023/24,2023,V,17,skatt / skatten / skatter,1,80,0.9649
+2023/24,2023,V,23,nato / försvaret / militära,1,79,0.9528
+2023/24,2023,V,7,eu / utsläppen / utsläpp,1,77,0.9287
+2023/24,2023,V,20,skatter / skatten / skatt,1,47,0.5669
+2023/24,2023,V,1,polisen / poliser / brott,1,28,0.3377

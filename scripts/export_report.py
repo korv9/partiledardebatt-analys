@@ -30,6 +30,7 @@ def main():
         'similar':records("select speech_id,neighbor_id,cosine_similarity,speaker,party,cast(speech_date as varchar) as speech_date,source_url,neighbor_speaker,neighbor_party,cast(neighbor_date as varchar) as neighbor_date,neighbor_url,substr(speech_text,1,700) as text,substr(neighbor_text,1,700) as neighbor_text from mart_similar_speeches where party<>neighbor_party and speech_id<neighbor_id order by cosine_similarity desc limit 150"),
         'points':records("select chunk_id,speech_id,topic_id,round(x,3) as x,round(y,3) as y,party,speaker,session_year,session,substr(text,1,500) as text,source_url from int_segments order by hash(chunk_id) limit 12000"),
         'coverage':records('select session,count(*) as speeches,count(distinct protocol_id) as protocols,sum(word_count) as words from stg_speeches where eligible group by session order by session'),
+        'budget':records('select session,actor,expenditure_area,expenditure_area_name,amount_msek,deviation_msek,budget_share_pct,source_url from gold_budget_frames order by session,actor,expenditure_area'),
     }
     # Original embedding-space centroid examples, not chosen by the two-dimensional map.
     chunks=db.execute('select chunk_id,topic_id,text,source_url,speaker,party from int_segments order by chunk_id').df()

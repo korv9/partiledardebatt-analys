@@ -1,107 +1,111 @@
 ﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
-2006/07,2006,C,-1,Ej grupperade,74,5599,43.9689
-2006/07,2006,C,5,utsläppen / eu / kärnkraft,45,3671,28.8283
-2006/07,2006,C,2,kvinnor / män / kvinnors,14,1212,9.5178
-2006/07,2006,C,15,jobb / arbetslösheten / arbetsmarknaden,8,614,4.8217
-2006/07,2006,C,22,jobb / arbetslösheten / arbetsmarknaden,6,534,4.1935
-2006/07,2006,C,10,perssons / går / lite,5,438,3.4396
-2006/07,2006,C,24,se / sveriges / världen,4,283,2.2224
-2006/07,2006,C,19,skatten / miljarder / skatt,2,165,1.2957
-2006/07,2006,C,7,sd / nej / ta,3,129,1.013
-2006/07,2006,C,13,äldre / äldreomsorgen / pensionärer,1,89,0.6989
-2006/07,2006,KD,-1,Ej grupperade,58,4769,51.3956
-2006/07,2006,KD,9,barn / barnen / föräldrar,16,1277,13.7623
-2006/07,2006,KD,12,vården / vård / sjukvården,8,602,6.4878
-2006/07,2006,KD,2,kvinnor / män / kvinnors,5,454,4.8928
-2006/07,2006,KD,13,äldre / äldreomsorgen / pensionärer,7,454,4.8928
-2006/07,2006,KD,22,jobb / arbetslösheten / arbetsmarknaden,5,394,4.2461
-2006/07,2006,KD,5,utsläppen / eu / kärnkraft,4,336,3.6211
-2006/07,2006,KD,18,partier / ta / politiska,3,263,2.8344
-2006/07,2006,KD,15,jobb / arbetslösheten / arbetsmarknaden,3,260,2.802
-2006/07,2006,KD,10,perssons / går / lite,3,249,2.6835
-2006/07,2006,KD,14,skatt / skatten / skatter,2,170,1.8321
-2006/07,2006,KD,8,skolan / lärare / skola,1,47,0.5065
-2006/07,2006,KD,7,sd / nej / ta,1,4,0.0431
-2006/07,2006,L,-1,Ej grupperade,52,4097,45.9563
-2006/07,2006,L,8,skolan / lärare / skola,17,1290,14.47
-2006/07,2006,L,18,partier / ta / politiska,8,558,6.2591
-2006/07,2006,L,15,jobb / arbetslösheten / arbetsmarknaden,6,493,5.53
-2006/07,2006,L,13,äldre / äldreomsorgen / pensionärer,5,431,4.8345
-2006/07,2006,L,10,perssons / går / lite,5,419,4.6999
-2006/07,2006,L,23,partier / ta / ansvar,3,272,3.051
-2006/07,2006,L,22,jobb / arbetslösheten / arbetsmarknaden,3,262,2.9389
-2006/07,2006,L,5,utsläppen / eu / kärnkraft,3,250,2.8043
-2006/07,2006,L,2,kvinnor / män / kvinnors,3,194,2.1761
-2006/07,2006,L,12,vården / vård / sjukvården,2,182,2.0415
-2006/07,2006,L,17,fn / afghanistan / fn s,2,155,1.7386
-2006/07,2006,L,24,se / sveriges / världen,2,109,1.2227
-2006/07,2006,L,21,nato / försvaret / militära,2,102,1.1441
-2006/07,2006,L,6,migrationspolitik / flyktingar / invandring,1,98,1.0993
-2006/07,2006,L,7,sd / nej / ta,3,3,0.0337
-2006/07,2006,M,-1,Ej grupperade,85,6640,45.2748
-2006/07,2006,M,5,utsläppen / eu / kärnkraft,33,2780,18.9554
-2006/07,2006,M,15,jobb / arbetslösheten / arbetsmarknaden,13,1105,7.5344
-2006/07,2006,M,18,partier / ta / politiska,10,856,5.8366
-2006/07,2006,M,23,partier / ta / ansvar,11,792,5.4002
-2006/07,2006,M,10,perssons / går / lite,9,658,4.4866
-2006/07,2006,M,22,jobb / arbetslösheten / arbetsmarknaden,7,432,2.9456
-2006/07,2006,M,3,polisen / brott / poliser,4,339,2.3115
-2006/07,2006,M,12,vården / vård / sjukvården,3,260,1.7728
-2006/07,2006,M,16,eu / europa / europeiska,2,191,1.3023
-2006/07,2006,M,8,skolan / lärare / skola,2,178,1.2137
-2006/07,2006,M,14,skatt / skatten / skatter,2,171,1.166
-2006/07,2006,M,19,skatten / miljarder / skatt,2,149,1.016
-2006/07,2006,M,13,äldre / äldreomsorgen / pensionärer,1,84,0.5728
-2006/07,2006,M,7,sd / nej / ta,3,17,0.1159
-2006/07,2006,M,24,se / sveriges / världen,1,14,0.0955
-2006/07,2006,MP,-1,Ej grupperade,68,5156,40.5505
-2006/07,2006,MP,5,utsläppen / eu / kärnkraft,60,4998,39.3079
-2006/07,2006,MP,9,barn / barnen / föräldrar,7,546,4.2941
-2006/07,2006,MP,16,eu / europa / europeiska,6,474,3.7279
-2006/07,2006,MP,18,partier / ta / politiska,5,451,3.547
-2006/07,2006,MP,19,skatten / miljarder / skatt,5,282,2.2179
-2006/07,2006,MP,8,skolan / lärare / skola,3,190,1.4943
-2006/07,2006,MP,2,kvinnor / män / kvinnors,2,182,1.4314
-2006/07,2006,MP,15,jobb / arbetslösheten / arbetsmarknaden,2,163,1.282
-2006/07,2006,MP,14,skatt / skatten / skatter,2,106,0.8337
-2006/07,2006,MP,22,jobb / arbetslösheten / arbetsmarknaden,1,82,0.6449
-2006/07,2006,MP,10,perssons / går / lite,1,67,0.5269
-2006/07,2006,MP,23,partier / ta / ansvar,1,17,0.1337
-2006/07,2006,MP,7,sd / nej / ta,1,1,0.0079
-2006/07,2006,S,-1,Ej grupperade,116,8457,58.6314
-2006/07,2006,S,5,utsläppen / eu / kärnkraft,16,1321,9.1583
-2006/07,2006,S,13,äldre / äldreomsorgen / pensionärer,10,731,5.0679
-2006/07,2006,S,12,vården / vård / sjukvården,9,700,4.853
-2006/07,2006,S,18,partier / ta / politiska,10,605,4.1944
-2006/07,2006,S,8,skolan / lärare / skola,7,572,3.9656
-2006/07,2006,S,15,jobb / arbetslösheten / arbetsmarknaden,6,487,3.3763
-2006/07,2006,S,22,jobb / arbetslösheten / arbetsmarknaden,5,448,3.1059
-2006/07,2006,S,19,skatten / miljarder / skatt,4,299,2.0729
-2006/07,2006,S,23,partier / ta / ansvar,3,193,1.338
-2006/07,2006,S,2,kvinnor / män / kvinnors,2,163,1.1301
-2006/07,2006,S,10,perssons / går / lite,1,87,0.6032
-2006/07,2006,S,4,bostäder / hyresrätter / marknadshyror,1,86,0.5962
-2006/07,2006,S,14,skatt / skatten / skatter,1,83,0.5754
-2006/07,2006,S,9,barn / barnen / föräldrar,1,79,0.5477
-2006/07,2006,S,24,se / sveriges / världen,1,78,0.5408
-2006/07,2006,S,16,eu / europa / europeiska,1,32,0.2219
-2006/07,2006,S,7,sd / nej / ta,1,3,0.0208
-2006/07,2006,V,-1,Ej grupperade,64,4561,35.7389
-2006/07,2006,V,2,kvinnor / män / kvinnors,28,2294,17.9752
-2006/07,2006,V,15,jobb / arbetslösheten / arbetsmarknaden,16,1220,9.5596
-2006/07,2006,V,5,utsläppen / eu / kärnkraft,14,1112,8.7134
-2006/07,2006,V,3,polisen / brott / poliser,7,518,4.0589
-2006/07,2006,V,8,skolan / lärare / skola,5,401,3.1421
-2006/07,2006,V,4,bostäder / hyresrätter / marknadshyror,4,342,2.6798
-2006/07,2006,V,22,jobb / arbetslösheten / arbetsmarknaden,4,342,2.6798
-2006/07,2006,V,19,skatten / miljarder / skatt,4,318,2.4918
-2006/07,2006,V,9,barn / barnen / föräldrar,4,286,2.241
-2006/07,2006,V,14,skatt / skatten / skatter,3,257,2.0138
-2006/07,2006,V,10,perssons / går / lite,3,256,2.006
-2006/07,2006,V,16,eu / europa / europeiska,3,252,1.9746
-2006/07,2006,V,18,partier / ta / politiska,3,207,1.622
-2006/07,2006,V,6,migrationspolitik / flyktingar / invandring,2,171,1.3399
-2006/07,2006,V,17,fn / afghanistan / fn s,2,133,1.0422
-2006/07,2006,V,23,partier / ta / ansvar,1,82,0.6425
-2006/07,2006,V,24,se / sveriges / världen,1,6,0.047
-2006/07,2006,V,7,sd / nej / ta,2,4,0.0313
+2006/07,2006,C,-1,Ej grupperade,97,7493,58.8425
+2006/07,2006,C,0,kvinnor / män / kvinnors,14,1212,9.5178
+2006/07,2006,C,7,eu / utsläppen / utsläpp,14,1097,8.6147
+2006/07,2006,C,21,jobb / arbetslösheten / arbetsmarknaden,8,604,4.7432
+2006/07,2006,C,6,perssons / åt / talar,7,543,4.2642
+2006/07,2006,C,8,skatteväxling / gröna / grön skatteväxling,5,366,2.8742
+2006/07,2006,C,25,jobb / arbetslösheten / arbetsmarknaden,4,348,2.7328
+2006/07,2006,C,24,partier / ansvar / folket,4,283,2.2224
+2006/07,2006,C,9,kärnkraft / kärnkraften / el,3,259,2.0339
+2006/07,2006,C,15,äldre / äldreomsorgen / pensionärer,2,189,1.4842
+2006/07,2006,C,20,skatter / skatten / skatt,2,165,1.2957
+2006/07,2006,C,14,vården / vård / sjukvården,1,89,0.6989
+2006/07,2006,C,4,järnväg / järnvägen / stockholm,1,86,0.6754
+2006/07,2006,KD,-1,Ej grupperade,63,5074,54.6826
+2006/07,2006,KD,10,barn / föräldrar / barnen,13,1038,11.1866
+2006/07,2006,KD,14,vården / vård / sjukvården,8,602,6.4878
+2006/07,2006,KD,15,äldre / äldreomsorgen / pensionärer,7,454,4.8928
+2006/07,2006,KD,0,kvinnor / män / kvinnors,5,454,4.8928
+2006/07,2006,KD,6,perssons / åt / talar,4,334,3.5995
+2006/07,2006,KD,25,jobb / arbetslösheten / arbetsmarknaden,4,305,3.287
+2006/07,2006,KD,21,jobb / arbetslösheten / arbetsmarknaden,3,272,2.9314
+2006/07,2006,KD,16,partier / politiska / valet,3,263,2.8344
+2006/07,2006,KD,17,skatt / skatten / skatter,2,170,1.8321
+2006/07,2006,KD,7,eu / utsläppen / utsläpp,2,170,1.8321
+2006/07,2006,KD,24,partier / ansvar / folket,1,96,1.0346
+2006/07,2006,KD,12,skolan / lärare / eleverna,1,47,0.5065
+2006/07,2006,L,-1,Ej grupperade,70,5207,58.4072
+2006/07,2006,L,16,partier / politiska / valet,8,623,6.9882
+2006/07,2006,L,21,jobb / arbetslösheten / arbetsmarknaden,6,476,5.3393
+2006/07,2006,L,15,äldre / äldreomsorgen / pensionärer,5,431,4.8345
+2006/07,2006,L,6,perssons / åt / talar,5,419,4.6999
+2006/07,2006,L,12,skolan / lärare / eleverna,4,320,3.5895
+2006/07,2006,L,25,jobb / arbetslösheten / arbetsmarknaden,4,284,3.1856
+2006/07,2006,L,24,partier / ansvar / folket,3,275,3.0847
+2006/07,2006,L,14,vården / vård / sjukvården,3,266,2.9837
+2006/07,2006,L,0,kvinnor / män / kvinnors,3,194,2.1761
+2006/07,2006,L,3,flyktingar / migrationspolitik / invandring,1,98,1.0993
+2006/07,2006,L,9,kärnkraft / kärnkraften / el,1,86,0.9647
+2006/07,2006,L,13,skolan / skola / elever,1,81,0.9086
+2006/07,2006,L,18,eu / europa / europeiska,1,72,0.8076
+2006/07,2006,L,19,fn / afghanistan / usa,1,71,0.7964
+2006/07,2006,L,23,nato / försvaret / militära,1,12,0.1346
+2006/07,2006,M,-1,Ej grupperade,96,7381,50.3273
+2006/07,2006,M,21,jobb / arbetslösheten / arbetsmarknaden,12,1022,6.9685
+2006/07,2006,M,16,partier / politiska / valet,11,929,6.3344
+2006/07,2006,M,24,partier / ansvar / folket,11,767,5.2298
+2006/07,2006,M,6,perssons / åt / talar,10,728,4.9639
+2006/07,2006,M,7,eu / utsläppen / utsläpp,8,629,4.2888
+2006/07,2006,M,8,skatteväxling / gröna / grön skatteväxling,6,540,3.682
+2006/07,2006,M,25,jobb / arbetslösheten / arbetsmarknaden,8,533,3.6343
+2006/07,2006,M,4,järnväg / järnvägen / stockholm,7,529,3.607
+2006/07,2006,M,1,polisen / poliser / brott,4,339,2.3115
+2006/07,2006,M,9,kärnkraft / kärnkraften / el,3,262,1.7864
+2006/07,2006,M,14,vården / vård / sjukvården,3,260,1.7728
+2006/07,2006,M,17,skatt / skatten / skatter,3,251,1.7114
+2006/07,2006,M,18,eu / europa / europeiska,2,175,1.1932
+2006/07,2006,M,20,skatter / skatten / skatt,2,149,1.016
+2006/07,2006,M,12,skolan / lärare / eleverna,1,88,0.6
+2006/07,2006,M,15,äldre / äldreomsorgen / pensionärer,1,84,0.5728
+2006/07,2006,MP,-1,Ej grupperade,108,8271,65.0492
+2006/07,2006,MP,8,skatteväxling / gröna / grön skatteväxling,8,681,5.3559
+2006/07,2006,MP,7,eu / utsläppen / utsläpp,7,617,4.8525
+2006/07,2006,MP,4,järnväg / järnvägen / stockholm,8,597,4.6952
+2006/07,2006,MP,18,eu / europa / europeiska,6,474,3.7279
+2006/07,2006,MP,10,barn / föräldrar / barnen,5,374,2.9414
+2006/07,2006,MP,16,partier / politiska / valet,4,366,2.8785
+2006/07,2006,MP,9,kärnkraft / kärnkraften / el,4,334,2.6268
+2006/07,2006,MP,21,jobb / arbetslösheten / arbetsmarknaden,3,262,2.0606
+2006/07,2006,MP,13,skolan / skola / elever,2,187,1.4707
+2006/07,2006,MP,0,kvinnor / män / kvinnors,2,182,1.4314
+2006/07,2006,MP,24,partier / ansvar / folket,2,113,0.8887
+2006/07,2006,MP,17,skatt / skatten / skatter,2,106,0.8337
+2006/07,2006,MP,25,jobb / arbetslösheten / arbetsmarknaden,1,82,0.6449
+2006/07,2006,MP,6,perssons / åt / talar,1,67,0.5269
+2006/07,2006,MP,20,skatter / skatten / skatt,1,2,0.0157
+2006/07,2006,S,-1,Ej grupperade,131,9668,67.0272
+2006/07,2006,S,14,vården / vård / sjukvården,13,1018,7.0577
+2006/07,2006,S,15,äldre / äldreomsorgen / pensionärer,12,899,6.2327
+2006/07,2006,S,16,partier / politiska / valet,9,583,4.0419
+2006/07,2006,S,21,jobb / arbetslösheten / arbetsmarknaden,6,487,3.3763
+2006/07,2006,S,25,jobb / arbetslösheten / arbetsmarknaden,4,356,2.4681
+2006/07,2006,S,24,partier / ansvar / folket,5,286,1.9828
+2006/07,2006,S,20,skatter / skatten / skatt,3,223,1.546
+2006/07,2006,S,12,skolan / lärare / eleverna,3,217,1.5044
+2006/07,2006,S,8,skatteväxling / gröna / grön skatteväxling,2,179,1.241
+2006/07,2006,S,0,kvinnor / män / kvinnors,2,163,1.1301
+2006/07,2006,S,6,perssons / åt / talar,1,87,0.6032
+2006/07,2006,S,2,bostäder / marknadshyror / hyresrätter,1,86,0.5962
+2006/07,2006,S,17,skatt / skatten / skatter,1,83,0.5754
+2006/07,2006,S,4,järnväg / järnvägen / stockholm,1,57,0.3952
+2006/07,2006,S,18,eu / europa / europeiska,1,32,0.2219
+2006/07,2006,V,-1,Ej grupperade,77,5394,42.2661
+2006/07,2006,V,0,kvinnor / män / kvinnors,28,2294,17.9752
+2006/07,2006,V,21,jobb / arbetslösheten / arbetsmarknaden,16,1220,9.5596
+2006/07,2006,V,1,polisen / poliser / brott,7,518,4.0589
+2006/07,2006,V,7,eu / utsläppen / utsläpp,5,427,3.3459
+2006/07,2006,V,2,bostäder / marknadshyror / hyresrätter,4,342,2.6798
+2006/07,2006,V,25,jobb / arbetslösheten / arbetsmarknaden,4,342,2.6798
+2006/07,2006,V,18,eu / europa / europeiska,4,294,2.3037
+2006/07,2006,V,10,barn / föräldrar / barnen,3,268,2.1
+2006/07,2006,V,17,skatt / skatten / skatter,3,257,2.0138
+2006/07,2006,V,20,skatter / skatten / skatt,3,233,1.8257
+2006/07,2006,V,16,partier / politiska / valet,3,207,1.622
+2006/07,2006,V,8,skatteväxling / gröna / grön skatteväxling,2,172,1.3478
+2006/07,2006,V,3,flyktingar / migrationspolitik / invandring,2,171,1.3399
+2006/07,2006,V,6,perssons / åt / talar,2,164,1.2851
+2006/07,2006,V,4,järnväg / järnvägen / stockholm,2,155,1.2145
+2006/07,2006,V,19,fn / afghanistan / usa,2,133,1.0422
+2006/07,2006,V,24,partier / ansvar / folket,2,88,0.6895
+2006/07,2006,V,12,skolan / lärare / eleverna,1,83,0.6504

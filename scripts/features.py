@@ -17,7 +17,7 @@ import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.cluster import HDBSCAN, MiniBatchKMeans
-from sklearn.metrics import adjusted_rand_score
+from sklearn.metrics import adjusted_rand_score, silhouette_score
 from sklearn.neighbors import NearestNeighbors
 from sentence_transformers import SentenceTransformer
 import torch
@@ -110,10 +110,11 @@ def main():
         reduced = UMAP(n_components=10, n_neighbors=30, min_dist=0.0, metric='cosine', random_state=42, n_epochs=150).fit_transform(emb)
         xy = UMAP(n_components=2, n_neighbors=30, min_dist=0.15, random_state=42, n_epochs=150).fit_transform(reduced)
         np.savez(projection_path, reduced=reduced, xy=xy)
-    clusterer = HDBSCAN(min_cluster_size=180, min_samples=15, n_jobs=6)
+    clusterer = HDBSCAN(min_cluster_size=250, min_samples=5,
+                        cluster_selection_method='leaf', n_jobs=6)
     labels = clusterer.fit_predict(reduced)
     counts = Counter(labels[labels >= 0])
-    method = 'HDBSCAN on UMAP 10D'
+    method = 'HDBSCAN leaf (min_cluster_size=250, min_samples=5) on UMAP 10D'
     # A single giant density cluster is not a useful topic taxonomy. Explicit fallback.
     if len(counts) < 8 or max(counts.values(), default=0) > len(chunks)*0.5:
         method = 'KMeans 24 topics on original normalized embeddings; HDBSCAN rejected as too coarse'
@@ -121,12 +122,33 @@ def main():
         alternate = MiniBatchKMeans(n_clusters=24, random_state=17, n_init=10, batch_size=2048).fit_predict(emb)
         stability = adjusted_rand_score(labels, alternate)
     else:
-        alternate = HDBSCAN(min_cluster_size=220, min_samples=20, n_jobs=6).fit_predict(reduced)
+        alternate = HDBSCAN(min_cluster_size=260, min_samples=5,
+                            cluster_selection_method='leaf', n_jobs=6).fit_predict(reduced)
+        # Very short tail fragments form a density island without a substantive topic.
+        short_clusters = {int(t) for t in set(labels) if t >= 0
+                          and chunks.loc[labels == t, 'word_count'].mean() < 20}
+        for t in short_clusters:
+            labels[labels == t] = -1
+        alternate_short = {int(t) for t in set(alternate) if t >= 0
+                           and chunks.loc[alternate == t, 'word_count'].mean() < 20}
+        for t in alternate_short:
+            alternate[alternate == t] = -1
         stability = adjusted_rand_score(labels, alternate)
+    metric_sample = np.sort(np.random.default_rng(42).choice(len(emb), min(2400, len(emb)), replace=False))
+    sample_labels = labels[metric_sample]
+    selected = sample_labels >= 0
+    silhouette = (silhouette_score(emb[metric_sample][selected], sample_labels[selected], metric='cosine')
+                  if len(set(sample_labels[selected])) > 1 else None)
+    largest_share = max((count / len(labels) for count in Counter(labels[labels >= 0]).values()), default=0)
     chunks['topic_id'] = labels
     chunks['x'], chunks['y'] = xy[:,0], xy[:,1]
     speaker_words = {w for person in speeches.speaker.unique() for w in tokens(person)}
-    label_stop = STOP | speaker_words | {'socialdemokraterna','moderaterna','vänsterpartiet','miljöpartiet','centerpartiet','liberalerna','folkpartiet','kristdemokraterna','sverigedemokraterna'}
+    label_stop = STOP | speaker_words | {
+        'socialdemokraterna','moderaterna','vänsterpartiet','miljöpartiet',
+        'centerpartiet','liberalerna','folkpartiet','kristdemokraterna',
+        'sverigedemokraterna','ta','se','går','gå','gör','lite','min',
+        'sveriges','s','sd','dom'
+    }
     vectorizer = CountVectorizer(tokenizer=tokens, token_pattern=None, stop_words=sorted(label_stop), min_df=20, max_df=0.6, ngram_range=(1,2), max_features=18000)
     matrix = vectorizer.fit_transform(chunks.text)
     terms = vectorizer.get_feature_names_out()
@@ -187,8 +209,12 @@ def main():
         db.execute('commit')
     metrics={'model':MODEL,'fingerprint':fingerprint,'speech_count':len(speeches),'eligible_speeches':int(speeches.eligible.sum()),
              'segments':len(chunks),'clustering':method,'topics':len(set(labels)-{-1}),'unclustered_share':float(np.mean(labels==-1)),
+             'largest_cluster_share':float(largest_share),
+             'silhouette_cosine_original_sample':float(silhouette) if silhouette is not None else None,
+             'evaluation_sample_size':len(metric_sample),
              'sensitivity_ARI':float(stability),'seed':42,'chunk_max_tokens':120,
-             'note':'ARI compares an alternate seed for KMeans or alternate density parameters for HDBSCAN on the same projection; not proof of semantic validity.'}
+             'short_fragment_clusters_excluded':len(short_clusters) if method.startswith('HDBSCAN') else 0,
+             'note':'Silhouette is measured in the original embedding space on a fixed 2400-segment sample, excluding noise. ARI compares nearby HDBSCAN settings on the same UMAP projection; neither proves semantic validity.'}
     (cache/'metrics.json').write_text(json.dumps(metrics,indent=2),encoding='utf-8')
     print(json.dumps(metrics,indent=2),flush=True)
 

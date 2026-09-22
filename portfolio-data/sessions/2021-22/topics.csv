@@ -1,107 +1,103 @@
 ﻿session,session_year,party,topic_id,topic_label,segments,words,word_share_pct
-2021/22,2021,C,-1,Ej grupperade,48,3326,39.5153
-2021/22,2021,C,5,utsläppen / eu / kärnkraft,38,2963,35.2026
-2021/22,2021,C,23,partier / ta / ansvar,8,619,7.3542
-2021/22,2021,C,20,ryssland / ukraina / ryska,6,470,5.5839
-2021/22,2021,C,2,kvinnor / män / kvinnors,4,338,4.0157
-2021/22,2021,C,21,nato / försvaret / militära,3,263,3.1246
-2021/22,2021,C,18,partier / ta / politiska,5,241,2.8633
-2021/22,2021,C,13,äldre / äldreomsorgen / pensionärer,1,83,0.9861
-2021/22,2021,C,6,migrationspolitik / flyktingar / invandring,1,74,0.8792
-2021/22,2021,C,24,se / sveriges / världen,1,30,0.3564
-2021/22,2021,C,19,skatten / miljarder / skatt,1,10,0.1188
-2021/22,2021,KD,-1,Ej grupperade,38,3053,56.3284
-2021/22,2021,KD,12,vården / vård / sjukvården,9,683,12.6015
-2021/22,2021,KD,5,utsläppen / eu / kärnkraft,9,650,11.9926
-2021/22,2021,KD,23,partier / ta / ansvar,7,573,10.572
-2021/22,2021,KD,9,barn / barnen / föräldrar,3,196,3.6162
-2021/22,2021,KD,6,migrationspolitik / flyktingar / invandring,2,159,2.9336
-2021/22,2021,KD,3,polisen / brott / poliser,1,87,1.6052
-2021/22,2021,KD,7,sd / nej / ta,1,10,0.1845
-2021/22,2021,KD,24,se / sveriges / världen,2,9,0.1661
-2021/22,2021,L,-1,Ej grupperade,39,2868,40.4399
-2021/22,2021,L,5,utsläppen / eu / kärnkraft,16,1302,18.3587
-2021/22,2021,L,8,skolan / lärare / skola,14,1078,15.2002
-2021/22,2021,L,3,polisen / brott / poliser,5,387,5.4569
-2021/22,2021,L,13,äldre / äldreomsorgen / pensionärer,4,297,4.1878
-2021/22,2021,L,21,nato / försvaret / militära,3,230,3.2431
-2021/22,2021,L,23,partier / ta / ansvar,2,142,2.0023
-2021/22,2021,L,15,jobb / arbetslösheten / arbetsmarknaden,2,137,1.9318
-2021/22,2021,L,6,migrationspolitik / flyktingar / invandring,2,136,1.9177
-2021/22,2021,L,24,se / sveriges / världen,2,94,1.3254
-2021/22,2021,L,18,partier / ta / politiska,1,91,1.2831
-2021/22,2021,L,22,jobb / arbetslösheten / arbetsmarknaden,1,84,1.1844
-2021/22,2021,L,14,skatt / skatten / skatter,1,81,1.1421
-2021/22,2021,L,20,ryssland / ukraina / ryska,1,79,1.1139
-2021/22,2021,L,9,barn / barnen / föräldrar,1,77,1.0857
-2021/22,2021,L,7,sd / nej / ta,3,9,0.1269
-2021/22,2021,M,-1,Ej grupperade,50,3688,45.9793
-2021/22,2021,M,5,utsläppen / eu / kärnkraft,24,1752,21.8427
-2021/22,2021,M,8,skolan / lärare / skola,9,696,8.6772
-2021/22,2021,M,3,polisen / brott / poliser,9,654,8.1536
-2021/22,2021,M,6,migrationspolitik / flyktingar / invandring,2,175,2.1818
-2021/22,2021,M,22,jobb / arbetslösheten / arbetsmarknaden,2,165,2.0571
-2021/22,2021,M,18,partier / ta / politiska,2,133,1.6581
-2021/22,2021,M,21,nato / försvaret / militära,2,116,1.4462
-2021/22,2021,M,9,barn / barnen / föräldrar,2,102,1.2717
-2021/22,2021,M,19,skatten / miljarder / skatt,2,99,1.2343
-2021/22,2021,M,23,partier / ta / ansvar,1,95,1.1844
-2021/22,2021,M,20,ryssland / ukraina / ryska,1,87,1.0847
-2021/22,2021,M,12,vården / vård / sjukvården,1,83,1.0348
-2021/22,2021,M,14,skatt / skatten / skatter,1,83,1.0348
-2021/22,2021,M,15,jobb / arbetslösheten / arbetsmarknaden,1,61,0.7605
-2021/22,2021,M,7,sd / nej / ta,5,25,0.3117
-2021/22,2021,M,24,se / sveriges / världen,1,7,0.0873
-2021/22,2021,MP,5,utsläppen / eu / kärnkraft,101,7393,78.5153
-2021/22,2021,MP,-1,Ej grupperade,16,1064,11.2999
-2021/22,2021,MP,3,polisen / brott / poliser,6,446,4.7366
-2021/22,2021,MP,2,kvinnor / män / kvinnors,3,213,2.2621
-2021/22,2021,MP,9,barn / barnen / föräldrar,2,160,1.6992
-2021/22,2021,MP,24,se / sveriges / världen,2,115,1.2213
-2021/22,2021,MP,23,partier / ta / ansvar,1,20,0.2124
-2021/22,2021,MP,7,sd / nej / ta,1,5,0.0531
-2021/22,2021,S,-1,Ej grupperade,68,4784,45.389
-2021/22,2021,S,5,utsläppen / eu / kärnkraft,18,1285,12.1917
-2021/22,2021,S,23,partier / ta / ansvar,12,955,9.0607
-2021/22,2021,S,8,skolan / lärare / skola,7,582,5.5218
-2021/22,2021,S,21,nato / försvaret / militära,5,430,4.0797
-2021/22,2021,S,3,polisen / brott / poliser,5,325,3.0835
-2021/22,2021,S,18,partier / ta / politiska,4,320,3.0361
-2021/22,2021,S,22,jobb / arbetslösheten / arbetsmarknaden,4,291,2.7609
-2021/22,2021,S,12,vården / vård / sjukvården,4,282,2.6755
-2021/22,2021,S,20,ryssland / ukraina / ryska,3,246,2.334
-2021/22,2021,S,24,se / sveriges / världen,4,240,2.277
-2021/22,2021,S,2,kvinnor / män / kvinnors,3,185,1.7552
-2021/22,2021,S,9,barn / barnen / föräldrar,2,175,1.6603
-2021/22,2021,S,6,migrationspolitik / flyktingar / invandring,2,124,1.1765
-2021/22,2021,S,7,sd / nej / ta,3,98,0.9298
-2021/22,2021,S,14,skatt / skatten / skatter,1,91,0.8634
-2021/22,2021,S,13,äldre / äldreomsorgen / pensionärer,1,66,0.6262
-2021/22,2021,S,4,bostäder / hyresrätter / marknadshyror,1,61,0.5787
-2021/22,2021,SD,-1,Ej grupperade,68,5029,59.2693
-2021/22,2021,SD,3,polisen / brott / poliser,9,747,8.8038
-2021/22,2021,SD,5,utsläppen / eu / kärnkraft,9,642,7.5663
-2021/22,2021,SD,13,äldre / äldreomsorgen / pensionärer,7,537,6.3288
-2021/22,2021,SD,6,migrationspolitik / flyktingar / invandring,5,334,3.9364
-2021/22,2021,SD,23,partier / ta / ansvar,4,313,3.6889
-2021/22,2021,SD,4,bostäder / hyresrätter / marknadshyror,3,248,2.9228
-2021/22,2021,SD,20,ryssland / ukraina / ryska,2,115,1.3553
-2021/22,2021,SD,7,sd / nej / ta,7,107,1.261
-2021/22,2021,SD,10,perssons / går / lite,1,100,1.1786
-2021/22,2021,SD,19,skatten / miljarder / skatt,1,92,1.0843
-2021/22,2021,SD,18,partier / ta / politiska,1,88,1.0371
-2021/22,2021,SD,12,vården / vård / sjukvården,1,84,0.99
-2021/22,2021,SD,8,skolan / lärare / skola,1,49,0.5775
-2021/22,2021,V,-1,Ej grupperade,54,3800,43.2113
-2021/22,2021,V,5,utsläppen / eu / kärnkraft,29,2193,24.9375
-2021/22,2021,V,13,äldre / äldreomsorgen / pensionärer,14,1118,12.7132
-2021/22,2021,V,12,vården / vård / sjukvården,7,477,5.4242
-2021/22,2021,V,4,bostäder / hyresrätter / marknadshyror,4,309,3.5138
-2021/22,2021,V,8,skolan / lärare / skola,4,238,2.7064
-2021/22,2021,V,23,partier / ta / ansvar,4,234,2.6609
-2021/22,2021,V,14,skatt / skatten / skatter,2,139,1.5806
-2021/22,2021,V,19,skatten / miljarder / skatt,2,137,1.5579
-2021/22,2021,V,21,nato / försvaret / militära,1,85,0.9666
-2021/22,2021,V,24,se / sveriges / världen,1,45,0.5117
-2021/22,2021,V,9,barn / barnen / föräldrar,1,18,0.2047
-2021/22,2021,V,7,sd / nej / ta,1,1,0.0114
+2021/22,2021,C,-1,Ej grupperade,73,5282,62.754
+2021/22,2021,C,24,partier / ansvar / folket,8,573,6.8077
+2021/22,2021,C,9,kärnkraft / kärnkraften / el,7,499,5.9285
+2021/22,2021,C,8,skatteväxling / gröna / grön skatteväxling,6,492,5.8453
+2021/22,2021,C,22,ryssland / ukraina / ryska,6,470,5.5839
+2021/22,2021,C,0,kvinnor / män / kvinnors,4,338,4.0157
+2021/22,2021,C,23,nato / försvaret / militära,3,263,3.1246
+2021/22,2021,C,16,partier / politiska / valet,5,241,2.8633
+2021/22,2021,C,25,jobb / arbetslösheten / arbetsmarknaden,1,92,1.093
+2021/22,2021,C,15,äldre / äldreomsorgen / pensionärer,1,83,0.9861
+2021/22,2021,C,3,flyktingar / migrationspolitik / invandring,1,74,0.8792
+2021/22,2021,C,20,skatter / skatten / skatt,1,10,0.1188
+2021/22,2021,KD,-1,Ej grupperade,38,2954,54.5018
+2021/22,2021,KD,14,vården / vård / sjukvården,10,772,14.2435
+2021/22,2021,KD,24,partier / ansvar / folket,11,763,14.0775
+2021/22,2021,KD,9,kärnkraft / kärnkraften / el,6,411,7.583
+2021/22,2021,KD,10,barn / föräldrar / barnen,3,196,3.6162
+2021/22,2021,KD,3,flyktingar / migrationspolitik / invandring,2,159,2.9336
+2021/22,2021,KD,1,polisen / poliser / brott,1,87,1.6052
+2021/22,2021,KD,4,järnväg / järnvägen / stockholm,1,78,1.4391
+2021/22,2021,L,-1,Ej grupperade,54,3806,53.6661
+2021/22,2021,L,9,kärnkraft / kärnkraften / el,11,906,12.775
+2021/22,2021,L,24,partier / ansvar / folket,6,408,5.753
+2021/22,2021,L,1,polisen / poliser / brott,5,387,5.4569
+2021/22,2021,L,13,skolan / skola / elever,4,348,4.9069
+2021/22,2021,L,15,äldre / äldreomsorgen / pensionärer,4,297,4.1878
+2021/22,2021,L,23,nato / försvaret / militära,3,230,3.2431
+2021/22,2021,L,21,jobb / arbetslösheten / arbetsmarknaden,2,137,1.9318
+2021/22,2021,L,3,flyktingar / migrationspolitik / invandring,2,136,1.9177
+2021/22,2021,L,12,skolan / lärare / eleverna,2,102,1.4382
+2021/22,2021,L,16,partier / politiska / valet,1,91,1.2831
+2021/22,2021,L,25,jobb / arbetslösheten / arbetsmarknaden,1,84,1.1844
+2021/22,2021,L,17,skatt / skatten / skatter,1,81,1.1421
+2021/22,2021,L,22,ryssland / ukraina / ryska,1,79,1.1139
+2021/22,2021,M,-1,Ej grupperade,62,4138,51.5896
+2021/22,2021,M,9,kärnkraft / kärnkraften / el,9,708,8.8268
+2021/22,2021,M,1,polisen / poliser / brott,9,654,8.1536
+2021/22,2021,M,13,skolan / skola / elever,4,344,4.2887
+2021/22,2021,M,16,partier / politiska / valet,4,308,3.8399
+2021/22,2021,M,24,partier / ansvar / folket,4,264,3.2914
+2021/22,2021,M,20,skatter / skatten / skatt,3,189,2.3563
+2021/22,2021,M,3,flyktingar / migrationspolitik / invandring,2,175,2.1818
+2021/22,2021,M,7,eu / utsläppen / utsläpp,2,174,2.1693
+2021/22,2021,M,12,skolan / lärare / eleverna,3,172,2.1444
+2021/22,2021,M,14,vården / vård / sjukvården,2,166,2.0696
+2021/22,2021,M,25,jobb / arbetslösheten / arbetsmarknaden,2,165,2.0571
+2021/22,2021,M,15,äldre / äldreomsorgen / pensionärer,2,162,2.0197
+2021/22,2021,M,23,nato / försvaret / militära,2,116,1.4462
+2021/22,2021,M,10,barn / föräldrar / barnen,2,102,1.2717
+2021/22,2021,M,22,ryssland / ukraina / ryska,1,87,1.0847
+2021/22,2021,M,17,skatt / skatten / skatter,1,83,1.0348
+2021/22,2021,M,8,skatteväxling / gröna / grön skatteväxling,1,14,0.1745
+2021/22,2021,MP,-1,Ej grupperade,64,4800,50.9771
+2021/22,2021,MP,9,kärnkraft / kärnkraften / el,34,2299,24.4159
+2021/22,2021,MP,8,skatteväxling / gröna / grön skatteväxling,17,1156,12.277
+2021/22,2021,MP,1,polisen / poliser / brott,6,446,4.7366
+2021/22,2021,MP,7,eu / utsläppen / utsläpp,4,290,3.0799
+2021/22,2021,MP,0,kvinnor / män / kvinnors,3,213,2.2621
+2021/22,2021,MP,24,partier / ansvar / folket,2,108,1.147
+2021/22,2021,MP,10,barn / föräldrar / barnen,1,77,0.8178
+2021/22,2021,MP,25,jobb / arbetslösheten / arbetsmarknaden,1,27,0.2867
+2021/22,2021,S,-1,Ej grupperade,82,5802,55.0474
+2021/22,2021,S,24,partier / ansvar / folket,19,1430,13.5674
+2021/22,2021,S,9,kärnkraft / kärnkraften / el,11,790,7.4953
+2021/22,2021,S,23,nato / försvaret / militära,5,430,4.0797
+2021/22,2021,S,1,polisen / poliser / brott,5,325,3.0835
+2021/22,2021,S,16,partier / politiska / valet,4,320,3.0361
+2021/22,2021,S,14,vården / vård / sjukvården,4,282,2.6755
+2021/22,2021,S,22,ryssland / ukraina / ryska,3,246,2.334
+2021/22,2021,S,25,jobb / arbetslösheten / arbetsmarknaden,3,196,1.8596
+2021/22,2021,S,0,kvinnor / män / kvinnors,3,185,1.7552
+2021/22,2021,S,3,flyktingar / migrationspolitik / invandring,2,124,1.1765
+2021/22,2021,S,15,äldre / äldreomsorgen / pensionärer,2,103,0.9772
+2021/22,2021,S,12,skolan / lärare / eleverna,1,92,0.8729
+2021/22,2021,S,17,skatt / skatten / skatter,1,91,0.8634
+2021/22,2021,S,13,skolan / skola / elever,1,63,0.5977
+2021/22,2021,S,2,bostäder / marknadshyror / hyresrätter,1,61,0.5787
+2021/22,2021,SD,-1,Ej grupperade,80,5419,63.8656
+2021/22,2021,SD,1,polisen / poliser / brott,9,747,8.8038
+2021/22,2021,SD,15,äldre / äldreomsorgen / pensionärer,7,537,6.3288
+2021/22,2021,SD,24,partier / ansvar / folket,6,509,5.9988
+2021/22,2021,SD,3,flyktingar / migrationspolitik / invandring,5,334,3.9364
+2021/22,2021,SD,2,bostäder / marknadshyror / hyresrätter,3,248,2.9228
+2021/22,2021,SD,7,eu / utsläppen / utsläpp,2,163,1.921
+2021/22,2021,SD,22,ryssland / ukraina / ryska,2,115,1.3553
+2021/22,2021,SD,6,perssons / åt / talar,1,100,1.1786
+2021/22,2021,SD,20,skatter / skatten / skatt,1,92,1.0843
+2021/22,2021,SD,16,partier / politiska / valet,1,88,1.0371
+2021/22,2021,SD,14,vården / vård / sjukvården,1,84,0.99
+2021/22,2021,SD,12,skolan / lärare / eleverna,1,49,0.5775
+2021/22,2021,V,-1,Ej grupperade,56,3918,44.5531
+2021/22,2021,V,9,kärnkraft / kärnkraften / el,22,1678,19.0812
+2021/22,2021,V,15,äldre / äldreomsorgen / pensionärer,15,1182,13.441
+2021/22,2021,V,14,vården / vård / sjukvården,10,723,8.2215
+2021/22,2021,V,24,partier / ansvar / folket,6,338,3.8435
+2021/22,2021,V,2,bostäder / marknadshyror / hyresrätter,4,309,3.5138
+2021/22,2021,V,13,skolan / skola / elever,4,238,2.7064
+2021/22,2021,V,20,skatter / skatten / skatt,2,137,1.5579
+2021/22,2021,V,23,nato / försvaret / militära,1,85,0.9666
+2021/22,2021,V,21,jobb / arbetslösheten / arbetsmarknaden,1,71,0.8074
+2021/22,2021,V,10,barn / föräldrar / barnen,2,60,0.6823
+2021/22,2021,V,17,skatt / skatten / skatter,1,55,0.6254
