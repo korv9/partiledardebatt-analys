@@ -1,0 +1,26 @@
+version: 2
+models:
+  - name: stg_speeches
+    description: "Källmetadata; FP→L och KDS→KD. Namn normaliseras separat eftersom historiska person-ID:n kan vara felaktiga."
+    columns:
+      - name: speech_id
+        data_tests: [unique, not_null]
+      - name: speech_date
+        data_tests: [not_null]
+  - name: int_segments
+    description: "Icke överlappande textsegment, högst 120 modelltoken. En ämnesetikett per segment."
+    columns:
+      - name: chunk_id
+        data_tests: [unique, not_null]
+      - name: topic_id
+        data_tests:
+          - relationships:
+              arguments: {to: "source('raw','topics')", field: topic_id}
+  - name: mart_topics
+    description: "Ämnen som andel av segmentens ord, inklusive ej grupperade."
+  - name: mart_topic_trends
+    description: "Ämnesandel per parti/riksmöte; inte ett mått på ståndpunkt eller talartid."
+  - name: mart_word_usage
+    description: "Ordfrekvens per 1000 ord samt logaritmisk frekvenskvot mot övriga partier. Ordformer, inte lemmor."
+  - name: mart_mentions
+    description: "Konservativa namn- och partiomnämnanden; inte automatiskt kritik eller replikrelationer."

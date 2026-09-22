@@ -1,0 +1,21 @@
+version: 2
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: speeches
+        columns:
+          - name: speech_id
+            data_tests: [unique, not_null]
+      - name: chunks
+        columns:
+          - name: chunk_id
+            data_tests: [unique, not_null]
+          - name: speech_id
+            data_tests:
+              - relationships:
+                  arguments: {to: "source('raw', 'speeches')", field: speech_id}
+      - name: topics
+      - name: words
+      - name: mentions
+      - name: similarities

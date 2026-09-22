@@ -1,0 +1,39 @@
+<div id="debatt-resultat">
+  <h2>Ämnen i partiledardebatterna</h2>
+  <div class="viz-controls"><label class="form-label">Parti<select class="form-select" id="debatt-parti"><option value="">Alla partier</option></select></label></div>
+  <div id="debatt-bars" role="img" aria-label="De största ämnesgrupperna som andel av analyserade ord"></div>
+  <div class="text-small text-muted">Andel av analyserade ord, 1993/94–2025/26. Automatiska ämnesetiketter.</div>
+  <hr>
+  <div class="viz-grid">
+    <div><h3>Vanligaste orden</h3><div id="debatt-ord"></div></div>
+    <div><h3>Omnämnda personer</h3><div id="debatt-namn"></div></div>
+  </div>
+  <div id="debatt-val" class="text-small" aria-live="polite"></div>
+</div>
+<style>
+#debatt-resultat .debatt-row{display:grid;grid-template-columns:minmax(120px,1fr) minmax(70px,1fr) 55px;gap:12px;align-items:center;margin:10px 0}
+#debatt-resultat .debatt-track{height:12px;background:var(--muted)}
+#debatt-resultat .debatt-fill{height:100%;background:var(--viz-series-1)}
+#debatt-resultat .debatt-number{text-align:right;color:var(--foreground)}
+#debatt-resultat table{width:100%}
+</style>
+<script>
+(()=>{
+const root=document.getElementById('debatt-resultat');
+const D=/*INLINE_DATA*/;
+const select=root.querySelector('#debatt-parti');
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt=n=>Number(n).toLocaleString('sv-SE',{maximumFractionDigits:1});
+Object.keys(D).filter(x=>x!=='').sort().forEach(p=>{const o=document.createElement('option');o.value=p;o.textContent=p;select.append(o)});
+function render(){const d=D[select.value]||D[''];const max=Math.max(...d.topics.map(x=>x.share),1);
+root.querySelector('#debatt-bars').innerHTML=d.topics.map(t=>'<div class="debatt-row"><span>'+esc(t.label)+'</span><div class="debatt-track"><div class="debatt-fill" style="width:'+100*t.share/max+'%"></div></div><span class="debatt-number tabular-nums">'+fmt(t.share)+' %</span></div>').join('');
+root.querySelector('#debatt-ord').innerHTML='<table class="table table-sm"><thead><tr><th>Ord</th><th class="text-end">Per 1 000 ord</th></tr></thead><tbody>'+d.words.map(w=>'<tr><td>'+esc(w.word)+'</td><td class="text-end">'+fmt(w.rate)+'</td></tr>').join('')+'</tbody></table>';
+root.querySelector('#debatt-namn').innerHTML='<table class="table table-sm"><thead><tr><th>Person</th><th class="text-end">Omnämnanden</th></tr></thead><tbody>'+d.mentions.map(w=>'<tr><td>'+esc(w.target)+'</td><td class="text-end">'+fmt(w.mentions)+'</td></tr>').join('')+'</tbody></table>';
+root.querySelector('#debatt-val').textContent=(select.value||'Alla partier')+' · '+fmt(d.speeches)+' analyserade anföranden. Omnämnanden av fullständiga namn; självomnämnanden uteslutna.';
+}
+const restore=state=>{const p=state?.modelContent?.party;if(p!==undefined&&D[p])select.value=p;render()};
+restore(window.openai?.widgetState);
+window.addEventListener('openai:set_globals',e=>restore(e.detail?.globals?.widgetState));
+select.addEventListener('change',()=>{render();window.openai?.setWidgetState({modelContent:{party:select.value},privateContent:null}).catch(()=>{})});
+})();
+</script>

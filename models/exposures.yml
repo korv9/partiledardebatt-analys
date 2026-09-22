@@ -1,0 +1,17 @@
+version: 2
+exposures:
+  - name: debate_analysis_report
+    type: analysis
+    maturity: low
+    description: "Explorativ lokal rapport med UMAP, ämnestrender, ord, omnämnanden och liknande anföranden."
+    owner:
+      name: Partiledardebatt-analys
+    depends_on:
+      - ref('int_segments')
+      - ref('mart_topics')
+      - ref('mart_topic_trends')
+      - ref('mart_speaker_topics')
+      - ref('mart_word_usage')
+      - ref('mart_speaker_words')
+      - ref('mart_mentions')
+      - ref('mart_similar_speeches')

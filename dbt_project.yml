@@ -1,0 +1,16 @@
+name: partiledardebatt
+version: '1.0.0'
+config-version: 2
+profile: partiledardebatt
+flags:
+  send_anonymous_usage_stats: false
+model-paths: [models]
+test-paths: [tests]
+models:
+  partiledardebatt:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: table
+    marts:
+      +materialized: table

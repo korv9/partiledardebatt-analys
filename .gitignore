@@ -1,0 +1,9 @@
+data/
+__pycache__/
+.venv/
+target/
+logs/
+dbt_packages/
+reports/*.html
+reports/*.json
+.user.yml

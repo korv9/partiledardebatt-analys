@@ -1,0 +1,9 @@
+partiledardebatt:
+  target: local
+  outputs:
+    local:
+      type: duckdb
+      path: data/analytics.duckdb
+      threads: 4
+      settings:
+        preserve_insertion_order: false
