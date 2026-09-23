@@ -38,6 +38,8 @@ Budgeten kan visas intill UMAP-kartan med samma filter för parti och riksmöte.
 `decision-speech-links.json` kopplar beslut till tidigare tal från samma parti via textlikhet. Länken säger inget om talarens ståndpunkt i sakfrågan.
 
 `decisions/`, `activities/` och `budgets/outturn-areas.json` innehåller nya spårbara lager. Öppna `sessions/<riksmöte>/decisions/index.json` först och ladda sedan filer per utskott. En `citation` är en uttrycklig dokument- eller numrerad yrkandehänvisning i utskottets förslag; en reservation är registrerad för en beslutspunkt. Inget av detta är en automatisk bedömning av ett partis stöd. Budgetutfall är verkliga utgifter, inte ett effektmått.
+
+`laws/index.json` och `laws/<SFS-ID>/provisions.json` innehåller full bestämmelsetext från versionsmärkta SFS-snapshots som verifierats mot Allegorias källhashar. `laws/mentions.json` är enbart lexikala träffar på lagnamn i tal; ingen paragraf eller giltig lydelse vid taldatum har verifierats och inga direction-poäng beräknas.
 """
 
 
@@ -132,6 +134,7 @@ def main() -> None:
             "committee_points": db.execute("select count(*) from gold_decision_points").fetchone()[0],
             "policy_documents": db.execute("select count(*) from gold_policy_documents").fetchone()[0],
             "outturn_last_year": db.execute("select max(budget_year) from gold_budget_outturn_areas").fetchone()[0],
+            "sfs_provisions": db.execute("select count(*) from gold_sfs_provisions").fetchone()[0],
         }
         overview_path = OUTPUT / "overview.json"
         write_json(overview_path, overview, generated_at)
@@ -176,6 +179,29 @@ def main() -> None:
             db, manifest, "activities/summary",
             "select * from gold_party_activity_summary order by session,party",
             generated_at, "Partiers debattal, skriftliga frågor och interpellationer",
+        )
+        law_index = records(
+            db, "select sfs_document_id, max(document_title) as document_title, "
+                "max(snapshot_version) as snapshot_version, count(*) as provisions, "
+                "max(temporal_status) as temporal_status "
+                "from gold_sfs_provisions group by sfs_document_id order by sfs_document_id",
+        )
+        law_index_path = OUTPUT / "laws/index.json"
+        write_json(law_index_path, law_index, generated_at)
+        add_file(manifest, law_index_path, len(law_index), "Versionsmärkta SFS-snapshots")
+        for law in law_index:
+            law_id = law["sfs_document_id"]
+            provisions = records(
+                db, "select * from gold_sfs_provisions where sfs_document_id=? order by provision_order",
+                [law_id],
+            )
+            law_path = OUTPUT / f"laws/{law_id}/provisions.json"
+            write_json(law_path, provisions, generated_at)
+            add_file(manifest, law_path, len(provisions), f"Full bestämmelsetext och källhash: {law_id}")
+        export_pair(
+            db, manifest, "laws/mentions",
+            "select * from gold_sfs_law_mentions order by speech_date,speech_id,sfs_document_id",
+            generated_at, "Lexikala talträffar på lagnamn, utan paragraf- eller direction-slutsats",
         )
         export_pair(
             db, manifest, "votes/summary",

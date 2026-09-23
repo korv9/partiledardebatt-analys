@@ -42,6 +42,8 @@ Det nya ärendelagret innehåller 4 407 punkter från de importerade betänkande
 
 Statskontorets nya utfallslager innehåller 15 643 anslagsrader för 1997–2025. `gold_budget_execution` jämför FiU1-förslag med beslutad budget och faktiskt utfall där årgångarna överlappar. Det är en jämförelse av belopp, inte ett mått på politisk effekt eller en enskild talares ansvar.
 
+Ett separat SFS-lager importerar nu 70 paragrafer och 22 övergångsbestämmelser med verifierad källhash ur Allegorias snapshot av lagen (1982:80) om anställningsskydd (`t.o.m. SFS 2022:836`). En försiktig lagnamnssökning ger 21 talkandidater i hela debattmaterialet, varav fyra under 2020/21. De är inte länkade till en bestämd paragraf. Snapshotens lydelse är inte verifierad som gällande vid talens datum, och ingen `direction`-poäng har beräknats.
+
 De mest uttryckligen omnämnda talarna i hela materialet är Göran Persson (1 671 träffar), Jimmie Åkesson (1 278), Stefan Löfven (1 002), Jan Björklund (856) och Jonas Sjöstedt (851). Fullständiga namn används, självomnämnanden är borttagna och samma omnämnande kan förekomma flera gånger i ett tal. Resultatet gynnar personer som varit aktiva under många debatter.
 
 De mest omnämnda partierna är S (3 429), M (1 871), V (1 719), MP (1 664) och SD (1 498). Ett omnämnande säger inte om sammanhanget är kritik, samarbete eller neutral beskrivning.

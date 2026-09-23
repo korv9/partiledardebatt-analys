@@ -41,3 +41,7 @@ sources:
           - name: document_id
             data_tests: [unique, not_null]
       - name: budget_outturn_appropriations
+      - name: sfs_provisions
+        columns:
+          - name: provision_id
+            data_tests: [unique, not_null]

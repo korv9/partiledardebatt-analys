@@ -11,8 +11,8 @@
 1994/95,1994,MP,7,eu / utsläppen / utsläpp,1,90,0.8877
 1994/95,1994,MP,19,fn / afghanistan / usa,1,87,0.8581
 1994/95,1994,MP,8,skatteväxling / gröna / grön skatteväxling,1,74,0.7299
-1994/95,1994,MP,3,flyktingar / migrationspolitik / invandring,1,72,0.7101
 1994/95,1994,MP,14,vården / vård / sjukvården,1,72,0.7101
+1994/95,1994,MP,3,flyktingar / migrationspolitik / invandring,1,72,0.7101
 1995/96,1995,MP,-1,Ej grupperade,103,8132,59.7809
 1995/96,1995,MP,9,kärnkraft / kärnkraften / el,19,1513,11.1225
 1995/96,1995,MP,21,jobb / arbetslösheten / arbetsmarknaden,14,1045,7.6821
@@ -37,8 +37,8 @@
 1996/97,1996,MP,24,partier / ansvar / folket,2,175,1.8146
 1996/97,1996,MP,8,skatteväxling / gröna / grön skatteväxling,2,165,1.7109
 1996/97,1996,MP,18,eu / europa / europeiska,2,164,1.7005
-1996/97,1996,MP,25,jobb / arbetslösheten / arbetsmarknaden,1,89,0.9229
 1996/97,1996,MP,20,skatter / skatten / skatt,1,89,0.9229
+1996/97,1996,MP,25,jobb / arbetslösheten / arbetsmarknaden,1,89,0.9229
 1996/97,1996,MP,4,järnväg / järnvägen / stockholm,1,78,0.8088
 1997/98,1997,MP,-1,Ej grupperade,77,6230,64.3595
 1997/98,1997,MP,10,barn / föräldrar / barnen,7,558,5.7645
@@ -145,9 +145,9 @@
 2003/04,2003,MP,1,polisen / poliser / brott,2,172,1.6451
 2003/04,2003,MP,0,kvinnor / män / kvinnors,1,93,0.8895
 2003/04,2003,MP,13,skolan / skola / elever,1,92,0.88
-2003/04,2003,MP,7,eu / utsläppen / utsläpp,1,90,0.8608
-2003/04,2003,MP,9,kärnkraft / kärnkraften / el,1,90,0.8608
 2003/04,2003,MP,25,jobb / arbetslösheten / arbetsmarknaden,1,90,0.8608
+2003/04,2003,MP,9,kärnkraft / kärnkraften / el,1,90,0.8608
+2003/04,2003,MP,7,eu / utsläppen / utsläpp,1,90,0.8608
 2003/04,2003,MP,17,skatt / skatten / skatter,1,86,0.8226
 2003/04,2003,MP,4,järnväg / järnvägen / stockholm,1,81,0.7747
 2004/05,2004,MP,-1,Ej grupperade,86,6888,58.3679
@@ -160,8 +160,8 @@
 2004/05,2004,MP,8,skatteväxling / gröna / grön skatteväxling,5,333,2.8218
 2004/05,2004,MP,21,jobb / arbetslösheten / arbetsmarknaden,4,290,2.4574
 2004/05,2004,MP,6,perssons / åt / talar,2,180,1.5253
-2004/05,2004,MP,20,skatter / skatten / skatt,2,169,1.4321
 2004/05,2004,MP,11,euron / valuta / europa,2,169,1.4321
+2004/05,2004,MP,20,skatter / skatten / skatt,2,169,1.4321
 2004/05,2004,MP,4,järnväg / järnvägen / stockholm,2,121,1.0253
 2004/05,2004,MP,10,barn / föräldrar / barnen,1,95,0.805
 2004/05,2004,MP,25,jobb / arbetslösheten / arbetsmarknaden,1,91,0.7711
@@ -178,8 +178,8 @@
 2005/06,2005,MP,10,barn / föräldrar / barnen,2,185,1.7587
 2005/06,2005,MP,21,jobb / arbetslösheten / arbetsmarknaden,2,184,1.7492
 2005/06,2005,MP,7,eu / utsläppen / utsläpp,2,180,1.7112
-2005/06,2005,MP,9,kärnkraft / kärnkraften / el,1,96,0.9126
 2005/06,2005,MP,15,äldre / äldreomsorgen / pensionärer,1,96,0.9126
+2005/06,2005,MP,9,kärnkraft / kärnkraften / el,1,96,0.9126
 2005/06,2005,MP,23,nato / försvaret / militära,1,94,0.8936
 2005/06,2005,MP,13,skolan / skola / elever,1,93,0.8841
 2005/06,2005,MP,24,partier / ansvar / folket,1,89,0.8461
@@ -223,8 +223,8 @@
 2008/09,2008,MP,9,kärnkraft / kärnkraften / el,7,535,3.7065
 2008/09,2008,MP,14,vården / vård / sjukvården,6,454,3.1454
 2008/09,2008,MP,24,partier / ansvar / folket,4,327,2.2655
-2008/09,2008,MP,13,skolan / skola / elever,3,277,1.9191
 2008/09,2008,MP,11,euron / valuta / europa,3,277,1.9191
+2008/09,2008,MP,13,skolan / skola / elever,3,277,1.9191
 2008/09,2008,MP,12,skolan / lärare / eleverna,3,177,1.2263
 2008/09,2008,MP,1,polisen / poliser / brott,3,166,1.1501
 2008/09,2008,MP,3,flyktingar / migrationspolitik / invandring,1,96,0.6651
@@ -275,8 +275,8 @@
 2011/12,2011,MP,25,jobb / arbetslösheten / arbetsmarknaden,4,347,2.1084
 2011/12,2011,MP,20,skatter / skatten / skatt,3,265,1.6102
 2011/12,2011,MP,1,polisen / poliser / brott,2,186,1.1301
-2011/12,2011,MP,0,kvinnor / män / kvinnors,2,175,1.0633
 2011/12,2011,MP,24,partier / ansvar / folket,3,175,1.0633
+2011/12,2011,MP,0,kvinnor / män / kvinnors,2,175,1.0633
 2011/12,2011,MP,12,skolan / lärare / eleverna,2,116,0.7048
 2011/12,2011,MP,11,euron / valuta / europa,1,96,0.5833
 2011/12,2011,MP,18,eu / europa / europeiska,1,94,0.5712
@@ -296,8 +296,8 @@
 2012/13,2012,MP,0,kvinnor / män / kvinnors,3,216,1.304
 2012/13,2012,MP,4,järnväg / järnvägen / stockholm,2,158,0.9538
 2012/13,2012,MP,11,euron / valuta / europa,1,98,0.5916
-2012/13,2012,MP,16,partier / politiska / valet,2,95,0.5735
 2012/13,2012,MP,2,bostäder / marknadshyror / hyresrätter,2,95,0.5735
+2012/13,2012,MP,16,partier / politiska / valet,2,95,0.5735
 2012/13,2012,MP,1,polisen / poliser / brott,1,87,0.5252
 2012/13,2012,MP,17,skatt / skatten / skatter,1,86,0.5192
 2012/13,2012,MP,19,fn / afghanistan / usa,1,83,0.5011
@@ -401,8 +401,8 @@
 2018/19,2018,MP,24,partier / ansvar / folket,2,166,1.6652
 2018/19,2018,MP,16,partier / politiska / valet,1,98,0.983
 2018/19,2018,MP,18,eu / europa / europeiska,1,92,0.9229
-2018/19,2018,MP,3,flyktingar / migrationspolitik / invandring,1,91,0.9128
 2018/19,2018,MP,10,barn / föräldrar / barnen,1,91,0.9128
+2018/19,2018,MP,3,flyktingar / migrationspolitik / invandring,1,91,0.9128
 2018/19,2018,MP,12,skolan / lärare / eleverna,1,28,0.2809
 2019/20,2019,MP,-1,Ej grupperade,85,6260,57.3733
 2019/20,2019,MP,9,kärnkraft / kärnkraften / el,16,1102,10.0999

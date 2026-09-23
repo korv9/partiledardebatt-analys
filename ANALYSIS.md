@@ -7,6 +7,7 @@ Riksdagens JSON → ingest.py → data/debates.sqlite
 Riksdagens voteringar + betänkanden → vote_ingest.py → data/votes.sqlite
 Riksdagens dokumentlistor + betänkandestatus → policy_ingest.py → data/policy.sqlite
 Statskontorets årsutfall → outturn_ingest.py → data/outturn.sqlite
+Allegorias verifierade SFS-snapshots → sfs_bridge.py → data/sfs.sqlite
   → scripts/features.py → analytics.duckdb / raw
   → dbt staging → intermediate → marts
   → scripts/link_votes.py → tematiska länkar till tidigare tal
@@ -25,6 +26,7 @@ python -m venv .venv
 .\.venv\Scripts\python vote_ingest.py --session 2024/25 --session 2025/26
 .\.venv\Scripts\python policy_ingest.py --session 2024/25 --session 2025/26
 .\.venv\Scripts\python outturn_ingest.py
+.\.venv\Scripts\python sfs_bridge.py --allegoria-root ..\allegoria --document-id sfs-1982-80
 .\.venv\Scripts\python run_analysis.py
 ```
 
@@ -50,6 +52,8 @@ Voteringsdata hämtas separat med `python vote_ingest.py --session ...`. `stg_vo
 
 `policy_ingest.py` kompletterar de cachelagrade betänkandena med alla punkter, explicita dokument- och yrkandehänvisningar samt registrerade reservationer. Det hämtar även metadata för propositioner, skriftliga frågor och interpellationer under samma riksmöten. `gold_debate_decision_traces` förenar detta med tidigare tematiskt matchade tal och registrerade röster, utan att påstå att ett tal stöder eller motsäger ett yrkande. `outturn_ingest.py` hämtar Statskontorets anslagsdata och `gold_budget_execution` jämför förslag, beslutad budget, ändringsbudget och utfall. De nya importerade besluten är begränsade till betänkanden som hämtats för voteringslagret; icke voterade punkter i andra betänkanden saknas.
 
+`sfs_bridge.py` återanvänder Allegorias SFS-adapter för att verifiera XML och importera utvalda paragrafer till `gold_sfs_provisions`. `gold_sfs_law_mentions` är bara lexikala lagnamnsträffar; ingen viss paragraf, giltig historisk lydelse eller `direction`-poäng följer av träffen. Se [LAW_LINKING.md](LAW_LINKING.md).
+
 | Lager | Modell | Innehåll |
 |---|---|---|
 | raw | speeches, chunks, topics, words, mentions, similarities | Källmetadata och beräknade NLP-egenskaper |
@@ -60,6 +64,7 @@ Voteringsdata hämtas separat med `python vote_ingest.py --session ...`. `stg_vo
 | staging | stg_committee_points, stg_decision_citations, stg_decision_reservations, stg_policy_documents | Beslutspunkter, direkta hänvisningar, reservationer och aktivitet |
 | gold | gold_decision_points, gold_decision_citations, gold_decision_reservations, gold_policy_documents, gold_debate_decision_traces | Källspårbar ärendekedja |
 | staging/gold | stg_budget_outturn_appropriations, gold_budget_outturn_areas, gold_budget_execution | Utfall och jämförelse mellan förslag och faktisk utgift |
+| staging/gold | stg_sfs_provisions, gold_sfs_provisions, gold_sfs_law_mentions | Källverifierad lagtext och osäkra lagnamnsträffar |
 | marts | mart_topics | Ämnesstorlek, antal tal och andel ord |
 | marts | mart_topic_trends | Ämnesandel per parti och riksmöte |
 | marts | mart_speaker_topics | Ämnesandel per person/parti |
@@ -109,6 +114,7 @@ Rapporten är fristående och innehåller diagramkoden lokalt. Originaltexter ö
 - `votes/summary.json` och `sessions/<riksmöte>/votes.json` ger källänkade partiröster per beslutspunkt. `decision-motions.json` skiljer uttryckligt citerade motioner från övriga behandlade motioner. `decision-speech-links.json` är enbart tematiska träffar till tidigare tal, med likhetspoäng och originalkällor.
 - `sessions/<riksmöte>/decisions/index.json` pekar på små filer per utskott: `points.json`, `citations.json` och `reservations.json`. `debate-traces.json` knyter tematiskt matchade tal till beslutspunkter, partiröster och reservationer. `sessions/<riksmöte>/activities/` innehåller frågor, interpellationer och propositioner; `activities/summary.json` ger antal per parti.
 - `budgets/outturn-areas.json` och `budgets/execution.json` ger faktiska utgifter och jämförelse med budgetförslag. Utfall finns till och med 2025 i den importerade snapshoten, så 2026-förslag saknar ännu årsutfall.
+- `laws/index.json` och `laws/<SFS-ID>/provisions.json` ger full paragraftext, källhash och snapshotversion. `laws/mentions.json` är endast lagnamnsträffar utan identifierad paragraf eller giltighetsprövning.
 
 JSON är avsett för webbgränssnittet. Motsvarande CSV finns för de tabeller där nedladdning och manuell kontroll är användbart. Fulltext, embeddings, råarkiv och databasfiler publiceras inte i guldlagret.
 

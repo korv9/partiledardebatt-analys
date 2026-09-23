@@ -21,8 +21,8 @@
 1994/95,1994,L,23,nato / försvaret / militära,2,160,1.7833
 1994/95,1994,L,25,jobb / arbetslösheten / arbetsmarknaden,2,151,1.683
 1994/95,1994,L,14,vården / vård / sjukvården,2,126,1.4044
-1994/95,1994,L,17,skatt / skatten / skatter,1,88,0.9808
 1994/95,1994,L,6,perssons / åt / talar,1,88,0.9808
+1994/95,1994,L,17,skatt / skatten / skatter,1,88,0.9808
 1994/95,1994,L,12,skolan / lärare / eleverna,1,85,0.9474
 1994/95,1994,L,24,partier / ansvar / folket,1,66,0.7356
 1995/96,1995,L,-1,Ej grupperade,98,7632,60.6244
@@ -34,8 +34,8 @@
 1995/96,1995,L,6,perssons / åt / talar,4,263,2.0891
 1995/96,1995,L,3,flyktingar / migrationspolitik / invandring,3,244,1.9382
 1995/96,1995,L,20,skatter / skatten / skatt,2,175,1.3901
-1995/96,1995,L,14,vården / vård / sjukvården,2,154,1.2233
 1995/96,1995,L,17,skatt / skatten / skatter,2,154,1.2233
+1995/96,1995,L,14,vården / vård / sjukvården,2,154,1.2233
 1995/96,1995,L,19,fn / afghanistan / usa,2,132,1.0485
 1995/96,1995,L,7,eu / utsläppen / utsläpp,1,92,0.7308
 1995/96,1995,L,18,eu / europa / europeiska,1,81,0.6434
@@ -74,8 +74,8 @@
 1998/99,1998,L,16,partier / politiska / valet,10,766,6.6736
 1998/99,1998,L,7,eu / utsläppen / utsläpp,6,453,3.9467
 1998/99,1998,L,14,vården / vård / sjukvården,4,278,2.422
-1998/99,1998,L,13,skolan / skola / elever,3,267,2.3262
 1998/99,1998,L,24,partier / ansvar / folket,3,267,2.3262
+1998/99,1998,L,13,skolan / skola / elever,3,267,2.3262
 1998/99,1998,L,3,flyktingar / migrationspolitik / invandring,3,199,1.7338
 1998/99,1998,L,15,äldre / äldreomsorgen / pensionärer,2,169,1.4724
 1998/99,1998,L,25,jobb / arbetslösheten / arbetsmarknaden,2,163,1.4201
@@ -91,8 +91,8 @@
 1999/2000,1999,L,13,skolan / skola / elever,3,266,3.5236
 1999/2000,1999,L,14,vården / vård / sjukvården,3,246,3.2587
 1999/2000,1999,L,12,skolan / lärare / eleverna,1,81,1.073
-1999/2000,1999,L,22,ryssland / ukraina / ryska,1,80,1.0597
 1999/2000,1999,L,7,eu / utsläppen / utsläpp,1,80,1.0597
+1999/2000,1999,L,22,ryssland / ukraina / ryska,1,80,1.0597
 1999/2000,1999,L,18,eu / europa / europeiska,1,77,1.02
 1999/2000,1999,L,15,äldre / äldreomsorgen / pensionärer,1,73,0.967
 1999/2000,1999,L,23,nato / försvaret / militära,1,38,0.5034
@@ -357,8 +357,8 @@
 2015/16,2015,L,22,ryssland / ukraina / ryska,3,240,1.9881
 2015/16,2015,L,13,skolan / skola / elever,3,231,1.9135
 2015/16,2015,L,7,eu / utsläppen / utsläpp,2,176,1.4579
-2015/16,2015,L,18,eu / europa / europeiska,3,169,1.3999
 2015/16,2015,L,16,partier / politiska / valet,2,169,1.3999
+2015/16,2015,L,18,eu / europa / europeiska,3,169,1.3999
 2015/16,2015,L,14,vården / vård / sjukvården,1,88,0.729
 2015/16,2015,L,4,järnväg / järnvägen / stockholm,1,87,0.7207
 2015/16,2015,L,15,äldre / äldreomsorgen / pensionärer,1,86,0.7124
@@ -503,8 +503,8 @@
 2024/25,2024,L,7,eu / utsläppen / utsläpp,2,173,1.9351
 2024/25,2024,L,22,ryssland / ukraina / ryska,2,167,1.868
 2024/25,2024,L,1,polisen / poliser / brott,2,108,1.2081
-2024/25,2024,L,19,fn / afghanistan / usa,1,85,0.9508
 2024/25,2024,L,24,partier / ansvar / folket,1,85,0.9508
+2024/25,2024,L,19,fn / afghanistan / usa,1,85,0.9508
 2024/25,2024,L,23,nato / försvaret / militära,1,84,0.9396
 2024/25,2024,L,20,skatter / skatten / skatt,1,76,0.8501
 2024/25,2024,L,8,skatteväxling / gröna / grön skatteväxling,1,5,0.0559

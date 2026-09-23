@@ -121,3 +121,14 @@ models:
         data_tests: [not_null]
   - name: gold_party_activity_summary
     description: "Antal debattal, skriftliga frågor och interpellationer per parti/riksmöte; jämför aktivitet, inte sakpolitisk samsyn."
+  - name: gold_sfs_provisions
+    description: "Allegoria-verifierade SFS-paragrafer med källhash och snapshotversion. Giltighetsdatum på paragrafnivå är ännu okända."
+    columns:
+      - name: provision_id
+        data_tests: [unique, not_null]
+      - name: source_sha256
+        data_tests: [not_null]
+      - name: text_sha256
+        data_tests: [not_null]
+  - name: gold_sfs_law_mentions
+    description: "Lexikala tal→lagnamn-kandidater. Ingen identifierad paragraf, ingen verifierad tidslydelse och ingen direction-poäng."
