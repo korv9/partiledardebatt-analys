@@ -32,6 +32,12 @@ Etiketterna är maskinellt skapade nyckelord. De finare grupperna skiljer exempe
 
 Den interaktiva rapporten visar nu budgetramar intill UMAP-kartan med gemensamt filter för parti och riksmöte. Budgetbeloppen påverkar inte kartans koordinater. De representerar föreslagna pengar medan kartan representerar likhet mellan textsegment.
 
+## Beslut, motioner och röster
+
+För riksmötena 2024/25 och 2025/26 finns nu 507 446 registrerade ledamotsröster från Riksdagens öppna data. De är kopplade till 1 436 voterade punkter i utskottsbetänkanden. Ytterligare 18 voterings-ID saknar en säker matchning till en beslutspunkt och redovisas som luckor, inte som antagna eller avslagna förslag. De matchade punkterna innehåller 5 367 uttryckliga hänvisningar till motioner. En punkt kan behandla flera motioner, ofta med olika yrkanden, så partirösten ska inte tillskrivas varje motion separat.
+
+En tematisk sökning med minst 0,60 i cosinuslikhet gav 933 länkar från beslut till tidigare partiledardebattal inom samma riksmöte och parti. I 602 av dessa länkar kunde även talarens person-ID matchas mot en registrerad röstpost, inklusive frånvaro. Det är antal länkar, inte unika personer. Textlikheten används för att hitta relevanta tal, inte för att avgöra om talaren höll med om förslaget. Rapporten och guldlagret visar röstfördelning, beslutspunkt, motioner och originalkällor sida vid sida. För att bedöma faktisk överensstämmelse mellan ord och handling måste man läsa den exakta beslutstexten, reservationerna och talet. Regeringens propositioner, enskilda ministrars agerande och beslut utan votering ingår ännu inte som ett separat handlingslager.
+
 De mest uttryckligen omnämnda talarna i hela materialet är Göran Persson (1 671 träffar), Jimmie Åkesson (1 278), Stefan Löfven (1 002), Jan Björklund (856) och Jonas Sjöstedt (851). Fullständiga namn används, självomnämnanden är borttagna och samma omnämnande kan förekomma flera gånger i ett tal. Resultatet gynnar personer som varit aktiva under många debatter.
 
 De mest omnämnda partierna är S (3 429), M (1 871), V (1 719), MP (1 664) och SD (1 498). Ett omnämnande säger inte om sammanhanget är kritik, samarbete eller neutral beskrivning.

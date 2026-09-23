@@ -11,5 +11,10 @@ from dbt.cli.main import dbtRunner
 result = dbtRunner().invoke(['build', '--profiles-dir', '.', '--project-dir', '.', '--no-use-colors'])
 if not result.success:
     raise SystemExit('dbt build failed; report was not updated')
+subprocess.run([sys.executable, 'scripts/link_votes.py'], check=True)
+result = dbtRunner().invoke(['build', '--select', 'gold_decision_speech_links',
+                             '--profiles-dir', '.', '--project-dir', '.', '--no-use-colors'])
+if not result.success:
+    raise SystemExit('dbt build of decision–speech links failed')
 subprocess.run([sys.executable, 'scripts/export_report.py'], check=True)
 subprocess.run([sys.executable, 'scripts/export_portfolio.py'], check=True)

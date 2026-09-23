@@ -202,6 +202,11 @@ def main():
     with duckdb.connect(str(DATA / 'analytics.duckdb')) as db:
         db.execute('begin transaction')
         db.execute('create schema if not exists raw')
+        # Keep a fresh checkout buildable before the optional vote importer runs.
+        db.execute('create table if not exists raw.votes (vote_id varchar, session varchar, designation varchar, point varchar, member_name varchar, member_id varchar, party varchar, vote varchar, subject varchar, vote_date varchar)')
+        db.execute('create table if not exists raw.decisions (vote_id varchar, session varchar, document_id varchar, designation varchar, point varchar, title varchar, point_heading varchar, proposal_text varchar, winning_side varchar, decision_date varchar, source_url varchar, status_url varchar)')
+        db.execute('create table if not exists raw.decision_motions (vote_id varchar, motion_id varchar, motion_reference varchar, motion_title varchar, motion_author varchar, motion_url varchar)')
+        db.execute('create table if not exists raw.decision_speech_links (vote_id varchar, party varchar, speech_id varchar, cosine_similarity double, same_member boolean)')
         for table,frame in [('speeches',speeches),('chunks',chunks),('topics',topics),('words',words),('mentions',mentions),('similarities',similar)]:
             db.register('frame',frame)
             db.execute(f'create or replace table raw.{table} as select * from frame')

@@ -31,6 +31,10 @@ def main():
         'points':records("select chunk_id,speech_id,topic_id,round(x,3) as x,round(y,3) as y,party,speaker,session_year,session,substr(text,1,500) as text,source_url from int_segments order by hash(chunk_id) limit 12000"),
         'coverage':records('select session,count(*) as speeches,count(distinct protocol_id) as protocols,sum(word_count) as words from stg_speeches where eligible group by session order by session'),
         'budget':records('select session,actor,expenditure_area,expenditure_area_name,amount_msek,deviation_msek,budget_share_pct,source_url from gold_budget_frames order by session,actor,expenditure_area'),
+        'votes':records('select vote_id,session,designation,point,party,cast(vote_date as varchar) as vote_date,title,point_heading,party_position,yes_votes,no_votes,abstain_votes,absent_votes,cited_motion_count,source_url from gold_party_vote_decisions order by vote_date,designation,point,party'),
+        'voteDecisions':records('select vote_id,proposal_text,winning_side from stg_decisions order by vote_id'),
+        'voteMotions':records('select * from raw.decision_motions order by vote_id,motion_id'),
+        'voteSpeeches':records('select vote_id,party,speech_id,speaker,cast(speech_date as varchar) as speech_date,speech_url,speech_excerpt,cosine_similarity,same_member,speaker_vote from gold_decision_speech_links order by vote_id,party'),
     }
     # Original embedding-space centroid examples, not chosen by the two-dimensional map.
     chunks=db.execute('select chunk_id,topic_id,text,source_url,speaker,party from int_segments order by chunk_id').df()

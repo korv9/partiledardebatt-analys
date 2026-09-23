@@ -1,6 +1,6 @@
 # Partiledardebatt – analysunderlag
 
-Import av Riksdagens publicerade partiledardebatter till SQLite och CSV. Python 3.10+ räcker; inga API-nycklar eller externa paket behövs.
+Import av Riksdagens publicerade partiledardebatter till SQLite och CSV. Grundimporten kräver Python 3.10+ utan API-nyckel. Budget-, voterings- och analysstegen använder paketen i `requirements-analysis.txt`.
 
 För ämnesmodell, UMAP-karta, ordstatistik, omnämnanden och liknande tal finns nu ett separat **dbt + DuckDB-projekt**. Se [ANALYSIS.md](ANALYSIS.md) för installation, modeller och körning. Den genererade interaktiva rapporten ligger i `reports/analys.html`.
 
@@ -9,6 +9,8 @@ Webboptimerade filer för en portfolio genereras till `portfolio-data/`. Börja 
 ```powershell
 python ingest.py
 python budget_ingest.py --from-session 2014/15 --to-session 2025/26
+python vote_ingest.py --session 2024/25 --session 2025/26
+python run_analysis.py
 python analyze.py
 python analyze.py --search klimat
 python -m unittest -v
@@ -23,6 +25,8 @@ python -m unittest -v
 - `data/coverage.json`: körningens källor, kontrollsummor, radantal, tomma texter och fel.
 - `data/budgets.sqlite` och `data/budget_frames.csv`: regeringens och partiernas utgiftsramar.
 - `data/budget_coverage.json`: vilka FiU1-betänkanden som kunde läsas maskinellt.
+- `data/votes.sqlite`: ledamotsröster, voterade beslutspunkter och uttryckligen citerade motioner.
+- `data/vote_coverage.json`: importerade riksmöten, antal matchade beslut och luckor.
 - `data/raw/`: Riksdagens originalarkiv samt hämtad katalog.
 
 Data är lokala och ignoreras av Git. Databasen kan innehålla tidigare importerade riksmöten; rapportens `datasets` gäller endast aktuell körning och `database_totals` hela databasen. Vid fel avslutas programmet med felkod och behåller tidigare data för den berörda källan. Övriga källor importeras färdigt.
@@ -32,6 +36,10 @@ Data är lokala och ignoreras av Git. Databasen kan innehålla tidigare importer
 Primär källa: [Riksdagens anföranden och nedladdningsbara dataset](https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/anforanden/). Officiell täckning börjar 1993/94. Importen upptäcker alla publicerade JSON-arkiv i katalogen, inklusive den avvikande beteckningen 1999/2000. Dessa innehåller fulltext. List-API:et ger metadata och kan lämna textfältet tomt.
 
 Budgetimporten använder finansutskottets årliga FiU1-betänkande via Riksdagens dokument-API. Den läser jämförelsetabellen med regeringens ram och partiernas avvikelse för vart och ett av de 27 utgiftsområdena. `amount_msek` är regeringens belopp plus partiets redovisade avvikelse och anges i miljoner kronor. `GOV` betyder regeringens samlade budgetförslag, inte ett enskilt regeringsparti. Vissa år finns betänkandet endast som PDF eller utan en maskinläsbar jämförelsetabell; de redovisas som luckor i `budget_coverage.json` och fylls inte med uppskattningar.
+
+Voteringsimporten använder [Riksdagens dataset per ledamotsröst](https://data.riksdagen.se/dataset/katalog/dataset-votering.html), [dokument-API:et](https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/dokument/) och betänkandets dokumentstatus. Den sparar även `Ja`, `Nej`, `Avstår` och `Frånvarande`; partiets position i guldlagret är den vanligaste avgivna rösten bland dess ledamöter för en beslutspunkt. Ja och nej avser utskottets förslag i punkten och kan därför exempelvis betyda ja till avslag på en proposition. En röst gäller betänkandets punkt, inte varje motion som behandlas där. Endast motioner som uttryckligen nämns i punktens förslag får en direkt motionslänk. `vote_ingest.py` tar valfria `--session` och ersätter vid varje körning voteringslagret med de angivna riksmötena. I nuläget är 2024/25 och 2025/26 importerade; äldre riksmöten är inte ännu med i resultatet.
+
+`run_analysis.py` kopplar beslutspunkter till tidigare debattal från samma parti med semantisk textlikhet (minst 0,60 i cosinuslikhet). Om talarens person-ID också finns bland rösterna visas talarens egen registrerade röst; annars visas bara partiets röstfördelning. Detta är en sökhjälp, inte en automatisk bedömning av om ord och handling stämmer överens. Titta på talet, den exakta beslutspunkten, eventuella reservationer och varje ledamots röst innan du drar en sådan slutsats. Partiledaren kan sakna egen registrerad röst, och vissa beslut fattas utan namnupprop.
 
 Verifierade adresser:
 

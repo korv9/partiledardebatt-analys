@@ -20,3 +20,13 @@ sources:
       - name: mentions
       - name: similarities
       - name: budget_frames
+      - name: votes
+        columns:
+          - name: vote_id
+            data_tests: [not_null]
+      - name: decisions
+        columns:
+          - name: vote_id
+            data_tests: [unique, not_null]
+      - name: decision_motions
+      - name: decision_speech_links

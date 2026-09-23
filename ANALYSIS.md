@@ -4,8 +4,10 @@ Detta är ett körbart dbt-projekt med DuckDB. Python producerar språkmodellens
 
 ```text
 Riksdagens JSON → ingest.py → data/debates.sqlite
+Riksdagens voteringar + betänkanden → vote_ingest.py → data/votes.sqlite
   → scripts/features.py → analytics.duckdb / raw
   → dbt staging → intermediate → marts
+  → scripts/link_votes.py → tematiska länkar till tidigare tal
   → scripts/export_report.py → reports/analys.html
 ```
 
@@ -18,6 +20,7 @@ python -m venv .venv
 .\.venv\Scripts\python -m pip install -r requirements-analysis.txt
 # Hämta språkmodell en gång om den inte redan finns lokalt:
 .\.venv\Scripts\python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')"
+.\.venv\Scripts\python vote_ingest.py --session 2024/25 --session 2025/26
 .\.venv\Scripts\python run_analysis.py
 ```
 
@@ -28,6 +31,8 @@ Enskilda steg:
 ```powershell
 .\.venv\Scripts\python scripts/features.py
 .\.venv\Scripts\dbt build --profiles-dir .
+.\.venv\Scripts\python scripts/link_votes.py
+.\.venv\Scripts\dbt build --select gold_decision_speech_links --profiles-dir .
 .\.venv\Scripts\dbt docs generate --profiles-dir .
 .\.venv\Scripts\python scripts/export_report.py
 .\.venv\Scripts\python scripts/export_portfolio.py
@@ -37,11 +42,15 @@ Enskilda steg:
 
 Budgetdata hämtas separat med `python budget_ingest.py`. `stg_budget_frames` normaliserar belopp från FiU1 och `gold_budget_frames` ger belopp, avvikelse mot regeringen och budgetandel per aktör och utgiftsområde. Nyckeln är `session + actor + expenditure_area`, vilket gör att budgeten kan kopplas till debattens parti, riksmöte och ämnestaxonomi.
 
+Voteringsdata hämtas separat med `python vote_ingest.py --session ...`. `stg_votes` innehåller ledamotens registrerade röst och `stg_decisions` den voterade beslutspunkten. `gold_party_vote_decisions` grupperar röster per parti utan att dölja antal ja, nej, avstår eller frånvarande. `gold_decision_speech_links` hittar tidigare tal från samma parti och visar talarens egen röst när person-ID matchar. Textlikheten är endast en tematisk sökhjälp. En röst på ett utskottsförslag får inte automatiskt tolkas som stöd för en motion eller en proposition; se punktens exakta förslag och källtext.
+
 | Lager | Modell | Innehåll |
 |---|---|---|
 | raw | speeches, chunks, topics, words, mentions, similarities | Källmetadata och beräknade NLP-egenskaper |
 | staging | stg_speeches | Standardiserade namn, partier och datum |
 | intermediate | int_segments | Textsegment med ämne, koordinater, talare och källänk |
+| staging | stg_votes, stg_decisions | Ledamotsröster och utskottens beslutspunkter |
+| gold | gold_party_vote_decisions, gold_decision_speech_links | Partiernas röstfördelning och tematiskt liknande tidigare tal |
 | marts | mart_topics | Ämnesstorlek, antal tal och andel ord |
 | marts | mart_topic_trends | Ämnesandel per parti och riksmöte |
 | marts | mart_speaker_topics | Ämnesandel per person/parti |
@@ -88,6 +97,7 @@ Rapporten är fristående och innehåller diagramkoden lokalt. Originaltexter ö
 - `parties/<parti>/words.json`, `mentions.json` och `topics.json` gör att sidan kan ladda ett parti i taget.
 - `speakers/summary.json` och `similarity/top.json` innehåller talare respektive semantiskt liknande tal.
 - `budgets/summary.json` och `budgets/speech-alignment.json` ger budgetramar och en lexikal jämförelse med debatten. `sessions/<riksmöte>/budgets.json` kan laddas tillsammans med samma riksmötes UMAP-punkter.
+- `votes/summary.json` och `sessions/<riksmöte>/votes.json` ger källänkade partiröster per beslutspunkt. `decision-motions.json` skiljer uttryckligt citerade motioner från övriga behandlade motioner. `decision-speech-links.json` är enbart tematiska träffar till tidigare tal, med likhetspoäng och originalkällor.
 
 JSON är avsett för webbgränssnittet. Motsvarande CSV finns för de tabeller där nedladdning och manuell kontroll är användbart. Fulltext, embeddings, råarkiv och databasfiler publiceras inte i guldlagret.
 

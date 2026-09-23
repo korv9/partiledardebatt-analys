@@ -31,6 +31,10 @@ Alla JSON-filer innehåller `schema_version`, `generated_at` och `data`. UMAP ä
 Budgetramar finns i `budgets/summary.json` och per riksmöte i `sessions/<riksmöte>/budgets.json`. `GOV` är regeringens samlade förslag; övriga aktörer är partiernas budgetmotioner.
 
 Budgeten kan visas intill UMAP-kartan med samma filter för parti och riksmöte. Beloppen är inte koordinater i den semantiska kartan.
+
+`votes/summary.json` och `sessions/<riksmöte>/votes.json` visar registrerade röster per parti och beslutspunkt. `decision-motions.json` innehåller bara motioner som uttryckligen nämns i just den beslutspunkten. En röst gäller beslutspunkten, inte varje motion var för sig.
+
+`decision-speech-links.json` kopplar beslut till tidigare tal från samma parti via textlikhet. Länken säger inget om talarens ståndpunkt i sakfrågan.
 """
 
 
@@ -121,6 +125,7 @@ def main() -> None:
             "cluster_unclustered_share": cluster_metrics["unclustered_share"],
             "umap_note": "Deterministic sample of at most 400 segments per session",
             "budget_frame_rows": db.execute("select count(*) from gold_budget_frames").fetchone()[0],
+            "vote_sessions": db.execute("select count(distinct session) from gold_party_vote_decisions").fetchone()[0],
         }
         overview_path = OUTPUT / "overview.json"
         write_json(overview_path, overview, generated_at)
@@ -150,6 +155,17 @@ def main() -> None:
             db, manifest, "budgets/speech-alignment",
             "select * from gold_budget_speech_alignment order by session, party, expenditure_area",
             generated_at, "Jämförelse mellan budgetandel och debattens språkliga uppmärksamhet",
+        )
+        export_pair(
+            db, manifest, "votes/summary",
+            "select session,party,count(*) as decision_points,"
+            "sum(case when party_position='Ja' then 1 else 0 end) as party_yes,"
+            "sum(case when party_position='Nej' then 1 else 0 end) as party_no,"
+            "sum(case when party_position='Avstår' then 1 else 0 end) as party_abstain,"
+            "sum(yes_votes) as member_yes,sum(no_votes) as member_no,"
+            "sum(abstain_votes) as member_abstain,sum(absent_votes) as member_absent "
+            "from gold_party_vote_decisions group by session,party order by session,party",
+            generated_at, "Röstsammanfattning per parti och riksmöte",
         )
 
         sessions = [row[0] for row in db.execute(
@@ -189,6 +205,37 @@ def main() -> None:
                 write_json(alignment_path, alignment_rows, generated_at)
                 add_file(manifest, alignment_path, len(alignment_rows),
                          f"Budget–debatt-jämförelse för riksmöte {session}")
+            vote_rows = records(
+                db,
+                "select vote_id,session,designation,point,party,vote_date,title,point_heading,"
+                "winning_side,cited_motion_count,yes_votes,no_votes,abstain_votes,absent_votes,"
+                "party_position,source_url from gold_party_vote_decisions "
+                "where session=? order by vote_date,designation,point,party",
+                [session],
+            )
+            if vote_rows:
+                vote_path = OUTPUT / f"sessions/{part}/votes.json"
+                write_json(vote_path, vote_rows, generated_at)
+                add_file(manifest, vote_path, len(vote_rows), f"Partiröster per beslutspunkt {session}")
+                motion_rows = records(
+                    db,
+                    "select m.* from raw.decision_motions m join stg_decisions d "
+                    "on upper(m.vote_id)=d.vote_id where d.session=? order by m.vote_id,m.motion_id",
+                    [session],
+                )
+                motion_path = OUTPUT / f"sessions/{part}/decision-motions.json"
+                write_json(motion_path, motion_rows, generated_at)
+                add_file(manifest, motion_path, len(motion_rows),
+                         f"Uttryckligen citerade motioner i voterade beslutspunkter {session}")
+                speech_link_rows = records(
+                    db,
+                    "select * from gold_decision_speech_links where session=? "
+                    "order by vote_date, vote_id, party", [session],
+                )
+                speech_link_path = OUTPUT / f"sessions/{part}/decision-speech-links.json"
+                write_json(speech_link_path, speech_link_rows, generated_at)
+                add_file(manifest, speech_link_path, len(speech_link_rows),
+                         f"Tematiska länkar mellan beslut och tidigare tal {session}")
 
         parties = [row[0] for row in db.execute(
             "select distinct party from gold_speakers order by party"

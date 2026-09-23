@@ -62,3 +62,22 @@ models:
     description: "Lexikal uppmärksamhet i partiledardebatter jämförd med föreslagen budgetandel. Nyckelorden är en transparent proxy, inte ett mått på politiskt stöd."
   - name: gold_budget_speech_alignment
     description: "Webbklart jämförelseunderlag mellan partiernas budgetmotioner och vad de talar om."
+  - name: stg_votes
+    description: "Varje registrerad ledamotsröst, inklusive avstående och frånvaro. Parti kodas om historiskt; originalet sparas."
+  - name: stg_decisions
+    description: "Voterade punkter i utskottsbetänkanden med källänkad rubrik, text och utfall."
+    columns:
+      - name: vote_id
+        data_tests: [unique, not_null]
+  - name: gold_party_vote_decisions
+    description: "Röster per parti och beslutspunkt. Partiposition är registrerad majoritet inom partiet, inte partiledarens personliga röst eller automatisk inställning till varje motion."
+    columns:
+      - name: vote_id
+        data_tests: [not_null]
+      - name: source_url
+        data_tests: [not_null]
+  - name: gold_decision_speech_links
+    description: "Ett föregående tal från samma parti med hög textlikhet till beslutets titel och punkt. Talarens egen registrerade röst anges när person-ID matchar. Textlikheten mäter enbart tematisk närhet, aldrig stöd eller motsägelse."
+    columns:
+      - name: vote_id
+        data_tests: [not_null]
