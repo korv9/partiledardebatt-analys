@@ -5,6 +5,7 @@ import csv
 import json
 import re
 import shutil
+import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -40,6 +41,10 @@ Budgeten kan visas intill UMAP-kartan med samma filter för parti och riksmöte.
 `decisions/`, `activities/` och `budgets/outturn-areas.json` innehåller nya spårbara lager. Öppna `sessions/<riksmöte>/decisions/index.json` först och ladda sedan filer per utskott. En `citation` är en uttrycklig dokument- eller numrerad yrkandehänvisning i utskottets förslag; en reservation är registrerad för en beslutspunkt. Inget av detta är en automatisk bedömning av ett partis stöd. Budgetutfall är verkliga utgifter, inte ett effektmått.
 
 `laws/index.json` och `laws/<SFS-ID>/provisions.json` innehåller full bestämmelsetext från versionsmärkta SFS-snapshots som verifierats mot Allegorias källhashar. `laws/mentions.json` är enbart lexikala träffar på lagnamn i tal; ingen paragraf eller giltig lydelse vid taldatum har verifierats och inga direction-poäng beräknas.
+
+`debates/index.json` listar de importerade protokollen. Varje posts `path` pekar på en liten JSON-fil med samtliga anföranden och repliker i källans ordning, inklusive fulltext, `speech_id`, parti, talare, `is_reply` och länk till Riksdagen. Läs indexet först och hämta bara det protokoll användaren öppnar. `is_reply` anger källans replikkod, inte vem repliken riktas till. Alla importerade tal finns med även om de är för korta för NLP-analysen. `data/speeches.csv` är motsvarande lokal CSV men ingår inte i den statiska webbexporten.
+
+`issues/index.json` listar riksmöten med sakdebatter. Följ respektive `index_path` för att hitta en debattsektion och hämta sedan dess `path` (ett helt protokoll). Avgränsningen bygger på Riksdagens metadata för ärende-, särskilda, aktuella, budget- och utrikespolitiska debatter; frågestunder och interpellationer ingår inte. Fulltexten har inte körts genom partiledardebattens NLP-modell. Källa: Sveriges riksdag. Denna tjänst är fristående från Riksdagen.
 """
 
 
@@ -105,9 +110,96 @@ def export_pair(db, manifest, stem, query, generated_at, description, params=Non
     return rows
 
 
+def export_issue_debates(manifest: list[dict], generated_at: str) -> None:
+    issue_database = ROOT / "data" / "issue_speeches.sqlite"
+    with sqlite3.connect(issue_database) as db:
+        db.row_factory = sqlite3.Row
+        sessions = list(db.execute(
+            "select dok_rm as session,count(*) as speech_count,"
+            "count(distinct dok_id) as protocol_count,"
+            "sum(case when replik='Y' then 1 else 0 end) as reply_count "
+            "from issue_speeches group by dok_rm order by dok_rm"
+        ))
+        session_index = []
+        for session_row in sessions:
+            session = session_row["session"]
+            session_part = safe_part(session)
+            protocols = list(db.execute(
+                "select dok_id as protocol_id,min(substr(dok_datum,1,10)) as debate_date,"
+                "count(*) as speech_count from issue_speeches where dok_rm=? "
+                "group by dok_id order by debate_date,dok_id", (session,)
+            ))
+            debate_index = []
+            for protocol in protocols:
+                protocol_id = protocol["protocol_id"]
+                path = f"issues/{session_part}/{safe_part(protocol_id)}.json"
+                source_rows = db.execute(
+                    "select dok_id,dok_rm,dok_datum,avsnittsrubrik,kammaraktivitet,"
+                    "anforande_nummer,talare,parti,anforandetext,intressent_id,replik,"
+                    "debate_kind,source_url from issue_speeches where dok_id=? "
+                    "order by cast(anforande_nummer as integer),anforande_nummer",
+                    (protocol_id,),
+                )
+                speeches = []
+                sections = []
+                for source in source_rows:
+                    row = {
+                        "speech_id": f"{protocol_id}-{source['anforande_nummer']}",
+                        "protocol_id": protocol_id,
+                        "session": session,
+                        "speech_date": source["dok_datum"][:10],
+                        "speech_number": int(source["anforande_nummer"]),
+                        "debate_title": source["avsnittsrubrik"],
+                        "debate_kind": source["debate_kind"],
+                        "speaker": source["talare"],
+                        "party": source["parti"],
+                        "person_id": source["intressent_id"],
+                        "is_reply": source["replik"] == "Y",
+                        "original_reply_code": source["replik"],
+                        "speech_text": source["anforandetext"],
+                        "source_url": source["source_url"],
+                    }
+                    speeches.append(row)
+                    heading = (row["debate_title"], row["debate_kind"])
+                    if not sections or heading != (sections[-1]["debate_title"], sections[-1]["debate_kind"]):
+                        sections.append({
+                            "section_id": row["speech_id"],
+                            "debate_title": row["debate_title"],
+                            "debate_kind": row["debate_kind"],
+                            "first_speech_number": row["speech_number"],
+                            "last_speech_number": row["speech_number"],
+                            "speech_count": 0,
+                            "reply_count": 0,
+                            "path": path,
+                        })
+                    sections[-1]["last_speech_number"] = row["speech_number"]
+                    sections[-1]["speech_count"] += 1
+                    sections[-1]["reply_count"] += row["is_reply"]
+                transcript_path = OUTPUT / path
+                write_json(transcript_path, speeches, generated_at)
+                add_file(manifest, transcript_path, len(speeches), f"Fulltext i sakdebattprotokoll {protocol_id}")
+                debate_index.extend(sections)
+            index_path = OUTPUT / f"issues/{session_part}/index.json"
+            write_json(index_path, debate_index, generated_at)
+            add_file(manifest, index_path, len(debate_index), f"Sakdebattsektioner {session}")
+            session_index.append({
+                "session": session,
+                "speech_count": session_row["speech_count"],
+                "reply_count": session_row["reply_count"],
+                "protocol_count": session_row["protocol_count"],
+                "section_count": len(debate_index),
+                "index_path": index_path.relative_to(OUTPUT).as_posix(),
+            })
+        index_path = OUTPUT / "issues/index.json"
+        write_json(index_path, session_index, generated_at)
+        add_file(manifest, index_path, len(session_index), "Riksmöten med sakdebatter")
+
+
 def main() -> None:
     if not DATABASE.exists():
         raise SystemExit("Kör först features.py och dbt build; analytics.duckdb saknas.")
+    if not (ROOT / "data" / "issue_speeches.sqlite").exists():
+        raise SystemExit("Kör först python issue_ingest.py; sakdebattdatabasen saknas.")
     if OUTPUT.exists():
         # The directory is generated in full; remove only this explicit project path.
         shutil.rmtree(OUTPUT)
@@ -116,10 +208,20 @@ def main() -> None:
     generated_at = datetime.now(timezone.utc).isoformat()
     cluster_metrics = json.loads((ROOT / "data" / "features" / "metrics.json").read_text(encoding="utf-8"))
     manifest: list[dict] = []
+    with sqlite3.connect(ROOT / "data" / "issue_speeches.sqlite") as issue_db:
+        issue_speeches, issue_protocols, issue_replies = issue_db.execute(
+            "select count(*),count(distinct dok_id),"
+            "sum(case when replik='Y' then 1 else 0 end) from issue_speeches"
+        ).fetchone()
 
     with duckdb.connect(str(DATABASE), read_only=True) as db:
         overview = {
             "imported_speeches": db.execute("select count(*) from raw.speeches").fetchone()[0],
+            "imported_replies": db.execute("select count(*) from gold_debate_speeches where is_reply").fetchone()[0],
+            "debate_protocols": db.execute("select count(distinct protocol_id) from gold_debate_speeches").fetchone()[0],
+            "issue_speeches": issue_speeches,
+            "issue_protocols": issue_protocols,
+            "issue_replies": issue_replies,
             "analyzed_speeches": db.execute("select count(*) from stg_speeches where eligible").fetchone()[0],
             "analyzed_segments": db.execute("select count(*) from int_segments").fetchone()[0],
             "sessions": db.execute("select count(distinct session) from stg_speeches where eligible").fetchone()[0],
@@ -139,6 +241,32 @@ def main() -> None:
         overview_path = OUTPUT / "overview.json"
         write_json(overview_path, overview, generated_at)
         add_file(manifest, overview_path, 1, "Översikt och metodmetadata")
+
+        debate_index = records(
+            db,
+            "select protocol_id, session, min(speech_date) as debate_date, "
+            "min(debate_title) as debate_title, count(*) as speech_count, "
+            "count(*) filter (where is_reply) as reply_count "
+            "from gold_debate_speeches group by protocol_id,session "
+            "order by debate_date,protocol_id",
+        )
+        for debate in debate_index:
+            protocol_id = debate["protocol_id"]
+            path = f"debates/{safe_part(debate['session'])}/{safe_part(protocol_id)}.json"
+            debate["path"] = path
+            speeches = records(
+                db,
+                "select * from gold_debate_speeches where protocol_id=? "
+                "order by speech_number,speech_id",
+                [protocol_id],
+            )
+            debate_path = OUTPUT / path
+            write_json(debate_path, speeches, generated_at)
+            add_file(manifest, debate_path, len(speeches), f"Fulltext och repliker i protokoll {protocol_id}")
+        index_path = OUTPUT / "debates/index.json"
+        write_json(index_path, debate_index, generated_at)
+        add_file(manifest, index_path, len(debate_index), "Index över debattprotokoll och fulltextfiler")
+        export_issue_debates(manifest, generated_at)
 
         export_pair(
             db, manifest, "topics/summary",

@@ -6,8 +6,15 @@ För ämnesmodell, UMAP-karta, ordstatistik, omnämnanden och liknande tal finns
 
 Webboptimerade filer för en portfolio genereras till `portfolio-data/`. Börja med `portfolio-data/manifest.json`.
 
+För en klickbar debattvy: läs `portfolio-data/debates/index.json` och hämta sedan filen i postens `path`, till exempel `debates/2025-26/hd09136.json`. Den innehåller **alla** importerade anföranden och repliker i protokollordning med hela taltexten, talare, parti och källänk. `is_reply` är Riksdagens replikkod; den anger inte säkert vilken tidigare talare som besvaras. Webbexporten omfattar även korta tal som inte ingick i ämnesanalysen.
+
+Sakdebatter importeras separat med `python issue_ingest.py` från samma lokala Riksdagsarkiv. `portfolio-data/issues/index.json` listar riksmöten; varje `index_path` listar ämnessektioner och ett `path` till hela protokollets tal och repliker. Urvalet omfattar källans kategorier *ärendedebatt*, *föredragning av utskottsärende med eventuell debatt*, *särskild debatt*, *aktuell debatt*, *budgetdebatt* och *utrikespolitisk debatt*, plus rubriker som börjar med *Särskild debatt* eller *Aktuell debatt*. Frågestunder och interpellationsdebatter ingår inte. Äldre riksmöten saknar ofta enhetlig kategorisering, så detta är inte ett fullständigt register över alla tänkbara sakdebatter. Sakdebatterna ingår inte i partiledardebattens ämnesmodell eller UMAP.
+
+För ett annat repo kan du läsa `portfolio-data/issues/index.json` eller `portfolio-data/debates/index.json` från de publicerade GitHub-filerna. Ladda bara den valda protokollfilen när användaren klickar. Källa: Sveriges riksdag. Portfoliosidan bör tydligt ange att tjänsten är fristående från Riksdagen och återge källänkarna på varje tal.
+
 ```powershell
 python ingest.py
+python issue_ingest.py
 python budget_ingest.py --from-session 2014/15 --to-session 2025/26
 python vote_ingest.py --session 2024/25 --session 2025/26
 python policy_ingest.py --session 2024/25 --session 2025/26
@@ -25,6 +32,7 @@ python -m unittest -v
 
 - `data/debates.sqlite`: tabellen `speeches`, en rad per anförande/replik.
 - `data/speeches.csv`: samma data i UTF-8 med BOM, lämplig för analysverktyg.
+- `data/issue_speeches.sqlite` och `data/issue_coverage.json`: separat lokal sakdebattimport, vars fulltext exporteras som uppdelad JSON under `portfolio-data/issues/`.
 - `data/coverage.json`: körningens källor, kontrollsummor, radantal, tomma texter och fel.
 - `data/budgets.sqlite` och `data/budget_frames.csv`: regeringens och partiernas utgiftsramar.
 - `data/budget_coverage.json`: vilka FiU1-betänkanden som kunde läsas maskinellt.

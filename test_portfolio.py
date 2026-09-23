@@ -1,5 +1,6 @@
 import csv
 import json
+import sqlite3
 import unittest
 from pathlib import Path
 
@@ -34,6 +35,50 @@ class PortfolioExportTests(unittest.TestCase):
         ]
         self.assertEqual(len(umap_files), 33)
         self.assertTrue(all(0 < item["rows"] <= 400 for item in umap_files))
+
+    def test_full_debate_export_covers_every_imported_speech(self):
+        index = json.loads((PORTFOLIO / "debates/index.json").read_text(encoding="utf-8"))["data"]
+        with sqlite3.connect(ROOT / "data/debates.sqlite") as db:
+            expected = dict(db.execute(
+                "select dok_id || '-' || anforande_nummer, anforandetext from speeches"
+            ))
+        seen = set()
+        for debate in index:
+            rows = json.loads((PORTFOLIO / debate["path"]).read_text(encoding="utf-8"))["data"]
+            self.assertEqual(len(rows), debate["speech_count"])
+            self.assertEqual(sum(bool(row["is_reply"]) for row in rows), debate["reply_count"])
+            self.assertEqual(
+                [row["speech_number"] for row in rows],
+                sorted(row["speech_number"] for row in rows),
+            )
+            for row in rows:
+                speech_id = row["speech_id"]
+                self.assertNotIn(speech_id, seen)
+                seen.add(speech_id)
+                self.assertEqual(row["speech_text"], expected[speech_id])
+        self.assertEqual(seen, set(expected))
+
+    def test_issue_export_covers_every_imported_speech(self):
+        index = json.loads((PORTFOLIO / "issues/index.json").read_text(encoding="utf-8"))["data"]
+        seen = set()
+        with sqlite3.connect(ROOT / "data/issue_speeches.sqlite") as db:
+            expected_count = db.execute("select count(*) from issue_speeches").fetchone()[0]
+            for session in index:
+                sections = json.loads((PORTFOLIO / session["index_path"]).read_text(encoding="utf-8"))["data"]
+                self.assertEqual(len(sections), session["section_count"])
+                for path in sorted({section["path"] for section in sections}):
+                    rows = json.loads((PORTFOLIO / path).read_text(encoding="utf-8"))["data"]
+                    protocol_id = rows[0]["protocol_id"]
+                    source = dict(db.execute(
+                        "select dok_id || '-' || anforande_nummer, anforandetext "
+                        "from issue_speeches where dok_id=?", (protocol_id,)
+                    ))
+                    self.assertEqual(len(rows), len(source))
+                    for row in rows:
+                        self.assertNotIn(row["speech_id"], seen)
+                        seen.add(row["speech_id"])
+                        self.assertEqual(row["speech_text"], source[row["speech_id"]])
+        self.assertEqual(len(seen), expected_count)
 
 
 if __name__ == "__main__":

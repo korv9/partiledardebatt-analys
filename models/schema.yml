@@ -37,6 +37,15 @@ models:
     description: "De 200 största omnämnandekopplingarna per talarparti."
   - name: gold_speakers
     description: "Talare med textmängd och datumintervall."
+  - name: gold_debate_speeches
+    description: "Alla importerade anföranden och repliker med fulltext, källänk och ordningsnummer för klickbara debattprotokoll. Även tal som inte ingår i NLP-analysen behålls."
+    columns:
+      - name: speech_id
+        data_tests: [unique, not_null]
+      - name: speech_number
+        data_tests: [not_null]
+      - name: speech_text
+        data_tests: [not_null]
   - name: gold_similar_speeches
     description: "De 500 mest lika talen över partigränser med korta utdrag."
   - name: gold_umap_points
