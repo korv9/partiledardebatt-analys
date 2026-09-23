@@ -20,3 +20,5 @@ Budgeten kan visas intill UMAP-kartan med samma filter för parti och riksmöte.
 `votes/summary.json` och `sessions/<riksmöte>/votes.json` visar registrerade röster per parti och beslutspunkt. `decision-motions.json` innehåller bara motioner som uttryckligen nämns i just den beslutspunkten. En röst gäller beslutspunkten, inte varje motion var för sig.
 
 `decision-speech-links.json` kopplar beslut till tidigare tal från samma parti via textlikhet. Länken säger inget om talarens ståndpunkt i sakfrågan.
+
+`decisions/`, `activities/` och `budgets/outturn-areas.json` innehåller nya spårbara lager. Öppna `sessions/<riksmöte>/decisions/index.json` först och ladda sedan filer per utskott. En `citation` är en uttrycklig dokument- eller numrerad yrkandehänvisning i utskottets förslag; en reservation är registrerad för en beslutspunkt. Inget av detta är en automatisk bedömning av ett partis stöd. Budgetutfall är verkliga utgifter, inte ett effektmått.

@@ -10,6 +10,8 @@ Webboptimerade filer för en portfolio genereras till `portfolio-data/`. Börja 
 python ingest.py
 python budget_ingest.py --from-session 2014/15 --to-session 2025/26
 python vote_ingest.py --session 2024/25 --session 2025/26
+python policy_ingest.py --session 2024/25 --session 2025/26
+python outturn_ingest.py
 python run_analysis.py
 python analyze.py
 python analyze.py --search klimat
@@ -27,6 +29,8 @@ python -m unittest -v
 - `data/budget_coverage.json`: vilka FiU1-betänkanden som kunde läsas maskinellt.
 - `data/votes.sqlite`: ledamotsröster, voterade beslutspunkter och uttryckligen citerade motioner.
 - `data/vote_coverage.json`: importerade riksmöten, antal matchade beslut och luckor.
+- `data/policy.sqlite` och `data/policy_coverage.json`: beslutspunkter, uttryckliga dokument-/yrkandehänvisningar, reservationer och parlamentarisk aktivitet.
+- `data/outturn.sqlite` och `data/outturn_coverage.json`: Statskontorets årsutfall per anslag, 1997–2025.
 - `data/raw/`: Riksdagens originalarkiv samt hämtad katalog.
 
 Data är lokala och ignoreras av Git. Databasen kan innehålla tidigare importerade riksmöten; rapportens `datasets` gäller endast aktuell körning och `database_totals` hela databasen. Vid fel avslutas programmet med felkod och behåller tidigare data för den berörda källan. Övriga källor importeras färdigt.
@@ -40,6 +44,10 @@ Budgetimporten använder finansutskottets årliga FiU1-betänkande via Riksdagen
 Voteringsimporten använder [Riksdagens dataset per ledamotsröst](https://data.riksdagen.se/dataset/katalog/dataset-votering.html), [dokument-API:et](https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/dokument/) och betänkandets dokumentstatus. Den sparar även `Ja`, `Nej`, `Avstår` och `Frånvarande`; partiets position i guldlagret är den vanligaste avgivna rösten bland dess ledamöter för en beslutspunkt. Ja och nej avser utskottets förslag i punkten och kan därför exempelvis betyda ja till avslag på en proposition. En röst gäller betänkandets punkt, inte varje motion som behandlas där. Endast motioner som uttryckligen nämns i punktens förslag får en direkt motionslänk. `vote_ingest.py` tar valfria `--session` och ersätter vid varje körning voteringslagret med de angivna riksmötena. I nuläget är 2024/25 och 2025/26 importerade; äldre riksmöten är inte ännu med i resultatet.
 
 `run_analysis.py` kopplar beslutspunkter till tidigare debattal från samma parti med semantisk textlikhet (minst 0,60 i cosinuslikhet). Om talarens person-ID också finns bland rösterna visas talarens egen registrerade röst; annars visas bara partiets röstfördelning. Detta är en sökhjälp, inte en automatisk bedömning av om ord och handling stämmer överens. Titta på talet, den exakta beslutspunkten, eventuella reservationer och varje ledamots röst innan du drar en sådan slutsats. Partiledaren kan sakna egen registrerad röst, och vissa beslut fattas utan namnupprop.
+
+`policy_ingest.py` läser de betänkanden som `vote_ingest.py` har cachelagrat och kompletterar med Riksdagens öppna dokumentlistor för skriftliga frågor (`fr`), interpellationer (`ip`) och propositioner (`prop`). Beslutspunkter utan namnupprop tas med **inom dessa betänkanden**; detta är ännu inte alla riksdagsbeslut. En `point_id` är betänkandets dokument-ID plus punktnummer. `decision_citations` innehåller bara motioner och propositioner som uttryckligen står i punktens förslag, med numrerat yrkande när numret framgår. Själva yrkandetexten är inte importerad; originaldokumentet länkas. Reservationerna har partier och nummer från dokumentstatus, men inte full reservationstext. En uttrycklig hänvisning betyder att förslaget behandlas, inte att utskottet eller ett visst parti stöder det.
+
+`outturn_ingest.py` läser [Statskontorets definitiva årsutfall för utgifter](https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/) från det officiella CSV-arkivet. Snapshoten innehåller 1997–2025 och beloppen är miljoner kronor. `gold_budget_execution` jämför FiU1-förslag med beslutad budget, ändringsbudgetar och faktiskt utfall per utgiftsområde. Skillnaden är deskriptiv; den mäter inte effekten av en åtgärd eller ansvaret för en enskild politiker. Använd `--archive` för en lokalt nedladdad ZIP eller `--refresh` när den angivna officiella arkivversionen uppdateras.
 
 Verifierade adresser:
 

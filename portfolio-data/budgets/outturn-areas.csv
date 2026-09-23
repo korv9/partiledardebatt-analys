@@ -1,0 +1,784 @@
+﻿budget_year,expenditure_area,expenditure_area_name,appropriation_rows,approved_budget_msek,amendments_msek,outturn_msek,source_url
+1997,1,Rikets styrelse,25,7169.535,-18.0,7343.0031249600015,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,2,Samhällsekonomi och finansförvaltning,36,11915.240999999998,500.0,10665.461764439997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,3,"Skatt, tull och exekution",4,7012.843000000001,0.0,7005.76406309,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,4,Rättsväsendet,16,19524.275,18.0,19886.236177910003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,5,Internationell samverkan,29,1089.8189999999997,2.0,821.77619771,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,6,Försvar och samhällets krisberedskap,41,42663.441,150.0,41282.85937388,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,7,Internationellt bistånd,11,11002.2,0.0,12139.27133703,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,8,Migration,13,2060.801,-40.0,2095.54817832,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,9,"Hälsovård, sjukvård och social omsorg",43,23713.940000000006,294.31999999999994,24210.104796040003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,6,35893.28200000001,0.0,35650.244718140006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,11,Ekonomisk trygghet vid ålderdom,3,63975.0,0.0,63134.11752493,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,12,Ekonomisk trygghet för familjer och barn,7,41071.049999999996,613.55,38797.31771197,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,13,Integration och jämställdhet,10,7848.4800000000005,48.793,7129.60625987,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,14,Arbetsmarknad och arbetsliv,26,73895.85200000001,4921.448,77129.30701948,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,15,Studiestöd,9,17160.815,405.285,16280.724952630002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,16,Utbildning och universitetsforskning,133,25096.778999999995,342.95,24840.759554439996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,17,"Kultur, medier, trossamfund och fritid",82,7161.506,49.537000000000006,7179.320793059997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",17,25634.819999999996,-22.0,22869.39910081,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,19,Regional utveckling,13,3718.09,-6.5,2933.4103992299997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,20,"Klimat, miljö och natur",29,1467.257,34.855000000000004,1684.7842403299996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,21,Energi,16,510.671,114.0,627.3382217299999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,22,Kommunikationer,46,24652.323,204.5,24033.379506270005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,23,"Areella näringar, landsbygd och livsmedel",59,13313.582999999999,284.22400000000005,10855.28111615,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,24,Näringsliv,47,2852.84,136.5,3078.6962166999992,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,25,Allmänna bidrag till kommuner,5,83612.0,4000.5,87330.474686,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,26,Statsskuldsräntor m.m.,2,104155.0,0.0,98366.88216862999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1997,27,Avgiften till Europeiska unionen,4,20525.0,-472.0,20180.825266,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,1,Rikets styrelse,25,7393.04,11.497000000000002,7832.0992666,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,2,Samhällsekonomi och finansförvaltning,35,10166.606,-21.4,10039.270249090001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,3,"Skatt, tull och exekution",4,6945.905000000001,24.148,7166.8088831000005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,4,Rättsväsendet,16,19748.301000000007,86.43,20106.79121016,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,5,Internationell samverkan,27,1053.681,-0.5,830.5122756899999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,6,Försvar och samhällets krisberedskap,36,41554.592000000004,99.80000000000004,42708.11854176,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,7,Internationellt bistånd,8,11434.4,0.0,11478.58285196,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,8,Migration,11,1748.234,92.0,1840.6443055400005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,9,"Hälsovård, sjukvård och social omsorg",41,22491.769999999997,254.3,23115.093453280006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,6,37254.176,0.0,39744.865426120006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,11,Ekonomisk trygghet vid ålderdom,3,62701.0,0.0,62683.99343584,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,12,Ekonomisk trygghet för familjer och barn,7,41733.161,0.0,41658.839342900006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,13,Integration och jämställdhet,12,8617.627999999999,374.0,8543.447256129999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,14,Arbetsmarknad och arbetsliv,22,75663.902,-4418.876,70747.59866464001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,15,Studiestöd,9,21587.679,22.400000000000006,22258.10894787,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,16,Utbildning och universitetsforskning,110,26813.199000000008,113.13,27414.742304749998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,17,"Kultur, medier, trossamfund och fritid",76,7338.399000000001,0.0,7345.20584801,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",17,15156.803,373.4,14838.77047626,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,19,Regional utveckling,12,3596.91,0.0,3428.4320614300004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,20,"Klimat, miljö och natur",28,1347.3339999999998,61.75,1535.8477606700003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,21,Energi,18,1620.002,428.15,905.4368598700001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,22,Kommunikationer,41,23625.047,-2.2000000000000055,26856.82520377,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,23,"Areella näringar, landsbygd och livsmedel",55,13714.817000000001,6.3999999999999995,11825.899301139998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,24,Näringsliv,40,2689.9939999999997,19.85,2788.6134791799996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,25,Allmänna bidrag till kommuner,4,93048.7,4250.0,96784.23599270999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,26,Statsskuldsräntor m.m.,3,109125.0,0.0,113405.22632539002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1998,27,Avgiften till Europeiska unionen,4,19645.0,0.0,21209.95027833,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,1,Rikets styrelse,25,7698.164000000001,4.157000000000001,8269.342782150003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,2,Samhällsekonomi och finansförvaltning,34,9848.332999999997,1.308,9084.9663441,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,3,"Skatt, tull och exekution",4,7120.844999999999,0.0,7299.08016992,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,4,Rättsväsendet,15,20607.024999999998,19.808,20913.05162453,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,5,Internationell samverkan,28,1131.217,0.0,967.6217439499998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,6,Försvar och samhällets krisberedskap,34,44485.32100000001,58.456,44648.35872087,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,7,Internationellt bistånd,6,11899.604,0.0,12418.49290858,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,8,Migration,10,1785.323,255.1,1969.4177383499998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,9,"Hälsovård, sjukvård och social omsorg",39,24004.602,242.0,24510.874258560005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,10,80503.205,7473.59,88477.09433308999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,11,Ekonomisk trygghet vid ålderdom,5,34315.009,121.0,34450.29223174,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,12,Ekonomisk trygghet för familjer och barn,8,45760.645,461.0,46241.983214609994,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,13,Integration och jämställdhet,13,8687.075,0.0,8927.819160670002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,14,Arbetsmarknad och arbetsliv,20,67776.61100000002,-158.0,70182.82365799001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,15,Studiestöd,9,22760.641000000003,-30.805999999999997,20017.33145372,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,16,Utbildning och universitetsforskning,111,28733.90399999999,45.806,28823.973196739997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,17,"Kultur, medier, trossamfund och fritid",66,7455.579000000001,0.5029999999999998,7557.59712921,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",20,12839.43,40.692,10278.31211535,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,19,Regional utveckling,15,2734.857,26.266,3711.4737266099996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,20,"Klimat, miljö och natur",29,1617.783,21.15,1735.45355394,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,21,Energi,17,1718.906,0.0,1141.61632315,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,22,Kommunikationer,37,24999.347,-0.7199999999999989,25085.246887479996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,23,"Areella näringar, landsbygd och livsmedel",54,11962.707,12.0,11914.38640394,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,24,Näringsliv,41,2901.282,11.850000000000001,3284.13341567,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,25,Allmänna bidrag till kommuner,5,103564.7,-40.0,102542.45954482001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,26,Statsskuldsräntor m.m.,3,84560.0,0.0,89884.70945656,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+1999,27,Avgiften till Europeiska unionen,3,21908.0,0.0,20883.95691418,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,1,Rikets styrelse,25,8179.083,79.67000000000002,8535.321127610001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,2,Samhällsekonomi och finansförvaltning,33,9336.145000000002,-116.7,8912.830837769996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,3,"Skatt, tull och exekution",4,7263.357,0.0,7566.8252605,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,4,Rättsväsendet,15,21322.762999999995,77.08200000000001,21917.136966949998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,5,Internationell samverkan,27,1092.3349999999998,0.0,1092.5035449900001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,6,Försvar och samhällets krisberedskap,34,47022.67999999999,15.890000000000015,46542.53865931,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,7,Internationellt bistånd,6,13236.909,0.0,15317.4747791,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,8,Migration,8,2164.563,0.0,2223.3789864200003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,9,"Hälsovård, sjukvård och social omsorg",39,25354.492999999995,2125.03,28564.966363400006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,92470.46899999998,3800.0,97936.78719252,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,11,Ekonomisk trygghet vid ålderdom,4,33618.8,0.0,33537.532529159995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,12,Ekonomisk trygghet för familjer och barn,8,50425.5,-957.5,48968.98655292,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,13,Integration och jämställdhet,13,8278.94,0.08,8244.06703573,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,14,Arbetsmarknad och arbetsliv,21,63402.405999999995,3197.0,60886.27418287,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,15,Studiestöd,8,21324.697,-519.805,20048.75604351,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,16,Utbildning och universitetsforskning,110,32246.963000000003,-80.01300000000009,31013.09854436001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,17,"Kultur, medier, trossamfund och fritid",58,7570.485999999999,26.5,7588.617362609999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",22,8088.522,7.522,5641.382831470003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,19,Regional utveckling,17,3302.365,-225.0,2998.15959883,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,20,"Klimat, miljö och natur",26,1829.1850000000004,0.0,1822.4356061100002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,21,Energi,19,1483.192,434.87,1767.80674794,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,22,Kommunikationer,33,25036.377,531.542,24858.89181984,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,23,"Areella näringar, landsbygd och livsmedel",49,9715.023000000001,6.609999999999999,9727.242038530001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,24,Näringsliv,42,2978.2819999999997,18.401,3809.9740954199992,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,25,Allmänna bidrag till kommuner,4,97666.7,619.233,97534.54400837,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,26,Statsskuldsräntor m.m.,3,81810.0,0.0,90213.31361424,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2000,27,Avgiften till Europeiska unionen,1,23083.0,0.0,22295.01241773,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,1,Rikets styrelse,22,9030.068,72.756,9166.40918305,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,2,Samhällsekonomi och finansförvaltning,31,8809.813,785.7560000000001,9581.995875550001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,3,"Skatt, tull och exekution",4,7568.616999999999,9.325999999999999,7823.924184150001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,4,Rättsväsendet,14,22608.655,770.2099999999999,22753.72909515,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,5,Internationell samverkan,17,1092.317,71.813,1160.4681471200001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,6,Försvar och samhällets krisberedskap,29,46915.852,1.2680000000000071,45280.91648346,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,7,Internationellt bistånd,5,14966.011,-202.606,16989.3136064,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,8,Migration,7,1962.639,821.299,2725.5782191300004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,9,"Hälsovård, sjukvård och social omsorg",38,29358.378,464.585,29477.877863799993,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,101949.802,5539.948,107315.50644277,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,11,Ekonomisk trygghet vid ålderdom,4,33779.6,30.0,33839.03746999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,12,Ekonomisk trygghet för familjer och barn,8,52506.979,-500.0,52282.94518078,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,13,Integration och jämställdhet,13,7520.648999999999,-208.17,7362.31389755,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,14,Arbetsmarknad och arbetsliv,17,59536.285,-875.554,54873.23908681,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,15,Studiestöd,9,21978.801000000003,59.120000000000005,19446.926938350003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,16,Utbildning och universitetsforskning,93,34509.64499999999,-558.5229999999999,32922.90999271002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,17,"Kultur, medier, trossamfund och fritid",55,7806.917999999998,3.6790000000000043,7813.86709452,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",25,5121.197,377.684,4685.5581042,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,19,Regional utveckling,14,3764.453,0.779,3208.5445475799997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,20,"Klimat, miljö och natur",20,2161.852,-24.193000000000005,2140.54079371,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,21,Energi,15,2301.2889999999998,8.028,1986.70701939,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,22,Kommunikationer,25,24793.236,233.35999999999999,24243.918661899992,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,23,"Areella näringar, landsbygd och livsmedel",39,13677.015000000005,3526.4749999999995,16626.593705999996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,24,Näringsliv,31,3324.062999999999,-45.971999999999994,3156.8191576199993,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,25,Allmänna bidrag till kommuner,4,99362.633,1813.132181,100639.38710678,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,26,Statsskuldsräntor m.m.,3,70925.0,0.0,81259.8742889,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2001,27,Avgiften till Europeiska unionen,1,23804.0,0.0,23271.53797856,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,1,Rikets styrelse,22,9284.231000000002,131.45799999999997,9327.20254684,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,2,Samhällsekonomi och finansförvaltning,27,8754.408000000001,-3.0,8837.922475250001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,3,"Skatt, tull och exekution",4,8057.645,1.652,8049.04935702,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,4,Rättsväsendet,14,23638.04,261.24,24048.64938538,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,5,Internationell samverkan,17,1162.29,153.0,1136.9254993199997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,6,Försvar och samhällets krisberedskap,29,46208.645000000004,42.24999999999984,44998.76818320001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,7,Internationellt bistånd,5,15043.822,-200.0,15683.515904950002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,8,Migration,7,2689.835,1315.0,3812.51634359,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,9,"Hälsovård, sjukvård och social omsorg",35,31112.964999999993,588.95,31023.34768844,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,108357.01799999998,6564.75,112889.06393730002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,11,Ekonomisk trygghet vid ålderdom,4,33534.5,-58.0,33794.14643816,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,12,Ekonomisk trygghet för familjer och barn,8,53839.0,0.0,53914.45033846999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,13,Integration och jämställdhet,13,6856.658,-7.5,7195.7511767,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,14,Arbetsmarknad och arbetsliv,17,55662.87299999999,978.3,57729.69200586001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,15,Studiestöd,9,22951.537000000004,-959.94,21074.83423493,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,16,Utbildning och universitetsforskning,96,41086.233,-53.70000000000002,40487.83293233999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,17,"Kultur, medier, trossamfund och fritid",54,8106.67,27.848,8094.970392209998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",27,3718.492,89.30000000000001,3215.6476424099997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,19,Regional utveckling,14,3313.125,0.0,3219.1267808599996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,20,"Klimat, miljö och natur",18,2870.0119999999997,-18.362,2673.38525854,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,21,Energi,13,2171.559,0.0,2291.4789629600004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,22,Kommunikationer,23,24574.615000000005,2.000000000000001,24379.879715129995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,23,"Areella näringar, landsbygd och livsmedel",42,10838.984,3918.316,13921.679944799998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,24,Näringsliv,31,3170.346,-34.5,3211.33430229,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,25,Allmänna bidrag till kommuner,5,98898.914,2838.0,102332.70257109,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,26,Statsskuldsräntor m.m.,3,63326.7,0.0,67339.65501234,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2002,27,Avgiften till Europeiska unionen,1,23055.0,0.0,20648.27440564,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,1,Rikets styrelse,25,9560.881,340.329,9701.61047874,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,2,Samhällsekonomi och finansförvaltning,27,8960.295,14.25,8849.864252449996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,3,"Skatt, tull och exekution",4,8265.923,1.567,8283.63999265,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,4,Rättsväsendet,14,24581.861,372.85,25509.88738286,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,5,Internationell samverkan,17,1284.511,0.0,1114.6124888200004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,6,Försvar och samhällets krisberedskap,28,45103.746,3.3999999999999972,45535.76210661,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,7,Internationellt bistånd,6,17140.303,-74.979,15912.02533395,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,8,Migration,7,4437.070999999999,160.3,4921.338779830001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,9,"Hälsovård, sjukvård och social omsorg",35,33340.310000000005,673.0,34051.44063047,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,119398.96399999999,-839.0,121464.02312577,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,11,Ekonomisk trygghet vid ålderdom,5,52547.32,0.0,51953.61057532,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,12,Ekonomisk trygghet för familjer och barn,8,56718.1,-470.0,55817.9393359,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,13,Integration och jämställdhet,11,7003.736,97.0,6988.7649319600005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,14,Arbetsmarknad och arbetsliv,18,57152.403999999995,3682.25,61179.79442615001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,15,Studiestöd,10,21979.574999999997,-540.0,20292.55834322,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,16,Utbildning och universitetsforskning,94,42031.050999999985,0.2,41639.03212445998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,17,"Kultur, medier, trossamfund och fritid",56,8357.903,19.73,8351.53254872,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",24,3733.909,-123.7,3291.6329499699996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,19,Regional utveckling,10,3157.776,-2.5,3421.0499386499996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,20,"Klimat, miljö och natur",17,3107.4840000000004,-150.35,2497.5901033400005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,21,Energi,15,1727.577,0.0,1945.9108153399998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,22,Kommunikationer,22,26164.343999999997,-507.15,25130.649336429997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,23,"Areella näringar, landsbygd och livsmedel",39,10480.979000000003,-194.0,9614.550244,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,24,Näringsliv,29,3315.104,-110.0,3105.925645659999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,25,Allmänna bidrag till kommuner,5,68486.664,2531.6760000000004,72400.29718058,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,26,Statsskuldsräntor m.m.,3,54450.0,-12300.0,42173.3477661,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2003,27,Avgiften till Europeiska unionen,1,23695.0,0.0,18321.91395897,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,1,Rikets styrelse,22,10346.73,55.239999999999995,10025.33283855,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,2,Samhällsekonomi och finansförvaltning,25,8929.074999999999,9.5,8962.897529450001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,3,"Skatt, tull och exekution",5,8556.043,101.608,8569.14024044,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,4,Rättsväsendet,14,26429.114999999994,250.922,26314.8710373,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,5,Internationell samverkan,17,1257.362,0.0,1266.8814443200001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,6,Försvar och samhällets krisberedskap,23,44747.929,15.0,43264.59482834999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,7,Internationellt bistånd,7,19856.750999999997,0.0,19907.172927829997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,8,Migration,7,4688.4839999999995,320.0,5214.55152653,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,9,"Hälsovård, sjukvård och social omsorg",36,37646.590000000004,1629.125,36788.36998755001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,123981.002,2883.0,122916.43688801001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,11,Ekonomisk trygghet vid ålderdom,5,50656.3,0.0,51229.10718352,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,12,Ekonomisk trygghet för familjer och barn,8,57349.2,840.0,57538.4872849,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,13,Integration och jämställdhet,11,6606.7119999999995,0.0,6540.43281699,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,14,Arbetsmarknad och arbetsliv,18,58845.119,7366.0,64295.31451900999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,15,Studiestöd,10,22307.840999999997,39.500000000000014,21222.026166400003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,16,Utbildning och universitetsforskning,97,43604.575999999994,-39.0,43618.597684090004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,17,"Kultur, medier, trossamfund och fritid",55,8663.96,-1.608,8738.670389790002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",25,3295.581,3.0999999999999996,3061.8906741200008,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,19,Regional utveckling,9,3106.447,0.0,3301.27161822,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,20,"Klimat, miljö och natur",14,3498.039,42.0,3055.91570512,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,21,Energi,16,1704.892,0.0,2108.83457373,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,22,Kommunikationer,23,28391.012,0.0,28994.810818289992,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,23,"Areella näringar, landsbygd och livsmedel",40,14278.731999999998,13.0,12218.519085380001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,24,Näringsliv,30,3258.979,-15.0,3454.17440848,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,25,Allmänna bidrag till kommuner,6,73705.79000000001,-2600.0,69833.82607457999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,26,Statsskuldsräntor m.m.,3,47684.0,0.0,52718.18703814001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2004,27,Avgiften till Europeiska unionen,1,24472.0,0.0,25563.07092328,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,1,Rikets styrelse,22,10333.789,-31.875000000000004,10139.948332660004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,2,Samhällsekonomi och finansförvaltning,27,11153.991,-176.19,10704.907048359999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,3,"Skatt, tull och exekution",3,8803.944,1.6310000000000002,8572.38993333,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,4,Rättsväsendet,14,27293.074999999997,665.075,27021.948217959998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,5,Internationell samverkan,17,1239.582,140.0,1364.9273599000003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,6,Försvar och samhällets krisberedskap,22,44566.477999999996,-91.3,44002.45458631998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,7,Internationellt bistånd,7,22407.678,-190.0,22260.14017346,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,8,Migration,7,4811.250999999999,387.07,4806.468582869999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,9,"Hälsovård, sjukvård och social omsorg",38,39799.10400000001,116.0,38455.296175849995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,129691.06199999999,121.352,127049.42309333998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,11,Ekonomisk trygghet vid ålderdom,4,46413.203,0.0,46120.22626188,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,12,Ekonomisk trygghet för familjer och barn,8,59863.833999999995,800.0,59071.39787409,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,13,Integration och jämställdhet,11,6413.182,2.0,6404.8707499,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,14,Arbetsmarknad och arbetsliv,19,66224.29699999998,-155.585,66434.97425135,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,15,Studiestöd,10,21512.020000000004,-147.79,20157.586860689997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,16,Utbildning och universitetsforskning,98,43377.751000000004,144.87500000000003,43341.84563034004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,17,"Kultur, medier, trossamfund och fritid",54,8956.524999999998,113.902,8967.71864743,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",25,3598.7090000000003,0.0,3109.3201972799993,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,19,Regional utveckling,8,3496.768,200.0,3285.5381303100003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,20,"Klimat, miljö och natur",13,3718.9330000000004,-10.0,3986.9328225699996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,21,Energi,15,1437.858,0.5,1435.2230382600003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,22,Kommunikationer,23,31522.492000000002,-13.822999999999993,31689.01715342,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,23,"Areella näringar, landsbygd och livsmedel",40,14655.991,162.6,17408.334907429995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,24,Näringsliv,29,3656.129,-4.513999999999999,3547.508947250001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,25,Allmänna bidrag till kommuner,6,57468.75,-32.849999999999994,57325.10188498999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,26,Statsskuldsräntor m.m.,3,38770.0,0.0,32657.38324127,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2005,27,Avgiften till Europeiska unionen,1,26802.0,0.0,25635.13045707,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,1,Rikets styrelse,22,10973.582000000002,5.530999999999999,10906.648038090001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,2,Samhällsekonomi och finansförvaltning,27,11528.883,44.736000000000004,11562.590575150001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,3,"Skatt, tull och exekution",3,9222.029,1.806,9011.06069261,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,4,Rättsväsendet,14,29019.070000000003,0.950000000000017,28502.131949799998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,5,Internationell samverkan,17,1358.949,112.5,1425.6389213599998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,6,Försvar och samhällets krisberedskap,23,43856.519,-24.0,44225.09459422,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,7,Internationellt bistånd,8,26058.663,-5.0,25893.475483650003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,8,Migration,10,5465.623,794.0,4522.42348573,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,9,"Hälsovård, sjukvård och social omsorg",40,41604.68100000002,926.8,42161.67385768,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,129590.96199999998,0.0,125683.26520238999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,11,Ekonomisk trygghet vid ålderdom,4,45299.0,180.0,45018.67817032,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,12,Ekonomisk trygghet för familjer och barn,8,65190.291,0.0,63663.534480530005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,13,Integration och jämställdhet,11,2825.2109999999993,607.0,3373.6018247100005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,14,Arbetsmarknad och arbetsliv,19,71408.883,908.4,69456.47160834001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,15,Studiestöd,10,22535.705000000005,465.274,20551.241914110004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,16,Utbildning och universitetsforskning,97,46744.750999999975,63.349999999999994,46106.55878848,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,17,"Kultur, medier, trossamfund och fritid",56,9582.406,42.619,9585.20432576,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",25,3556.3520000000003,0.2,2899.2043965099997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,19,Regional utveckling,8,3332.913,119.5,3331.8966125499996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,20,"Klimat, miljö och natur",13,4316.771000000001,48.25,4545.59826831,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,21,Energi,15,1764.154,16.838,1640.60197889,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,22,Kommunikationer,23,31390.968,-116.3,30955.320021449996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,23,"Areella näringar, landsbygd och livsmedel",40,16398.229000000003,6791.442,20985.160827359996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,24,Näringsliv,31,3957.6670000000013,-2.5,3891.8512102900013,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,25,Allmänna bidrag till kommuner,5,60160.91,90.99600000000001,60246.43746177,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,26,Statsskuldsräntor m.m.,3,43170.0,0.0,49472.278751080004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2006,27,Avgiften till Europeiska unionen,1,28066.0,0.0,25920.17142439,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,1,Rikets styrelse,22,10959.380000000001,61.147999999999996,10878.060545450002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,2,Samhällsekonomi och finansförvaltning,26,11590.932999999999,6.000000000000001,10923.5658297,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,3,"Skatt, tull och exekution",3,9324.773000000001,6.828,9670.100019829999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,4,Rättsväsendet,14,30749.978999999996,2.0209999999999866,30623.975902680006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,5,Internationell samverkan,11,1497.701,71.2,1585.5956233400002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,6,Försvar och samhällets krisberedskap,22,44121.379,0.0,46484.199554310006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,7,Internationellt bistånd,7,26656.588,-700.0,25441.20824896,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,8,Migration,10,5032.876,785.0,5294.97572559,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,9,"Hälsovård, sjukvård och social omsorg",42,46893.446,156.0,46653.14602784001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,7,122354.68800000001,700.0,119464.36762929999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,11,Ekonomisk trygghet vid ålderdom,4,44201.5,0.0,43738.05194,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,12,Ekonomisk trygghet för familjer och barn,8,66088.664,0.0,64944.81054983001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,13,Integration och jämställdhet,11,4536.951,323.0,4253.49411659,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,14,Arbetsmarknad och arbetsliv,21,63486.13500000002,438.217,54879.521416220006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,15,Studiestöd,10,21123.203,0.0,19734.116058820004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,16,Utbildning och universitetsforskning,98,43832.110000000015,26.0,41817.61199522001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,17,"Kultur, medier, trossamfund och fritid",56,10139.012999999995,32.42099999999999,10091.428854560003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",23,2272.4719999999998,0.0,2423.4609999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,19,Regional utveckling,7,3162.6890000000003,90.0,2878.53148052,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,20,"Klimat, miljö och natur",14,4615.427000000001,0.5,4311.98874305,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,21,Energi,16,2751.0860000000002,0.0,2217.66730524,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,22,Kommunikationer,24,33914.33900000001,10586.0,44289.84555685999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,23,"Areella näringar, landsbygd och livsmedel",37,18000.6,64.733,15478.380745660004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,24,Näringsliv,30,4065.6329999999994,197.0,4229.753371240002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,25,Allmänna bidrag till kommuner,4,72849.39899999999,115.324,72974.52821512001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,26,Statsskuldsräntor m.m.,3,43170.0,0.0,47254.756197669994,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2007,27,Avgiften till Europeiska unionen,1,28908.0,0.0,26634.54229073,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,1,Rikets styrelse,21,11222.484,82.97300000000001,11249.949460639999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,2,Samhällsekonomi och finansförvaltning,23,10820.869,390.40000000000003,11093.84203681,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,3,"Skatt, tull och exekution",3,9175.6,61.23,9445.61598568,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,4,Rättsväsendet,15,31376.316000000003,569.728,32688.909819650005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,5,Internationell samverkan,11,1654.9659999999997,135.0,1750.4971080600003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,6,Försvar och samhällets krisberedskap,24,43837.925,26.500000000000014,42984.40305002001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,7,Internationellt bistånd,7,27702.071,0.0,27452.80110046,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,8,Migration,9,6145.4130000000005,202.0,6134.394313370001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,9,"Hälsovård, sjukvård och social omsorg",42,50754.888999999996,617.6379999999999,49131.003056420006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,7,117999.388,2029.0,115862.23002174999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,11,Ekonomisk trygghet vid ålderdom,4,42948.0,0.0,42591.28823528001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,12,Ekonomisk trygghet för familjer och barn,8,66696.80799999999,0.0,66392.86233409999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,13,Integration och jämställdhet,12,6337.615,-4.0,5044.94172118,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,14,Arbetsmarknad och arbetsliv,20,56618.70100000001,-4.5,47766.97502071002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,15,Studiestöd,10,20708.839000000004,28.99,19496.549960779997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,16,Utbildning och universitetsforskning,102,45989.54200000002,8.537000000000049,44163.87580430003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,17,"Kultur, medier, trossamfund och fritid",55,10109.727999999997,5.958,10117.01072535,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",23,1808.6369999999997,0.0,2074.6197283900005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,19,Regional utveckling,7,3350.174,43.0,2798.5686556,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,20,"Klimat, miljö och natur",16,4721.62,239.3,4666.54972747,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,21,Energi,17,2880.587,0.593,2124.4778535900004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,22,Kommunikationer,24,35760.092000000004,25351.0,61483.54641589,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,23,"Areella näringar, landsbygd och livsmedel",36,17432.385000000002,126.6,16508.069834869995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,24,Näringsliv,28,4825.295,8018.1,12738.697565209999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,25,Allmänna bidrag till kommuner,4,64519.511000000006,245.594,64769.90506977001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,26,Statsskuldsräntor m.m.,5,40757.0,21413.0,48205.801927459994,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2008,27,Avgiften till Europeiska unionen,1,30121.94,0.0,31525.83010619,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,1,Rikets styrelse,21,12660.376,210.5,12438.659848280002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,2,Samhällsekonomi och finansförvaltning,19,11612.521,57.927,11718.820971580002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,3,"Skatt, tull och exekution",3,9459.505,51.0,9434.321326199999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,4,Rättsväsendet,15,32620.293000000005,1572.3,33640.840457750004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,5,Internationell samverkan,11,1643.2859999999998,215.1,1815.27980349,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,6,Försvar och samhällets krisberedskap,29,44663.236999999994,16.29999999999999,42056.45516961999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,7,Internationellt bistånd,7,30109.378999999997,-321.5,29600.316785439998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,8,Migration,9,5899.313,299.0,6521.04546625,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,9,"Hälsovård, sjukvård och social omsorg",42,54807.253000000004,982.315,53064.772398659996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,113927.47,950.0,109969.07280062,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,11,Ekonomisk trygghet vid ålderdom,4,42456.0,0.0,42304.42575863,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,12,Ekonomisk trygghet för familjer och barn,8,68465.86300000001,0.0,68080.23181772999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,13,Integration och jämställdhet,14,5473.139,0.0,5332.128803020001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,14,Arbetsmarknad och arbetsliv,18,55945.649000000005,12672.552,60619.53866389,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,15,Studiestöd,10,21870.592000000004,331.08799999999997,21430.359099460005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,16,Utbildning och universitetsforskning,99,49797.812999999995,162.39699999999996,48883.12178629001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,17,"Kultur, medier, trossamfund och fritid",55,10287.316999999997,4.8,10269.229523299999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",19,1677.4899999999998,134.60600000000002,1905.6756793700001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,19,Regional utveckling,7,3501.601,0.0,3203.82805694,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,20,"Klimat, miljö och natur",18,5337.628,-6.0,5161.310415740001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,21,Energi,18,2855.4799999999996,1.243000000000002,3095.24421054,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,22,Kommunikationer,25,40223.104,1861.0,40572.765151539985,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,23,"Areella näringar, landsbygd och livsmedel",37,17573.442000000003,104.15,16368.579253459997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,24,Näringsliv,32,5162.795000000002,1362.7999999999997,6539.81542646,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,25,Allmänna bidrag till kommuner,5,67039.05500000001,14547.902,81589.16296982,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,26,Statsskuldsräntor m.m.,6,33871.0,0.0,36462.53505661,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2009,27,Avgiften till Europeiska unionen,1,19878.094,3933.304,19192.1696717,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,1,Rikets styrelse,21,12400.561000000002,147.65,11954.33646268,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,2,Samhällsekonomi och finansförvaltning,21,11874.845000000001,63.8,11845.851361820003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,3,"Skatt, tull och exekution",3,9733.974,226.0,9385.28941469,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,4,Rättsväsendet,15,35836.077000000005,17.029,35481.953553479994,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,5,Internationell samverkan,11,1958.437,100.0,1997.7472970999995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,6,Försvar och samhällets krisberedskap,25,45455.74300000001,1.039999999999985,45618.68725197,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,7,Internationellt bistånd,7,27019.445000000003,-520.0,26668.88183228,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,8,Migration,8,5751.126000000001,1174.0,7092.12152341,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,9,"Hälsovård, sjukvård och social omsorg",40,58707.837,33.6,56014.726261899996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,101719.37299999999,260.0,99933.05622828998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,11,Ekonomisk trygghet vid ålderdom,5,41503.0,137.5,41473.18348228,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,12,Ekonomisk trygghet för familjer och barn,8,69913.019,825.0,70177.42186756001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,13,Integration och jämställdhet,14,4885.844,400.0,5191.562949450001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,14,Arbetsmarknad och arbetsliv,19,88365.36500000002,125.0,68555.78820596999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,15,Studiestöd,7,24106.051999999996,261.76099999999997,22580.303477290003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,16,Utbildning och universitetsforskning,95,53589.253,331.0,53260.62172247,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,17,"Kultur, medier, trossamfund och fritid",54,11362.087000000001,0.5,11337.85059374,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",17,1545.695,45.0,1559.18820361,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,19,Regional utveckling,5,3419.701,0.0,3178.53164336,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,20,"Klimat, miljö och natur",19,5244.593000000001,3.5,5161.4060314200005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,21,Energi,18,3202.3830000000003,0.0,2751.0061051099997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,22,Kommunikationer,25,40056.327,523.0,39784.316697910006,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,23,"Areella näringar, landsbygd och livsmedel",33,19082.120000000003,54.900000000000006,17447.406608629997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,24,Näringsliv,31,5474.794,3151.5,8478.37976182,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,25,Allmänna bidrag till kommuner,4,75563.48900000002,125.497,75691.24953500001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,26,Statsskuldsräntor m.m.,5,23170.0,0.0,23361.19461408,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2010,27,Avgiften till Europeiska unionen,1,29680.044,0.0,30406.6989469,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,1,Rikets styrelse,22,11631.926000000003,45.0,11475.05094497,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,2,Samhällsekonomi och finansförvaltning,18,12699.098,2.0,12607.206361870001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,3,"Skatt, tull och exekution",3,10008.981,41.7,9910.251154029998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,4,Rättsväsendet,16,36753.36499999999,166.0,37159.87318033001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,5,Internationell samverkan,12,2001.841,4.5,1892.1524471600005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,6,Försvar och samhällets krisberedskap,28,45256.494000000006,0.0,44108.32091065002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,7,Internationellt bistånd,7,30512.985,-650.465,29198.609912019998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,8,Migration,8,7157.361000000001,875.0,7572.11666017,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,9,"Hälsovård, sjukvård och social omsorg",42,60066.95000000001,20.0,56538.47320041998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,93840.789,0.0,95800.13508422002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,11,Ekonomisk trygghet vid ålderdom,5,40624.493,119.0,41590.09547415,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,12,Ekonomisk trygghet för familjer och barn,8,73092.35500000001,0.0,71994.2025467,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,13,Integration och jämställdhet,13,5506.063999999999,530.5,4704.893634920002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,14,Arbetsmarknad och arbetsliv,19,70153.37999999999,474.0,63548.28622844999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,15,Studiestöd,7,23472.135000000002,0.0,21813.311372759996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,16,Utbildning och universitetsforskning,95,54414.66699999999,0.0,53576.153328670014,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,17,"Kultur, medier, trossamfund och fritid",57,12340.435000000001,15.0,12089.132387819998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",17,1282.1950000000002,11.2,1109.98759117,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,19,Regional utveckling,5,3509.701,0.0,3222.14770579,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,20,"Klimat, miljö och natur",21,5128.860999999999,15.5,5068.625024969999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,21,Energi,18,2919.8179999999998,14.0,2963.12739666,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,22,Kommunikationer,25,40124.753000000004,0.0,38709.85566853001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,23,"Areella näringar, landsbygd och livsmedel",31,17866.635000000002,24.5,16371.59929856,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,24,Näringsliv,33,5449.098999999999,26.35,5344.291435559999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,25,Allmänna bidrag till kommuner,4,88024.65400000001,0.0,88023.35636899999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,26,Statsskuldsräntor m.m.,4,25970.0,10500.0,34491.25907121,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2011,27,Avgiften till Europeiska unionen,1,30637.317,0.0,30595.64174713,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,1,Rikets styrelse,23,12109.635,7.6,11851.1144161,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,2,Samhällsekonomi och finansförvaltning,19,13086.169999999998,2.4,13215.868696019996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,3,"Skatt, tull och exekution",3,10178.582,14.0,10272.43790781,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,4,Rättsväsendet,16,37866.546,199.5,38208.84950181,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,5,Internationell samverkan,11,2023.9299999999998,0.0,1549.92091088,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,6,Försvar och samhällets krisberedskap,24,45526.905,123.7,45412.40248463999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,7,Internationellt bistånd,7,30263.823,-338.98,30197.12276502,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,8,Migration,9,9067.976,340.0,8247.69870189,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,9,"Hälsovård, sjukvård och social omsorg",40,60078.114000000016,178.0,58689.94150261,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,93352.60999999999,2098.665,94852.70092679001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,11,Ekonomisk trygghet vid ålderdom,5,41059.712,873.576,41341.74295792,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,12,Ekonomisk trygghet för familjer och barn,8,76717.258,0.0,75579.43924656001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,13,Integration och jämställdhet,8,7376.853,5.1,5898.00606879,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,14,Arbetsmarknad och arbetsliv,19,71472.708,1105.0,67487.91917465001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,15,Studiestöd,7,22183.821999999996,77.673,21067.515905049997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,16,Utbildning och universitetsforskning,107,54333.41600000002,61.599999999999994,53691.146212610016,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,17,"Kultur, medier, trossamfund och fritid",56,12446.923000000003,0.0,12467.925844859998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",18,1152.414,0.0,980.6876860999998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,19,Regional utveckling,5,3398.701,25.0,3407.54369966,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,20,"Klimat, miljö och natur",20,5025.102,0.0,4830.966363510001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,21,Energi,15,2923.615,0.0,2762.37445707,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,22,Kommunikationer,22,43032.399000000005,0.0,42833.72695027,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,23,"Areella näringar, landsbygd och livsmedel",31,17732.511,11.5,16386.708057450003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,24,Näringsliv,31,6011.914,0.0,5882.480192190001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,25,Allmänna bidrag till kommuner,4,85075.08499999999,63.213,85138.29788800002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,26,Statsskuldsräntor m.m.,3,21870.0,6000.0,27381.07935812,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2012,27,Avgiften till Europeiska unionen,1,31291.127,0.0,31451.94675891,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,1,Rikets styrelse,21,12281.127,-9.0,12102.47764568,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,2,Samhällsekonomi och finansförvaltning,18,16009.929999999998,0.0,15809.519512350002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,3,"Skatt, tull och exekution",3,10222.616,130.0,10388.138716219999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,4,Rättsväsendet,16,39385.28700000001,1.2250000000000014,39292.177809270004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,5,Internationell samverkan,11,2033.9999999999998,0.0,1826.4014130399999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,6,Försvar och samhällets krisberedskap,24,46145.17399999999,0.5,45359.38830621001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,7,Internationellt bistånd,8,31191.712,-189.0,30775.558961820003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,8,Migration,9,9504.491999999998,499.0,9870.112435290004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,9,"Hälsovård, sjukvård och social omsorg",40,62252.179000000004,311.75,58994.26833084001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,94422.116,3200.0,96394.49864359999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,11,Ekonomisk trygghet vid ålderdom,5,40000.391,0.0,39985.421946459996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,12,Ekonomisk trygghet för familjer och barn,8,78137.38299999999,250.0,78532.97012748002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,13,Integration och jämställdhet,8,8560.296,0.0,7168.06939158,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,14,Arbetsmarknad och arbetsliv,18,69148.67300000002,1155.5,71389.20661847001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,15,Studiestöd,7,22025.538,418.0,20566.93302293,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,16,Utbildning och universitetsforskning,108,56995.35799999999,452.0000000000002,56343.807894389975,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,17,"Kultur, medier, trossamfund och fritid",51,12836.671000000002,9.0,12875.660041610001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",19,1192.525,4.26,999.4156166700001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,19,Regional utveckling,5,3390.701,30.0,3270.03461799,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,20,"Klimat, miljö och natur",20,4893.043,0.0,4806.85104639,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,21,Energi,15,2863.915,-1.225,2664.41721981,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,22,Kommunikationer,21,44565.814,-0.25,43617.60838950001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,23,"Areella näringar, landsbygd och livsmedel",29,16590.899,0.85,16006.301514110002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,24,Näringsliv,30,5253.044999999999,3.4,5247.950868509999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,25,Allmänna bidrag till kommuner,4,88905.77700000002,8.9,88914.66495700002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,26,Statsskuldsräntor m.m.,3,22168.0,0.0,16774.23006409,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2013,27,Avgiften till Europeiska unionen,1,33494.321,4621.775,37412.06681251,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,1,Rikets styrelse,21,13206.772000000004,0.0,13203.625215279999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,2,Samhällsekonomi och finansförvaltning,18,13848.478000000003,0.0,13858.828777280001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,3,"Skatt, tull och exekution",3,10515.523,75.0,10383.66555981,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,4,Rättsväsendet,16,40286.42999999999,200.0,40188.51061125001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,5,Internationell samverkan,11,2018.0870000000002,0.0,1662.43745632,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,6,Försvar och samhällets krisberedskap,24,47143.81,1960.3500000000001,47924.68220088001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,7,Internationellt bistånd,7,31830.987999999998,-962.0,31027.324202940003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,8,Migration,9,9919.330999999998,3847.462,12551.150758419999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,9,"Hälsovård, sjukvård och social omsorg",39,62160.768,0.0,61589.04085272001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,96519.84700000001,4130.765,99036.24180119998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,11,Ekonomisk trygghet vid ålderdom,5,39012.596000000005,83.412,39312.891573839996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,12,Ekonomisk trygghet för familjer och barn,8,81610.132,69.584,80809.29883692,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,13,Integration och jämställdhet,8,10089.57,100.0,9539.591063750002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,14,Arbetsmarknad och arbetsliv,17,72717.319,450.0,69585.67695274,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,15,Studiestöd,9,21005.141000000003,0.0,19953.36463577,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,16,Utbildning och universitetsforskning,104,59957.66600000002,6.400000000000006,59268.03419240003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,17,"Kultur, medier, trossamfund och fritid",50,13037.989000000001,0.0,12983.529868039997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",18,1229.6829999999998,0.0,1076.39788823,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,19,Regional utveckling,4,2972.701,-32.579,2878.53004594,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,20,"Klimat, miljö och natur",19,5155.997000000001,0.0,5085.10231398,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,21,Energi,14,2882.465,0.0,2911.2463827799997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,22,Kommunikationer,22,45389.59799999999,0.0,45923.40016671999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,23,"Areella näringar, landsbygd och livsmedel",26,15278.336000000001,514.51,16202.57058027,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,24,Näringsliv,28,5588.402999999999,33.487,5439.02192008,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,25,Allmänna bidrag till kommuner,3,93595.98300000001,3.116,93599.096816,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,26,Statsskuldsräntor m.m.,3,22084.2,0.0,3325.4958168999997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2014,27,Avgiften till Europeiska unionen,1,37700.222,0.0,41552.98003884,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,1,Rikets styrelse,21,12513.020000000002,104.0,12589.923044330004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,2,Samhällsekonomi och finansförvaltning,17,14368.357000000002,-33.5,14177.43252777,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,3,"Skatt, tull och exekution",3,10573.781,0.0,10753.59877731,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,4,Rättsväsendet,17,40752.577000000005,47.0,40423.73607139999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,5,Internationell samverkan,11,1919.062,50.0,1933.9722594100003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,6,Försvar och samhällets krisberedskap,23,48398.32100000001,-4.0,48217.909855289996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,7,Internationellt bistånd,7,29508.686000000005,-229.0,32213.120542419998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,8,Migration,9,17433.309,1440.0,18725.365598359993,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,9,"Hälsovård, sjukvård och social omsorg",37,61898.497,2869.884,64978.55593029001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,8,100474.087,2561.0,102603.09930203,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,11,Ekonomisk trygghet vid ålderdom,5,38015.424999999996,595.2,38135.918547090005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,12,Ekonomisk trygghet för familjer och barn,8,83124.69800000002,394.5,82930.53982129,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,13,Integration och jämställdhet,8,12718.043,13.799999999999997,11675.56123467,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,14,Arbetsmarknad och arbetsliv,18,71812.10199999998,1531.0,68657.47626524999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,15,Studiestöd,9,20302.28,664.4000000000001,19216.302029669998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,16,Utbildning och universitetsforskning,101,63485.902,351.392,62806.78960712998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,17,"Kultur, medier, trossamfund och fritid",51,12940.257000000003,551.0,13435.831947439998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",17,1207.973,1.2,1070.8950154300003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,19,Regional utveckling,4,2700.801,0.0,2242.74865025,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,20,"Klimat, miljö och natur",20,5341.118,706.3,5938.407396129999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,21,Energi,14,2522.448,-87.0,2343.35313485,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,22,Kommunikationer,20,48787.93299999999,614.0,47197.49185232001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,23,"Areella näringar, landsbygd och livsmedel",26,15656.027000000002,24.935,13397.560871090001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,24,Näringsliv,29,5309.161999999999,207.0,5475.25039667,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,25,Allmänna bidrag till kommuner,5,91441.00200000001,10663.0,102036.640152,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,26,Statsskuldsräntor m.m.,3,20526.2,8800.0,21935.91196821,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2015,27,Avgiften till Europeiska unionen,1,40126.178,3728.478,44231.50356491,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,1,Rikets styrelse,21,13036.904999999999,71.1,12991.35491383,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,2,Samhällsekonomi och finansförvaltning,18,14547.697,214.9,14769.067289789999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,3,"Skatt, tull och exekution",3,10782.946,0.0,10839.80434864,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,4,Rättsväsendet,17,41568.37800000001,705.97,42283.40793924001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,5,Internationell samverkan,11,1905.2030000000002,143.45000000000002,2070.46818239,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,6,Försvar och samhällets krisberedskap,22,48767.719000000005,301.0,49307.956335080016,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,7,Internationellt bistånd,6,32357.474,2321.3070000000002,31970.706488480002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,8,Migration,8,19419.719,24443.169,41251.38363327,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,9,"Hälsovård, sjukvård och social omsorg",36,69237.676,1905.43,63371.26387871999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,109868.281,480.0,105613.63292069001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,11,Ekonomisk trygghet vid ålderdom,5,36184.25,0.0,35928.17185317,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,12,Ekonomisk trygghet för familjer och barn,8,87129.05,0.0,86106.09345618,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,13,Integration och jämställdhet,8,16022.265000000003,227.0,14973.533177259998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,14,Arbetsmarknad och arbetsliv,19,84729.47499999999,-704.0,76757.23162390002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,15,Studiestöd,8,21707.932,4.53,19486.11067636,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,16,Utbildning och universitetsforskning,103,70134.15299999998,-1407.205,66031.09213349,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,17,"Kultur, medier, trossamfund och fritid",50,13848.141000000001,233.0,14071.55458268,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",20,6234.0239999999985,0.0,3059.04469903,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,19,Regional utveckling,4,3255.721,5.0,2613.8436589999997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,20,"Klimat, miljö och natur",21,7661.755999999999,177.0,7298.83600064,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,21,Energi,12,2871.751,0.0,2779.50693559,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,22,Kommunikationer,20,54066.99,-447.5,50033.395154,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,23,"Areella näringar, landsbygd och livsmedel",26,18919.553000000004,6.1000000000000085,15898.340347969995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,24,Näringsliv,29,5998.273000000001,-106.0,5890.929784499997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,25,Allmänna bidrag till kommuner,4,93398.25200000001,0.0,93349.623307,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,26,Statsskuldsräntor m.m.,3,10769.176000000001,0.0,1742.90461886,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2016,27,Avgiften till Europeiska unionen,1,31827.167,4499.86,30349.73363247,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,1,Rikets styrelse,20,13592.676,47.2,13654.491512609999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,2,Samhällsekonomi och finansförvaltning,18,15009.626999999999,25.0,15004.768431769999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,3,"Skatt, tull och exekution",3,10985.563999999998,38.0,11011.37116155,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,4,Rättsväsendet,17,42461.197,1408.0,44058.545762689995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,5,Internationell samverkan,11,1913.291,250.20000000000002,1953.3613348200001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,6,Försvar och samhällets krisberedskap,21,50194.967000000004,485.0,50323.41789323999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,7,Internationellt bistånd,6,34990.005,1784.554,36706.67201382999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,8,Migration,9,32580.319,6841.0,40033.513119949996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,9,"Hälsovård, sjukvård och social omsorg",34,68496.16400000002,1948.0,67411.13500985001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,107051.80500000001,120.0,101868.16484805,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,11,Ekonomisk trygghet vid ålderdom,5,34774.450999999994,0.0,34657.67373785,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,12,Ekonomisk trygghet för familjer och barn,8,89491.39799999999,-104.563,88659.9255322,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,13,Integration och jämställdhet,9,26255.493000000002,22.0,18575.778093289995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,14,Arbetsmarknad och arbetsliv,19,82036.40100000003,60.5,76914.21546636001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,15,Studiestöd,9,22433.998999999996,0.0,19670.73538058,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,16,Utbildning och universitetsforskning,104,72386.70700000001,676.45,71104.11209991004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,17,"Kultur, medier, trossamfund och fritid",51,14521.253999999999,0.0,14475.495515710001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",19,6764.5599999999995,40.0,3802.6354355000003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,19,Regional utveckling,4,3595.4809999999998,0.0,2808.29513749,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,20,"Klimat, miljö och natur",21,8403.539,509.0,7780.1020456,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,21,Energi,13,2936.295,203.0,3051.663969999999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,22,Kommunikationer,20,55039.651999999995,43.0,53223.35690792,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,23,"Areella näringar, landsbygd och livsmedel",25,17189.401,1052.5,17225.16740526,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,24,Näringsliv,28,6456.0199999999995,400.0,6415.597453350001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,25,Allmänna bidrag till kommuner,4,105554.92,11.236,105565.837046,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,26,Statsskuldsräntor m.m.,3,16467.79,0.0,10568.71727342,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2017,27,Avgiften till Europeiska unionen,1,29586.305,0.0,24224.47935722,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,1,Rikets styrelse,20,14861.072,51.0,14623.549785280002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,2,Samhällsekonomi och finansförvaltning,18,15955.81,70.7,15656.486443970003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,3,"Skatt, tull och exekution",3,11399.384,79.1,11445.95173992,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,4,Rättsväsendet,17,45771.23599999999,476.875,45932.51687199,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,5,Internationell samverkan,11,2009.032,30.0,1893.01289182,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,6,Försvar och samhällets krisberedskap,22,53776.942,532.8,53428.516414899976,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,7,Internationellt bistånd,6,42985.208999999995,-237.0,42813.467477490005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,8,Migration,9,15748.23,6540.063,19623.58243534,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,9,"Hälsovård, sjukvård och social omsorg",31,77696.04099999998,2144.725,78418.31770028996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,102615.22899999999,61.7,99680.97099978001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,11,Ekonomisk trygghet vid ålderdom,5,34635.668999999994,-0.8,34771.247300409996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,12,Ekonomisk trygghet för familjer och barn,8,94586.418,1283.9,95208.19587719999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,13,Integration och jämställdhet,11,20420.889000000003,603.802,17292.599018349993,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,14,Arbetsmarknad och arbetsliv,21,79263.16,2254.5,78785.54319716,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,15,Studiestöd,9,24352.692,128.0,21118.27714027,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,16,Utbildning och universitetsforskning,106,77971.18500000006,144.5,76006.61923658004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,17,"Kultur, medier, trossamfund och fritid",52,15879.751999999999,185.5,16008.102137319998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",17,6951.648,110.0,4615.60994808,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,19,Regional utveckling,4,3921.525,20.0,3576.43904279,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,20,"Klimat, miljö och natur",23,10772.787999999999,55.0,10438.132786769998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,21,Energi,12,3646.9320000000002,172.5,3562.6422637799997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,22,Kommunikationer,20,56418.505,26.5,56593.97079044001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,23,"Areella näringar, landsbygd och livsmedel",26,19253.779000000006,853.2,19596.982992760004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,24,Näringsliv,28,7370.651,0.0,7464.47150381,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,25,Allmänna bidrag till kommuner,5,111385.38500000001,24.011,111409.1702795,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,26,Statsskuldsräntor m.m.,3,11355.2,2305.0,13602.67400116,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2018,27,Avgiften till Europeiska unionen,1,39510.631,0.0,34959.98658085,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,1,Rikets styrelse,19,14926.365000000003,179.00900000000001,14968.306374150001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,2,Samhällsekonomi och finansförvaltning,18,16986.246,-27.237000000000002,16596.300498970002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,3,"Skatt, tull och exekution",3,11522.533,-13.058,11520.27012141,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,4,Rättsväsendet,17,48378.244,1218.5,49378.65564774,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,5,Internationell samverkan,11,2362.2770000000005,-2.0,2337.27225558,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,6,Försvar och samhällets krisberedskap,21,60007.545,212.5,60512.378503939995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,7,Internationellt bistånd,6,44945.14,-487.048,44240.27486012,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,8,Migration,9,12112.43,306.0,11847.13420432,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,9,"Hälsovård, sjukvård och social omsorg",31,81277.18500000001,268.0,79591.95013685999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,97657.012,131.956,97872.05308010001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,11,Ekonomisk trygghet vid ålderdom,5,34881.475999999995,18.966,34485.780044939995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,12,Ekonomisk trygghet för familjer och barn,8,97332.20300000001,534.0,97315.35258508002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,13,Integration och jämställdhet,10,14259.953,466.4,13379.817336030002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,14,Arbetsmarknad och arbetsliv,20,77647.30199999998,620.0,76970.74216427999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,15,Studiestöd,9,24731.156,-21.0,22815.194271739998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,16,Utbildning och universitetsforskning,106,80851.826,-380.93399999999997,78531.59209518,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,17,"Kultur, medier, trossamfund och fritid",51,15781.531000000003,71.50999999999999,15828.199309690002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",15,4742.123,-754.16,3052.26991616,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,19,Regional utveckling,3,3496.5249999999996,71.0,3316.1780653100004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,20,"Klimat, miljö och natur",24,9737.248,1515.75,9446.43749185,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,21,Energi,11,3209.1059999999998,794.1,2273.7631063599997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,22,Kommunikationer,21,58967.65499999999,224.0,58603.867596130025,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,23,"Areella näringar, landsbygd och livsmedel",26,20900.281000000003,1122.433,20783.531557629994,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,24,Näringsliv,28,7436.716999999999,-28.900000000000006,7303.6275475600005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,25,Allmänna bidrag till kommuner,4,119992.772,59.22,120051.75782500001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,26,Statsskuldsräntor m.m.,3,25155.2,0.0,22173.82584219,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2019,27,Avgiften till Europeiska unionen,1,40913.834,0.0,37682.94220575,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,1,Rikets styrelse,19,15131.274000000001,965.0,15749.040581319996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,2,Samhällsekonomi och finansförvaltning,18,17390.191,36.823,17002.918798579998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,3,"Skatt, tull och exekution",3,12056.989,255.0,12054.61077682,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,4,Rättsväsendet,17,51725.38300000001,1524.0,53022.48421308999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,5,Internationell samverkan,11,2028.3149999999998,115.0,2070.4406114599997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,6,Försvar och samhällets krisberedskap,20,64734.44999999999,130.0,63028.45035472001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,7,Internationellt bistånd,6,45989.153000000006,749.5,46524.76205407,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,8,Migration,8,11446.213,180.0,9578.839342820002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,9,"Hälsovård, sjukvård och social omsorg",31,84167.14199999998,32652.5,101774.34256799,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,95705.84299999998,32966.0,117898.77125956998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,11,Ekonomisk trygghet vid ålderdom,5,36542.396,77.0,36652.25408631999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,12,Ekonomisk trygghet för familjer och barn,8,101430.32,2831.0,99939.00457326,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,13,Integration och jämställdhet,10,10065.663,55.0,8515.995585080002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,14,Arbetsmarknad och arbetsliv,21,77164.28699999998,21601.2,87154.01608564,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,15,Studiestöd,9,25508.399999999998,1604.5,25059.72029929,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,16,Utbildning och universitetsforskning,105,83321.57400000004,1458.0,82962.86590846999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,17,"Kultur, medier, trossamfund och fritid",50,16061.28,4464.3,20416.644594929996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",15,3726.522,8.0,3779.384290199999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,19,Regional utveckling,3,3672.5249999999996,0.0,3183.6139887,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,20,"Klimat, miljö och natur",23,12571.182999999999,419.0,10950.497201389999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,21,Energi,13,3534.2349999999997,38.0,3398.19559526,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,22,Kommunikationer,25,61295.945999999996,7053.7,65167.08555620999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,23,"Areella näringar, landsbygd och livsmedel",26,19790.236000000004,1429.8,20019.83165935,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,24,Näringsliv,32,7263.863,161592.0,60406.53899161,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,25,Allmänna bidrag till kommuner,5,128417.57199999999,29547.8,157964.371881,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,26,Statsskuldsräntor m.m.,3,29655.2,0.0,19591.63034841,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2020,27,Avgiften till Europeiska unionen,1,41989.649,2683.702,47192.80701562,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,1,Rikets styrelse,20,15907.564000000002,833.65,16391.71561878,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,2,Samhällsekonomi och finansförvaltning,18,17501.844000000005,48.2,16920.83643716,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,3,"Skatt, tull och exekution",3,12413.921,410.0,12533.59723777,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,4,Rättsväsendet,17,56425.806000000004,967.0,57167.58713901,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,5,Internationell samverkan,11,1999.2649999999999,0.0,1782.04258486,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,6,Försvar och samhällets krisberedskap,20,71086.39500000002,129.606,70518.15972509,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,7,Internationellt bistånd,6,46828.602,432.585,47463.11916264,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,8,Migration,8,9268.384999999998,0.0,8224.04297667,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,9,"Hälsovård, sjukvård och social omsorg",31,101941.90399999998,35722.0,137967.29685980998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,98410.4,18935.0,113050.93726162,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,11,Ekonomisk trygghet vid ålderdom,6,37715.888,623.0,38015.623379439996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,12,Ekonomisk trygghet för familjer och barn,8,103578.007,624.03,101067.58746356999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,13,Integration och jämställdhet,10,7790.740999999999,165.0,6212.40688404,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,14,Arbetsmarknad och arbetsliv,21,105724.31900000002,574.3,91947.23010273001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,15,Studiestöd,9,28313.111,512.3,26588.058253230003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,16,Utbildning och universitetsforskning,105,92082.56000000003,1798.6179999999995,91350.17705122,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,17,"Kultur, medier, trossamfund och fritid",50,17790.874999999996,5035.299999999999,22683.074368080004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",15,5578.679,13.0,5188.2254413,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,19,Regional utveckling,4,4173.424999999999,30.0,3223.6522459,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,20,"Klimat, miljö och natur",22,16202.213,1998.0,16724.65637624,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,21,Energi,11,4581.103999999999,180.0,3394.6409404000005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,22,Kommunikationer,29,73916.22699999998,3849.0,72097.29316264999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,23,"Areella näringar, landsbygd och livsmedel",29,22581.344000000005,1253.7320000000002,19630.039481010004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,24,Näringsliv,35,15355.253,79401.2,30406.87982625,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,25,Allmänna bidrag till kommuner,5,153452.04899999997,33.1,153235.104546,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,26,Statsskuldsräntor m.m.,3,165.2,0.0,-1298.42697412,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2021,27,Avgiften till Europeiska unionen,1,45037.439,8813.354,52261.62938786,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,1,Rikets styrelse,20,17238.338000000003,367.0,17575.471998940004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,2,Samhällsekonomi och finansförvaltning,17,17971.183000000005,13.75,17340.428509679998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,3,"Skatt, tull och exekution",3,12829.734,102.0,12840.66170199,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,4,Rättsväsendet,17,62918.98599999998,130.0,61496.25727719001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,5,Internationell samverkan,11,2235.117,1205.732,3381.135065650001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,6,Försvar och samhällets krisberedskap,22,76570.79900000003,4480.8,83540.95760303,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,7,Internationellt bistånd,6,51939.762,-4851.990000000001,46195.56585897,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,8,Migration,9,8541.364000000001,10300.0,11729.526397369998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,9,"Hälsovård, sjukvård och social omsorg",31,113308.61299999994,8106.0,118164.57455944002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,97428.457,19107.0,114340.17044276002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,11,Ekonomisk trygghet vid ålderdom,6,42161.128,4190.0,46340.54851712,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,12,Ekonomisk trygghet för familjer och barn,8,99846.77,2422.641,101067.25465056,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,13,Integration och jämställdhet,10,6151.743999999999,30.0,5447.33595092,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,14,Arbetsmarknad och arbetsliv,21,93220.72600000001,51.0,78375.98151392002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,15,Studiestöd,9,27801.485000000004,100.0,25478.90121882,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,16,Utbildning och universitetsforskning,104,95384.44500000004,89.0,92965.30798011002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,17,"Kultur, medier, trossamfund och fritid",50,18499.592999999997,1708.51,19733.130748080002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",15,5769.334,4295.0,7713.334235129999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,19,Regional utveckling,4,4741.8009999999995,0.0,3356.7546013700003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,20,"Klimat, miljö och natur",24,19851.58,3897.0,20739.910405180002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,21,Energi,14,4354.924,9013.0,12633.76925294,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,22,Kommunikationer,28,76964.55200000001,1479.0,72877.54676545004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,23,"Areella näringar, landsbygd och livsmedel",29,21644.754000000008,2794.1240000000003,21934.736107840003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,24,Näringsliv,40,9254.901000000002,7085.0,10273.83696615,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,25,Allmänna bidrag till kommuner,6,156498.19400000002,599.732,157022.328901,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,26,Statsskuldsräntor m.m.,3,12155.2,10500.0,27155.04878711,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2022,27,Avgiften till Europeiska unionen,1,47836.848,0.0,48239.73140637,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,1,Rikets styrelse,20,18270.004000000004,-18.6,18303.820682480004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,2,Samhällsekonomi och finansförvaltning,17,19021.399,22.1,18918.794423040003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,3,"Skatt, tull och exekution",3,12923.291,-25.0,13438.48097181,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,4,Rättsväsendet,17,68305.85399999999,750.0,69772.37664630002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,5,Internationell samverkan,11,2094.6690000000003,289.0,2178.72925116,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,6,Försvar och samhällets krisberedskap,23,93952.93000000001,3684.1,95987.22518722003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,7,Internationellt bistånd,6,47206.227,-10.6,46510.82030178,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,8,Migration,9,16019.745,0.0,11998.528645849998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,9,"Hälsovård, sjukvård och social omsorg",33,110429.732,602.7,108833.14443758002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,106427.30400000002,1150.0,110617.66096503,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,11,Ekonomisk trygghet vid ålderdom,6,55394.136,204.0,56427.1449843,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,12,Ekonomisk trygghet för familjer och barn,8,105159.584,720.0,101665.09745202001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,13,Integration och jämställdhet,10,5565.205999999998,-100.0,4490.191312010001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,14,Arbetsmarknad och arbetsliv,21,90103.68599999999,-18.764,79842.27743271003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,15,Studiestöd,10,27912.395,259.0,25335.374770049995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,16,Utbildning och universitetsforskning,104,94991.97100000002,709.8,92966.71157916998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,17,"Kultur, medier, trossamfund och fritid",50,16667.947999999997,52.4,16691.12991231,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",13,6099.157999999999,5.5,5949.85061723,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,19,Regional utveckling,4,4534.201,56.0,3705.97353516,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,20,"Klimat, miljö och natur",24,19542.691000000003,23.099999999999994,17879.7785524,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,21,Energi,14,4944.849,265.0,4426.2292671899995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,22,Kommunikationer,27,78952.41700000002,35.5,80406.80452650998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,23,"Areella näringar, landsbygd och livsmedel",31,19373.352,959.45,18602.10294093,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,24,Näringsliv,41,11407.773000000001,8.25,7639.91574104,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,25,Allmänna bidrag till kommuner,5,157545.359,359.265,157903.62347299999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,26,Statsskuldsräntor m.m.,3,13155.2,21987.51,31626.30896949,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2023,27,Avgiften till Europeiska unionen,1,45869.852,0.0,43585.42081378,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,1,Rikets styrelse,20,19070.362999999998,705.9999999999999,19024.45261106999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,2,Samhällsekonomi och finansförvaltning,18,20881.058,112.0,20823.817052579994,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,3,"Skatt, tull och exekution",4,16854.356999999996,457.0,16923.57297361,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,4,Rättsväsendet,17,76028.01299999999,2747.0,78298.00418315001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,5,Internationell samverkan,11,2273.9240000000004,156.0,2320.8432911,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,6,Försvar och samhällets krisberedskap,23,126059.68899999998,6742.240000000001,128176.89504317,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,7,Internationellt bistånd,6,48630.129,1385.1,49603.55867824,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,8,Migration,8,13808.274000000001,-55.5,11765.257869070003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,9,"Hälsovård, sjukvård och social omsorg",34,110258.264,8193.599999999999,116049.22727752,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,116907.208,8843.4,120095.85122272,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,11,Ekonomisk trygghet vid ålderdom,6,60310.48299999999,3942.6,63564.69158536,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,12,Ekonomisk trygghet för familjer och barn,8,106070.73199999999,1264.6,102877.35741718,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,13,Integration och jämställdhet,9,4018.388,940.349,4737.79234735,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,14,Arbetsmarknad och arbetsliv,21,92059.39899999999,1480.9499999999998,88531.10892500002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,15,Studiestöd,9,30545.170000000002,58.6,28038.604766250002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,16,Utbildning och universitetsforskning,104,99461.04700000005,660.0,98133.01239804007,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,17,"Kultur, medier, trossamfund och fritid",50,16646.285,23.8,16621.09120014,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",13,6081.906,6.1,4628.86004467,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,19,Regional utveckling,4,3922.201,84.0,2818.8262679299996,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,20,"Klimat, miljö och natur",23,19307.359,315.5,14587.216696169999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,21,Energi,15,5604.32,70.0,4401.830807,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,22,Kommunikationer,26,82874.98000000001,2068.0,81216.29673813,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,23,"Areella näringar, landsbygd och livsmedel",31,23973.181000000004,452.0,21553.931766229998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,24,Näringsliv,38,9552.305,61.723000000000006,9229.175012549995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,25,Allmänna bidrag till kommuner,5,174280.27000000002,100.1,174244.66640699998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,26,Statsskuldsräntor m.m.,4,20455.2,27866.652000000002,45198.242345880004,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2024,27,Avgiften till Europeiska unionen,1,40759.809,0.0,41186.92542815,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,1,Rikets styrelse,20,20130.981,41.5,19627.737897860003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,2,Samhällsekonomi och finansförvaltning,18,21734.078000000005,242.664,21518.212084910003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,3,"Skatt, tull och exekution",4,14812.398000000001,35.0,14433.98844661,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,4,Rättsväsendet,17,86791.679,598.0,86139.89598496,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,5,Internationell samverkan,10,2278.371,551.5,2551.26919348,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,6,Försvar och samhällets krisberedskap,24,169680.34399999998,-862.2849999999984,163509.38368134,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,7,Internationellt bistånd,6,44499.84399999999,238.0,45410.330001769995,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,8,Migration,8,11937.532000000001,0.0,10173.7752285,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,9,"Hälsovård, sjukvård och social omsorg",34,120254.872,215.6,116298.44449471,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,10,Ekonomisk trygghet vid sjukdom och funktionsnedsättning,9,123058.92700000001,303.0,119943.16698030003,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,11,Ekonomisk trygghet vid ålderdom,6,62890.36,0.0,62411.61405724999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,12,Ekonomisk trygghet för familjer och barn,8,104531.449,0.0,100610.18691201002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,13,Integration och jämställdhet,8,6265.767,20.0,5838.86258716,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,14,Arbetsmarknad och arbetsliv,21,93539.39900000002,3516.0,91327.99128866002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,15,Studiestöd,9,33793.466,188.8,30609.70164824,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,16,Utbildning och universitetsforskning,104,103845.14099999996,1037.373,101957.25116871999,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,17,"Kultur, medier, trossamfund och fritid",49,16861.894,54.0,16862.046953200002,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,18,"Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik",13,3240.0939999999996,-94.9,2975.7207821,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,19,Regional utveckling,4,4294.201,0.0,3685.8778219900005,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,20,"Klimat, miljö och natur",24,16438.897,40.0,13446.947149389998,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,21,Energi,11,6631.297,0.0,5124.68917412,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,22,Kommunikationer,26,94447.43199999999,679.5,89109.87035276997,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,23,"Areella näringar, landsbygd och livsmedel",29,21697.804000000004,136.42700000000002,21181.48179191,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,24,Näringsliv,31,8315.298,1167.25,8458.624721490001,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,25,Allmänna bidrag till kommuner,6,173107.254,89.318,173190.23719038,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,26,Statsskuldsräntor m.m.,3,28755.2,0.0,30219.71942977,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/
+2025,27,Avgiften till Europeiska unionen,1,47761.911,0.0,45713.927888,https://www.statskontoret.se/analys-och-statistik/oppna-data/arsutfall/

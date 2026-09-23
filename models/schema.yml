@@ -81,3 +81,43 @@ models:
     columns:
       - name: vote_id
         data_tests: [not_null]
+  - name: stg_committee_points
+    description: "Samtliga beslutspunkter i importerade betänkanden, även utan registrerat namnupprop."
+  - name: gold_decision_points
+    description: "Publiceringsklara beslutspunkter med antal explicita dokumentlänkar och reservationer."
+    columns:
+      - name: point_id
+        data_tests: [unique, not_null]
+  - name: gold_decision_citations
+    description: "Uttryckliga motion-/propositionshänvisningar i punktens förslag; numrerat yrkande när det står i texten. Ingen härledd partiståndpunkt."
+    columns:
+      - name: point_id
+        data_tests:
+          - relationships:
+              arguments: {to: "ref('gold_decision_points')", field: point_id}
+  - name: gold_decision_reservations
+    description: "Registrerade motförslag/reservationer per beslutspunkt och parti; är inte liktydiga med personlig röst."
+    columns:
+      - name: point_id
+        data_tests:
+          - relationships:
+              arguments: {to: "ref('gold_decision_points')", field: point_id}
+  - name: gold_policy_documents
+    description: "Propositioner, skriftliga frågor och interpellationer per riksmöte med källänk."
+    columns:
+      - name: document_id
+        data_tests: [unique, not_null]
+  - name: gold_budget_outturn_areas
+    description: "Statskontorets beslutade budget, ändringsbudget och utfall per år och utgiftsområde i miljoner kronor."
+    columns:
+      - name: budget_year
+        data_tests: [not_null]
+  - name: gold_budget_execution
+    description: "FiU1-förslag jämfört med beslutad budget och faktiskt utfall. Differensen är beskrivande, inte ett effektmått."
+  - name: gold_debate_decision_traces
+    description: "Tematiskt liknande tal med direkt källbelagd beslutspunkt, citationsantal, reservationer och registrerad röst. Ingen automatisk konsistensbedömning."
+    columns:
+      - name: point_id
+        data_tests: [not_null]
+  - name: gold_party_activity_summary
+    description: "Antal debattal, skriftliga frågor och interpellationer per parti/riksmöte; jämför aktivitet, inte sakpolitisk samsyn."

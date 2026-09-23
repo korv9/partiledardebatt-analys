@@ -5,6 +5,8 @@ Detta är ett körbart dbt-projekt med DuckDB. Python producerar språkmodellens
 ```text
 Riksdagens JSON → ingest.py → data/debates.sqlite
 Riksdagens voteringar + betänkanden → vote_ingest.py → data/votes.sqlite
+Riksdagens dokumentlistor + betänkandestatus → policy_ingest.py → data/policy.sqlite
+Statskontorets årsutfall → outturn_ingest.py → data/outturn.sqlite
   → scripts/features.py → analytics.duckdb / raw
   → dbt staging → intermediate → marts
   → scripts/link_votes.py → tematiska länkar till tidigare tal
@@ -21,6 +23,8 @@ python -m venv .venv
 # Hämta språkmodell en gång om den inte redan finns lokalt:
 .\.venv\Scripts\python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')"
 .\.venv\Scripts\python vote_ingest.py --session 2024/25 --session 2025/26
+.\.venv\Scripts\python policy_ingest.py --session 2024/25 --session 2025/26
+.\.venv\Scripts\python outturn_ingest.py
 .\.venv\Scripts\python run_analysis.py
 ```
 
@@ -44,6 +48,8 @@ Budgetdata hämtas separat med `python budget_ingest.py`. `stg_budget_frames` no
 
 Voteringsdata hämtas separat med `python vote_ingest.py --session ...`. `stg_votes` innehåller ledamotens registrerade röst och `stg_decisions` den voterade beslutspunkten. `gold_party_vote_decisions` grupperar röster per parti utan att dölja antal ja, nej, avstår eller frånvarande. `gold_decision_speech_links` hittar tidigare tal från samma parti och visar talarens egen röst när person-ID matchar. Textlikheten är endast en tematisk sökhjälp. En röst på ett utskottsförslag får inte automatiskt tolkas som stöd för en motion eller en proposition; se punktens exakta förslag och källtext.
 
+`policy_ingest.py` kompletterar de cachelagrade betänkandena med alla punkter, explicita dokument- och yrkandehänvisningar samt registrerade reservationer. Det hämtar även metadata för propositioner, skriftliga frågor och interpellationer under samma riksmöten. `gold_debate_decision_traces` förenar detta med tidigare tematiskt matchade tal och registrerade röster, utan att påstå att ett tal stöder eller motsäger ett yrkande. `outturn_ingest.py` hämtar Statskontorets anslagsdata och `gold_budget_execution` jämför förslag, beslutad budget, ändringsbudget och utfall. De nya importerade besluten är begränsade till betänkanden som hämtats för voteringslagret; icke voterade punkter i andra betänkanden saknas.
+
 | Lager | Modell | Innehåll |
 |---|---|---|
 | raw | speeches, chunks, topics, words, mentions, similarities | Källmetadata och beräknade NLP-egenskaper |
@@ -51,6 +57,9 @@ Voteringsdata hämtas separat med `python vote_ingest.py --session ...`. `stg_vo
 | intermediate | int_segments | Textsegment med ämne, koordinater, talare och källänk |
 | staging | stg_votes, stg_decisions | Ledamotsröster och utskottens beslutspunkter |
 | gold | gold_party_vote_decisions, gold_decision_speech_links | Partiernas röstfördelning och tematiskt liknande tidigare tal |
+| staging | stg_committee_points, stg_decision_citations, stg_decision_reservations, stg_policy_documents | Beslutspunkter, direkta hänvisningar, reservationer och aktivitet |
+| gold | gold_decision_points, gold_decision_citations, gold_decision_reservations, gold_policy_documents, gold_debate_decision_traces | Källspårbar ärendekedja |
+| staging/gold | stg_budget_outturn_appropriations, gold_budget_outturn_areas, gold_budget_execution | Utfall och jämförelse mellan förslag och faktisk utgift |
 | marts | mart_topics | Ämnesstorlek, antal tal och andel ord |
 | marts | mart_topic_trends | Ämnesandel per parti och riksmöte |
 | marts | mart_speaker_topics | Ämnesandel per person/parti |
@@ -98,6 +107,8 @@ Rapporten är fristående och innehåller diagramkoden lokalt. Originaltexter ö
 - `speakers/summary.json` och `similarity/top.json` innehåller talare respektive semantiskt liknande tal.
 - `budgets/summary.json` och `budgets/speech-alignment.json` ger budgetramar och en lexikal jämförelse med debatten. `sessions/<riksmöte>/budgets.json` kan laddas tillsammans med samma riksmötes UMAP-punkter.
 - `votes/summary.json` och `sessions/<riksmöte>/votes.json` ger källänkade partiröster per beslutspunkt. `decision-motions.json` skiljer uttryckligt citerade motioner från övriga behandlade motioner. `decision-speech-links.json` är enbart tematiska träffar till tidigare tal, med likhetspoäng och originalkällor.
+- `sessions/<riksmöte>/decisions/index.json` pekar på små filer per utskott: `points.json`, `citations.json` och `reservations.json`. `debate-traces.json` knyter tematiskt matchade tal till beslutspunkter, partiröster och reservationer. `sessions/<riksmöte>/activities/` innehåller frågor, interpellationer och propositioner; `activities/summary.json` ger antal per parti.
+- `budgets/outturn-areas.json` och `budgets/execution.json` ger faktiska utgifter och jämförelse med budgetförslag. Utfall finns till och med 2025 i den importerade snapshoten, så 2026-förslag saknar ännu årsutfall.
 
 JSON är avsett för webbgränssnittet. Motsvarande CSV finns för de tabeller där nedladdning och manuell kontroll är användbart. Fulltext, embeddings, råarkiv och databasfiler publiceras inte i guldlagret.
 

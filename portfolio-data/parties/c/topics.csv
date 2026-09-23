@@ -124,8 +124,8 @@
 2001/02,2001,C,14,vården / vård / sjukvården,2,101,1.0352
 2001/02,2001,C,23,nato / försvaret / militära,1,89,0.9122
 2001/02,2001,C,9,kärnkraft / kärnkraften / el,1,82,0.8404
-2001/02,2001,C,18,eu / europa / europeiska,1,80,0.8199
 2001/02,2001,C,8,skatteväxling / gröna / grön skatteväxling,1,80,0.8199
+2001/02,2001,C,18,eu / europa / europeiska,1,80,0.8199
 2001/02,2001,C,1,polisen / poliser / brott,1,68,0.6969
 2001/02,2001,C,16,partier / politiska / valet,1,43,0.4407
 2002/03,2002,C,-1,Ej grupperade,91,7344,71.1559
@@ -169,14 +169,14 @@
 2004/05,2004,C,21,jobb / arbetslösheten / arbetsmarknaden,3,278,1.9048
 2004/05,2004,C,12,skolan / lärare / eleverna,3,268,1.8362
 2004/05,2004,C,24,partier / ansvar / folket,4,240,1.6444
-2004/05,2004,C,0,kvinnor / män / kvinnors,2,183,1.2539
 2004/05,2004,C,14,vården / vård / sjukvården,2,183,1.2539
+2004/05,2004,C,0,kvinnor / män / kvinnors,2,183,1.2539
 2004/05,2004,C,1,polisen / poliser / brott,2,181,1.2402
 2004/05,2004,C,20,skatter / skatten / skatt,2,106,0.7263
 2004/05,2004,C,11,euron / valuta / europa,1,93,0.6372
 2004/05,2004,C,23,nato / försvaret / militära,1,82,0.5618
-2004/05,2004,C,15,äldre / äldreomsorgen / pensionärer,1,81,0.555
 2004/05,2004,C,6,perssons / åt / talar,1,81,0.555
+2004/05,2004,C,15,äldre / äldreomsorgen / pensionärer,1,81,0.555
 2004/05,2004,C,8,skatteväxling / gröna / grön skatteväxling,1,21,0.1439
 2005/06,2005,C,-1,Ej grupperade,87,6960,58.7342
 2005/06,2005,C,25,jobb / arbetslösheten / arbetsmarknaden,14,1197,10.1013
@@ -265,8 +265,8 @@
 2010/11,2010,C,17,skatt / skatten / skatter,1,93,0.8461
 2010/11,2010,C,12,skolan / lärare / eleverna,1,92,0.837
 2010/11,2010,C,7,eu / utsläppen / utsläpp,1,85,0.7733
-2010/11,2010,C,16,partier / politiska / valet,1,83,0.7551
 2010/11,2010,C,9,kärnkraft / kärnkraften / el,1,83,0.7551
+2010/11,2010,C,16,partier / politiska / valet,1,83,0.7551
 2010/11,2010,C,15,äldre / äldreomsorgen / pensionärer,1,75,0.6823
 2011/12,2011,C,-1,Ej grupperade,101,7600,71.3079
 2011/12,2011,C,21,jobb / arbetslösheten / arbetsmarknaden,8,712,6.6804

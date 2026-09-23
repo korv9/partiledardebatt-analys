@@ -100,8 +100,8 @@
 2000/01,2000,KD,4,järnväg / järnvägen / stockholm,6,404,2.6789
 2000/01,2000,KD,15,äldre / äldreomsorgen / pensionärer,5,355,2.354
 2000/01,2000,KD,0,kvinnor / män / kvinnors,4,311,2.0622
-2000/01,2000,KD,9,kärnkraft / kärnkraften / el,3,244,1.6179
 2000/01,2000,KD,14,vården / vård / sjukvården,3,244,1.6179
+2000/01,2000,KD,9,kärnkraft / kärnkraften / el,3,244,1.6179
 2000/01,2000,KD,20,skatter / skatten / skatt,3,228,1.5118
 2000/01,2000,KD,17,skatt / skatten / skatter,2,159,1.0543
 2000/01,2000,KD,12,skolan / lärare / eleverna,2,157,1.041
@@ -185,8 +185,8 @@
 2006/07,2006,KD,-1,Ej grupperade,63,5074,54.6826
 2006/07,2006,KD,10,barn / föräldrar / barnen,13,1038,11.1866
 2006/07,2006,KD,14,vården / vård / sjukvården,8,602,6.4878
-2006/07,2006,KD,15,äldre / äldreomsorgen / pensionärer,7,454,4.8928
 2006/07,2006,KD,0,kvinnor / män / kvinnors,5,454,4.8928
+2006/07,2006,KD,15,äldre / äldreomsorgen / pensionärer,7,454,4.8928
 2006/07,2006,KD,6,perssons / åt / talar,4,334,3.5995
 2006/07,2006,KD,25,jobb / arbetslösheten / arbetsmarknaden,4,305,3.287
 2006/07,2006,KD,21,jobb / arbetslösheten / arbetsmarknaden,3,272,2.9314
@@ -430,8 +430,8 @@
 2025/26,2025,KD,1,polisen / poliser / brott,2,138,1.4072
 2025/26,2025,KD,3,flyktingar / migrationspolitik / invandring,2,133,1.3562
 2025/26,2025,KD,25,jobb / arbetslösheten / arbetsmarknaden,1,94,0.9585
-2025/26,2025,KD,8,skatteväxling / gröna / grön skatteväxling,1,86,0.8769
 2025/26,2025,KD,2,bostäder / marknadshyror / hyresrätter,1,86,0.8769
+2025/26,2025,KD,8,skatteväxling / gröna / grön skatteväxling,1,86,0.8769
 2025/26,2025,KD,7,eu / utsläppen / utsläpp,1,83,0.8463
 2025/26,2025,KD,10,barn / föräldrar / barnen,1,78,0.7954
 2025/26,2025,KD,19,fn / afghanistan / usa,1,76,0.775

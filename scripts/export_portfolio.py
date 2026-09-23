@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 import shutil
 from datetime import datetime, timezone
 from pathlib import Path
@@ -35,6 +36,8 @@ Budgeten kan visas intill UMAP-kartan med samma filter för parti och riksmöte.
 `votes/summary.json` och `sessions/<riksmöte>/votes.json` visar registrerade röster per parti och beslutspunkt. `decision-motions.json` innehåller bara motioner som uttryckligen nämns i just den beslutspunkten. En röst gäller beslutspunkten, inte varje motion var för sig.
 
 `decision-speech-links.json` kopplar beslut till tidigare tal från samma parti via textlikhet. Länken säger inget om talarens ståndpunkt i sakfrågan.
+
+`decisions/`, `activities/` och `budgets/outturn-areas.json` innehåller nya spårbara lager. Öppna `sessions/<riksmöte>/decisions/index.json` först och ladda sedan filer per utskott. En `citation` är en uttrycklig dokument- eller numrerad yrkandehänvisning i utskottets förslag; en reservation är registrerad för en beslutspunkt. Inget av detta är en automatisk bedömning av ett partis stöd. Budgetutfall är verkliga utgifter, inte ett effektmått.
 """
 
 
@@ -126,6 +129,9 @@ def main() -> None:
             "umap_note": "Deterministic sample of at most 400 segments per session",
             "budget_frame_rows": db.execute("select count(*) from gold_budget_frames").fetchone()[0],
             "vote_sessions": db.execute("select count(distinct session) from gold_party_vote_decisions").fetchone()[0],
+            "committee_points": db.execute("select count(*) from gold_decision_points").fetchone()[0],
+            "policy_documents": db.execute("select count(*) from gold_policy_documents").fetchone()[0],
+            "outturn_last_year": db.execute("select max(budget_year) from gold_budget_outturn_areas").fetchone()[0],
         }
         overview_path = OUTPUT / "overview.json"
         write_json(overview_path, overview, generated_at)
@@ -155,6 +161,21 @@ def main() -> None:
             db, manifest, "budgets/speech-alignment",
             "select * from gold_budget_speech_alignment order by session, party, expenditure_area",
             generated_at, "Jämförelse mellan budgetandel och debattens språkliga uppmärksamhet",
+        )
+        export_pair(
+            db, manifest, "budgets/outturn-areas",
+            "select * from gold_budget_outturn_areas order by budget_year, expenditure_area",
+            generated_at, "Beslutad budget, ändringsbudget och faktiskt utfall per år och utgiftsområde",
+        )
+        export_pair(
+            db, manifest, "budgets/execution",
+            "select * from gold_budget_execution order by budget_year, actor, expenditure_area",
+            generated_at, "Budgetförslag jämförda med beslutad budget och utfall",
+        )
+        export_pair(
+            db, manifest, "activities/summary",
+            "select * from gold_party_activity_summary order by session,party",
+            generated_at, "Partiers debattal, skriftliga frågor och interpellationer",
         )
         export_pair(
             db, manifest, "votes/summary",
@@ -236,6 +257,51 @@ def main() -> None:
                 write_json(speech_link_path, speech_link_rows, generated_at)
                 add_file(manifest, speech_link_path, len(speech_link_rows),
                          f"Tematiska länkar mellan beslut och tidigare tal {session}")
+            decision_rows = records(
+                db, "select * from gold_decision_points where session=? "
+                    "order by decision_date,designation,point", [session],
+            )
+            if decision_rows:
+                committee_index = []
+                committee_codes = sorted({re.match(r"[A-Za-z]+", row["designation"]).group()
+                                          for row in decision_rows})
+                for committee_code in committee_codes:
+                    committee_part = safe_part(committee_code)
+                    committee = {"committee": committee_code}
+                    for name, query, description in (
+                        ("points", "select * from gold_decision_points where session=? "
+                         "and regexp_extract(designation, '^[A-Za-z]+')=? "
+                         "order by decision_date,point", "Utskottspunkter"),
+                        ("citations", "select * from gold_decision_citations where session=? "
+                         "and regexp_extract(designation, '^[A-Za-z]+')=? "
+                         "order by point_id,document_id,claim_number", "Dokument- och yrkandehänvisningar"),
+                        ("reservations", "select * from gold_decision_reservations where session=? "
+                         "and regexp_extract(designation, '^[A-Za-z]+')=? "
+                         "order by point_id,reservation_number,party", "Reservationer"),
+                    ):
+                        path = OUTPUT / f"sessions/{part}/decisions/{committee_part}/{name}.json"
+                        rows = records(db, query, [session, committee_code])
+                        write_json(path, rows, generated_at)
+                        add_file(manifest, path, len(rows), f"{description} {committee_code} {session}")
+                        committee[name] = {"path": path.relative_to(OUTPUT).as_posix(), "rows": len(rows)}
+                    committee_index.append(committee)
+                index_path = OUTPUT / f"sessions/{part}/decisions/index.json"
+                write_json(index_path, committee_index, generated_at)
+                add_file(manifest, index_path, len(committee_index), f"Utskottens små beslutsfiler {session}")
+                trace_rows = records(db, "select * from gold_debate_decision_traces where session=? "
+                                        "order by decision_date,point_id,party", [session])
+                trace_path = OUTPUT / f"sessions/{part}/decisions/debate-traces.json"
+                write_json(trace_path, trace_rows, generated_at)
+                add_file(manifest, trace_path, len(trace_rows),
+                         f"Tal → beslut med tematiskt länkbevis {session}")
+                for doc_type, name in (("fr", "questions"), ("ip", "interpellations"),
+                                       ("prop", "propositions")):
+                    rows = records(db, "select * from gold_policy_documents where session=? "
+                                        "and document_type=? order by document_date,document_id",
+                                   [session, doc_type])
+                    path = OUTPUT / f"sessions/{part}/activities/{name}.json"
+                    write_json(path, rows, generated_at)
+                    add_file(manifest, path, len(rows), f"{name} för riksmöte {session}")
 
         parties = [row[0] for row in db.execute(
             "select distinct party from gold_speakers order by party"

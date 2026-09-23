@@ -7,14 +7,14 @@
 2004/05,2004,C,21,jobb / arbetslösheten / arbetsmarknaden,3,278,1.9048
 2004/05,2004,C,12,skolan / lärare / eleverna,3,268,1.8362
 2004/05,2004,C,24,partier / ansvar / folket,4,240,1.6444
-2004/05,2004,C,0,kvinnor / män / kvinnors,2,183,1.2539
 2004/05,2004,C,14,vården / vård / sjukvården,2,183,1.2539
+2004/05,2004,C,0,kvinnor / män / kvinnors,2,183,1.2539
 2004/05,2004,C,1,polisen / poliser / brott,2,181,1.2402
 2004/05,2004,C,20,skatter / skatten / skatt,2,106,0.7263
 2004/05,2004,C,11,euron / valuta / europa,1,93,0.6372
 2004/05,2004,C,23,nato / försvaret / militära,1,82,0.5618
-2004/05,2004,C,15,äldre / äldreomsorgen / pensionärer,1,81,0.555
 2004/05,2004,C,6,perssons / åt / talar,1,81,0.555
+2004/05,2004,C,15,äldre / äldreomsorgen / pensionärer,1,81,0.555
 2004/05,2004,C,8,skatteväxling / gröna / grön skatteväxling,1,21,0.1439
 2004/05,2004,KD,-1,Ej grupperade,79,6111,53.7278
 2004/05,2004,KD,18,eu / europa / europeiska,19,1541,13.5484
@@ -67,8 +67,8 @@
 2004/05,2004,MP,8,skatteväxling / gröna / grön skatteväxling,5,333,2.8218
 2004/05,2004,MP,21,jobb / arbetslösheten / arbetsmarknaden,4,290,2.4574
 2004/05,2004,MP,6,perssons / åt / talar,2,180,1.5253
-2004/05,2004,MP,11,euron / valuta / europa,2,169,1.4321
 2004/05,2004,MP,20,skatter / skatten / skatt,2,169,1.4321
+2004/05,2004,MP,11,euron / valuta / europa,2,169,1.4321
 2004/05,2004,MP,4,järnväg / järnvägen / stockholm,2,121,1.0253
 2004/05,2004,MP,10,barn / föräldrar / barnen,1,95,0.805
 2004/05,2004,MP,25,jobb / arbetslösheten / arbetsmarknaden,1,91,0.7711
@@ -89,8 +89,8 @@
 2004/05,2004,S,13,skolan / skola / elever,1,94,0.5159
 2004/05,2004,S,23,nato / försvaret / militära,1,92,0.5049
 2004/05,2004,S,10,barn / föräldrar / barnen,1,90,0.494
-2004/05,2004,S,7,eu / utsläppen / utsläpp,1,87,0.4775
 2004/05,2004,S,14,vården / vård / sjukvården,2,87,0.4775
+2004/05,2004,S,7,eu / utsläppen / utsläpp,1,87,0.4775
 2004/05,2004,S,4,järnväg / järnvägen / stockholm,1,70,0.3842
 2004/05,2004,S,17,skatt / skatten / skatter,1,60,0.3293
 2004/05,2004,V,-1,Ej grupperade,97,6969,56.2197
